@@ -15,7 +15,6 @@
 17:00;WTA Torneo de Cluj-Napoca 2ª Ronda;A. Bogdan;N. Bartunkova;WTA TV;DAZN (Regístrate);
 18:00;Torneo Exhibición Luxemburgo 1/4 de Final;K. Clijsters;M. Minella;Eurosport Player;
 18:00;Torneo de Estocolmo 2ª Ronda;S. Wawrinka;T. Machac;ATP Tennis TV;
-18:30;WTA Torneo de Cluj-Napoca 2ª Ronda;E. Lys;J. Cristian;WTA TV;DAZN (Regístrate);
 19:00;Eurocup Women Liga Regular;Gorzów Basketball;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
 19:00;Torneo de Amberes 2ª Ronda;S. Tsitsipas;B. Van de Zandschulp;ATP Tennis TV;
 19:00;WTA Torneo de Monastir 2ª Ronda;L. Tsurenko;C. Liu;WTA TV;DAZN (Regístrate);
@@ -27,3 +26,4 @@
 20:30;Euroliga Liga Regular;Baskonia;Zalgiris Kaunas;M+ Deportes (63);
 20:30;Torneo de Amberes 2ª Ronda;D. Thiem;Y. Hanfmann;ATP Tennis TV;
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;AX Olimpia Milano;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+20:45;WTA Torneo de Cluj-Napoca 2ª Ronda;E. Lys;J. Cristian;WTA TV;DAZN (Regístrate);
