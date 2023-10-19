@@ -1,0 +1,8 @@
+DAZN F1 UHD (Fórmula 1) 
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041 
+DAZN F1 1080 (Fórmula 1) 
+acestream://5789ca155323664edd293b848606688edf803f4d 
+DAZN F1 1080 (Fórmula 1) 
+acestream://9dad717d99b29a05672166258a77c25b57713dd5 
+DAZN F1 720 (Fórmula 1) 
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2 
