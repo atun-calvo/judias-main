@@ -1,4 +1,3 @@
-08:00;WTA Torneo de Nanchang 2ª Ronda;U. Eikeri;L. Siegemund;WTA TV;DAZN (Regístrate);
 11:00;WTA Torneo de Cluj-Napoca 2ª Ronda;J. Teichmann;E. Arango;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Monastir 2ª Ronda;C. Burel;E. Andreeva;WTA TV;DAZN (Regístrate);
 12:30;WTA Torneo de Cluj-Napoca 2ª Ronda;T. Korpatsch;J. Burrage;WTA TV;DAZN (Regístrate);

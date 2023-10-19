@@ -1,6 +1,5 @@
 04:00;Torneo de Tokio 2ª Ronda;C. Garín;A. Popyrin;ATP Tennis TV;M+ Deportes (63);
 05:30;Torneo de Tokio 2ª Ronda;A. De Miñaur;D. Schwartzman;ATP Tennis TV;M+ Deportes (63);
-08:00;WTA Torneo de Nanchang 2ª Ronda;U. Eikeri;L. Siegemund;WTA TV;DAZN (Regístrate);
 11:00;Torneo de Tokio 2ª Ronda;T. Fritz;S. Mochizuki;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 11:00;WTA Torneo de Cluj-Napoca 2ª Ronda;J. Teichmann;E. Arango;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Monastir 2ª Ronda;C. Burel;E. Andreeva;WTA TV;DAZN (Regístrate);
