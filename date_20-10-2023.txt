@@ -24,7 +24,7 @@
 19:00;Euroliga Liga Regular;AS Monaco Basket;ALBA Berlin;M+ Deportes 5 (192);
 19:00;Torneo de Amberes 1/4 de Final;S. Tsitsipas;Y. Hanfmann;ATP Tennis TV;M+ Deportes 7 (194);
 19:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Valencia Basket;M+ Deportes 3 (65);
-19:30;Primera Federación Futsal;Movistar Inter;Manzanares FS;FEF TV;
+19:30;Primera Federación Futsal;Movistar Inter;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
 20:00;Torneo Exhibición Luxemburgo 1/4 de Final;P. Parmentier;L. Safarova;Eurosport Player;
 20:00;Torneo de Estocolmo 1/4 de Final;L. Djere;T. Machac;ATP Tennis TV;
 20:15;Euroliga Liga Regular;Panathinaikos BC;Maccabi Tel Aviv BC;M+ Deportes 4 (191);
