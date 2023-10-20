@@ -5,11 +5,10 @@
 08:00;WTA Torneo de Nanchang 1/4 de Final;N. Hibino;D. Shnaider;WTA TV;DAZN (Regístrate);
 09:30;WTA Torneo de Nanchang 1/4 de Final;M. Bouzkova;MC. Osorio;WTA TV;DAZN (Regístrate);
 11:00;Torneo de Tokio 1/4 de Final;A. De Miñaur;A. Karatsev;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
-11:00;WTA Torneo de Nanchang;1/4 de Final;WTA TV;DAZN (Regístrate);
-12:00;Torneo de Estocolmo 1/4 de Final;T. Griekspoor;P. Kotov;ATP Tennis TV;M+ Deportes 3 (65);
+12:00;Torneo de Estocolmo 1/4 de Final;T. Griekspoor;P. Kotov;ATP Tennis TV;
 12:30;Torneo de Tokio 1/4 de Final;S. Mochizuki;A. Popyrin;ATP Tennis TV;M+ Deportes (63);
 13:00;WTA Torneo de Cluj-Napoca 1/4 de Final;D. Snigur;T. Korpatsch;WTA TV;DAZN (Regístrate);
-13:00;WTA Torneo de Nanchang;1/4 de Final;WTA TV;DAZN (Regístrate);
+13:00;WTA Torneo de Nanchang 1/4 de Final;K. Siniakova;L. Siegemund;WTA TV;DAZN (Regístrate);
 14:00;Torneo de Amberes 1/4 de Final;G. Mpetshi Perricard;A. Bublik;ATP Tennis TV;
 14:00;WTA Torneo de Monastir 1/4 de Final;J. Paolini;L. Bronzetti;WTA TV;DAZN (Regístrate);
 14:30;WTA Torneo de Cluj-Napoca 1/4 de Final;E. Arango;EG. Ruse;WTA TV;DAZN (Regístrate);
@@ -19,7 +18,7 @@
 17:00;WTA Torneo de Cluj-Napoca 1/4 de Final;E. Lys;E. Makarova;WTA TV;DAZN (Regístrate);
 17:00;WTA Torneo de Monastir 1/4 de Final;M. Hontama;E. Mertens;WTA TV;DAZN (Regístrate);
 18:00;Torneo Exhibición Luxemburgo 1/4 de Final;M. Puig;A. Kontaveit;Eurosport Player;
-18:30;Torneo de Estocolmo 1/4 de Final;G. Monfils;A. Mannarino;ATP Tennis TV;
+18:30;Torneo de Estocolmo 1/4 de Final;G. Monfils;A. Mannarino;ATP Tennis TV;M+ Deportes 8 (M195);
 18:30;WTA Torneo de Cluj-Napoca 1/4 de Final;A. Bogdan;R. Masarova;WTA TV;DAZN (Regístrate);
 18:30;WTA Torneo de Monastir 1/4 de Final;C. Burel;L. Stefanini;WTA TV;DAZN (Regístrate);
 19:00;Euroliga Liga Regular;AS Monaco Basket;ALBA Berlin;M+ Deportes 5 (192);
