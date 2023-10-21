@@ -5,10 +5,10 @@
 16:00;Premier League;Nottingham Forest;Luton Town;DAZN (Regístrate);
 16:00;Primera Federación Futsal;Córdoba FS;Ribera Navarra FS;FEF TV;
 16:00;WTA Torneo de Cluj-Napoca Semifinal 2 WTA 250;R. Masarova;EG. Ruse;WTA TV;DAZN (Regístrate);
-16:45;Torneo Exhibición Luxemburgo;Semifinal 1;Eurosport Player;
+16:45;Torneo Exhibición Luxemburgo Semifinal 1;M. Minella;A. Petkovic;Eurosport Player;
 17:30;Segunda Federación Futsal;UD Ibiza FS;Unión África Ceutí;RFEF.es;
 18:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Barça B FS;Aragón Deporte;
 18:00;UFC UFC 294;I. Makhachev;C. Oliveira;Eurosport Player;
-19:00;Torneo Exhibición Luxemburgo;Semifinal 2;Eurosport Player;
+19:00;Torneo Exhibición Luxemburgo Semifinal 2;L. Safarova;A. Kontaveit;Eurosport Player;
 19:30;Primera Federación Futsal;Osasuna Magna;Palma Futsal;FEF TV;
 21:00;Primera Federación Futsal;Barça FS;Jaén FS;FEF TV;Esport3 (Cataluña);
