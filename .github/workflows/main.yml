@@ -34,7 +34,7 @@ jobs:
 
       - name: Ejecutar script eventos.sh
         run: |
-          chmod +x eventos.sh
+          chmod +x *.sh
           ./eventos.sh
           
       - name: commit files
