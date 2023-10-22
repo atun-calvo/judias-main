@@ -4,7 +4,7 @@
 03:00;Velada Peso Superpluma;I. Retamozo;J. Vega;DAZN (Regístrate);DAZN 3 (M196);
 03:15;Moto2;G.P. Australia (Phillip Island);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 05:00;MotoGP;G.P. Australia (Phillip Island);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-09:30;Torneo de Tokio Final ATP 500;A. Karatsev;B. Shelton;ATP Tennis TV;M+ Deportes (63);
+09:30;Torneo de Tokio Final ATP 500;A. Karatsev;B. Shelton;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);
 10:30;WTA Torneo de Nanchang Final WTA 250;M. Bouzkova;K. Siniakova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 12:00;Primera Federación Futsal;Jimbee Cartagena FS;Industrias Santa Coloma;FEF TV;
 12:00;Primera Federación Futsal;Servigroup Peñiscola FS;Real Betis FS;FEF TV;
