@@ -4,10 +4,8 @@ on:
   workflow_dispatch:
   
   schedule:
-    # Corre cada 1h
-    #- cron: '0 * * * *'
-    # Otras programaciones
-    - cron: '0 */1 * * *'
+    # Corre cada 2h
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
