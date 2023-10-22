@@ -1,6 +1,0 @@
-12:00;Primera Federación Futsal;Jimbee Cartagena FS;Industrias Santa Coloma;FEF TV;
-12:00;Primera Federación Futsal;Servigroup Peñiscola FS;Real Betis FS;FEF TV;
-13:30;DTM;Hockenheimring Baden-Württemberg;Carrera 2;DAZN (Regístrate);
-14:30;Torneo Exhibición Luxemburgo Final;A. Petkovic;A. Kontaveit;Eurosport Player;
-17:30;Premier League;Aston Villa;West Ham;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
-BaloncestoESP;Aragón Deporte;Aragón TV;
