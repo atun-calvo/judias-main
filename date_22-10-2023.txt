@@ -1,5 +1,0 @@
-13:00;Torneo de Basilea;1ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes (63);
-13:00;Torneo de Viena;1ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes 2 (64);
-21:00;La Liga EA Sports;Valencia CF;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
-21:00;LaLiga Hypermotion;Alcorcón;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-21:00;Premier League;Tottenham;Fulham;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
