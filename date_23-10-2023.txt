@@ -1,10 +1,10 @@
-14:00;Torneo de Basilea 1ª Ronda ATP 500;JL. Struff;C. Eubanks;ATP Tennis TV;M+ Deportes (63);
-14:00;Torneo de Viena 1ª Ronda ATP 500;J. Wolf;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);
-14:30;Torneo de Viena 1ª Ronda ATP 500;R. Safiullin;K. Khachanov;ATP Tennis TV;M+ Deportes 2 (64);
-15:30;Torneo de Basilea 1ª Ronda ATP 500;A. Murray;Y. Hanfmann;ATP Tennis TV;M+ Deportes (63);
-17:30;Torneo de Viena 1ª Ronda ATP 500;A. Zverev;S. Ofner;ATP Tennis TV;M+ Deportes 2 (64);
-19:00;Torneo de Viena 1ª Ronda ATP 500;C. Norrie;F. Misolic;ATP Tennis TV;M+ Deportes 2 (64);
-20:00;Torneo de Basilea 1ª Ronda ATP 500;TM. Etcheverry;S. Korda;ATP Tennis TV;M+ Deportes (63);
+14:00;Torneo de Basilea 1ª Ronda;JL. Struff;C. Eubanks;ATP Tennis TV;M+ #Vamos Bar (304);M+ Deportes (63);
+14:00;Torneo de Viena 1ª Ronda;J. Wolf;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);
+15:30;Torneo de Basilea 1ª Ronda;A. Murray;Y. Hanfmann;ATP Tennis TV;M+ Deportes (63);
+15:30;Torneo de Viena 1ª Ronda;R. Safiullin;K. Khachanov;ATP Tennis TV;M+ Deportes 2 (64);
+17:30;Torneo de Viena 1ª Ronda;A. Zverev;S. Ofner;ATP Tennis TV;M+ Deportes 2 (64);
+19:00;Torneo de Viena 1ª Ronda;C. Norrie;F. Misolic;ATP Tennis TV;M+ Deportes 2 (64);
+20:00;Torneo de Basilea 1ª Ronda;TM. Etcheverry;S. Korda;ATP Tennis TV;M+ Deportes (63);
 21:00;La Liga EA Sports;Valencia CF;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Alcorcón;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 21:00;Premier League;Tottenham;Fulham;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
