@@ -1,4 +1,4 @@
-14:00;Torneo de Basilea 1ª Ronda;JL. Struff;C. Eubanks;ATP Tennis TV;M+ #Vamos Bar (304);M+ Deportes (63);
+14:00;Torneo de Basilea 1ª Ronda;JL. Struff;C. Eubanks;ATP Tennis TV;M+ #Vamos Bar (304);M+ Vamos (8 y 50);Movistar+ Lite;M+ Deportes (63);
 14:00;Torneo de Viena 1ª Ronda;J. Wolf;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);
 15:30;Torneo de Basilea 1ª Ronda;A. Murray;Y. Hanfmann;ATP Tennis TV;M+ Deportes (63);
 15:30;Torneo de Viena 1ª Ronda;R. Safiullin;K. Khachanov;ATP Tennis TV;M+ Deportes 2 (64);
