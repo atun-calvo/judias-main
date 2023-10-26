@@ -1,7 +1,8 @@
-09:00;WTA Elite Trophy Round Robin;D. Kasatkina;M. Linette;WTA TV;DAZN (Regístrate);
-10:30;WTA Elite Trophy Round Robin;J. Ostapenko;D. Vekic;WTA TV;DAZN (Regístrate);
-13:00;WTA Elite Trophy Round Robin;L. Samsonova;L. Zhu;WTA TV;DAZN (Regístrate);
-17:30;Futsal Champions League Fase de clasificación;Sporting Anderlecht Futsal;Barça FS;Esport3 (Cataluña);
-17:30;Torneo Montaigu Sub-19;Polonia;España;SeFutbol YouTube;RFEF.es;
-19:00;Eurocup Women Liga Regular;Levhartice Chomutov;Movistar Estudiantes;FIBA YouTube;
-20:00;Futsal Champions League Fase de clasificación;Haladás VSE;Palma Futsal;LaLiga+ Plus;
+09:00;WTA Elite Trophy Round Robin;B. Haddad Maia;C. García;WTA TV;DAZN (Regístrate);
+10:30;WTA Elite Trophy Round Robin;L. Samsonova;V. Kudermetova;WTA TV;DAZN (Regístrate);
+11:30;Torneo de Les Franqueses del Vallés 1/4 de Final;J. Glushko;M. Frech;Tennis Channel (Orange 104);
+13:00;Torneo de Les Franqueses del Vallés 1/4 de Final;A. Rus;D. Galfi;Tennis Channel (Orange 104);
+13:00;WTA Elite Trophy Round Robin;J. Ostapenko;Q. Zheng;WTA TV;DAZN (Regístrate);
+20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Virtus Bologna;estilo.css eventos.sh generador_html.sh id_26-10-2023.txt index.html SIN TV EN DIRECTO *;
+20:00;Futsal Champions League Fase de clasificación;Palma Futsal;Differdange 03 Futsal;LaLiga+ Plus;
+21:00;Primera Federación Futsal;Industrias Santa Coloma;Córdoba FS;FEF TV;Esport3 (Cataluña);
