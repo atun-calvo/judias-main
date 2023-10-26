@@ -1,5 +1,7 @@
-18:00;Eurocup Liga Regular;BC Wolves;Besiktas JK Istanbul;EuroLeague TV;
-19:30;Eurocup Liga Regular;Hamburg Towers;Hapoel Tel Aviv BC;EuroLeague TV;
-20:00;Eurocup Liga Regular;Umana Reyer Venice;Joventut Badalona;Esport3 (Cataluña);
-20:30;Basketball Champions League Liga Regular;Unicaja Málaga;Le Mans Sarthe Basket;101 TV (Málaga);
-20:30;Eurocup Liga Regular;London Lions;Paris Basketball;EuroLeague TV;
+09:00;WTA Elite Trophy Round Robin;D. Kasatkina;M. Linette;WTA TV;DAZN (Regístrate);
+10:30;WTA Elite Trophy Round Robin;J. Ostapenko;D. Vekic;WTA TV;DAZN (Regístrate);
+13:00;WTA Elite Trophy Round Robin;L. Samsonova;L. Zhu;WTA TV;DAZN (Regístrate);
+17:30;Futsal Champions League Fase de clasificación;Sporting Anderlecht Futsal;Barça FS;Esport3 (Cataluña);
+17:30;Torneo Montaigu Sub-19;Polonia;España;SeFutbol YouTube;RFEF.es;
+19:00;Eurocup Women Liga Regular;Levhartice Chomutov;Movistar Estudiantes;FIBA YouTube;
+20:00;Futsal Champions League Fase de clasificación;Haladás VSE;Palma Futsal;LaLiga+ Plus;
