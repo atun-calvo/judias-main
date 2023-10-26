@@ -419,7 +419,7 @@ do
 	       canal_sin_enlace=false
 	fi
 
-        if [[ $(grep -i "m+ *[#]vamos *[[:punct:]]" $file1) ]]
+        if [[ $(grep -i "m+ *[#]vamos" $file1) ]]
         then
                cat $canales_vamos >> $canales
 	       canal_sin_enlace=false
