@@ -12,12 +12,12 @@
 15:30;Torneo de Basilea 1/4 de Final;U. Humbert;D. Stricker;ATP Tennis TV;M+ Deportes 2 (64);
 15:30;Torneo de Viena 1/4 de Final;S. Tsitsipas;B. Gojo;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 17:30;Torneo de Viena 1/4 de Final;A. Zverev;A. Rublev;ATP Tennis TV;M+ Deportes 3 (65);
-18:00;Torneo de Basilea 1/4 de Final;B. Van de Zandschulp;F. Auger-Aliassime;ATP Tennis TV;
 18:00;Torneo de Basilea 1/4 de Final;H. Rune;TM. Etcheverry;ATP Tennis TV;
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Valencia Basket;M+ Deportes 4 (191);
 19:00;Torneo de Viena 1/4 de Final;F. Tiafoe;J. Sinner;ATP Tennis TV;M+ Deportes 3 (65);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Virtus Bologna;M+ Deportes 6 (193);
 20:00;Futsal Champions League Fase de clasificación;Palma Futsal;Differdange 03 Futsal;LaLiga+ Plus;
+20:00;Torneo de Basilea 1/4 de Final;A. Shevchenko;F. Auger-Aliassime;ATP Tennis TV;
 20:15;Euroliga Liga Regular;Panathinaikos BC;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;Fenerbahce Istanbul;M+ Deportes 7 (194);
 21:00;La Liga EA Sports;Girona;Celta;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
