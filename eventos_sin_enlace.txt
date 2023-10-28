@@ -1,12 +1,5 @@
-10:25;Supersport;G.P. España (Jerez);Superpole;DAZN (Regístrate);RTVE Play;Eurosport Player;
-11:00;Torneo de Les Franqueses del Vallés Semifinal 1 ITF W100;V. Tomova;M. Frech;Tennis Channel (Orange 104);
-12:30;Torneo de Les Franqueses del Vallés Semifinal 2 ITF W100;D. Galfi;S. Errani;Tennis Channel (Orange 104);
-13:00;Primera Federación Futsal;Real Betis FS;Movistar Inter;FEF TV;
-18:00;Primera Federación Futsal;Alzira FS;Servigroup Peñiscola FS;FEF TV;
-18:00;Primera Federación Futsal;ElPozo Murcia;Noia Portus Apostoli FS;FEF TV;
-18:00;Torneo Montaigu Sub-19;Francia;España;SeFutbol YouTube;RFEF.es;
-19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;CFS Bisontes Castellón;Aragón Deporte;
-19:00;Segunda Federación Futsal;CD Leganés FS;Atlético Mengíbar;RFEF.es;
-19:00;Velada Peso Pesado;T. Fury;F. Ngannou;DAZN (Regístrate);
-19:30;Primera Federación Futsal;Ribera Navarra FS;Osasuna Magna;FEF TV;
-20:30;Futsal Champions League Fase de clasificación;KMF Loznica-Grad;Barça FS;Esport3 (Cataluña);
+10:00;Torneo de Les Franqueses del Vallés Final ITF W100;S. Errani;M. Frech;Tennis Channel (Orange 104);
+13:40;Copa del Mundo Ciclocross;Maasmechelen (Bélgica);Carrera femenina;Eurosport Player;
+17:00;Primera Federación Futsal;Manzanares FS;Jimbee Cartagena FS;FEF TV;
+20:30;Futsal Champions League Fase de clasificación;Palma Futsal;Kairat Almaty;IB3 (Baleares);
+BaloncestoESP;
