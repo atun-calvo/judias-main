@@ -28,7 +28,7 @@ fi
 # Ejecutamos tor en segundo plano para que se inicie
 #pkill tor &> /dev/null
 tor & > /dev/null 2>&1
-sleep 15
+sleep 5
 
 ##Variables##
 rm -f /tmp/tmp.* 2> /dev/null
@@ -75,7 +75,7 @@ fi
 
 
 ## Descarga del fichero de enlaces y formateado de texto ##
-curl -m 20 -s --socks5-hostname localhost:9050 https://elcano.top > $file1
+curl -m 20 -s --socks5-hostname localhost:9050 --max-time 5 --retry 5 https://elcano.top > $file1
 
 awk '/• <a href="acestream/ {print $0}' $file1 | awk '{split($0,a,"\"")
                                                 split(a[5],b,">")
