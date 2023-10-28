@@ -26,9 +26,10 @@ if [[ $(echo $?) == 0 ]]
 fi
 
 # Ejecutamos tor en segundo plano para que se inicie
-pkill tor &> /dev/null
-tor & > /dev/null 2>&1
-sleep 10
+systemctl enable --now tor.service &> /dev/null
+#pkill tor &> /dev/null
+#tor & > /dev/null 2>&1
+#sleep 10
 
 ##Variables##
 rm -f /tmp/tmp.* 2> /dev/null
