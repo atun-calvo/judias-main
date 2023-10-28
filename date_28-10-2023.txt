@@ -2,10 +2,10 @@
 03:00;Título Mundial Femenino Peso Pluma;A. Serrano;D. Ramos;DAZN (Regístrate);DAZN 2 (M71);
 05:50;MotoGP;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 07:50;Moto3;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-08:00;WTA Elite Trophy;Semifinal 1;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
+08:00;WTA Elite Trophy Semifinal 1;D. Kasatkina;B. Haddad Maia;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 08:45;Moto2;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 10:00;MotoGP;G.P. Tailandia (Chang);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-10:00;WTA Elite Trophy;Semifinal 2;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
+10:00;WTA Elite Trophy Semifinal 2;L. Zhu;Q. Zheng;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 10:25;Supersport;G.P. España (Jerez);Superpole;DAZN (Regístrate);RTVE Play;Eurosport Player;
 11:00;Torneo de Les Franqueses del Vallés Semifinal 1 ITF W100;V. Tomova;M. Frech;Tennis Channel (Orange 104);
 11:10;Superbike;G.P. España (Jerez);Superpole;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport Player;
@@ -19,10 +19,10 @@
 14:00;Superbike;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
 14:00;Torneo de Viena Semifinal 1 ATP 500;D. Medvedev;S. Tsitsipas;ATP Tennis TV;M+ Deportes 3 (65);
 15:00;Torneo de Basilea Semifinal 1 ATP 500;H. Hurkacz;U. Humbert;ATP Tennis TV;M+ Deportes (63);
-15:30;Torneo de Viena;Semifinal 2;ATP 500;ATP Tennis TV;M+ Deportes 3 (65);
+15:30;Torneo de Viena Semifinal 2 ATP 500;A. Rublev;J. Sinner;ATP Tennis TV;M+ Deportes 3 (65);
 16:00;Premier League;Arsenal;Sheffield United;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 16:00;Premier League;Bournemouth;Burnley;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
-16:00;Torneo de Basilea;Semifinal 2;ATP 500;ATP Tennis TV;M+ Deportes (63);
+16:00;Torneo de Basilea Semifinal 2 ATP 500;H. Rune;F. Auger-Aliassime;ATP Tennis TV;M+ Deportes (63);
 16:15;La Liga EA Sports;FC Barcelona;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 18:00;Menorca Open;Semifinal Masculina;M+ Deportes 4 (191);
 18:00;Primera Federación Futsal;Alzira FS;Servigroup Peñiscola FS;FEF TV;
