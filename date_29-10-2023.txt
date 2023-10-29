@@ -16,7 +16,7 @@
 14:00;La Liga EA Sports;Real Betis;Osasuna;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Mirandés;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 14:00;Premier League;West Ham;Everton;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-14:00;Torneo de Viena Final ATP 500;D. Medvedev;J. Sinner;ATP Tennis TV;M+ Deportes 2 (64);
+14:00;Torneo de Viena Final ATP 500;D. Medvedev;J. Sinner;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 15:00;Premier League;Aston Villa;Luton Town;DAZN (Regístrate);DAZN 4 (M197);
 15:00;Premier League;Brighton;Fulham;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
 15:00;Premier League;Liverpool;Nottingham Forest;DAZN (Regístrate);DAZN 3 (M196);
