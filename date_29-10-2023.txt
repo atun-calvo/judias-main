@@ -37,5 +37,5 @@
 21:00;Fórmula 1;G.P. México (Ciudad de México);Carrera;DAZN (Regístrate);DAZN F1 4K (Movistar 442);DAZN F1 (M69);
 21:00;La Liga EA Sports;At. Madrid;Alavés;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Racing Santander;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-23:00;WTA Finals Round Robin;E. Rybakina;J. Pegula;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
+23:00;WTA Finals Round Robin;E. Rybakina;J. Pegula;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 BaloncestoESP;
