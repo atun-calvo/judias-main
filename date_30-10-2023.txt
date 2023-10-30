@@ -9,8 +9,8 @@
 16:00;Masters París 1ª Ronda;L. Djere;L. Van Assche;ATP Tennis TV;M+ Deportes 4 (191);
 17:30;Masters París 1ª Ronda;J. Thompson;Y. Nishioka;ATP Tennis TV;M+ Deportes 4 (191);
 19:00;Masters París 1ª Ronda;G. Dimitrov;L. Musetti;ATP Tennis TV;M+ Deportes 4 (191);
-19:30;Masters París 1ª Ronda;T. Paul;R. Gasquet;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 21:00;La Liga EA Sports;Granada CF;Villarreal;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Burgos CF;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-21:00;Masters París 1ª Ronda;S. Wawrinka;D. Thiem;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
+21:15;Masters París 1ª Ronda;T. Paul;R. Gasquet;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
+22:45;Masters París 1ª Ronda;S. Wawrinka;D. Thiem;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
 23:00;WTA Finals Round Robin;I. Swiatek;M. Vondrousova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
