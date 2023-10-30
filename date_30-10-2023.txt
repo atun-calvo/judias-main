@@ -1,0 +1,10 @@
+00:30;WTA Finals Round Robin;A. Sabalenka;M. Sakkari;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
+11:00;Masters París 1ª Ronda;A. Davidovich;B. Shelton;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+12:30;Masters París 1ª Ronda;A. Murray;A. De Miñaur;ATP Tennis TV;M+ Deportes (63);
+14:00;Masters París 1ª Ronda;B. Van de Zandschulp;A. Mannarino;ATP Tennis TV;M+ Deportes (63);
+15:30;Masters París 1ª Ronda;T. Fritz;S. Báez;ATP Tennis TV;M+ Deportes (63);
+19:30;Masters París 1ª Ronda;T. Paul;R. Gasquet;ATP Tennis TV;M+ Deportes (63);
+21:00;La Liga EA Sports;Granada CF;Villarreal;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
+21:00;LaLiga Hypermotion;Burgos CF;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
+21:00;Masters París 1ª Ronda;S. Wawrinka;D. Thiem;ATP Tennis TV;M+ Deportes (63);
+23:00;WTA Finals Round Robin;I. Swiatek;M. Vondrousova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
