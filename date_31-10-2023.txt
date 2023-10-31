@@ -17,9 +17,9 @@
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Türk Telekom Ankara;EuroLeague TV;
 20:30;Eurocup Liga Regular;Joventut Badalona;Hamburg Towers;Esport3 (Cataluña);Esport3 Web;
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Maccabi Tel Aviv BC;M+ Deportes 2 (64);
-20:30;WTA Finals;Round Robin;WTA TV;DAZN (Regístrate);DAZN 1 (M70);Teledeporte;RTVE Play;
 20:45;Copa del Rey 1ª Ronda;Cacereño;CD Castellón;Canal por confirmar;
 21:00;Copa del Rey 1ª Ronda;CD Manacor;UD Las Palmas;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);
 21:00;Copa del Rey 1ª Ronda;CF Talavera;UD Almería;M+ Liga de Campeones 2 (M61 O116);
 21:00;Copa del Rey 1ª Ronda;Lorca Deportiva;Eibar;Canal por confirmar;
 21:00;Masters París 2ª Ronda;Y. Nishioka;A. Rublev;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
+23:00;WTA Finals Round Robin;A. Sabalenka;J. Pegula;WTA TV;DAZN (Regístrate);DAZN 1 (M70);Teledeporte;RTVE Play;
