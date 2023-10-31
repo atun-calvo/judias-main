@@ -1,7 +1,8 @@
+18:00;Basketball Champions League Liga Regular;Tofas Bursa;Derthona Basket;Popular TV Murcia;
 18:30;Eurocup Liga Regular;Olimpija Ljubljana;BC Wolves;EuroLeague TV;
-20:00;Copa del Rey 1ª Ronda;CD Varea;Levante;Canal por confirmar;
+20:00;Copa del Rey 1ª Ronda;CD Varea;Levante;estilo.css eventos.sh generador_html.sh id_31-10-2023.txt index.html SIN TV EN DIRECTO *;
 20:00;Copa del Rey 1ª Ronda;Mensajero;Espanyol;Esport3 (Cataluña);TV Canaria;
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Türk Telekom Ankara;EuroLeague TV;
 20:30;Eurocup Liga Regular;Joventut Badalona;Hamburg Towers;Esport3 (Cataluña);Esport3 Web;
-20:45;Copa del Rey 1ª Ronda;Cacereño;CD Castellón;Canal por confirmar;
-21:00;Copa del Rey 1ª Ronda;Lorca Deportiva;Eibar;Canal por confirmar;
+20:45;Copa del Rey 1ª Ronda;Cacereño;CD Castellón;estilo.css eventos.sh generador_html.sh id_31-10-2023.txt index.html SIN TV EN DIRECTO *;
+21:00;Copa del Rey 1ª Ronda;Lorca Deportiva;Eibar;estilo.css eventos.sh generador_html.sh id_31-10-2023.txt index.html SIN TV EN DIRECTO *;
