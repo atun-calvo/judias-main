@@ -13,7 +13,7 @@
 19:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;APLAZADO;
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 19:30;Masters París 3ª Ronda;N. Djokovic;T. Griekspoor;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);M+ Deportes 6 (193);
-20:00;Copa del Rey 1ª Ronda;Atzeneta UE;Real Zaragoza;Aragón TV;
+20:00;Copa del Rey 1ª Ronda;Atzeneta UE;Real Zaragoza;APLAZADO;
 20:00;Copa del Rey 1ª Ronda;UD Logroñés;Valencia CF;Teledeporte;RTVE Play;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;APLAZADO;
 20:30;Copa del Rey 1ª Ronda;Hércules;Burgos CF;estilo.css eventos.sh generador_html.sh id_02-11-2023.txt index.html SIN TV EN DIRECTO *;
