@@ -1,4 +1,4 @@
-19:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;estilo.css eventos.sh generador_html.sh id_02-11-2023.txt index.html SIN TV EN DIRECTO *;
+19:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;APLAZADO;
 20:00;Copa del Rey 1ª Ronda;Atzeneta UE;Real Zaragoza;Aragón TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;APLAZADO;
 20:30;Copa del Rey 1ª Ronda;Hércules;Burgos CF;estilo.css eventos.sh generador_html.sh id_02-11-2023.txt index.html SIN TV EN DIRECTO *;
