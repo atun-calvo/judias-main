@@ -1,4 +1,9 @@
+11:00;Masters París 3ª Ronda;A. Bublik;G. Dimitrov;ATP Tennis TV;
+12:30;Masters París 3ª Ronda;B. Van de Zandschulp;A. Rublev;ATP Tennis TV;
+12:30;Masters París;K. Khachanov;R. Safiullin;ATP Tennis TV;
+14:00;Masters París;F. Cerúndolo;H. Hurkacz;ATP Tennis TV;
 19:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;estilo.css eventos.sh generador_html.sh id_02-11-2023.txt index.html SIN TV EN DIRECTO *;
+19:30;Masters París 3ª Ronda;N. Djokovic;T. Griekspoor;ATP Tennis TV;Movistar Plus+ 2 (M176);
 20:00;Copa del Rey 1ª Ronda;Atzeneta UE;Real Zaragoza;Aragón TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;APLAZADO;
 20:30;Copa del Rey 1ª Ronda;Hércules;Burgos CF;estilo.css eventos.sh generador_html.sh id_02-11-2023.txt index.html SIN TV EN DIRECTO *;
