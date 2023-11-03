@@ -1,3 +1,3 @@
-20:30;Primera Federación Futsal;Osasuna Magna;Industrias Santa Coloma;FEF TV;
-22:00;Primera Federación Futsal;Jimbee Cartagena FS;Real Betis FS;FEF TV;
+19:30;Primera Federación Futsal;Osasuna Magna;Industrias Santa Coloma;FEF TV;
+21:00;Primera Federación Futsal;Jimbee Cartagena FS;Real Betis FS;FEF TV;
 BaloncestoESP;
