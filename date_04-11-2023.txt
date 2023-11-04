@@ -3,7 +3,7 @@
 13:00;Primera Federación Futsal;Viña Albali Valdepeñas;Palma Futsal;FEF TV;
 13:30;Premier League;Fulham;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 14:00;La Liga EA Sports;Osasuna;Girona;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
-14:00;Masters París Semifinal 1 ATP Masters 1000;G. Dimitrov;S. Tsitsipas;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+14:00;Masters París Semifinal 1 ATP Masters 1000;G. Dimitrov;S. Tsitsipas;ATP Tennis TV;M+ Deportes (63);
 15:00;Fórmula 1;G.P. Brasil (Interlagos);Sprint Shootout;DAZN (Regístrate);DAZN F1 4K (Movistar 442);DAZN F1 (M69);
 16:00;Premier League;Brentford;West Ham;DAZN (Regístrate);DAZN 3 (M196);
 16:00;Premier League;Burnley;Crystal Palace;DAZN (Regístrate);
@@ -12,7 +12,7 @@
 16:00;Premier League;Sheffield United;Wolverhampton;DAZN (Regístrate);DAZN 4 (M197);
 16:15;La Liga EA Sports;Real Betis;Mallorca;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Villarreal B;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-16:30;Masters París Semifinal 2 ATP Masters 1000;N. Djokovic;A. Rublev;ATP Tennis TV;M+ Deportes (63);
+16:30;Masters París Semifinal 2 ATP Masters 1000;N. Djokovic;A. Rublev;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);
 18:00;Liga Endesa Liga Regular;Casademont Zaragoza;Bilbao Basket;M+ Deportes 3 (65);
 18:00;Liga Endesa Liga Regular;Unicaja Málaga;Monbus Obradoiro;M+ Deportes 2 (64);
 18:00;Primera Federación Futsal;Barça FS;Ribera Navarra FS;FEF TV;Esport3 (Cataluña);
