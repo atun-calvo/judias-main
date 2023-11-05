@@ -1,6 +1,4 @@
-13:00;Primera Federación Futsal;Viña Albali Valdepeñas;Palma Futsal;FEF TV;
-16:00;Premier League;Burnley;Crystal Palace;DAZN (Regístrate);
-18:00;Primera Federación Futsal;Barça FS;Ribera Navarra FS;FEF TV;Esport3 (Cataluña);
-18:00;Primera Federación Futsal;Servigroup Peñiscola FS;Movistar Inter;FEF TV;
-19:00;Segunda Federación Futsal;Full Energía Zaragoza;Real Betis Futsal B;RFEF.es;Aragón Deporte;
-20:00;Primera Federación Futsal;Alzira FS;ElPozo Murcia;FEF TV;
+01:00;Velada Peso Superpluma;A. López;G. González;DAZN (Regístrate);
+12:00;Primera Federación Futsal;Córdoba FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
+14:00;Torneo de Metz 1ª Ronda ATP 250;PH. Herbert;A. Cazaux;ATP Tennis TV;
+15:30;Torneo de Metz 1ª Ronda ATP 250;G. Barrere;Y. Hanfmann;ATP Tennis TV;
