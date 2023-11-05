@@ -1,4 +1,4 @@
 01:00;Velada Peso Superpluma;A. López;G. González;DAZN (Regístrate);
 12:00;Primera Federación Futsal;Córdoba FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
-14:00;Torneo de Metz 1ª Ronda ATP 250;PH. Herbert;A. Cazaux;ATP Tennis TV;
-15:30;Torneo de Metz 1ª Ronda ATP 250;G. Barrere;Y. Hanfmann;ATP Tennis TV;
+14:05;Torneo de Metz 1ª Ronda;PH. Herbert;A. Cazaux;ATP Tennis TV;
+15:35;Torneo de Metz 1ª Ronda;G. Barrere;Y. Hanfmann;ATP Tennis TV;

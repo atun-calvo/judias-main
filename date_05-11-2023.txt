@@ -1,6 +1,5 @@
 00:00;NBA Liga Regular;Orlando Magic;Los Angeles Lakers;Movistar Plus+ (M7);M+ Deportes (63);
 00:00;UFC UFC Fight Night;J. Almeida;D. Lewis;DAZN (Regístrate);Eurosport 2;Eurosport Player;
-00:30;WTA Finals Semifinal 2;A. Sabalenka;I. Swiatek;WTA TV;DAZN (Regístrate);DAZN 1 (M70);Teledeporte;RTVE Play;
 01:00;Velada Peso Superpluma;A. López;G. González;DAZN (Regístrate);
 02:00;Título Mundial Femenino Peso Mínimo;Y. Valle;A. Ortíz;DAZN (Regístrate);DAZN 2 (M71);
 06:45;Saitama Criterium;By Le Tour de France;Saitama (17 x 3,5 km);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
@@ -9,10 +8,10 @@
 12:30;Liga Endesa Liga Regular;UCAM Murcia CB;BAXI Manresa;M+ Deportes (63);
 14:00;La Liga EA Sports;Alavés;UD Almería;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Racing Ferrol;FC Andorra;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-14:00;Torneo de Metz 1ª Ronda ATP 250;PH. Herbert;A. Cazaux;ATP Tennis TV;
+14:05;Torneo de Metz 1ª Ronda;PH. Herbert;A. Cazaux;ATP Tennis TV;
 15:00;Masters París Final ATP Masters 1000;N. Djokovic;G. Dimitrov;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 15:00;Premier League;Nottingham Forest;Aston Villa;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-15:30;Torneo de Metz 1ª Ronda ATP 250;G. Barrere;Y. Hanfmann;ATP Tennis TV;
+15:35;Torneo de Metz 1ª Ronda;G. Barrere;Y. Hanfmann;ATP Tennis TV;
 16:15;La Liga EA Sports;Valencia CF;Granada CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Amorebieta;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 17:00;Liga Endesa Liga Regular;Baskonia;Dreamland Gran Canaria;M+ Deportes 3 (65);
@@ -26,3 +25,4 @@
 21:00;La Liga EA Sports;Real Madrid;Rayo Vallecano;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Eldense;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 21:30;NBA Liga Regular;San Antonio Spurs;Toronto Raptors;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+23:30;WTA Finals Semifinal 2;A. Sabalenka;I. Swiatek;WTA TV;DAZN (Regístrate);DAZN 1 (M70);Teledeporte;RTVE Play;
