@@ -1,0 +1,8 @@
+14:00;Torneo de Metz 1ª Ronda;M. Giron;L. Sonego;ATP Tennis TV;
+15:30;Torneo de Metz 1ª Ronda;M. Martineau;D. Thiem;ATP Tennis TV;
+18:00;Torneo de Metz 1ª Ronda;S. Wawrinka;B. Zapata;ATP Tennis TV;
+19:30;Torneo de Metz 1ª Ronda;L. Van Assche;B. Van de Zandschulp;ATP Tennis TV;
+21:00;La Liga EA Sports;Getafe;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
+21:00;LaLiga Hypermotion;Real Zaragoza;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
+21:00;Premier League;Tottenham;Chelsea;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+22:30;WTA Finals Final;J. Pegula;I. Swiatek;WTA TV;DAZN (Regístrate);DAZN 1 (M70);
