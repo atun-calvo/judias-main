@@ -8,6 +8,7 @@
 14:00;Torneo de Sofia 1ª Ronda;A. Lazarov;P. Kotov;ATP Tennis TV;
 15:30;Torneo de Metz 2ª Ronda;H. Mayot;G. Barrere;ATP Tennis TV;
 17:00;Torneo de Sofia 1ª Ronda;C. Ilkel;D. Kuzmanov;ATP Tennis TV;
+18:00;Basketball Champions League Liga Regular;Darüşşafaka Basketbol;Cholet Basket;Popular TV Murcia;
 18:00;Billie Jean King Cup Fase de grupos Partido 2;Suiza;República Checa;RTVE Play;
 18:00;Eurocup Liga Regular;Lietkabelis Panevezys;JL Bourg;EuroLeague TV;
 18:00;Torneo de Metz 2ª Ronda;U. Humbert;D. Thiem;ATP Tennis TV;
