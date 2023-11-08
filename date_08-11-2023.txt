@@ -10,7 +10,7 @@
 16:00;Billie Jean King Cup Fase de grupos Partido 1;España;Canadá;Teledeporte;RTVE Play;
 17:00;Torneo de Sofia 2ª Ronda;L. Musetti;J. Draper;ATP Tennis TV;
 18:00;Billie Jean King Cup Fase de grupos Partido 2;España;Canadá;Teledeporte;RTVE Play;
-18:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;estilo.css eventos.sh generador_html.sh id_08-11-2023.txt index.html SIN TV EN DIRECTO *;
+18:00;Copa del Rey 1ª Ronda;G. Segoviana;Sestao River;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 18:00;Eurocup Liga Regular;BC Wolves;BC Prometey;EuroLeague TV;
 18:00;Eurocup Liga Regular;Hamburg Towers;Besiktas JK Istanbul;EuroLeague TV;
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;Dreamland Gran Canaria;EuroLeague YouTube;
