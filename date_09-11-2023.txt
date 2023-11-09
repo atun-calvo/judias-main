@@ -17,7 +17,7 @@
 18:00;Billie Jean King Cup Fase de grupos Partido 2;Canadá;Polonia;RTVE Play;
 18:00;Billie Jean King Cup Fase de grupos Partido 2;Suiza;Estados Unidos;RTVE Play;
 18:00;Eurobasket Femenino Fase de Clasificación;Bulgaria;Finlandia;FIBA YouTube;
-18:00;Eurobasket Femenino Fase de Clasificación;Croacia;España;FIBA YouTube;Teledeporte;RTVE Play;
+18:00;Eurobasket Femenino Fase de Clasificación;Croacia;España;Teledeporte;RTVE Play;
 18:00;Eurobasket Femenino Fase de Clasificación;Hungría;Eslovenia;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;República Checa;Alemania;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Serbia;Ucrania;FIBA YouTube;
