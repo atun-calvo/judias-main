@@ -5,6 +5,6 @@
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;U-BT Cluj Napoca;EuroLeague TV;
 20:00;Primera Federación Futsal;ElPozo Murcia;Jaén FS;FEF TV;
 20:00;Primera Federación Futsal;Noia Portus Apostoli FS;Ribera Navarra FS;FEF TV;
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;WKS Slask Wroclaw;Canal por confirmar;
+21:00;Eurocup Liga Regular;Dreamland Gran Canaria;WKS Slask Wroclaw;EuroLeague YouTube;
 21:00;Primera Federación Futsal;Servigroup Peñiscola FS;Jimbee Cartagena FS;FEF TV;
 21:00;Primera Federación Futsal;Viña Albali Valdepeñas;Industrias Santa Coloma;FEF TV;

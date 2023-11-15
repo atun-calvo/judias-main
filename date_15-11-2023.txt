@@ -14,6 +14,6 @@
 20:30;Euroliga Liga Regular;Baskonia;Barça Basket;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Euroliga Liga Regular;FC Bayern Basketball;BC Partizan Beograd;M+ Deportes 2 (64);
 21:00;ATP Finals Round Robin;D. Medvedev;A. Zverev;ATP Tennis TV;M+ Deportes (63);
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;WKS Slask Wroclaw;Canal por confirmar;
+21:00;Eurocup Liga Regular;Dreamland Gran Canaria;WKS Slask Wroclaw;EuroLeague YouTube;
 21:00;Primera Federación Futsal;Servigroup Peñiscola FS;Jimbee Cartagena FS;FEF TV;
 21:00;Primera Federación Futsal;Viña Albali Valdepeñas;Industrias Santa Coloma;FEF TV;
