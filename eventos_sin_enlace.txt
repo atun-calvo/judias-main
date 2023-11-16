@@ -1,10 +1,2 @@
-18:00;Eurocup Liga Regular;BC Wolves;Umana Reyer Venice;EuroLeague TV;
-18:00;Eurocup Liga Regular;Besiktas JK Istanbul;London Lions;EuroLeague TV;
-18:00;FIBA Europe Cup Liga Regular;BC CSU Sibiu;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
-18:30;Eurocup Liga Regular;Olimpija Ljubljana;Hamburg Towers;EuroLeague TV;
-20:00;Eurocup Liga Regular;Dolomiti Energia Trento;U-BT Cluj Napoca;EuroLeague TV;
-20:00;Primera Federación Futsal;ElPozo Murcia;Jaén FS;FEF TV;
-20:00;Primera Federación Futsal;Noia Portus Apostoli FS;Ribera Navarra FS;FEF TV;
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;WKS Slask Wroclaw;EuroLeague YouTube;
-21:00;Primera Federación Futsal;Servigroup Peñiscola FS;Jimbee Cartagena FS;FEF TV;
-21:00;Primera Federación Futsal;Viña Albali Valdepeñas;Industrias Santa Coloma;FEF TV;
+08:15;FIA Fórmula 3;G.P. Macao (Circuito da Guia);Clasificación;FIA YouTube;
+BaloncestoESP;
