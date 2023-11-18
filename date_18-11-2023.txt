@@ -12,7 +12,7 @@
 18:00;Liga Endesa Liga Regular;Casademont Zaragoza;Dreamland Gran Canaria;M+ Deportes (63);
 18:00;MotoGP;G.P. Qatar (Losail);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 18:00;Primera Federación Futsal;Jaén FS;Servigroup Peñiscola FS;FEF TV;
-18:00;Primera Federación Futsal;Manzanares FS;Viña Albali Valdepeñas;FEF TV;
+18:00;Primera Federación Futsal;Manzanares FS;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
 18:30;ATP Finals Semifinal 2 Dobles;R. Ram | J. Salisbury;S. González | E. Roger-Vasselin;ATP Tennis TV;M+ Deportes 3 (65);
 18:30;LaLiga Hypermotion;Amorebieta;CD Tenerife;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Real Zaragoza;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);Movistar Plus+ (M7);LaLiga TV Bar;
