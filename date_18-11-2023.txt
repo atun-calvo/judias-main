@@ -1,7 +1,7 @@
 02:00;NBA In-Season Tournament;New Orleans Pelicans;Denver Nuggets;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
 08:50;FIA Fórmula 3;G.P. Macao (Circuito da Guia);Carrera de clasificación;FIA YouTube;
 09:00;Fórmula 1;G.P. Las Vegas (Las Vegas);Clasificación;DAZN (Regístrate);DAZN F1 4K (Movistar 442);DAZN F1 (M69);
-12:00;ATP Finals Semifinal 1 Dobles;M. Granollers | H. Zeballos;R. Bopanna | M. Ebden;ATP Tennis TV;M+ Deportes (63);
+12:00;ATP Finals Semifinal 1 Dobles;M. Granollers | H. Zeballos;R. Bopanna | M. Ebden;ATP Tennis TV;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 13:00;Primera Federación Futsal;Ribera Navarra FS;Alzira FS;FEF TV;
 13:40;MotoGP;G.P. Qatar (Losail);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 14:30;ATP Finals Semifinal 1;J. Sinner;D. Medvedev;ATP Tennis TV;M+ Deportes (63);
