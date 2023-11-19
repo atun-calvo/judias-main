@@ -7,7 +7,7 @@
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Unicaja Málaga;Movistar Plus+ (M7);M+ Deportes (63);
 13:40;Copa del Mundo Ciclocross;Troyes (Francia);Carrera femenina;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 14:00;LaLiga Hypermotion;Racing Ferrol;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV Bar;
-15:00;ATP Finals Final Dobles;M. Granollers | H. Zeballos;R. Ram | J. Salisbury;M+ Deportes 2 (64);
+15:00;ATP Finals Final Dobles;M. Granollers | H. Zeballos;R. Ram | J. Salisbury;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 15:00;Moto3;G.P. Qatar (Losail);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:10;Copa del Mundo Ciclocross;Troyes (Francia);Carrera masculina;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 16:15;LaLiga Hypermotion;Eldense;Mirandés;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
