@@ -1,9 +1,2 @@
-08:50;FIA Fórmula 3;G.P. Macao (Circuito da Guia);Carrera de clasificación;FIA YouTube;
-13:00;Primera Federación Futsal;Ribera Navarra FS;Alzira FS;FEF TV;
-16:00;Primera Federación Futsal;Industrias Santa Coloma;Noia Portus Apostoli FS;FEF TV;
-18:00;Primera Federación Futsal;Jaén FS;Servigroup Peñiscola FS;FEF TV;
-18:00;Primera Federación Futsal;Manzanares FS;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
-18:30;Segunda Federación Futsal;Club Sala 5 Martorell;Barça B FS;RFEF.es;
-19:00;Segunda Federación Futsal;Full Energía Zaragoza;Melistar FS;Aragón Deporte;
-20:00;Primera Federación Futsal;Jimbee Cartagena FS;Córdoba FS;FEF TV;
-20:00;Primera Federación Futsal;Palma Futsal;ElPozo Murcia;FEF TV;
+08:30;FIA Fórmula 3;G.P. Macao (Circuito da Guia);Carrera;FIA YouTube;Esport3 (Cataluña);
+BaloncestoESP;
