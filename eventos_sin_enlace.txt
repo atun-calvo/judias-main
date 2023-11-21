@@ -3,6 +3,7 @@
 19:15;Copa del Rey 4ª Ronda;Unión África Ceutí;Servigroup Peñiscola FS;UA CEUTI TV YouTube;
 19:30;Eurocup Liga Regular;Hamburg Towers;BC Wolves;EuroLeague TV;
 19:30;Eurocup Liga Regular;JL Bourg;Türk Telekom Ankara;EuroLeague TV;
+20:00;Copa del Rey 4ª Ronda;CD Leganés FS;Jaén FS;Jaenenjuego YouTube;
 20:00;Copa del Rey 4ª Ronda;UMA Antequera;Viña Albali Valdepeñas;CD UMA Antequera YouTube;
 20:00;FIBA Europe Cup Liga Regular;Casademont Zaragoza;BC Kalev Cramo;FIBA YouTube;Aragón Deporte;
 20:30;Copa del Rey 4ª Ronda;Burela FS;Ribera Navarra FS;BurelaFS.tv;
