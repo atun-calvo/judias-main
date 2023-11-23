@@ -1,8 +1,8 @@
 01:30;NBA Liga Regular;Boston Celtics;Milwaukee Bucks;M+ Deportes (63);
-10:00;Davis Cup Finals 1/4 de Final;Holanda;Italia;M+ Deportes (63);M+ Deportes 2 (64);
+10:00;Davis Cup Finals 1/4 de Final Partido 1;Holanda;Italia;M+ Deportes (63);M+ Deportes 2 (64);
 12:00;Davis Cup Finals 1/4 de Final Partido 2;Holanda;Italia;M+ Deportes (63);
 14:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Holanda;Italia;M+ Deportes (63);M+ Deportes 2 (64);
-16:00;Davis Cup Finals 1/4 de Final;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
+16:00;Davis Cup Finals 1/4 de Final Partido 1;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 18:00;Davis Cup Finals 1/4 de Final Partido 2;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 20:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Gran Bretaña;Serbia;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 20:00;Eurocup Women Liga Regular;Basket Montpellier;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
