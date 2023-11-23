@@ -2,12 +2,12 @@
 10:00;Davis Cup Finals 1/4 de Final Partido 1;Holanda;Italia;M+ Deportes (63);M+ Deportes 2 (64);
 12:00;Davis Cup Finals 1/4 de Final Partido 2;Holanda;Italia;M+ Deportes (63);
 14:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Holanda;Italia;M+ Deportes (63);M+ Deportes 2 (64);
-16:00;Davis Cup Finals 1/4 de Final Partido 1;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
-18:00;Davis Cup Finals 1/4 de Final Partido 2;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
-20:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Gran Bretaña;Serbia;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
+18:00;Davis Cup Finals 1/4 de Final Partido 1;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
+20:00;Davis Cup Finals 1/4 de Final Partido 2;Gran Bretaña;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 20:00;Eurocup Women Liga Regular;Basket Montpellier;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;FC Bayern Basketball;M+ Deportes 5 (192);
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Barça Basket;M+ Deportes (63);
 20:15;Euroliga Liga Regular;Panathinaikos BC;Valencia Basket;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;Virtus Bologna;Fenerbahce Istanbul;M+ Deportes 4 (191);
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;ALBA Berlin;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+22:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Gran Bretaña;Serbia;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
