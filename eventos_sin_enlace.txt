@@ -1,1 +1,7 @@
-19:30;Primera Federación Futsal;Osasuna Magna;Jimbee Cartagena FS;FEF TV;
+16:00;Premier League;Luton Town;Crystal Palace;DAZN (Regístrate);
+16:00;Premier League;Sheffield United;Bournemouth;DAZN (Regístrate);
+16:00;Primera Federación Futsal;Noia Portus Apostoli FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
+16:00;Velada Peso Pesado;T. Schwarz;K. Dovbyshchenko;DAZN (Regístrate);
+18:00;Primera Federación Futsal;Servigroup Peñiscola FS;Córdoba FS;FEF TV;
+18:00;Segunda Federación Futsal;Unión África Ceutí;UMA Antequera;RFEF.es;
+20:00;Primera Federación Futsal;Alzira FS;Industrias Santa Coloma;FEF TV;
