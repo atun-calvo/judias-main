@@ -1,8 +1,8 @@
 01:15;México Open;1/4 de final masculino;M+ Deportes 3 (65);
-10:00;ITF Torneo de Valencia;Semifinal 1;ITF W100;M+ Ellas Vamos (66);Movistar+ Lite;
+10:00;ITF Torneo de Valencia Semifinal 1 ITF W100;K. Kawa;J. Cristian;M+ Ellas Vamos (66);Movistar+ Lite;
 10:50;MotoGP;G.P. C. Valenciana (Ricardo Tormo);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Teledeporte;RTVE Play;
 12:00;Davis Cup Finals Semifinal 2 Partido 1;Italia;Serbia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
-12:00;ITF Torneo de Valencia;Semifinal 2;ITF W100;M+ Ellas Vamos (66);Movistar+ Lite;
+12:00;ITF Torneo de Valencia Semifinal 2 ITF W100;A. Mitu;V. Tomova;M+ Ellas Vamos (66);Movistar+ Lite;
 12:50;Moto3;G.P. C. Valenciana (Ricardo Tormo);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Teledeporte;RTVE Play;
 13:00;Torneo de Valencia Semifinal 1 ATP Challenger Tour;R. Bautista-Agut;D. Yevseyev;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 13:20;FIA Fórmula 2;G.P. Abu Dhabi (Yas Marina);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
