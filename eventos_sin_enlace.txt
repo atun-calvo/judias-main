@@ -1,7 +1,2 @@
-02:00;Título Mundial Peso Medio;D. Benavidez;D. Andrade;Fight Sports Max;
-12:00;Primera Federación Futsal;ElPozo Murcia;Ribera Navarra FS;FEF TV;
-12:00;Primera Federación Futsal;Viña Albali Valdepeñas;Real Betis FS;FEF TV;
-14:10;Copa del Mundo Ciclocross;Dublín (Irlanda);Carrera femenina;Eurosport Player;
-15:40;Copa del Mundo Ciclocross;Dublín (Irlanda);Carrera masculina;Eurosport Player;
-20:00;Primera Federación Futsal;Jaén FS;Palma Futsal;FEF TV;
-BaloncestoESP;Aragón Deporte;Aragón TV;
+18:00;Preolímpico Masculino;Sorteo París 2024;RTVE Play;
+21:00;Premier League;Fulham;Wolverhampton;DAZN 1 Bar (Movistar-148);DAZN (Regístrate);
