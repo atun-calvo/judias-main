@@ -11,7 +11,7 @@
 18:45;Champions League Fase de grupos;Shakhtar Donetsk;Antwerp;M+ Liga de Campeones 3 (M62 O118);
 19:30;Next Gen ATP Finals Round Robin;A. Michelsen;H. Medjedovic;ATP Tennis TV;M+ Deportes (63);
 20:00;Eurocup Liga Regular;Umana Reyer Venice;Hamburg Towers;EuroLeague TV;
-20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
+20:15;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Champions League Fase de grupos;AC Milan;Borussia Dortmund;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
 21:00;Champions League Fase de grupos;FC Barcelona;FC Porto;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
 21:00;Champions League Fase de grupos;Feyenoord;At. Madrid;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
