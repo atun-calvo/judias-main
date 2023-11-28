@@ -1,2 +1,5 @@
-18:00;Preolímpico Masculino;Sorteo París 2024;RTVE Play;
-21:00;Premier League;Fulham;Wolverhampton;DAZN 1 Bar (Movistar-148);DAZN (Regístrate);
+10:00;MotoGP;Test de pretemporada;Sesión 1;DAZN (Regístrate);MotoGP Videopass;
+14:00;MotoGP;Test de pretemporada;Sesión 2;DAZN (Regístrate);MotoGP Videopass;Actualmente, de motociclismo hay 2 eventos televisados en directo de 1 competiciones distintas y 2 canales de TV emitirán cada uno de ellos. El próximo evento del que podrás disfrutar será el MotoGP (Test de pretemporada - Sesión 1) que se disputará el próximo martes, 28 de noviembre de 2023 a las 10:00 y que será televisado por DAZN (Regístrate), MotoGP Videopass.;Cambiar a tu zona horaria;Fútbol en la tele en   España;Arab MENA;Argentina;Bolivia;Brasil;Canada;Chile;Colombia;Costa Rica;Danmark;Ecuador;El Salvador;Suomi;France;Guatemala;Honduras;Republic of Ireland;India;Italia;日本;México;Nicaragua;Norge;Österreich;Panamá;Paraguay;Perú;Portugal;Sverige;República Dominicana;Uruguay;Venezuela;Deutschland;United Kingdom;USA;USA (ES);© WOSTI 2023 | wosti.com;Aviso legal;Política de cookies;API;Contacto;x;x;
+18:00;Eurocup Liga Regular;BC Wolves;London Lions;EuroLeague TV;
+18:00;Eurocup Liga Regular;Türk Telekom Ankara;WKS Slask Wroclaw;EuroLeague TV;
+20:00;Eurocup Liga Regular;Umana Reyer Venice;Hamburg Towers;EuroLeague TV;
