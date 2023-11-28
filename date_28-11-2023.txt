@@ -1,15 +1,15 @@
 01:00;NBA Liga Regular;Philadelphia 76ers;Los Angeles Lakers;M+ Deportes (63);
 10:00;MotoGP;Test de pretemporada;Sesión 1;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 13:00;Next Gen ATP Finals Round Robin;A. Fils;L. Nardi;ATP Tennis TV;M+ Deportes (63);
-14:00;MotoGP;Test de pretemporada;Sesión 2;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Actualmente, de motociclismo hay 2 eventos televisados en directo de 1 competiciones distintas y 4 canales de TV emitirán cada uno de ellos. El próximo evento del que podrás disfrutar será el MotoGP (Test de pretemporada - Sesión 1) que se disputará el próximo martes, 28 de noviembre de 2023 a las 10:00 y que será televisado por DAZN (Regístrate), MotoGP Videopass, DAZN 1 (M70), DAZN 1 Bar (Movistar-148).;Cambiar a tu zona horaria;Fútbol en la tele en   España;Arab MENA;Argentina;Bolivia;Brasil;Canada;Chile;Colombia;Costa Rica;Danmark;Ecuador;El Salvador;Suomi;France;Guatemala;Honduras;Republic of Ireland;India;Italia;日本;México;Nicaragua;Norge;Österreich;Panamá;Paraguay;Perú;Portugal;Sverige;República Dominicana;Uruguay;Venezuela;Deutschland;United Kingdom;USA;USA (ES);© WOSTI 2023 | wosti.com;Aviso legal;Política de cookies;API;Contacto;x;x;
-14:00;Next Gen ATP Finals Round Robin;D. Stricker;F. Cobolli;ATP Tennis TV;M+ Deportes (63);
+14:00;MotoGP;Test de pretemporada;Sesión 2;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+14:30;Next Gen ATP Finals Round Robin;D. Stricker;F. Cobolli;ATP Tennis TV;M+ Deportes (63);
 18:00;Eurocup Liga Regular;BC Wolves;London Lions;EuroLeague TV;
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;WKS Slask Wroclaw;EuroLeague TV;
 18:00;Next Gen ATP Finals Round Robin;L. Van Assche;A. Shelbayh;ATP Tennis TV;M+ Deportes (63);
 18:30;Basketball Champions League Liga Regular;KK Igokea;UCAM Murcia CB;Teledeporte;RTVE Play;Popular TV Murcia;
 18:45;Champions League Fase de grupos;Lazio;Celtic FC;M+ Liga de Campeones 2 (M61 O116);LaLiga TV Bar;
 18:45;Champions League Fase de grupos;Shakhtar Donetsk;Antwerp;M+ Liga de Campeones 3 (M62 O118);
-19:00;Next Gen ATP Finals Round Robin;A. Michelsen;H. Medjedovic;ATP Tennis TV;M+ Deportes (63);
+19:30;Next Gen ATP Finals Round Robin;A. Michelsen;H. Medjedovic;ATP Tennis TV;M+ Deportes (63);
 20:00;Eurocup Liga Regular;Umana Reyer Venice;Hamburg Towers;EuroLeague TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Real Madrid Baloncesto;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Champions League Fase de grupos;AC Milan;Borussia Dortmund;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
