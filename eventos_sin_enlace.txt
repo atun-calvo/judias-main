@@ -3,7 +3,7 @@
 18:00;Eurocup Women Liga Regular;Zaglebie Sosnowiec;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
 18:30;Eurocup Liga Regular;Olimpija Ljubljana;Paris Basketball;EuroLeague TV;
 19:00;Eurocup Liga Regular;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
-19:00;Futsal Champions League Ronda Élite;MNK Olmissum;Palma Futsal;Canal por confirmar;
+19:00;Futsal Champions League Ronda Élite;MNK Olmissum;Palma Futsal;Esports IB3 YouTube;
 19:15;Eurocup Women Liga Regular;Cadi La Seu;Eleftheria Moschatou;FIBA YouTube;Esport3 (Cataluña);Esport3 Web;
 19:15;Eurocup Women Liga Regular;Spar Girona;Pieštanské Cajky;FIBA YouTube;Esport3 Web;
 19:30;Eurocup Liga Regular;Ratiopharm Ulm;JL Bourg;EuroLeague TV;

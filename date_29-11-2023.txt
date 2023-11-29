@@ -9,7 +9,7 @@
 18:45;Champions League Fase de grupos;Galatasaray;Manchester Utd.;M+ Liga de Campeones 3 (M62 O118);
 18:45;Champions League Fase de grupos;Sevilla FC;PSV Eindhoven;M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 19:00;Eurocup Liga Regular;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
-19:00;Futsal Champions League Ronda Élite;MNK Olmissum;Palma Futsal;Canal por confirmar;
+19:00;Futsal Champions League Ronda Élite;MNK Olmissum;Palma Futsal;Esports IB3 YouTube;
 19:15;Eurocup Women Liga Regular;Cadi La Seu;Eleftheria Moschatou;FIBA YouTube;Esport3 (Cataluña);Esport3 Web;
 19:15;Eurocup Women Liga Regular;Spar Girona;Pieštanské Cajky;FIBA YouTube;Esport3 Web;
 19:30;Eurocup Liga Regular;Ratiopharm Ulm;JL Bourg;EuroLeague TV;
