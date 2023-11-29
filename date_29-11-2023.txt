@@ -1,8 +1,10 @@
 02:30;NBA In-Season Tournament;Dallas Mavericks;Houston Rockets;M+ Deportes (63);
-12:00;Next Gen ATP Finals;Round Robin;ATP Tennis TV;M+ Deportes (63);
+13:00;Next Gen ATP Finals Round Robin;D. Stricker;L. Nardi;ATP Tennis TV;M+ Deportes (63);
+14:30;Next Gen ATP Finals Round Robin;A. Fils;F. Cobolli;ATP Tennis TV;M+ Deportes (63);
 15:00;Futsal Champions League Ronda Élite;Barça FS;Feldi Eboli;FANSEAT;Esport3 (Cataluña);
 18:00;Eurocup Liga Regular;U-BT Cluj Napoca;Lietkabelis Panevezys;EuroLeague TV;
 18:00;Eurocup Women Liga Regular;Zaglebie Sosnowiec;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
+18:00;Next Gen ATP Finals Round Robin;A. Michelsen;A. Shelbayh;ATP Tennis TV;M+ Deportes (63);
 18:30;Eurocup Liga Regular;Olimpija Ljubljana;Paris Basketball;EuroLeague TV;
 18:45;Champions League Fase de grupos;Galatasaray;Manchester Utd.;M+ Liga de Campeones 3 (M62 O118);
 18:45;Champions League Fase de grupos;Sevilla FC;PSV Eindhoven;M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
@@ -11,6 +13,7 @@
 19:15;Eurocup Women Liga Regular;Cadi La Seu;Eleftheria Moschatou;FIBA YouTube;Esport3 (Cataluña);Esport3 Web;
 19:15;Eurocup Women Liga Regular;Spar Girona;Pieštanské Cajky;FIBA YouTube;Esport3 Web;
 19:30;Eurocup Liga Regular;Ratiopharm Ulm;JL Bourg;EuroLeague TV;
+19:30;Next Gen ATP Finals Round Robin;L. Van Assche;H. Medjedovic;ATP Tennis TV;M+ Deportes (63);
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Aris Thessaloniki BC;EuroLeague TV;
 20:00;Eurocup Women Liga Regular;Movistar Estudiantes;Levhartice Chomutov;FIBA YouTube;
 20:30;Basketball Champions League Liga Regular;Derthona Basket;Tofas Bursa;Popular TV Murcia;
