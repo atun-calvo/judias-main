@@ -25,4 +25,4 @@
 21:00;Champions League Fase de grupos;Real Sociedad;Red Bull Salzburg;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
 21:00;Champions League Fase de grupos;SC Braga;Union Berlin;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 8 (M184 O280);
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Buducnost Voli;EuroLeague YouTube;
-21:00;La Liga EA Sports;Mallorca;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;LaLiga TV M2;
+21:00;La Liga EA Sports;Mallorca;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M2;
