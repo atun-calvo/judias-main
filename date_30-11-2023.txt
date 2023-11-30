@@ -1,8 +1,10 @@
 01:30;NBA Liga Regular;Toronto Raptors;Phoenix Suns;M+ Deportes (63);
 02:00;Partido de Exhibición;M. Sakkari;C. Wozniacki;Canal por confirmar;
 03:15;Partido de Exhibición;C. Alcaraz;T. Paul;Canal por confirmar;
-12:00;Next Gen ATP Finals;Round Robin;ATP Tennis TV;M+ Deportes (63);
+13:00;Next Gen ATP Finals Round Robin;F. Cobolli;L. Nardi;ATP Tennis TV;M+ Deportes (63);
+14:30;Next Gen ATP Finals Round Robin;A. Fils;D. Stricker;ATP Tennis TV;M+ Deportes (63);
 15:00;Futsal Champions League Ronda Élite;Etoile Lavalloise;Barça FS;FANSEAT;Esport3 (Cataluña);
+18:00;Next Gen ATP Finals Round Robin;L. Van Assche;A. Michelsen;ATP Tennis TV;M+ Deportes (63);
 18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Real Madrid Baloncesto;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;
 18:45;Europa League Fase de grupos;AEK FC;Brighton;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 3 (M62 O118);
 18:45;Europa League Fase de grupos;Atalanta;Sporting CP;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
@@ -13,6 +15,7 @@
 18:45;Europa League Fase de grupos;TSC Bačka Topola;West Ham;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 8 (M184 O280);
 19:00;Euroliga Liga Regular;AS Monaco Basket;Olympiacos Piraeus;M+ Deportes (63);
 19:00;Futsal Champions League Ronda Élite;Palma Futsal;KSC Lubawa;Esports IB3 YouTube;
+19:30;Next Gen ATP Finals Round Robin;H. Medjedovic;A. Shelbayh;ATP Tennis TV;M+ Deportes (63);
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;ALBA Berlin;M+ Deportes 6 (193);
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Zalgiris Kaunas;M+ Deportes 5 (192);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;Virtus Bologna;M+ Deportes 4 (191);
