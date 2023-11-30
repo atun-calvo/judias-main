@@ -1,14 +1,4 @@
-15:00;Futsal Champions League Ronda Élite;Barça FS;Feldi Eboli;FANSEAT;Esport3 (Cataluña);
-18:00;Eurocup Liga Regular;U-BT Cluj Napoca;Lietkabelis Panevezys;EuroLeague TV;
-18:00;Eurocup Women Liga Regular;Zaglebie Sosnowiec;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
-18:30;Eurocup Liga Regular;Olimpija Ljubljana;Paris Basketball;EuroLeague TV;
-19:00;Eurocup Liga Regular;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
-19:00;Futsal Champions League Ronda Élite;MNK Olmissum;Palma Futsal;Esports IB3 YouTube;
-19:15;Eurocup Women Liga Regular;Cadi La Seu;Eleftheria Moschatou;FIBA YouTube;Esport3 (Cataluña);Esport3 Web;
-19:15;Eurocup Women Liga Regular;Spar Girona;Pieštanské Cajky;FIBA YouTube;Esport3 Web;
-19:30;Eurocup Liga Regular;Ratiopharm Ulm;JL Bourg;EuroLeague TV;
-20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Aris Thessaloniki BC;EuroLeague TV;
-20:00;Eurocup Women Liga Regular;Movistar Estudiantes;Levhartice Chomutov;FIBA YouTube;
-20:30;Basketball Champions League Liga Regular;Derthona Basket;Tofas Bursa;Popular TV Murcia;
-20:30;Eurocup Liga Regular;Joventut Badalona;BC Prometey;Esport3 (Cataluña);Esport3 Web;
-21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Buducnost Voli;EuroLeague YouTube;
+02:00;Partido de Exhibición;M. Sakkari;C. Wozniacki;Canal por confirmar;
+03:15;Partido de Exhibición;C. Alcaraz;T. Paul;Canal por confirmar;
+15:00;Futsal Champions League Ronda Élite;Etoile Lavalloise;Barça FS;FANSEAT;Esport3 (Cataluña);
+19:00;Futsal Champions League Ronda Élite;Palma Futsal;KSC Lubawa;Esports IB3 YouTube;
