@@ -1,4 +1,3 @@
-02:00;Partido de Exhibición;M. Sakkari;C. Wozniacki;Canal por confirmar;
-03:15;Partido de Exhibición;C. Alcaraz;T. Paul;Canal por confirmar;
-15:00;Futsal Champions League Ronda Élite;Etoile Lavalloise;Barça FS;FANSEAT;Esport3 (Cataluña);
-19:00;Futsal Champions League Ronda Élite;Palma Futsal;KSC Lubawa;Esports IB3 YouTube;
+19:00;Título Mundial Peso Supergallo;J. Camacho;O. Larios;LaLiga+ Plus;
+19:30;Primera Federación Futsal;Industrias Santa Coloma;ElPozo Murcia;FEF TV;
+21:00;Primera Federación Futsal;Movistar Inter;Viña Albali Valdepeñas;FEF TV;
