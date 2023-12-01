@@ -11,4 +11,4 @@
 20:30;Euroliga Liga Regular;Valencia Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;LaLiga Hypermotion;Real Oviedo;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);M+ Vamos (8 y 50);Movistar+ Lite;LaLiga TV M2;
 21:00;La Liga EA Sports;UD Las Palmas;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
-21:00;Primera Federación Futsal;Movistar Inter;Viña Albali Valdepeñas;FEF TV;
+21:00;Primera Federación Futsal;Movistar Inter;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
