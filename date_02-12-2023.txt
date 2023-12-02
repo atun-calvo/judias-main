@@ -34,6 +34,6 @@
 21:00;LaLiga Hypermotion;Levante;Real Valladolid;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 21:00;Premier League;Newcastle;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 21:00;Primera Federación Futsal;Ribera Navarra FS;Jaén FS;FEF TV;Teledeporte;RTVE Play;
-23:00;NBA Liga Regular;Los Angeles Clippers;Golden State Warriors;Movistar Plus+ (M7);M+ Deportes (63);
+22:00;NBA Liga Regular;Los Angeles Clippers;Golden State Warriors;Movistar Plus+ (M7);M+ Deportes (63);
 23:00;UFC UFC Fight Night;B. Dariush;A. Tsarukyan;DAZN (Regístrate);Eurosport Player;
 BaloncestoESP;La Ocho Mediterráneo;
