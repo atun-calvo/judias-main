@@ -1,3 +1,14 @@
-19:00;Título Mundial Peso Supergallo;J. Camacho;O. Larios;LaLiga+ Plus;
-19:30;Primera Federación Futsal;Industrias Santa Coloma;ElPozo Murcia;FEF TV;
-21:00;Primera Federación Futsal;Movistar Inter;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
+02:00;Título Mundial Peso Welter;J. Hackett;A. Gutierrez;DAZN (Regístrate);
+16:00;Futsal Champions League Ronda Élite;Riga FS;Barça FS;FANSEAT;Esport3 (Cataluña);
+16:00;WTA Torneo de Andorra Semifinal 1 WTA 125;E. Andreeva;H. Watson;Andorra TV;
+17:30;Segunda Federación Futsal;CFS Bisontes Castellón;Burela FS;RFEF.es;
+18:00;Primera Federación Futsal;Córdoba FS;Osasuna Magna;FEF TV;
+18:30;Velada Peso Semipesado;F. Sturm;S. Altay;DAZN (Regístrate);
+19:00;Futsal Champions League Ronda Élite;FC Hit;Palma Futsal;IB3 (Baleares);
+19:00;Primera Federación Futsal;Manzanares FS;Alzira FS;FEF TV;
+19:00;Rally Extreme E;Antofagasta (Chile);Carrera 1;DAZN (Regístrate);RTVE Play;
+19:00;Segunda Federación Futsal;Full Energía Zaragoza;Unión África Ceutí;Aragón Deporte;
+20:00;Primera Federación Futsal;Real Betis FS;Noia Portus Apostoli FS;FEF TV;
+20:30;Título Europeo Peso Supermedio;K. Lele Sadjo;A. Buonarrigo;DAZN (Regístrate);
+23:00;UFC UFC Fight Night;B. Dariush;A. Tsarukyan;DAZN (Regístrate);Eurosport Player;
+BaloncestoESP;La Ocho Mediterráneo;
