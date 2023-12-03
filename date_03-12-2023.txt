@@ -2,8 +2,10 @@
 12:00;Torneo de Maspalomas Final ATP Challenger Tour;P. Martínez;K. Feldbausch;DAZN (Regístrate);Marca YouTube;Eurosport 2;Eurosport Player;
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Río Breogán;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 13:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;Zunder Palencia;M+ Deportes (63);
+13:30;Copa del Mundo Ciclocross;Flamanville (Francia);Carrera femenina;Eurosport Player;
 14:00;La Liga EA Sports;Mallorca;Alavés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;FC Andorra;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
+15:00;Copa del Mundo Ciclocross;Flamanville (Francia);Carrera masculina;Eurosport Player;
 15:00;Premier League;Bournemouth;Aston Villa;DAZN (Regístrate);DAZN 3 (M196);
 15:00;Premier League;Chelsea;Brighton;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
 15:00;Premier League;Liverpool;Fulham;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
