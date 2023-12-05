@@ -1,1 +1,8 @@
-20:00;Amistoso Sub-21;Francia;España;SeFutbol YouTube;
+18:00;Eurocup Liga Regular;Türk Telekom Ankara;U-BT Cluj Napoca;EuroLeague TV;
+19:30;Eurocup Liga Regular;Hamburg Towers;BC Prometey;EuroLeague TV;
+20:00;Amistoso Sub-21;Portugal;España;SeFutbol YouTube;
+20:00;Eurocup Liga Regular;Umana Reyer Venice;London Lions;EuroLeague TV;
+20:00;Eurocup Liga Regular;WKS Slask Wroclaw;JL Bourg;EuroLeague TV;
+20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;CEZl Nymburk;FIBA YouTube;Aragón Deporte;
+21:00;Amistoso Femenino;Italia;España;RTVE Play;
+21:00;Copa del Rey 2ª Ronda;CD Castellón;Real Oviedo;À Punt (C. Valenciana);
