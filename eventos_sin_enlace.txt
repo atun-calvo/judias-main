@@ -4,5 +4,6 @@
 20:00;Eurocup Liga Regular;Umana Reyer Venice;London Lions;EuroLeague TV;
 20:00;Eurocup Liga Regular;WKS Slask Wroclaw;JL Bourg;EuroLeague TV;
 20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;CEZl Nymburk;FIBA YouTube;Aragón Deporte;
+20:45;Copa Diputación Ciudad Real Final;Manzanares FS;Viña Albali Valdepeñas;CMMPlay (Castilla-LM);
 21:00;Amistoso Femenino;Italia;España;RTVE Play;
 21:00;Copa del Rey 2ª Ronda;CD Castellón;Real Oviedo;À Punt (C. Valenciana);

@@ -14,6 +14,7 @@
 20:30;Euroliga Liga Regular;BC Partizan Beograd;AS Monaco Basket;M+ Deportes 2 (64);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;AX Olimpia Milano;M+ Deportes 4 (191);
 20:30;Premier League;Wolverhampton;Burnley;DAZN (Regístrate);DAZN 3 (M196);
+20:45;Copa Diputación Ciudad Real Final;Manzanares FS;Viña Albali Valdepeñas;CMMPlay (Castilla-LM);
 21:00;Amistoso Femenino;Italia;España;RTVE Play;
 21:00;Copa del Rey 2ª Ronda;Arosa SC;Valencia CF;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);
 21:00;Copa del Rey 2ª Ronda;CD Castellón;Real Oviedo;À Punt (C. Valenciana);
