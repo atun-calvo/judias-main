@@ -1,6 +1,7 @@
 01:30;NBA In-Season Tournament;Boston Celtics;Indiana Pacers;Movistar Plus+ (M7);M+ Deportes (63);
 04:00;NBA In-Season Tournament;New Orleans Pelicans;Sacramento Kings;M+ Deportes (63);
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;U-BT Cluj Napoca;EuroLeague TV;
+18:30;Basketball Champions League Liga Regular;AEK BC;Dinamo Sassari;Popular TV Murcia;
 18:30;Basketball Champions League Liga Regular;VEF Riga;Lenovo Tenerife;Teledeporte;RTVE Play;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Panathinaikos BC;M+ Deportes 3 (65);
 19:00;Copa del Rey 2ª Ronda;Atzeneta UE;Getafe;M+ Liga de Campeones 2 (M61 O116);
