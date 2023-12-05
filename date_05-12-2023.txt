@@ -15,5 +15,7 @@
 20:30;Euroliga Liga Regular;FC Bayern Basketball;AX Olimpia Milano;M+ Deportes 4 (191);
 20:30;Premier League;Wolverhampton;Burnley;DAZN (Regístrate);DAZN 3 (M196);
 21:00;Amistoso Femenino;Italia;España;RTVE Play;
+21:00;Copa del Rey 2ª Ronda;Arosa SC;Valencia CF;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);
 21:00;Copa del Rey 2ª Ronda;CD Castellón;Real Oviedo;À Punt (C. Valenciana);
+21:00;Copa del Rey 2ª Ronda;Espanyol;Real Valladolid;M+ Liga de Campeones 3 (M62 O118);
 21:15;Premier League;Luton Town;Arsenal;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
