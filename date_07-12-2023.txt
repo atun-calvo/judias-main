@@ -2,8 +2,8 @@
 09:15;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
 16:00;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
 19:00;Copa del Rey 2ª Ronda;Arandina;Cádiz CF;M+ Liga de Campeones 2 (M61 O116);
-20:00;Copa del Rey 2ª Ronda;Linares Deportivo;Elche;estilo.css eventos.sh generador_html.sh id_07-12-2023.txt index.html SIN TV EN DIRECTO *;
-20:00;Copa del Rey 2ª Ronda;Melilla;Eibar;estilo.css eventos.sh generador_html.sh id_07-12-2023.txt index.html SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Linares Deportivo;Elche;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Melilla;Eibar;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 20:00;Copa del Rey 2ª Ronda;Racing Ferrol;Leganés;TVG2 (Galicia);
 20:00;Euroliga Liga Regular;ALBA Berlin;Anadolu Efes Istanbul;M+ Deportes 2 (64);
 20:15;Euroliga Liga Regular;Panathinaikos BC;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
