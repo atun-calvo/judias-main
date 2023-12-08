@@ -1,5 +1,2 @@
-09:15;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
-16:00;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
-20:00;Copa del Rey 2ª Ronda;Linares Deportivo;Elche;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
-20:00;Copa del Rey 2ª Ronda;Melilla;Eibar;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
-20:00;Copa del Rey 2ª Ronda;Racing Ferrol;Leganés;TVG2 (Galicia);
+00:30;Intercontinental Futsal Cup Final;Cascavel Futsal;Palma Futsal;Esports IB3 YouTube;IB3 (Baleares);
+10:00;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
