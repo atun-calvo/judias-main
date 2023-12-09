@@ -1,2 +1,10 @@
-00:30;Intercontinental Futsal Cup Final;Cascavel Futsal;Palma Futsal;Esports IB3 YouTube;IB3 (Baleares);
-10:00;Minicopa Endesa;Primera Fase;Tarragona 2023;ACB YouTube;
+00:00;Velada Peso Ligero;I. Umara;F. Macayo;DAZN (Regístrate);
+17:00;Segunda Federación Futsal;Barça B FS;Full Energía Zaragoza;RFEF.es;Aragón Deporte;
+18:00;Primera Federación Futsal;Alzira FS;Real Betis FS;FEF TV;
+18:00;Primera Federación Futsal;Barça FS;Córdoba FS;FEF TV;Esport3 (Cataluña);
+18:00;Primera Federación Futsal;ElPozo Murcia;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
+18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Movistar Inter;FEF TV;
+18:00;Primera Federación Futsal;Osasuna Magna;Servigroup Peñiscola FS;FEF TV;
+18:00;Primera Federación Futsal;Viña Albali Valdepeñas;Jimbee Cartagena FS;FEF TV;
+19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Levante UD FS;Aragón Deporte;
+BaloncestoESP;
