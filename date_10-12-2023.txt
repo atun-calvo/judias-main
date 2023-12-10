@@ -13,7 +13,6 @@
 15:00;Premier League;Everton;Chelsea;DAZN 2 Bar (Movistar-149);DAZN (Regístrate);DAZN 2 (M71);
 15:00;Premier League;Fulham;West Ham;DAZN (Regístrate);DAZN 3 (M196);
 15:00;Premier League;Luton Town;Manchester City;DAZN 1 Bar (Movistar-148);DAZN (Regístrate);DAZN 1 (M70);
-16:15;La Liga EA Sports;Granada CF;Athletic Club;SUSPENDIDO;
 16:15;LaLiga Hypermotion;Racing Santander;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 17:00;Liga Endesa Liga Regular;Baskonia;Lenovo Tenerife;M+ Deportes 2 (64);
 17:00;Liga Endesa Liga Regular;UCAM Murcia CB;Valencia Basket;M+ Deportes 3 (65);
