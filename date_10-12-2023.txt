@@ -2,7 +2,7 @@
 02:30;NBA In-Season Tournament;Los Angeles Lakers;Indiana Pacers;Movistar Plus+ (M7);M+ Deportes (63);
 03:00;Título Mundial Peso Superligero;D. Haney;R. Prograis;DAZN (Regístrate);DAZN 2 (M71);
 03:00;Velada Peso Ligero;R. Téllez;D. Andrade;DAZN (Regístrate);
-11:00;ITF Torneo de Madrid;Final;ITF M15;La Otra (Madrid);
+11:00;ITF Torneo de Madrid Final ITF M15;M. Trungelliti;P. Martin Tiffon;La Otra (Madrid);
 12:30;Liga Endesa Liga Regular;Joventut Badalona;Monbus Obradoiro;M+ Deportes (63);
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Dreamland Gran Canaria;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 13:10;Copa del Mundo Ciclocross;Val di Sole Trentino (Italia);Carrera femenina;Eurosport Player;
