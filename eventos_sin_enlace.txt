@@ -1,0 +1,7 @@
+18:00;Basketball Champions League Liga Regular;Tofas Bursa;KK Igokea;Popular TV Murcia;
+18:00;Eurocup Liga Regular;BC Wolves;Hapoel Tel Aviv BC;EuroLeague TV;
+18:00;Eurocup Liga Regular;U-BT Cluj Napoca;WKS Slask Wroclaw;EuroLeague TV;
+19:00;Eurocup Liga Regular;Aris Thessaloniki BC;Lietkabelis Panevezys;EuroLeague TV;
+19:00;Eurocup Liga Regular;Ratiopharm Ulm;Dreamland Gran Canaria;EuroLeague YouTube;
+20:30;Eurocup Liga Regular;Paris Basketball;Umana Reyer Venice;EuroLeague TV;
+21:00;FIBA Europe Cup Segunda Ronda;FC Porto CB;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
