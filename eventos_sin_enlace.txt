@@ -1,7 +1,10 @@
-18:00;Basketball Champions League Liga Regular;Tofas Bursa;KK Igokea;Popular TV Murcia;
-18:00;Eurocup Liga Regular;BC Wolves;Hapoel Tel Aviv BC;EuroLeague TV;
-18:00;Eurocup Liga Regular;U-BT Cluj Napoca;WKS Slask Wroclaw;EuroLeague TV;
-19:00;Eurocup Liga Regular;Aris Thessaloniki BC;Lietkabelis Panevezys;EuroLeague TV;
-19:00;Eurocup Liga Regular;Ratiopharm Ulm;Dreamland Gran Canaria;EuroLeague YouTube;
-20:30;Eurocup Liga Regular;Paris Basketball;Umana Reyer Venice;EuroLeague TV;
-21:00;FIBA Europe Cup Segunda Ronda;FC Porto CB;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
+16:30;Eurocup Women Play-Off;Melikgazi Kayseri;Movistar Estudiantes;FIBA YouTube;
+18:00;Eurocup Liga Regular;BC Prometey;Besiktas JK Istanbul;EuroLeague TV;
+18:00;Eurocup Women Play-Off;KSC Szekszard;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
+19:30;Eurocup Liga Regular;JL Bourg;Dolomiti Energia Trento;EuroLeague TV;
+19:45;Eurocup Liga Regular;Buducnost Voli;Türk Telekom Ankara;EuroLeague TV;
+20:00;Eurocup Women Play-Off;Castors Braine;Cadi La Seu;FIBA YouTube;Esport3 Web;
+20:00;FIBA Europe Cup Segunda Ronda;BCM Gravelines;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
+20:15;Eurocup Liga Regular;Joventut Badalona;Olimpija Ljubljana;Esport3 (Cataluña);
+20:30;Basketball Champions League Liga Regular;UCAM Murcia CB;Derthona Basket;RTVE Play;Popular TV Murcia;
+20:30;Eurocup Liga Regular;London Lions;Hamburg Towers;EuroLeague TV;
