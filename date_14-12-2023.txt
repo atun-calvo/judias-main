@@ -1,5 +1,5 @@
-01:00;NBA Liga Regular;Detroit Pistons;Philadelphia 76ers;M+ #Vamos Bar (304);
 02:00;NBA Liga Regular;San Antonio Spurs;Los Angeles Lakers;M+ Deportes (63);
+12:00;Copa de España;Sorteo;Teledeporte;RTVE Play;
 12:00;Master Final;1/4 Final Femenino;M+ Vamos (8 y 53);M+ #Vamos Bar (304);M+ Ellas Vamos (66);Movistar+ Lite;
 14:00;Master Final;1/4 Final Masculino;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 17:00;Master Final;1/4 Final Femenino;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
