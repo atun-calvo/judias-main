@@ -1,1 +1,6 @@
-20:00;Eurocup Women Play-Off;Kangoeroes Mechelen;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
+17:00;Ultimate Tennis Showdown Fase de grupos;D. Schwartzman;B. Paire;Tennis Channel (Orange 104);Eurosport Player;
+18:00;Ultimate Tennis Showdown Fase de grupos;A. Rublev;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
+19:00;Ultimate Tennis Showdown Fase de grupos;A. Bublik;G. Monfils;Tennis Channel (Orange 104);Eurosport Player;
+21:00;Ultimate Tennis Showdown Fase de grupos;A. Rublev;D. Schwartzman;Tennis Channel (Orange 104);Eurosport Player;
+22:00;Ultimate Tennis Showdown Fase de grupos;H. Rune;J. Draper;Tennis Channel (Orange 104);Eurosport Player;
+23:00;Ultimate Tennis Showdown Fase de grupos;C. Ruud;B. Paire;Tennis Channel (Orange 104);Eurosport Player;
