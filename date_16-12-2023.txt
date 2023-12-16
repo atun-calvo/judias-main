@@ -4,10 +4,10 @@
 14:00;La Liga EA Sports;Celta;Granada CF;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Eldense;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 15:00;Máster Futuro Nacional MAPFRE;Semifinal femenina;Teledeporte;RTVE Play;
-16:00;Premier League;Bournemouth;Luton Town;DAZN (Regístrate);DAZN 3 (M196);
-16:00;Premier League;Chelsea;Sheffield United;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 2 Bar (Movistar-149);DAZN 1 (M70);DAZN 2 (M71);
+16:00;Premier League;Bournemouth;Luton Town;DAZN (Regístrate);DAZN 4 (M197);
+16:00;Premier League;Chelsea;Sheffield United;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
 16:00;Premier League;Manchester City;Crystal Palace;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-16:00;Premier League;Newcastle;Fulham;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
+16:00;Premier League;Newcastle;Fulham;DAZN (Regístrate);DAZN 3 (M196);
 16:15;La Liga EA Sports;Athletic Club;At. Madrid;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;FC Andorra;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 16:30;Máster Futuro Nacional MAPFRE;Semifinal masculina;RTVE Play;
