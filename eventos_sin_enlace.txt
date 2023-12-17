@@ -4,5 +4,5 @@
 15:10;Copa del Mundo Ciclocross;Namur (Bélgica);Carrera masculina;Eurosport Player;
 17:00;Ultimate Tennis Showdown Semifinales;A. Rublev;H. Rune;Tennis Channel (Orange 104);Eurosport Player;
 18:00;Ultimate Tennis Showdown Semifinales;J. Draper;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
-19:30;Ultimate Tennis Showdown;Final;Tennis Channel (Orange 104);Eurosport Player;
+19:30;Ultimate Tennis Showdown Final;H. Rune;J. Draper;Tennis Channel (Orange 104);Eurosport Player;
 BaloncestoESP;Esport3 (Cataluña);

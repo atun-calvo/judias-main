@@ -16,12 +16,12 @@
 17:00;Liga Endesa Liga Regular;Río Breogán;UCAM Murcia CB;M+ Deportes 4 (191);
 17:00;Ultimate Tennis Showdown Semifinales;A. Rublev;H. Rune;Tennis Channel (Orange 104);Eurosport Player;
 17:30;Premier League;Liverpool;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+18:00;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 18:00;Ultimate Tennis Showdown Semifinales;J. Draper;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
 18:30;La Liga EA Sports;UD Las Palmas;Cádiz CF;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Amorebieta;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 18:30;Liga Endesa Liga Regular;Valencia Basket;MoraBanc Andorra;M+ Deportes 2 (64);
-19:30;Ultimate Tennis Showdown;Final;Tennis Channel (Orange 104);Eurosport Player;
+19:30;Ultimate Tennis Showdown Final;H. Rune;J. Draper;Tennis Channel (Orange 104);Eurosport Player;
 21:00;La Liga EA Sports;Real Madrid;Villarreal;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Racing Ferrol;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 21:30;NBA Liga Regular;San Antonio Spurs;New Orleans Pelicans;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
