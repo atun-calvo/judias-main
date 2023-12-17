@@ -14,9 +14,9 @@
 16:15;La Liga EA Sports;Real Sociedad;Real Betis;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Levante;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 17:00;Liga Endesa Liga Regular;Río Breogán;UCAM Murcia CB;M+ Deportes 4 (191);
-17:00;Ultimate Tennis Showdown;Semifinales;Tennis Channel (Orange 104);Eurosport Player;
+17:00;Ultimate Tennis Showdown Semifinales;A. Rublev;H. Rune;Tennis Channel (Orange 104);Eurosport Player;
 17:30;Premier League;Liverpool;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-18:00;Ultimate Tennis Showdown;Semifinales;Tennis Channel (Orange 104);Eurosport Player;
+18:00;Ultimate Tennis Showdown Semifinales;J. Draper;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
 18:30;La Liga EA Sports;UD Las Palmas;Cádiz CF;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Amorebieta;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
