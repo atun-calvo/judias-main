@@ -10,7 +10,7 @@
 19:00;LaLiga Hypermotion;Albacete;Eldense;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M3;
 19:00;LaLiga Hypermotion;Racing Santander;FC Andorra;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M4;
 20:00;Euroliga Liga Regular;ALBA Berlin;Barça Basket;M+ Deportes 2 (64);
-20:00;Vuelta a España;Gala de Presentación;Edición 2024;Teledeporte;RTVE Play;
+20:00;Vuelta a España;Gala de Presentación;Edición 2024;Teledeporte;RTVE Play;Eurosport Player;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Baskonia;M+ Deportes 3 (65);
 20:30;Basketball Champions League Liga Regular;Peristeri BC;Unicaja Málaga;101 TV (Málaga);
 20:30;Euroliga Liga Regular;Virtus Bologna;Olympiacos Piraeus;M+ Deportes 4 (191);
