@@ -1,5 +1,6 @@
 01:30;NBA Liga Regular;Miami Heat;Minnesota Timberwolves;M+ Deportes (63);
 18:00;Basketball Champions League Liga Regular;Cholet Basket;Lenovo Tenerife;Teledeporte;RTVE Play;
+18:00;Basketball Champions League Liga Regular;Darüşşafaka Basketbol;VEF Riga;Popular TV Murcia;
 18:00;Eurocup Liga Regular;Lietkabelis Panevezys;Ratiopharm Ulm;EuroLeague TV;
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;Aris Thessaloniki BC;EuroLeague TV;
 18:00;Eurocup Liga Regular;U-BT Cluj Napoca;JL Bourg;EuroLeague TV;
