@@ -1,0 +1,6 @@
+18:00;Eurocup Liga Regular;Lietkabelis Panevezys;Ratiopharm Ulm;EuroLeague TV;
+18:00;Eurocup Liga Regular;Türk Telekom Ankara;Aris Thessaloniki BC;EuroLeague TV;
+18:00;Eurocup Liga Regular;U-BT Cluj Napoca;JL Bourg;EuroLeague TV;
+18:30;Eurocup Liga Regular;Olimpija Ljubljana;Besiktas JK Istanbul;EuroLeague TV;
+20:30;Basketball Champions League Liga Regular;Peristeri BC;Unicaja Málaga;101 TV (Málaga);
+21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Dolomiti Energia Trento;EuroLeague YouTube;

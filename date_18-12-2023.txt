@@ -1,4 +1,0 @@
-12:00;Champions League;Sorteo Octavos de Final;UEFA TV;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);
-13:00;Europa League;Sorteo de Play-offs;UEFA TV;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);
-20:30;LaLiga Hypermotion;Villarreal B;Real Valladolid;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
-21:00;La Liga EA Sports;Girona;Alavés;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
