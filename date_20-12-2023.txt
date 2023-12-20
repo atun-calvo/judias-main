@@ -20,4 +20,4 @@
 21:30;La Liga EA Sports;Athletic Club;UD Las Palmas;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
 21:30;La Liga EA Sports;Villarreal;Celta;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M2;
 21:30;LaLiga Hypermotion;Eibar;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M3;
-21:30;LaLiga Hypermotion;Leganés;CD Tenerife;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M4;
+21:30;LaLiga Hypermotion;Leganés;CD Tenerife;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);LALIGA TV Hypermotion (M56 O 119);LaLiga TV M4;
