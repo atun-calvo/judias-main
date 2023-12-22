@@ -1,13 +1,13 @@
 02:00;NBA Liga Regular;Chicago Bulls;San Antonio Spurs;M+ Deportes (63);
 12:00;World Tennis League;Partidos de Dobles;Tennis Channel (Orange 104);Eurosport Player;
-13:00;World Tennis League;L. Fernández;P. Badosa;Tennis Channel (Orange 104);Eurosport Player;
-14:00;World Tennis League;S. Nagal;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
-15:00;World Tennis League;Partidos de Dobles;Tennis Channel (Orange 104);Eurosport Player;
-16:00;World Tennis League;M. Andreeva;C. García;Tennis Channel (Orange 104);Eurosport Player;
-17:00;World Tennis League;A. Rublev;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
+14:00;World Tennis League;T. Fritz;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
+15:00;World Tennis League;E. Rybakina;A. Sabalenka;Tennis Channel (Orange 104);Eurosport Player;
+16:00;World Tennis League;Partidos de Dobles;Tennis Channel (Orange 104);Eurosport Player;
+18:00;World Tennis League;D. Medvedev;H. Hurkacz;Tennis Channel (Orange 104);Eurosport Player;
 18:15;Euroliga Liga Regular;Anadolu Efes Istanbul;Baskonia;M+ Deportes 2 (64);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
 19:00;Liga Endesa Liga Regular;Bilbao Basket;Basquet Girona;M+ Deportes 3 (65);
+19:00;World Tennis League;S. Kenin;C. García;Tennis Channel (Orange 104);Eurosport Player;
 19:45;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Olympiacos Piraeus;M+ Deportes 8 (M195);
 20:15;Euroliga Liga Regular;ALBA Berlin;Fenerbahce Istanbul;M+ Deportes 7 (194);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;AS Monaco Basket;M+ Deportes 6 (193);
