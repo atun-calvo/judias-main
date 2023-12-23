@@ -4,7 +4,7 @@
 13:00;Primera Federación Futsal;Viña Albali Valdepeñas;Córdoba FS;FEF TV;
 13:30;Premier League;West Ham;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 13:40;Copa del Mundo Ciclocross;Amberes (Bélgica);Carrera femenina;DAZN (Regístrate);Eurosport 1;Eurosport Player;
-14:00;World Tennis League;S. Kenin;E. Rybakina;Tennis Channel (Orange 104);Eurosport Player;
+14:00;World Tennis League;S. Kenin;S. Cirstea;Tennis Channel (Orange 104);Eurosport Player;
 15:00;World Tennis League;D. Medvedev;T. Fritz;Tennis Channel (Orange 104);Eurosport Player;
 15:10;Copa del Mundo Ciclocross;Amberes (Bélgica);Carrera masculina;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 16:00;Premier League;Fulham;Burnley;DAZN (Regístrate);DAZN 4 (M197);
@@ -23,7 +23,7 @@
 18:30;Liga Endesa Liga Regular;Joventut Badalona;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
 18:30;Premier League;Liverpool;Arsenal;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 18:30;Segunda Federación Futsal;Atlético Mengíbar;Club Sala 5 Martorell;RFEF.es;
-19:00;World Tennis League;S. Tsitsipas;H. Hurkacz;Tennis Channel (Orange 104);Eurosport Player;
+19:00;World Tennis League;C. Ruud;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
 19:30;Segunda Federación Futsal;AD Sala 10 Zaragoza;Full Energía Zaragoza;Aragón Deporte;
 20:00;Primera Federación Futsal;Alzira FS;Movistar Inter;FEF TV;
 20:00;Primera Federación Futsal;Jaén FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
