@@ -1,17 +1,1 @@
-12:00;World Tennis League;Partidos de Dobles;Tennis Channel (Orange 104);Eurosport Player;
-13:00;Primera Federación Futsal;ElPozo Murcia;Real Betis FS;FEF TV;
-13:00;Primera Federación Futsal;Viña Albali Valdepeñas;Córdoba FS;FEF TV;
-14:00;World Tennis League;S. Kenin;S. Cirstea;Tennis Channel (Orange 104);Eurosport Player;
-15:00;World Tennis League;D. Medvedev;T. Fritz;Tennis Channel (Orange 104);Eurosport Player;
-16:00;Primera Federación Futsal;Palma Futsal;Industrias Santa Coloma;FEF TV;Esport3 (Cataluña);
-16:00;Primera Federación Futsal;Ribera Navarra FS;Servigroup Peñiscola FS;FEF TV;
-16:00;World Tennis League;Partidos de Dobles;Tennis Channel (Orange 104);Eurosport Player;
-17:00;Velada Peso Pesado;A. Joshua;O. Wallin;DAZN (Regístrate);
-18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Jimbee Cartagena FS;FEF TV;
-18:00;World Tennis League;A. Sabalenka;I. Swiatek;Tennis Channel (Orange 104);Eurosport Player;
-18:30;Segunda Federación Futsal;Atlético Mengíbar;Club Sala 5 Martorell;RFEF.es;
-19:00;World Tennis League;C. Ruud;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
-19:30;Segunda Federación Futsal;AD Sala 10 Zaragoza;Full Energía Zaragoza;Aragón Deporte;
-20:00;Primera Federación Futsal;Alzira FS;Movistar Inter;FEF TV;
-20:00;Primera Federación Futsal;Jaén FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
-BaloncestoESP;
+15:00;World Tennis League;Final;Tennis Channel (Orange 104);Eurosport Player;
