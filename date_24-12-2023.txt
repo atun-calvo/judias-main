@@ -1,2 +1,4 @@
 14:00;Premier League;Wolverhampton;Chelsea;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
-15:00;World Tennis League;Final;Tennis Channel (Orange 104);Eurosport Player;
+15:00;World Tennis League;Final;Partidos de dobles;Tennis Channel (Orange 104);Eurosport Player;
+17:00;World Tennis League Final;S. Kenin;A. Sabalenka;Tennis Channel (Orange 104);Eurosport Player;
+18:00;World Tennis League Final;A. Rublev;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
