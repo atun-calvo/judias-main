@@ -1,3 +1,1 @@
-15:00;World Tennis League;Final;Partidos de dobles;Tennis Channel (Orange 104);Eurosport Player;
-17:00;World Tennis League Final;S. Kenin;A. Sabalenka;Tennis Channel (Orange 104);Eurosport Player;
-18:00;World Tennis League Final;A. Rublev;G. Dimitrov;Tennis Channel (Orange 104);Eurosport Player;
+18:00;NBA Liga Regular;New York Knicks;Milwaukee Bucks;NBA League Pass;
