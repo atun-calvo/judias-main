@@ -1,1 +1,6 @@
-18:00;NBA Liga Regular;New York Knicks;Milwaukee Bucks;NBA League Pass;
+02:00;NBA Liga Regular;Miami Heat;Philadelphia 76ers;NBA League Pass;
+04:30;NBA Liga Regular;Phoenix Suns;Dallas Mavericks;NBA League Pass;
+19:30;Eurocup Liga Regular;JL Bourg;Dreamland Gran Canaria;EuroLeague YouTube;
+19:30;Eurocup Liga Regular;Ratiopharm Ulm;Türk Telekom Ankara;EuroLeague TV;
+20:30;Eurocup Liga Regular;Joventut Badalona;Umana Reyer Venice;Esport3 (Cataluña);
+20:45;Eurocup Liga Regular;Paris Basketball;London Lions;EuroLeague TV;

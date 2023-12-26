@@ -1,0 +1,14 @@
+02:00;NBA Liga Regular;Miami Heat;Philadelphia 76ers;NBA League Pass;
+04:30;NBA Liga Regular;Phoenix Suns;Dallas Mavericks;NBA League Pass;
+13:30;Premier League;Newcastle;Nottingham Forest;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+13:40;Copa del Mundo Ciclocross;Gavere (Bélgica);Carrera femenina;DAZN (Regístrate);Eurosport 1;Eurosport Player;
+15:10;Copa del Mundo Ciclocross;Gavere (Bélgica);Carrera masculina;DAZN (Regístrate);Eurosport 1;Eurosport Player;
+16:00;Premier League;Bournemouth;Fulham;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+16:00;Premier League;Sheffield United;Luton Town;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
+17:00;Partido de Exhibición Riad (Arabia Saudí);O. Jabeur;A. Sabalenka;DAZN (Regístrate);DAZN 3 (M196);
+18:30;Premier League;Burnley;Liverpool;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+19:30;Eurocup Liga Regular;JL Bourg;Dreamland Gran Canaria;EuroLeague YouTube;
+19:30;Eurocup Liga Regular;Ratiopharm Ulm;Türk Telekom Ankara;EuroLeague TV;
+20:30;Eurocup Liga Regular;Joventut Badalona;Umana Reyer Venice;Esport3 (Cataluña);
+20:45;Eurocup Liga Regular;Paris Basketball;London Lions;EuroLeague TV;
+21:00;Premier League;Manchester Utd.;Aston Villa;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
