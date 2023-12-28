@@ -1,6 +1,2 @@
-18:00;Eurocup Liga Regular;BC Prometey;Olimpija Ljubljana;EuroLeague TV;
-18:00;Eurocup Liga Regular;Besiktas JK Istanbul;BC Wolves;EuroLeague TV;
-18:30;Eurocup Liga Regular;Hapoel Tel Aviv BC;Hamburg Towers;EuroLeague TV;
-19:00;Eurocup Liga Regular;Aris Thessaloniki BC;WKS Slask Wroclaw;EuroLeague TV;
-19:00;Eurocup Liga Regular;Buducnost Voli;U-BT Cluj Napoca;EuroLeague TV;
-20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Lietkabelis Panevezys;EuroLeague TV;
+20:15;Euroliga Liga Regular;Panathinaikos BC;Crvena Zvezda MTS Belgrade;M+ Deportes 8 (M195);
+20:30;Partido de Exhibición Murcia (España);C. Alcaraz;R. Bautista-Agut;La 7 TV (Murcia);
