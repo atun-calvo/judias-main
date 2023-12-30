@@ -1,4 +1,5 @@
 00:30;United Cup Fase de grupos Partido 1;A. Rus;M. Helgo;ATP Tennis TV;Tennis Channel (Orange 104);
+01:30;NBA Liga Regular;Atlanta Hawks;Sacramento Kings;M+ Deportes (63);
 02:30;United Cup Fase de grupos Partido 2;T. Griekspoor;C. Ruud;ATP Tennis TV;Tennis Channel (Orange 104);
 03:00;United Cup Fase de grupos Partido 1;J. Lehecka;Zh. Zhang;ATP Tennis TV;Tennis Channel (Orange 104);
 04:30;United Cup Fase de grupos Partido 3 (Dobles);Holanda;Noruega;ATP Tennis TV;Tennis Channel (Orange 104);
@@ -9,5 +10,17 @@
 10:00;United Cup Fase de grupos Partido 1;I. Swiatek;B. Haddad Maia;ATP Tennis TV;Tennis Channel (Orange 104);
 11:30;United Cup Fase de grupos Partido 3 (Dobles);Italia;Alemania;ATP Tennis TV;Tennis Channel (Orange 104);
 12:00;United Cup Fase de grupos Partido 2;H. Hurkacz;T. Seyboth-Wild;ATP Tennis TV;Tennis Channel (Orange 104);
+13:30;Premier League;Luton Town;Chelsea;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+13:40;Copa del Mundo Ciclocross;Hulst (Holanda);Carrera femenina;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 14:00;United Cup Fase de grupos Partido 3 (Dobles);Polonia;Brasil;ATP Tennis TV;Tennis Channel (Orange 104);
+15:10;Copa del Mundo Ciclocross;Hulst (Holanda);Carrera masculina;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+16:00;Premier League;Aston Villa;Burnley;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
+16:00;Premier League;Crystal Palace;Brentford;DAZN (Regístrate);DAZN 3 (M196);
+16:00;Premier League;Manchester City;Sheffield United;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+16:00;Premier League;Wolverhampton;Everton;DAZN (Regístrate);DAZN 4 (M197);
+18:00;Liga Endesa Liga Regular;Zunder Palencia;Bilbao Basket;M+ Deportes (63);
+18:30;Premier League;Nottingham Forest;Manchester Utd.;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+20:45;Liga Endesa Liga Regular;Basquet Girona;Baskonia;M+ Deportes (63);
+20:45;Liga Endesa Liga Regular;Dreamland Gran Canaria;Río Breogán;M+ Deportes 2 (64);
+23:00;NBA Liga Regular;Utah Jazz;Miami Heat;Movistar Plus+ (M7);M+ Deportes (63);
 BaloncestoESP;
