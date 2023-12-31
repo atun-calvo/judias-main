@@ -10,4 +10,7 @@
 07:00;United Cup Fase de grupos Partido 3 (Dobles);Estados Unidos;Gran Bretaña;ATP Tennis TV;Tennis Channel (Orange 104);
 10:00;United Cup Fase de grupos Partido 1;Zh. Zhang;N. Djokovic;ATP Tennis TV;Tennis Channel (Orange 104);
 12:00;United Cup Fase de grupos Partido 2;Q. Zheng;O. Danilovic;ATP Tennis TV;Tennis Channel (Orange 104);
+12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Valencia Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 14:00;United Cup Fase de grupos Partido 3 (Dobles);China;Serbia;ATP Tennis TV;Tennis Channel (Orange 104);
+15:00;Premier League;Fulham;Arsenal;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+15:00;Premier League;Tottenham;Bournemouth;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);DAZN 2 (M71);
