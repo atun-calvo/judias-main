@@ -22,3 +22,4 @@
 11:30;United Cup Fase de grupos Partido 3 (Dobles);Francia;Alemania;ATP Tennis TV;Tennis Channel (Orange 104);
 12:00;United Cup Fase de grupos Partido 2;J. Pegula;A. Tomljanovic;ATP Tennis TV;Tennis Channel (Orange 104);
 14:00;United Cup Fase de grupos Partido 3 (Dobles);Estados Unidos;Australia;ATP Tennis TV;Tennis Channel (Orange 104);
+21:00;Premier League;Liverpool;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
