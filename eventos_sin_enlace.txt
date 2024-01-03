@@ -19,7 +19,7 @@
 11:00;Torneo de Brisbane 2ª Ronda;H. Rune;A. Shevchenko;ATP Tennis TV;
 11:00;Torneo de Hong Kong 2ª Ronda;E. Ruusuvuori;K. Khachanov;ATP Tennis TV;
 11:30;United Cup Fase de grupos Partido 3 (Dobles);Grecia;Canadá;ATP Tennis TV;
-12:00;United Cup 1/4 de Final Partido 2;A. Tomljanovic;O. Danilovic;ATP Tennis TV;Tennis Channel (Orange 104);
+12:00;United Cup 1/4 de Final Partido 2;A. Tomljanovic;N. Stevanovic;ATP Tennis TV;Tennis Channel (Orange 104);
 12:30;Torneo de Hong Kong 2ª Ronda;L. Musetti;P. Kotov;ATP Tennis TV;
 14:00;United Cup 1/4 de Final Partido 3 (Dobles);Australia;Serbia;ATP Tennis TV;Tennis Channel (Orange 104);
 BaloncestoESP;
