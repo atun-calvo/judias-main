@@ -1,5 +1,6 @@
 00:00;WTA Torneo de Auckland 2ª Ronda;Y. Yuan;P. Martic;WTA TV;DAZN (Regístrate);
 01:30;WTA Torneo de Auckland 2ª Ronda;C. Gauff;B. Fruhvirtova;WTA TV;DAZN (Regístrate);
+02:00;NBA Liga Regular;Indiana Pacers;Milwaukee Bucks;M+ Deportes (63);
 02:00;WTA Torneo de Brisbane 2ª Ronda;C. Burel;V. Azarenka;WTA TV;DAZN (Regístrate);
 03:30;WTA Torneo de Auckland 2ª Ronda;L. Sun;V. Gracheva;WTA TV;DAZN (Regístrate);
 03:30;WTA Torneo de Brisbane 2ª Ronda;J. Ostapenko;K. Pliskova;WTA TV;DAZN (Regístrate);
@@ -7,8 +8,17 @@
 06:30;WTA Torneo de Auckland 2ª Ronda;E. Raducanu;E. Svitolina;WTA TV;DAZN (Regístrate);
 07:00;Torneo de Hong Kong 2ª Ronda;R. Bautista-Agut;F. Cerúndolo;ATP Tennis TV;
 07:30;United Cup 1/4 de Final Partido 1;C. García;M. Helgo;ATP Tennis TV;Tennis Channel (Orange 104);
+07:30;WTA Torneo de Brisbane 2ª Ronda;E. Mertens;E. Rybakina;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 08:30;Torneo de Hong Kong 2ª Ronda;MA. Huesler;A. Fils;ATP Tennis TV;
 09:30;Torneo de Brisbane 2ª Ronda;J. Kubler;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);
 09:30;United Cup 1/4 de Final Partido 2;A. Mannarino;C. Ruud;ATP Tennis TV;Tennis Channel (Orange 104);
+11:00;WTA Torneo de Brisbane 2ª Ronda;A. Sabalenka;L. Zhu;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 11:30;Torneo de Hong Kong 2ª Ronda;A. Rublev;L. Broady;ATP Tennis TV;
 11:30;United Cup 1/4 de Final Partido 3 (Dobles);Francia;Noruega;ATP Tennis TV;Tennis Channel (Orange 104);
+17:00;La Liga EA Sports;Osasuna;UD Almería;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
+18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Maccabi Tel Aviv BC;M+ Deportes 2 (64);
+19:15;La Liga EA Sports;Sevilla FC;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
+20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Zalgiris Kaunas;M+ Deportes 4 (191);
+20:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;BC Partizan Beograd;M+ Deportes (63);
+20:15;Euroliga Liga Regular;Olympiacos Piraeus;AS Monaco Basket;M+ Deportes 3 (65);
+21:30;La Liga EA Sports;UD Las Palmas;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
