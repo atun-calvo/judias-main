@@ -3,6 +3,7 @@
 01:30;Torneo de Adelaida 1ª Ronda;C. O'Connell;Y. Nishioka;ATP Tennis TV;
 01:30;Torneo de Auckland 1ª Ronda;D. Shapovalov;S. Ofner;ATP Tennis TV;
 01:30;WTA Torneo de Adelaida 1ª Ronda;S. Cirstea;J. Ostapenko;WTA TV;DAZN (Regístrate);
+02:00;NBA Liga Regular;Milwaukee Bucks;Utah Jazz;M+ Deportes (63);
 02:00;WTA Torneo de Hobart 1ª Ronda;G. Minnen;S. Kenin;WTA TV;
 03:00;Torneo de Adelaida 1ª Ronda;J. Thompson;F. Díaz Acosta;ATP Tennis TV;
 03:00;Torneo de Auckland 1ª Ronda;K. Pannu;M. Purcell;ATP Tennis TV;
@@ -13,6 +14,15 @@
 06:30;WTA Torneo de Hobart 1ª Ronda;O. Gadecki;X. Wang;WTA TV;
 08:00;WTA Torneo de Hobart 1ª Ronda;C. Burel;E. Navarro;WTA TV;
 08:30;Partido de Exhibición Melbourne (Australia);N. Osaka;E. Raducanu;Eurosport Player;
+09:00;WTA Torneo de Adelaida 1ª Ronda;M. Vondrousova;A. Sasnovich;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 10:30;Torneo de Adelaida 1ª Ronda;R. Hijikata;D. Evans;ATP Tennis TV;
 18:00;Eurocup Liga Regular;BC Wolves;Olimpija Ljubljana;EuroLeague TV;
 18:30;Eurocup Liga Regular;Hapoel Tel Aviv BC;London Lions;EuroLeague TV;
+18:30;Euroliga Liga Regular;Fenerbahce Istanbul;BC Partizan Beograd;M+ Deportes 4 (191);
+19:00;Euroliga Liga Regular;AS Monaco Basket;Baskonia;M+ Deportes 3 (65);
+20:00;Euroliga Liga Regular;FC Bayern Basketball;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
+20:15;Euroliga Liga Regular;Panathinaikos BC;Anadolu Efes Istanbul;M+ Deportes 5 (192);
+20:30;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Crvena Zvezda MTS Belgrade;M+ Deportes 7 (194);
+20:30;Euroliga Liga Regular;AX Olimpia Milano;ALBA Berlin;M+ Deportes 6 (193);
+20:30;Euroliga Liga Regular;Valencia Basket;Zalgiris Kaunas;M+ Deportes 2 (64);
+21:00;Rally Dakar;Etapa 4;Al Salamiya › Al-Hofuf (661 km - SS: 299 km);DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;Eurosport Player;
