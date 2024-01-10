@@ -31,7 +31,7 @@
 20:00;Eurocup Liga Regular;WKS Slask Wroclaw;Ratiopharm Ulm;EuroLeague TV;
 20:00;Eurocup Women 1/8 de final;Lointek Gernika;London Lions;FIBA YouTube;ETB4 (País Vasco);
 20:00;Supercopa de España Semifinales;Real Madrid;At. Madrid;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);
-20:30;Basketball Champions League Play-In Partido 2;Río Breogán;Karsiyaka Basket;Teledeporte;RTVE Play;TVG2 (Galicia);
+20:30;Basketball Champions League Play-In;Río Breogán;Karsiyaka Basket;Teledeporte;RTVE Play;TVG2 (Galicia);
 20:30;Eurocup Liga Regular;Paris Basketball;BC Prometey;EuroLeague TV;
 20:30;Euroliga Liga Regular;Barça Basket;Olympiacos Piraeus;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Euroliga Liga Regular;Maccabi Tel Aviv BC;Virtus Bologna;M+ Deportes (63);
