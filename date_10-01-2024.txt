@@ -1,6 +1,7 @@
 00:00;Open Australia;Ronda de clasificación;Grand Slam;Eurosport Player;
 00:00;Torneo de Auckland 2ª Ronda;D. Altmaier;F. Auger-Aliassime;ATP Tennis TV;
 01:00;Kooyong Classic Torneo de Exhibición;J. Sinner;M. Polmans;Tennis Channel (Orange 104);
+01:00;NBA Liga Regular;Orlando Magic;Minnesota Timberwolves;M+ Deportes (63);
 01:30;Torneo de Auckland 2ª Ronda;B. Shelton;F. Marozsan;ATP Tennis TV;
 01:30;WTA Torneo de Adelaida 2ª Ronda;B. Pera;J. Pegula;WTA TV;DAZN (Regístrate);
 02:00;WTA Torneo de Hobart 2ª Ronda;E. Mertens;A. Schmiedlova;WTA TV;DAZN (Regístrate);
@@ -13,9 +14,11 @@
 05:30;Kooyong Classic Torneo de Exhibición;F. Tiafoe;Zh. Zhang;Tennis Channel (Orange 104);
 06:30;Torneo de Auckland 2ª Ronda;L. Van Assche;C. Norrie;ATP Tennis TV;
 06:30;WTA Torneo de Hobart 2ª Ronda;D. Saville;S. Kenin;WTA TV;DAZN (Regístrate);
+08:00;WTA Torneo de Adelaida 2ª Ronda;E. Alexandrova;V. Kudermetova;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 08:00;WTA Torneo de Hobart 2ª Ronda;M. Bouzkova;Y. Putintseva;WTA TV;DAZN (Regístrate);
 08:30;Partido de Exhibición Melbourne (Australia);A. De Miñaur;C. Alcaraz;Eurosport Player;
 09:00;Torneo de Adelaida 2ª Ronda;L. Musetti;J. Thompson;ATP Tennis TV;
+10:30;WTA Torneo de Adelaida 2ª Ronda;E. Rybakina;C. Bucsa;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 17:00;FIBA Europe Cup Segunda Ronda;Manisa BBSK;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
 18:00;Eurocup Liga Regular;Lietkabelis Panevezys;Dreamland Gran Canaria;EuroLeague YouTube;
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;Dolomiti Energia Trento;EuroLeague TV;
@@ -27,4 +30,9 @@
 20:00;Eurocup Liga Regular;Umana Reyer Venice;Besiktas JK Istanbul;EuroLeague TV;
 20:00;Eurocup Liga Regular;WKS Slask Wroclaw;Ratiopharm Ulm;EuroLeague TV;
 20:00;Eurocup Women 1/8 de final;Lointek Gernika;London Lions;FIBA YouTube;ETB4 (País Vasco);
+20:00;Supercopa de España Semifinales;Real Madrid;At. Madrid;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);
+20:30;Basketball Champions League Play-In Partido 2;Río Breogán;Karsiyaka Basket;Teledeporte;RTVE Play;TVG2 (Galicia);
 20:30;Eurocup Liga Regular;Paris Basketball;BC Prometey;EuroLeague TV;
+20:30;Euroliga Liga Regular;Barça Basket;Olympiacos Piraeus;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+21:00;Euroliga Liga Regular;Maccabi Tel Aviv BC;Virtus Bologna;M+ Deportes (63);
+21:00;Rally Dakar;Etapa 5;Al-Hofuf › Shubaytah (727 km - SS: 118 km);DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;Eurosport Player;
