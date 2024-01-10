@@ -14,7 +14,7 @@
 06:30;Torneo de Auckland 2ª Ronda;L. Van Assche;C. Norrie;ATP Tennis TV;
 06:30;WTA Torneo de Hobart 2ª Ronda;D. Saville;S. Kenin;WTA TV;DAZN (Regístrate);
 08:00;WTA Torneo de Hobart 2ª Ronda;M. Bouzkova;Y. Putintseva;WTA TV;DAZN (Regístrate);
-08:30;Partido de Exhibición Melbourne (Australia);A. De Miñaur;C. Alcaraz;Eurosport Player;
+08:30;Partido de Exhibición Melbourne (Australia);A. De Miñaur;C. Alcaraz;Australian Open TV YouTube;Eurosport Player;
 09:00;Torneo de Adelaida 2ª Ronda;L. Musetti;J. Thompson;ATP Tennis TV;
 17:00;FIBA Europe Cup Segunda Ronda;Manisa BBSK;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
 18:00;Eurocup Liga Regular;Lietkabelis Panevezys;Dreamland Gran Canaria;EuroLeague YouTube;
