@@ -25,3 +25,4 @@
 21:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;ALBA Berlin;M+ Deportes 5 (192);
 21:00;La Liga EA Sports;Sevilla FC;Alavés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Osasuna Magna;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
+21:00;Rally Dakar;Etapa 6;Shubaytah › Shubaytah (818 km - SS: 584 km);Teledeporte;RTVE Play;Esport3 (Cataluña);
