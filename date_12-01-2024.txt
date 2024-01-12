@@ -21,7 +21,7 @@
 20:30;Euroliga Liga Regular;Baskonia;Olympiacos Piraeus;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;LaLiga Hypermotion;Eibar;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);M+ Vamos (8 y 53);Movistar+ Lite;DAZN (Regístrate);LaLiga TV M2;
 20:30;Primera Federación Futsal;Real Betis FS;Jaén FS;FEF TV;
-20:45;Premier League;Burnley;Luton Town;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
+20:45;Premier League;Burnley;Luton Town;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 21:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;ALBA Berlin;M+ Deportes 5 (192);
 21:00;La Liga EA Sports;Sevilla FC;Alavés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Osasuna Magna;Viña Albali Valdepeñas;FEF TV;CMMPlay (Castilla-LM);
