@@ -19,5 +19,4 @@
 06:00;Open Australia 1ª Ronda (Pista 7);Q. Halys;L. Harris;Eurosport Player;
 06:30;Open Australia 1ª Ronda (Pista 13);C. Dolehide;L. Jeanjean;Eurosport Player;
 07:00;Open Australia 1ª Ronda (Kia Arena);D. Galán;J. Kubler;Eurosport Player;
-21:00;Rally Dakar;Etapa 7;Riyadh › Al Duwadimi (873 km - SS: 483 km);RTVE Play;Esport3 (Cataluña);
 BaloncestoESP;
