@@ -1,4 +1,5 @@
 01:00;Open Australia 1ª Ronda (1573 Arena);E. Svitolina;T. Preston;Eurosport Player;
+01:00;Open Australia 1ª Ronda (John Cain Arena);D. Yastremska;M. Vondrousova;M+ Deportes 7 (194);Eurosport Player;
 01:00;Open Australia 1ª Ronda (Kia Arena);S. Hunter;S. Errani;Eurosport Player;
 01:00;Open Australia 1ª Ronda (Pista 12);R. Carballés;H. Gaston;Eurosport Player;
 01:00;Open Australia 1ª Ronda (Pista 13);F. Cobolli;N. Jarry;Eurosport Player;
@@ -9,6 +10,10 @@
 01:00;Open Australia 1ª Ronda (Pista 6);K. Day;V. Tomova;Eurosport Player;
 01:00;Open Australia 1ª Ronda (Pista 7);Y. Wickmayer;V. Gracheva;Eurosport Player;
 01:00;Open Australia 1ª Ronda (Pista 8);N. Podoroska;T. Zidansek;Eurosport Player;
+02:00;Open Australia 1ª Ronda (Margaret Court Arena);T. Atmane;D. Medvedev;M+ Deportes 6 (193);Eurosport Player;
+02:00;Open Australia 1ª Ronda (Rod Laver Arena);A. Schmiedlova;C. Gauff;DAZN (Regístrate);Eurosport 4K (M444 O102);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
+02:30;Open Australia 1ª Ronda (1573 Arena);R. Bautista-Agut;B. Shelton;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+02:30;Open Australia 1ª Ronda (John Cain Arena);A. Popyrin;M. Polmans;M+ Deportes 7 (194);Eurosport Player;
 02:30;Open Australia 1ª Ronda (Kia Arena);A. Mannarino;S. Wawrinka;Eurosport Player;
 02:30;Open Australia 1ª Ronda (Pista 3);E. Alexandrova;L. Siegemund;Eurosport Player;
 02:30;Open Australia 1ª Ronda (Pista 6);J. Duckworth;L. Van Assche;Eurosport Player;
@@ -17,10 +22,14 @@
 03:00;Open Australia 1ª Ronda (Pista 12);T. Maria;MC. Osorio;Eurosport Player;
 03:00;Open Australia 1ª Ronda (Pista 13);D. Shnaider;J. Paolini;Eurosport Player;
 03:00;Open Australia 1ª Ronda (Pista 14);M. Kostyuk;C. Liu;Eurosport Player;
+03:00;Open Australia 1ª Ronda (Pista 17);R. Masarova;A. Sasnovich;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 03:00;Open Australia 1ª Ronda (Pista 5);F. Ferro;M. Kessler;Eurosport Player;
+03:30;Open Australia 1ª Ronda (Rod Laver Arena);Z. Bergs;S. Tsitsipas;DAZN (Regístrate);Eurosport 4K (M444 O102);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
+04:00;Open Australia 1ª Ronda (Margaret Court Arena);A. Pavlyuchenkova;D. Vekic;M+ Deportes 6 (193);Eurosport Player;
 04:00;Open Australia 1ª Ronda (Pista 3);A. Vukic;J. Thompson;Eurosport Player;
 04:00;Open Australia 1ª Ronda (Pista 7);D. Shapovalov;J. Mensik;Eurosport Player;
 04:30;Open Australia 1ª Ronda (1573 Arena);D. Altmaier;K. Khachanov;Eurosport Player;
+04:30;Open Australia 1ª Ronda (John Cain Arena);M. Frech;D. Saville;M+ Deportes 7 (194);Eurosport Player;
 04:30;Open Australia 1ª Ronda (Kia Arena);A. Murray;TM. Etcheverry;Eurosport Player;
 04:30;Open Australia 1ª Ronda (Pista 12);M. Marterer;N. Borges;Eurosport Player;
 04:30;Open Australia 1ª Ronda (Pista 13);C. Eubanks;T. Daniel;Eurosport Player;
@@ -39,4 +48,12 @@
 06:30;Open Australia 1ª Ronda (Pista 12);M. Andreeva;B. Pera;Eurosport Player;
 06:30;Open Australia 1ª Ronda (Pista 13);V. Golubic;V. Kudermetova;Eurosport Player;
 06:30;Open Australia 1ª Ronda (Pista 17);A. Kalinskaya;K. Volynets;Eurosport Player;
+06:30;Open Australia 1ª Ronda (Pista 6);T. Townsend;P. Badosa;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+07:00;Open Australia 1ª Ronda (John Cain Arena);O. Jasika;H. Hurkacz;M+ Deportes 7 (194);Eurosport Player;
+09:00;Open Australia 1ª Ronda (Margaret Court Arena);O. Jabeur;Y. Starodubtseva;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;Eurosport Player;
+09:00;Open Australia 1ª Ronda (Rod Laver Arena);A. De Miñaur;M. Raonic;DAZN (Regístrate);Eurosport 4K (M444 O102);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
+10:30;Open Australia 1ª Ronda (Margaret Court Arena);F. Auger-Aliassime;D. Thiem;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;Eurosport Player;
+11:00;Open Australia 1ª Ronda (Rod Laver Arena);C. García;N. Osaka;DAZN (Regístrate);Eurosport 4K (M444 O102);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
 13:00;Copa del Rey;Sorteo;Málaga 2024;ACB YouTube;Real Madrid TV;
+20:30;LaLiga Hypermotion;Eldense;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
+22:00;Rally Dakar;Etapa 8;Al Duwadimi › Hail (678 km - SS: 458 km);DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;Eurosport Player;
