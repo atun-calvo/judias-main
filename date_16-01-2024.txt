@@ -43,7 +43,7 @@
 19:00;Amistoso Femenino;Suecia;España;SeFutbol YouTube;
 20:00;Copa del Rey 1/8 de final;Getafe;Sevilla FC;M+ Liga de Campeones 2 (M61 O116);
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;WKS Slask Wroclaw;EuroLeague TV;
-20:00;Rally Dakar;Etapa 9;Hail › Al Ula (639 km - SS: 417 km);DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;Eurosport Player;
+20:00;Rally Dakar;Etapa 9;Hail › Al Ula (639 km - SS: 417 km);DAZN (Regístrate);Esport3 (Cataluña);Eurosport 2;Eurosport Player;
 20:30;Copa del Rey 1/8 de final;Atlético Mengíbar;Osasuna Magna;RFEF.es;
 20:30;Copa del Rey 1/8 de final;Córdoba FS;Manzanares FS;RFEF.es;
 20:30;Copa del Rey 1/8 de final;Industrias Santa Coloma;Palma Futsal;RFEF.es;
@@ -53,3 +53,4 @@
 21:00;Copa del Rey 1/8 de final;Ribera Navarra FS;Jaén FS;RFEF.es;
 21:00;Copa del Rey 1/8 de final;Servigroup Peñiscola FS;Viña Albali Valdepeñas;RFEF.es;
 22:00;Copa del Rey 1/8 de final;CD Tenerife;Mallorca;M+ Liga de Campeones 3 (M62 O118);
+22:15;Rally Dakar;Etapa 9;Hail › Al Ula (639 km - SS: 417 km);Teledeporte;RTVE Play;
