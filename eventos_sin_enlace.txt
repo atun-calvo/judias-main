@@ -18,5 +18,6 @@
 05:30;Open Australia 2ª Ronda (Pista 8);V. Gracheva;D. Yastremska;Eurosport Player;
 06:00;Open Australia 2ª Ronda (1573 Arena);F. Auger-Aliassime;H. Grenier;Eurosport Player;
 06:00;Open Australia 2ª Ronda (Kia Arena);J. Mensik;H. Hurkacz;Eurosport Player;
+19:30;Copa del Rey 1/8 de final;Unionistas;FC Barcelona;Movistar Plus+ (M7);M+ Copa del Rey (M52 O108);
 20:00;Eurocup Women 1/8 de final;London Lions;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
 21:30;Copa del Rey 1/8 de final;At. Madrid;Real Madrid;La 1 TVE;RTVE Play;

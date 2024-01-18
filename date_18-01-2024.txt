@@ -34,7 +34,7 @@
 11:00;Open Australia 2ª Ronda (Margaret Court Arena);C. Tauson;V. Azarenka;DAZN (Regístrate);M+ Deportes 6 (193);Eurosport 2;Eurosport Player;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 19:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Baskonia;M+ Deportes (63);
-19:30;Copa del Rey 1/8 de final;Unionistas;FC Barcelona;Movistar Plus+ (M7);Movistar Supercopa de España (M52 O108);M+ Copa del Rey (M52 O108);
+19:30;Copa del Rey 1/8 de final;Unionistas;FC Barcelona;Movistar Plus+ (M7);M+ Copa del Rey (M52 O108);
 20:00;Eurocup Women 1/8 de final;London Lions;Lointek Gernika;FIBA YouTube;ETB4 (País Vasco);
 20:00;Euroliga Liga Regular;ALBA Berlin;FC Bayern Basketball;M+ Deportes 4 (191);
 20:15;Euroliga Liga Regular;Olympiacos Piraeus;Maccabi Tel Aviv BC;M+ Deportes 2 (64);
