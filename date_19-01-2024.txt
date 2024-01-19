@@ -21,6 +21,6 @@
 20:00;Euroliga Liga Regular;AS Monaco Basket;Real Madrid Baloncesto;M+ Deportes 2 (64);
 20:15;Euroliga Liga Regular;Panathinaikos BC;BC Partizan Beograd;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;Valencia Basket;AX Olimpia Milano;Movistar Plus+ (M7);M+ Deportes (63);
-20:30;LaLiga Hypermotion;Real Zaragoza;FC Andorra;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);M+ Vamos (8 y 53);Movistar+ Lite;DAZN (Regístrate);LaLiga TV M2;
+20:30;LaLiga Hypermotion;Real Zaragoza;FC Andorra;APLAZADO;
 21:00;La Liga EA Sports;Alavés;Cádiz CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
 21:00;Rally Dakar;Etapa 12;Yanbu › Yanbu (328 km - SS: 175 km);DAZN (Regístrate);Teledeporte;RTVE Play;Esport3 (Cataluña);Eurosport 2;Eurosport Player;
