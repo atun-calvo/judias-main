@@ -21,7 +21,7 @@
 14:00;LaLiga Hypermotion;Albacete;Alcorcón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 15:00;Clásica Comunidad Valenciana 1969;UCI Europe Tour;La Nucía › Valencia (200 km);RD3 EVENTOS DEPORTIVOS YouTube;
 16:15;La Liga EA Sports;Villarreal;Mallorca;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
-16:15;LaLiga Hypermotion;Amorebieta;Eldense;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);DAZN (Regístrate);LaLiga TV M2;
+16:15;LaLiga Hypermotion;Amorebieta;Eldense;Amazon Prime Video (Prueba gratis);LALIGA TV Hypermotion 2 (M59 O120);DAZN (Regístrate);LaLiga TV M2;
 16:15;LaLiga Hypermotion;Real Zaragoza;FC Andorra;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion (M56 O 119);M+ Vamos (8 y 53);Movistar+ Lite;
 17:00;Segunda Federación Futsal;UMA Antequera;Atlético Mengíbar;RFEF.es;
 18:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;UCAM Murcia CB;M+ Deportes (63);
