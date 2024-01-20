@@ -1,7 +1,11 @@
-01:00;Open Australia 3ª Ronda (Kia Arena);T. Machac;K. Khachanov;Eurosport Player;
-03:00;Open Australia 3ª Ronda (Kia Arena);M. Frech;A. Zakharova;Eurosport Player;
-04:00;Open Australia 3ª Ronda (1573 Arena);E. Avanesyan;M. Kostyuk;Eurosport Player;
-04:00;Open Australia 3ª Ronda (Pista 3);M. Andreeva;D. Parry;Eurosport Player;
-04:30;Open Australia 3ª Ronda (Kia Arena);A. Mannarino;B. Shelton;Eurosport Player;
-13:00;Copa del Rey;Sorteo Cuartos de Final;RFEF.es;Movistar Plus+ (M7);RTVE Play;RFEF TV YouTube;
-20:30;LaLiga Hypermotion;Real Zaragoza;FC Andorra;APLAZADO;
+01:00;Open Australia 3ª Ronda (Kia Arena);A. Kalinskaya;S. Stephens;Eurosport Player;
+02:30;Open Australia 3ª Ronda (Kia Arena);A. Blinkova;J. Paolini;Eurosport Player;
+02:30;Open Australia 3ª Ronda (Pista 3);O. Dodin;C. Burel;Eurosport Player;
+04:00;Open Australia 3ª Ronda (Pista 3);A. Cazaux;T. Griekspoor;Eurosport Player;
+05:30;Open Australia 3ª Ronda (Kia Arena);G. Dimitrov;N. Borges;Eurosport Player;
+15:00;Clásica Comunidad Valenciana 1969;UCI Europe Tour;La Nucía › Valencia (200 km);RD3 EVENTOS DEPORTIVOS YouTube;
+17:00;Segunda Federación Futsal;UMA Antequera;Atlético Mengíbar;RFEF.es;
+19:00;Segunda Federación Futsal;Full Energía Zaragoza;Burela FS;Aragón Deporte;
+19:00;Título Mundial Femenino Peso Welter;N. Jonas;M. Mayer;Fight Sports Max;
+19:30;O Gran Camiño;Gala de Presentación;Edición 2024;TVG Web;
+20:00;Velada MF &amp; DAZN: X Series;E. Matthews;TBD;DAZN (Regístrate);
