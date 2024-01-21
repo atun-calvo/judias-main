@@ -1,11 +1,3 @@
-01:00;Open Australia 3ª Ronda (Kia Arena);A. Kalinskaya;S. Stephens;Eurosport Player;
-02:30;Open Australia 3ª Ronda (Kia Arena);A. Blinkova;J. Paolini;Eurosport Player;
-02:30;Open Australia 3ª Ronda (Pista 3);O. Dodin;C. Burel;Eurosport Player;
-04:00;Open Australia 3ª Ronda (Pista 3);A. Cazaux;T. Griekspoor;Eurosport Player;
-05:30;Open Australia 3ª Ronda (Kia Arena);G. Dimitrov;N. Borges;Eurosport Player;
-15:00;Clásica Comunidad Valenciana 1969;UCI Europe Tour;La Nucía › Valencia (200 km);RD3 EVENTOS DEPORTIVOS YouTube;
-17:00;Segunda Federación Futsal;UMA Antequera;Atlético Mengíbar;RFEF.es;
-19:00;Segunda Federación Futsal;Full Energía Zaragoza;Burela FS;Aragón Deporte;
-19:00;Título Mundial Femenino Peso Welter;N. Jonas;M. Mayer;Fight Sports Max;
-19:30;O Gran Camiño;Gala de Presentación;Edición 2024;TVG Web;
-20:00;Velada MF &amp; DAZN: X Series;E. Matthews;TBD;DAZN (Regístrate);
+03:00;Open Australia 1/8 de final (Kia Arena);M. Kostyuk;M. Timofeeva;Eurosport Player;
+04:00;UFC UFC 297;S. Strickland;D. Du Plessis;Eurosport Player;
+BaloncestoESP;Esport3 (Cataluña);
