@@ -1,3 +1,2 @@
-03:00;Open Australia 1/8 de final (Kia Arena);M. Kostyuk;M. Timofeeva;Eurosport Player;
-04:00;UFC UFC 297;S. Strickland;D. Du Plessis;Eurosport Player;
-BaloncestoESP;Esport3 (Cataluña);
+05:00;Open Australia 1/8 de final (John Cain Arena);A. Cazaux;H. Hurkacz;Eurosport Player;
+07:00;Open Australia 1/8 de final (John Cain Arena);J. Paolini;A. Kalinskaya;Eurosport Player;

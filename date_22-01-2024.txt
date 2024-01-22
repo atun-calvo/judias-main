@@ -1,0 +1,11 @@
+02:00;Open Australia 1/8 de final (Rod Laver Arena);V. Azarenka;D. Yastremska;Eurosport 4K (M444 O102);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+03:30;Open Australia 1/8 de final (Margaret Court Arena);L. Noskova;E. Svitolina;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+03:30;Open Australia 1/8 de final (Rod Laver Arena);N. Borges;D. Medvedev;Eurosport 4K (M444 O102);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+05:00;Open Australia 1/8 de final (John Cain Arena);A. Cazaux;H. Hurkacz;Eurosport Player;
+06:00;Open Australia 1/8 de final (Margaret Court Arena);A. Zverev;C. Norrie;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+07:00;Open Australia 1/8 de final (John Cain Arena);J. Paolini;A. Kalinskaya;Eurosport Player;
+09:00;Open Australia 1/8 de final (Rod Laver Arena);M. Kecmanovic;C. Alcaraz;Eurosport 4K (M444 O102);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+11:00;Open Australia 1/8 de final (Rod Laver Arena);Q. Zheng;O. Dodin;Eurosport 4K (M444 O102);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+20:30;LaLiga Hypermotion;Leganés;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
+20:45;Premier League;Brighton;Wolverhampton;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+21:00;La Liga EA Sports;Granada CF;At. Madrid;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
