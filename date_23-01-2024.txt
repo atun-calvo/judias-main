@@ -1,0 +1,12 @@
+03:00;NBA Liga Regular;Phoenix Suns;Chicago Bulls;M+ Deportes (63);
+03:00;Open Australia 1/4 de Final;M. Kostyuk;C. Gauff;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+04:30;Open Australia 1/4 de Final;N. Djokovic;T. Fritz;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+09:00;Open Australia 1/4 de Final;B. Krejcikova;A. Sabalenka;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+10:30;Open Australia 1/4 de Final;J. Sinner;A. Rublev;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+13:00;Copa del Rey;Sorteo Cuartos de Final;RFEF.es;RFEF TV YouTube;
+18:00;Eurocup Liga Regular;U-BT Cluj Napoca;Dolomiti Energia Trento;EuroLeague TV;
+18:30;Basketball Champions League Top 16;Karsiyaka Basket;Lenovo Tenerife;Teledeporte;RTVE Play;
+19:00;Eurocup Liga Regular;Buducnost Voli;Ratiopharm Ulm;EuroLeague TV;
+20:30;Basketball Champions League Top 16;UCAM Murcia CB;Hapoel Holon;Popular TV Murcia;
+20:30;Eurocup Liga Regular;Paris Basketball;Joventut Badalona;Esport3 (Cataluña);
+21:30;Copa del Rey 1/4 de Final;Celta;Real Sociedad;La 1 TVE;RTVE Play;

@@ -1,2 +1,6 @@
-05:00;Open Australia 1/8 de final (John Cain Arena);A. Cazaux;H. Hurkacz;Eurosport Player;
-07:00;Open Australia 1/8 de final (John Cain Arena);J. Paolini;A. Kalinskaya;Eurosport Player;
+13:00;Copa del Rey;Sorteo Cuartos de Final;RFEF.es;RFEF TV YouTube;
+18:00;Eurocup Liga Regular;U-BT Cluj Napoca;Dolomiti Energia Trento;EuroLeague TV;
+19:00;Eurocup Liga Regular;Buducnost Voli;Ratiopharm Ulm;EuroLeague TV;
+20:30;Basketball Champions League Top 16;UCAM Murcia CB;Hapoel Holon;Popular TV Murcia;
+20:30;Eurocup Liga Regular;Paris Basketball;Joventut Badalona;Esport3 (Cataluña);
+21:30;Copa del Rey 1/4 de Final;Celta;Real Sociedad;La 1 TVE;RTVE Play;
