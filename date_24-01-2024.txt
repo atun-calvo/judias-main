@@ -2,7 +2,7 @@
 02:00;Open Australia 1/4 de Final;L. Noskova;D. Yastremska;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
 03:30;Open Australia 1/4 de Final;H. Hurkacz;D. Medvedev;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
 09:15;Open Australia 1/4 de Final;A. Kalinskaya;Q. Zheng;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
-10:45;Open Australia 1/4 de Final;A. Zverev;C. Alcaraz;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+12:15;Open Australia 1/4 de Final;A. Zverev;C. Alcaraz;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
 15:00;Trofeo Calvia;UCI Europe Tour;Palmanova › Palmanova (150,1 km);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;Lietkabelis Panevezys;EuroLeague TV;
 18:30;Eurocup Liga Regular;Hapoel Tel Aviv BC;BC Prometey;EuroLeague TV;
