@@ -1,0 +1,10 @@
+01:30;NBA Liga Regular;Miami Heat;Memphis Grizzlies;M+ Deportes (63);
+09:30;Open Australia Semifinal femenina;C. Gauff;A. Sabalenka;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+11:00;Open Australia Semifinal femenina;D. Yastremska;Q. Zheng;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
+15:00;Trofeo Alcudia;UCI Europe Tour;Ses Salines › Felanitx (181,2 km);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
+18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Virtus Bologna;M+ Deportes (63);
+20:00;Euroliga Liga Regular;ALBA Berlin;Crvena Zvezda MTS Belgrade;M+ Deportes 3 (65);
+20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Panathinaikos BC;M+ Deportes 2 (64);
+20:30;Euroliga Liga Regular;FC Bayern Basketball;ASVEL Lyon-Villeurbanne;M+ Deportes 4 (191);
+20:45;Euroliga Liga Regular;Real Madrid Baloncesto;Olympiacos Piraeus;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+21:00;Copa del Rey 1/4 de Final;At. Madrid;Sevilla FC;Movistar Plus+ (M7);M+ Copa del Rey (M52 O108);M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 2 (M61 O116);
