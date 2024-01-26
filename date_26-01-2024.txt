@@ -4,6 +4,7 @@
 04:30;Open Australia Semifinal masculina;N. Djokovic;J. Sinner;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
 09:30;Open Australia Semifinal masculina;D. Medvedev;A. Zverev;DAZN (Regístrate);Eurosport 4K (M444 O102);Eurosport 1;Eurosport Player;
 13:00;Copa del Rey;Sorteo Semifinales;RFEF.es;Movistar Plus+ (M7);Teledeporte;RTVE Play;RFEF TV YouTube;
+13:30;Adidas Next Generation Fase de Clasificación;Real Madrid Baloncesto;Umana Reyer Venice;Real Madrid TV;
 15:00;Trofeo Serra de Tramuntana;UCI Europe Tour;Selva › Lluc (153,8 km);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
 18:00;FIA Fórmula E;Ad Diriyah (Arabia Saudí);Carrera 1;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;AS Monaco Basket;M+ Deportes 3 (65);
