@@ -17,6 +17,7 @@
 16:15;La Liga EA Sports;Cádiz CF;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;FC Andorra;Elche;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 16:15;LaLiga Hypermotion;Villarreal B;Huesca;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
+16:45;Adidas Next Generation Fase de Clasificación Final;Next Generation Select Team;Real Madrid Baloncesto;EuroLeague YouTube;Real Madrid TV;
 17:00;Liga Endesa Liga Regular;Barça Basket;Zunder Palencia;M+ Deportes 2 (64);
 17:00;Liga Endesa Liga Regular;Baskonia;Monbus Obradoiro;M+ Deportes 3 (65);
 18:00;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
