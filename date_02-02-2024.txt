@@ -16,6 +16,7 @@
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Panathinaikos BC;M+ Deportes 5 (192);
 19:00;Torneo de Montpellier 1/4 de Final;H. Rune;M. Mmoh;ATP Tennis TV;
 20:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
+20:30;Amistoso;Manzanares FS;Jaén FS;CMMPlay (Castilla-LM);
 20:30;Euroliga Liga Regular;AS Monaco Basket;Fenerbahce Istanbul;M+ Deportes 2 (64);
 20:30;Euroliga Liga Regular;Virtus Bologna;BC Partizan Beograd;M+ Deportes 3 (65);
 20:30;LaLiga Hypermotion;Elche;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
