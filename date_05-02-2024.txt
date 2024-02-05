@@ -12,5 +12,8 @@
 18:00;Torneo de Córdoba 1ª Ronda;D. Galán;J. Munar;ATP Tennis TV;
 19:00;Torneo de Marsella 1ª Ronda;B. Bonzi;A. Shevchenko;ATP Tennis TV;
 19:30;Torneo de Córdoba 1ª Ronda;F. Bagnis;JM. Cerúndolo;ATP Tennis TV;
+20:30;LaLiga Hypermotion;Real Zaragoza;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;M+ #Vamos Bar (304);LaLiga TV M2;
+21:00;La Liga EA Sports;Rayo Vallecano;Sevilla FC;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
+21:00;Premier League;Brentford;Manchester City;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 22:30;Torneo de Córdoba 1ª Ronda;A. Ramos;P. Cachin;ATP Tennis TV;
 23:30;Torneo de Dallas 1ª Ronda;T. Daniel;C. Lestienne;ATP Tennis TV;
