@@ -6,8 +6,8 @@
 11:45;WTA Torneo de Abu Dhabi 1/4 de Final;E. Rybakina;C. Bucsa;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 11:50;Tour Emiratos Árabes Femenino;Etapa 2;Al Mirfa Bab Al Nojoum › Madinat Zayed (113 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
 13:00;WTA Torneo de Cluj-Napoca 1/4 de Final;H. Dart;N. Parrizas Díaz;WTA TV;DAZN (Regístrate);
-14:00;Tour de la Provenza;Etapa 1;Aix-en-Provence › Martigues (157,2 km);Eurosport Player;
 14:00;WTA Torneo de Abu Dhabi 1/4 de Final;B. Haddad Maia;O. Jabeur;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
+14:20;Tour de la Provenza;Etapa 1;Aix-en-Provence › Martigues (157,2 km);Eurosport Player;
 14:30;Torneo de Marsella 1/4 de Final;U. Humbert;A. Davidovich;ATP Tennis TV;
 14:30;WTA Torneo de Cluj-Napoca 1/4 de Final;J. Cristian;A. Sevastova;WTA TV;DAZN (Regístrate);
 15:30;Preolímpico Femenino;Canadá;España;DAZN (Regístrate);Teledeporte;RTVE Play;

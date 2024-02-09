@@ -2,7 +2,7 @@
 02:00;Torneo de Dallas 2ª Ronda;F. Tiafoe;A. Michelsen;ATP Tennis TV;
 03:30;Torneo de Dallas 2ª Ronda;A. Mannarino;Y. Nishioka;ATP Tennis TV;
 13:00;WTA Torneo de Cluj-Napoca 1/4 de Final;H. Dart;N. Parrizas Díaz;WTA TV;DAZN (Regístrate);
-14:00;Tour de la Provenza;Etapa 1;Aix-en-Provence › Martigues (157,2 km);Eurosport Player;
+14:20;Tour de la Provenza;Etapa 1;Aix-en-Provence › Martigues (157,2 km);Eurosport Player;
 14:30;Torneo de Marsella 1/4 de Final;U. Humbert;A. Davidovich;ATP Tennis TV;
 14:30;WTA Torneo de Cluj-Napoca 1/4 de Final;J. Cristian;A. Sevastova;WTA TV;DAZN (Regístrate);
 16:00;Torneo de Córdoba 2ª Ronda;Y. Hanfmann;RA. Burruchaga;ATP Tennis TV;
