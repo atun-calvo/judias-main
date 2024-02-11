@@ -17,7 +17,7 @@
 14:00;WTA Torneo de Abu Dhabi Final WTA 500;E. Rybakina;D. Kasatkina;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
 15:00;Premier League;West Ham;Arsenal;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 15:00;Preolímpico Femenino;Canadá;Japón;DAZN (Regístrate);
-15:00;Ultimate Tennis Showdown;Final;Tennis Channel (Orange 104);Eurosport Player;
+15:00;Ultimate Tennis Showdown Final;A. De Miñaur;A. Rublev;Tennis Channel (Orange 104);Eurosport Player;
 15:00;WTA Doha 1ª Ronda WTA 1000;S. Cirstea;S. Stephens;WTA TV;DAZN (Regístrate);
 15:10;Tour de la Provenza;Etapa 3;Rognac › Arles (183,2 km);Eurosport Player;
 15:30;Torneo de Marsella Final ATP 250;U. Humbert;G. Dimitrov;ATP Tennis TV;
