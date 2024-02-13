@@ -1,9 +1,13 @@
 00:00;Torneo de Delray Beach 1ª Ronda;D. Koepfer;N. Borges;ATP Tennis TV;
+02:00;NBA Liga Regular;Memphis Grizzlies;New Orleans Pelicans;M+ Deportes (63);
 02:05;Torneo de Buenos Aires 1ª Ronda;R. Carballés;TM. Etcheverry;ATP Tennis TV;
 02:20;Torneo de Delray Beach 1ª Ronda;P. Kypson;M. Kecmanovic;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 4;Al Rustaq Fort › Yitti Hills (207,5 km);OmanSportsTV YouTube;
+11:00;Torneo de Rotterdam 1ª Ronda;B. Coric;A. Bublik;ATP Tennis TV;M+ Deportes (63);
+13:00;Torneo de Rotterdam 1ª Ronda;Zh. Zhang;A. Shevchenko;ATP Tennis TV;M+ Deportes (63);
 13:00;WTA Doha 2ª Ronda;P. Badosa;L. Fernández;WTA TV;
 13:30;WTA Doha 1ª Ronda;X. Wang;V. Azarenka;WTA TV;DAZN (Regístrate);
+14:30;Torneo de Rotterdam 1ª Ronda;A. De Miñaur;S. Korda;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 15:00;WTA Doha 1ª Ronda;K. Siniakova;C. Gauff;WTA TV;DAZN (Regístrate);
 16:30;WTA Doha 1ª Ronda;O. Jabeur;L. Tsurenko;WTA TV;DAZN (Regístrate);
 17:30;Torneo de Buenos Aires 1ª Ronda;S. Ofner;F. Coria;ATP Tennis TV;
@@ -11,4 +15,8 @@
 18:00;WTA Doha 1ª Ronda;L. Zhu;E. Rybakina;WTA TV;DAZN (Regístrate);
 19:00;Torneo de Buenos Aires 1ª Ronda;D. Schwartzman;D. Galán;ATP Tennis TV;
 19:00;Torneo de Delray Beach;1ª Ronda;ATP 250;ATP Tennis TV;
+19:30;Torneo de Rotterdam 1ª Ronda;Z. Bergs;A. Rublev;ATP Tennis TV;M+ Deportes (63);
+21:00;Champions League 1/8 de final;København;Manchester City;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
+21:00;Champions League 1/8 de final;RB Leipzig;Real Madrid;Movistar Plus+ (M7);M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
+21:00;Torneo de Rotterdam 1ª Ronda;H. Hurkacz;J. Lehecka;ATP Tennis TV;M+ Deportes (63);
 22:30;Torneo de Buenos Aires 1ª Ronda;A. Fils;D. Lajovic;ATP Tennis TV;
