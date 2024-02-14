@@ -6,7 +6,7 @@
 11:00;Torneo de Rotterdam 1ª Ronda;D. Shapovalov;G. Monfils;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 13:00;Torneo de Rotterdam 1ª Ronda;G. Dimitrov;L. Sonego;ATP Tennis TV;M+ Deportes (63);
 13:30;WTA Doha 3ª Ronda;Q. Zheng;L. Fernández;WTA TV;DAZN (Regístrate);
-14:00;Vuelta a Andalucía;Etapa 1;Almuñécar › Cádiar (162,3 km);DAZN (Regístrate);RTVE Play;Eurosport 2;Eurosport Player;
+14:00;Vuelta a Andalucía;Etapa 1;Almuñécar › Cádiar (162,3 km);SUSPENDIDO;
 14:30;Torneo de Rotterdam 1ª Ronda;R. Safiullin;H. Rune;ATP Tennis TV;M+ Deportes (63);
 15:00;Minicopa Endesa Fase Regular;Unicaja Málaga;BAXI Manresa;ACB YouTube;
 15:00;WTA Doha 3ª Ronda;L. Tsurenko;N. Osaka;WTA TV;DAZN (Regístrate);
