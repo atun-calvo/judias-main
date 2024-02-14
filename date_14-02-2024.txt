@@ -1,7 +1,7 @@
-00:00;Torneo de Buenos Aires 1ª Ronda;S. Báez;B. Zapata;ATP Tennis TV;
 00:00;Torneo de Delray Beach 1ª Ronda;M. Giron;E. Nava;ATP Tennis TV;
 01:30;NBA Liga Regular;Brooklyn Nets;Boston Celtics;M+ Deportes (63);
-02:00;Torneo de Delray Beach 1ª Ronda;A. Michelsen;T. Kokkinakis;ATP Tennis TV;
+01:35;Torneo de Buenos Aires 1ª Ronda;S. Báez;B. Zapata;ATP Tennis TV;
+02:10;Torneo de Delray Beach 1ª Ronda;A. Michelsen;T. Kokkinakis;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 5;Imty › Jabal Al Akhdhar (Green Mountain) (138,7km);OmanSportsTV YouTube;
 11:00;Torneo de Rotterdam 1ª Ronda;D. Shapovalov;G. Monfils;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 13:00;Torneo de Rotterdam 1ª Ronda;G. Dimitrov;L. Sonego;ATP Tennis TV;M+ Deportes (63);
