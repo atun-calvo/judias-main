@@ -5,7 +5,7 @@
 03:00;NBA;Rising Stars Challenge;Indiana 2024;Movistar Plus+ (M7);M+ Deportes (63);
 10:00;Minicopa Endesa Semifinales;Real Madrid Baloncesto;Valencia Basket;ACB YouTube;Real Madrid TV;
 12:00;Minicopa Endesa Semifinales;Barça Basket;Unicaja Málaga;ACB YouTube;
-13:00;Rally Extreme E;Jeddah (Arabia Saudí);Carrera 1;RTVE Play;Eurosport Player;
+13:00;Rally Extreme E;Jeddah (Arabia Saudí);Carrera 1;DAZN (Regístrate);RTVE Play;Eurosport Player;
 13:30;Premier League;Brentford;Liverpool;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 13:45;Semana Valenciana;Etapa 3;Alicante › Xorret de Catí (129 km);SPORTPUBLIC TV YouTube;
 14:00;La Liga EA Sports;At. Madrid;UD Las Palmas;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
@@ -41,5 +41,5 @@
 21:00;LaLiga Hypermotion;Espanyol;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;Primera Federación Futsal;Servigroup Peñiscola FS;Viña Albali Valdepeñas;FEF TV;Teledeporte;RTVE Play;
 21:00;Torneo de Delray Beach Semifinal 1 ATP 250;T. Paul;F. Tiafoe;ATP Tennis TV;
-22:00;Torneo de Buenos Aires Semifinal 2 ATP 250;C. Alcaraz;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
+22:00;Torneo de Buenos Aires Semifinal 2 ATP 250;C. Alcaraz;N. Jarry;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 BaloncestoESP;
