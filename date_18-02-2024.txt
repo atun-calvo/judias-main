@@ -23,7 +23,7 @@
 16:15;LaLiga Hypermotion;Racing Ferrol;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 17:00;Primera Federación Futsal;Manzanares FS;Industrias Santa Coloma;FEF TV;
 17:30;Premier League;Luton Town;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-18:30;Copa del Rey;Final;Movistar Plus+ (M7);M+ Deportes (63);
+18:30;Copa del Rey Final;Real Madrid Baloncesto;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
 18:30;La Liga EA Sports;Mallorca;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Huesca;Amorebieta;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 20:00;Torneo de Buenos Aires Final ATP 250;N. Jarry;F. Díaz Acosta;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
