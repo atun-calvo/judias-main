@@ -26,8 +26,8 @@
 18:30;Copa del Rey;Final;Movistar Plus+ (M7);M+ Deportes (63);
 18:30;La Liga EA Sports;Mallorca;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Huesca;Amorebieta;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-20:00;Torneo de Buenos Aires;Final;ATP 250;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+20:00;Torneo de Buenos Aires Final ATP 250;N. Jarry;F. Díaz Acosta;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;NASCAR Cup Series;Daytona 500;Carrera;DAZN (Regístrate);
 21:00;La Liga EA Sports;Real Betis;Alavés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Elche;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-21:00;Torneo de Delray Beach;Final;ATP 250;ATP Tennis TV;
+21:00;Torneo de Delray Beach Final ATP 250;T. Fritz;T. Paul;ATP Tennis TV;
