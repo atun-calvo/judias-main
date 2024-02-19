@@ -7,10 +7,11 @@
 12:30;WTA Dubai 1ª Ronda;A. Kalinina;E. Svitolina;WTA TV;DAZN (Regístrate);
 14:00;Torneo de Doha 1ª Ronda;Zh. Zhang;L. Musetti;ATP Tennis TV;
 14:00;WTA Dubai 1ª Ronda;D. Kasatkina;M. Kostyuk;WTA TV;DAZN (Regístrate);
-14:00;WTA Dubai 1ª Ronda;P. Badosa;L. Sun;WTA TV;Teledeporte;RTVE Play;
+15:30;WTA Dubai 1ª Ronda;P. Badosa;L. Sun;WTA TV;Teledeporte;RTVE Play;
 16:00;Torneo de Doha 1ª Ronda;M. Fucsovics;R. Bautista-Agut;ATP Tennis TV;
 17:30;Torneo de Doha 1ª Ronda;A. Popyrin;A. Shelbayh;ATP Tennis TV;
 20:30;LaLiga Hypermotion;CD Tenerife;Eldense;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-20:30;Torneo de Río de Janeiro;1ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes (63);
+20:30;Torneo de Río de Janeiro 1ª Ronda;G. Heide;MT. Barrios Vera;ATP Tennis TV;M+ Deportes (63);
 21:00;La Liga EA Sports;Athletic Club;Girona;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
 21:00;Premier League;Everton;Crystal Palace;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+23:00;Torneo de Río de Janeiro 1ª Ronda;H. Dellien;C. Norrie;ATP Tennis TV;
