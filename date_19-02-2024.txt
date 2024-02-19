@@ -1,0 +1,16 @@
+02:00;NBA All Star Game;Conferencia Oeste;Conferencia Este;Movistar Plus+ (M7);M+ Deportes (63);
+08:00;WTA Dubai 1ª Ronda;A. Rus;V. Azarenka;WTA TV;DAZN (Regístrate);
+09:30;WTA Dubai 1ª Ronda;K. Pliskova;S. Zhang;WTA TV;DAZN (Regístrate);
+11:00;WTA Dubai 1ª Ronda;J. Ostapenko;Xi. Wang;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+11:50;Tour de Emiratos Árabes;Etapa 1;Al Dhafra Walk Madinat Zayed › Liwa Palace (143 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
+12:30;Torneo de Doha 1ª Ronda;P. Kotov;L. Sonego;ATP Tennis TV;
+12:30;WTA Dubai 1ª Ronda;A. Kalinina;E. Svitolina;WTA TV;DAZN (Regístrate);
+14:00;Torneo de Doha 1ª Ronda;Zh. Zhang;L. Musetti;ATP Tennis TV;
+14:00;WTA Dubai 1ª Ronda;D. Kasatkina;M. Kostyuk;WTA TV;DAZN (Regístrate);
+14:00;WTA Dubai 1ª Ronda;P. Badosa;L. Sun;WTA TV;Teledeporte;RTVE Play;
+16:00;Torneo de Doha 1ª Ronda;M. Fucsovics;R. Bautista-Agut;ATP Tennis TV;
+17:30;Torneo de Doha 1ª Ronda;A. Popyrin;A. Shelbayh;ATP Tennis TV;
+20:30;LaLiga Hypermotion;CD Tenerife;Eldense;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
+20:30;Torneo de Río de Janeiro;1ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes (63);
+21:00;La Liga EA Sports;Athletic Club;Girona;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
+21:00;Premier League;Everton;Crystal Palace;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
