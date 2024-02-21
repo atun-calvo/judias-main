@@ -17,8 +17,9 @@
 17:30;WTA Dubai 3ª Ronda;A. Potapova;Q. Zheng;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 20:30;Copa del Rey 1/4 de Final;Jimbee Cartagena FS;Manzanares FS;RFEF.es;RFEF TV YouTube;
 20:30;Premier League;Liverpool;Luton Town;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-20:30;Torneo de Río de Janeiro;2ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes (63);
+20:30;Torneo de Río de Janeiro 1ª Ronda;A. Fils;J. Fonseca;ATP Tennis TV;M+ Deportes (63);
 21:00;Champions League 1/8 de final;FC Porto;Arsenal;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
 21:00;Champions League 1/8 de final;Napoli;FC Barcelona;M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 21:30;Amistoso Femenino;Portugal;España;Teledeporte;RTVE Play;
 21:30;Copa del Rey 1/4 de Final;Jaén FS;Osasuna Magna;RFEF.es;RFEF TV YouTube;
+23:00;Torneo de Río de Janeiro 2ª Ronda;J. Munar;T. Seyboth-Wild;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
