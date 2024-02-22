@@ -27,7 +27,7 @@
 18:45;Europa League Play-offs;Toulouse;Benfica;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 3 (M62 O118);Cuatro;Mitele.es;
 19:00;Eurobasket Fase de Clasificación;Suecia;Bulgaria;DAZN (Regístrate);
 19:00;Eurocup Women 1/4 de Final;Spar Girona;Galatasaray Istanbul;FIBA YouTube;Esport3 (Cataluña);
-19:00;Torneo de Río de Janeiro 2ª Ronda;J. Munar;T. Seyboth-Wild;ATP Tennis TV;
+19:00;Torneo de Río de Janeiro 2ª Ronda;J. Munar;T. Seyboth-Wild;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 19:30;Eurobasket Fase de Clasificación;Alemania;Montenegro;DAZN (Regístrate);
 20:00;Eurobasket Fase de Clasificación;España;Letonia;DAZN (Regístrate);Teledeporte;RTVE Play;
 20:15;Eurobasket Fase de Clasificación;Portugal;Israel;DAZN (Regístrate);
