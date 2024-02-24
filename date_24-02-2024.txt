@@ -42,5 +42,5 @@
 21:00;LaLiga Hypermotion;Levante;FC Andorra;APLAZADO;
 21:00;Premier League;Arsenal;Newcastle;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 21:00;Primera Federación Futsal;Palma Futsal;Jimbee Cartagena FS;FEF TV;Teledeporte;RTVE Play;
-21:00;Torneo de Río de Janeiro;Semifinal 1;ATP 500;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
-23:00;Torneo de Río de Janeiro;Semifinal 2;ATP 500;ATP Tennis TV;M+ Deportes (63);
+21:00;Torneo de Río de Janeiro Semifinal 1 ATP 500;S. Báez;F. Cerúndolo;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+22:30;Torneo de Río de Janeiro Semifinal 2 ATP 500;M. Navone;C. Norrie;ATP Tennis TV;M+ Deportes (63);
