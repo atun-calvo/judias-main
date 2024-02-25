@@ -45,5 +45,5 @@
 21:00;LaLiga Hypermotion;Amorebieta;Albacete;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;NASCAR Cup Series;Atlanta Speedway (Hampton);Carrera;DAZN (Regístrate);
 21:30;NBA Liga Regular;Phoenix Suns;Los Angeles Lakers;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-21:30;Torneo de Río de Janeiro;Final;ATP 500;ATP Tennis TV;M+ Deportes (63);
+21:30;Torneo de Río de Janeiro Final ATP 500;S. Báez;M. Navone;ATP Tennis TV;M+ Deportes (63);
 BaloncestoESP;Aragón Deporte;Aragón TV;
