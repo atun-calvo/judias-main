@@ -11,11 +11,11 @@
 12:30;Torneo de Dubai 1/4 de Final;S. Korda;A. Rublev;ATP Tennis TV;M+ Deportes (63);
 13:00;Riyadh Open;1/4 de final femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
 14:00;FIA Fórmula 3;G.P. Bahrein (Sakhir);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
+14:50;FIA Fórmula 2;G.P. Bahrein (Sakhir);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 15:00;Riyadh Open;1/4 de final masculino;Premier Padel;M+ Deportes 3 (65);
 16:00;Fórmula 1;G.P. Bahrein (Sakhir);Libres 2;DAZN (Regístrate);DAZN F1 (M69);
 16:00;Torneo de Dubai 1/4 de Final;D. Medvedev;A. Davidovich;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 17:00;Riyadh Open;1/4 de final femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
-17:30;FIA Fórmula 2;G.P. Bahrein (Sakhir);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 17:30;Torneo de Dubai 1/4 de Final;H. Hurkacz;U. Humbert;ATP Tennis TV;M+ Deportes 2 (64);
 18:00;Eurocup Women 1/4 de Final;Galatasaray Istanbul;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
 18:00;Torneo de Santiago 2ª Ronda;L. Darderi;JM. Cerúndolo;ATP Tennis TV;
