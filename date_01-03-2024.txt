@@ -6,12 +6,12 @@
 04:00;Torneo de Acapulco 1/4 de Final;C. Ruud;B. Shelton;ATP Tennis TV;M+ Deportes 2 (64);
 11:15;FIA Fórmula 3;G.P. Bahrein (Sakhir);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
 13:30;Fórmula 1;G.P. Bahrein (Sakhir);Libres 3;DAZN (Regístrate);DAZN F1 (M69);
-14:00;Torneo de Dubai Semifinal 1;A. Bublik;A. Rublev;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+14:00;Torneo de Dubai Semifinal 1;A. Bublik;A. Rublev;ATP Tennis TV;M+ Deportes (63);
 15:00;Riyadh Open;Semifinal Masculina;Premier Padel;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 15:15;FIA Fórmula 2;G.P. Bahrein (Sakhir);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
-16:00;Torneo de Dubai Semifinal 2 ATP 500;D. Medvedev;U. Humbert;ATP Tennis TV;M+ Deportes 2 (64);
+16:00;Torneo de Dubai Semifinal 2 ATP 500;D. Medvedev;U. Humbert;ATP Tennis TV;M+ Deportes (63);
 17:00;Fórmula 1;G.P. Bahrein (Sakhir);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
-18:00;Torneo de Santiago;1/4 de Final;ATP 250;ATP Tennis TV;
+18:00;Torneo de Santiago 1/4 de Final;J. Munar;S. Báez;ATP Tennis TV;
 18:00;WTA Torneo de Austin;1/4 de Final;WTA 250;WTA TV;DAZN (Regístrate);
 18:45;Euroliga Liga Regular;Fenerbahce Istanbul;Baskonia;M+ Deportes 2 (64);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Olympiacos Piraeus;M+ Deportes 6 (193);
@@ -26,3 +26,5 @@
 21:00;La Liga EA Sports;Celta;UD Almería;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Movistar Inter;Industrias Santa Coloma;FEF TV;Esport3 (Cataluña);
 21:00;Primera Federación Futsal;Osasuna Magna;Jaén FS;FEF TV;
+22:00;Torneo de Santiago 1/4 de Final;A. Tabilo;L. Darderi;ATP Tennis TV;
+23:30;Torneo de Santiago 1/4 de Final;N. Jarry;C. Moutet;ATP Tennis TV;
