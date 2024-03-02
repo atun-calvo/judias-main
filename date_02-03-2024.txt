@@ -5,6 +5,7 @@
 03:30;Torneo de Acapulco Semifinal 2 ATP 500;C. Ruud;H. Rune;ATP Tennis TV;M+ Deportes (63);
 09:00;Qatar 1812 km;Campeonato Mundial de Resistencia FIA;Carrera;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 10:10;FIA Fórmula 3;G.P. Bahrein (Sakhir);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
+11:00;Adidas Next Generation Fase de Clasificación;BC Partizan Beograd;Barça Basket;EuroLeague YouTube;
 11:40;FIA Fórmula 2;G.P. Bahrein (Sakhir);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
 13:00;Primera Federación Futsal;Real Betis FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
 14:00;La Liga EA Sports;Sevilla FC;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
@@ -34,6 +35,7 @@
 18:30;LaLiga Hypermotion;Real Oviedo;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);LaLiga TV M2;
 18:30;Premier League;Luton Town;Aston Villa;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 18:30;Segunda Federación Futsal;CD El Ejido Futsal;UD Ibiza FS;RFEF.es;
+19:00;Adidas Next Generation Fase de Clasificación;Barça Basket;Mega Soccerbet Belgrade;EuroLeague YouTube;
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;CFS Bisontes Castellón;Aragón Deporte;
 20:00;Primera Federación Futsal;Córdoba FS;Palma Futsal;FEF TV;
 20:00;UFC UFC Fight Night;J. Rozenstruik;S. Gaziev;Eurosport Player;
