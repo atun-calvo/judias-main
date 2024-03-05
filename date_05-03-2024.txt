@@ -9,7 +9,7 @@
 20:00;Primera Federación Futsal;Alzira FS;Noia Portus Apostoli FS;FEF TV;
 20:00;Primera Federación Futsal;ElPozo Murcia;Viña Albali Valdepeñas;FEF TV;
 20:00;Primera Federación Futsal;Ribera Navarra FS;Córdoba FS;FEF TV;
-20:30;Basketball Champions League Top 16;Unicaja Málaga;Strasbourg Basket;101 TV (Málaga);
+20:30;Basketball Champions League Top 16;Unicaja Málaga;Strasbourg Basket;101 TV (Málaga);DAZN (Regístrate);
 21:00;Champions League 1/8 de final;FC Bayern;Lazio;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
 21:00;Champions League 1/8 de final;Real Sociedad;PSG;M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Industrias Santa Coloma;Jimbee Cartagena FS;FEF TV;Teledeporte;RTVE Play;
