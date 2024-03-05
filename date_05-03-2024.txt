@@ -1,0 +1,15 @@
+02:00;NBA Liga Regular;Milwaukee Bucks;Los Angeles Clippers;M+ Deportes (63);
+13:05;Tirreno-Adriático;Etapa 2;Camaiore › Follonica (198 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
+13:30;Qatar Major;3ª Ronda;Premier Padel;Premier Padel YouTube;
+15:20;París-Niza;Etapa 3;Auxerre › Auxerre (26,9 km);DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
+18:00;Basketball Champions League Top 16;Promitheas Patras BC;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
+19:30;Eurocup 1/8 de final;Ratiopharm Ulm;Joventut Badalona;M+ Deportes (63);Esport3 (Cataluña);
+20:00;Primera Federación Futsal;Alzira FS;Noia Portus Apostoli FS;FEF TV;
+20:00;Primera Federación Futsal;ElPozo Murcia;Viña Albali Valdepeñas;FEF TV;
+20:00;Primera Federación Futsal;Ribera Navarra FS;Córdoba FS;FEF TV;
+20:30;Basketball Champions League Top 16;Unicaja Málaga;Strasbourg Basket;101 TV (Málaga);
+21:00;Champions League 1/8 de final;FC Bayern;Lazio;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
+21:00;Champions League 1/8 de final;Real Sociedad;PSG;M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
+21:00;Primera Federación Futsal;Industrias Santa Coloma;Jimbee Cartagena FS;FEF TV;Teledeporte;RTVE Play;
+21:00;Primera Federación Futsal;Jaén FS;Barça FS;FEF TV;Esport3 (Cataluña);
+21:00;Primera Federación Futsal;Palma Futsal;Osasuna Magna;FEF TV;
