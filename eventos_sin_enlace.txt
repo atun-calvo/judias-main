@@ -1,5 +1,7 @@
 13:30;Qatar Major;3ª Ronda;Premier Padel;Premier Padel YouTube;
+18:00;Basketball Champions League Top 16;Galatasaray Istanbul;Telekom Baskets Bonn;DAZN (Regístrate);
 18:00;Basketball Champions League Top 16;Promitheas Patras BC;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
+19:45;Basketball Champions League Top 16;AEK BC;Hapoel Holon;DAZN (Regístrate);
 20:00;Primera Federación Futsal;Alzira FS;Noia Portus Apostoli FS;FEF TV;
 20:00;Primera Federación Futsal;ElPozo Murcia;Viña Albali Valdepeñas;FEF TV;
 20:00;Primera Federación Futsal;Ribera Navarra FS;Córdoba FS;FEF TV;
