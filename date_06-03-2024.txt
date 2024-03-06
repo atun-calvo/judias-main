@@ -1,10 +1,10 @@
 02:30;NBA Liga Regular;Dallas Mavericks;Indiana Pacers;M+ Deportes (63);
 04:30;Tie Break Tens;Eisenhower Cup;Indian Wells;ATP Tennis TV;Tie Break Tens YouTube;
 13:05;Tirreno-Adriático;Etapa 3;Volterra › Gualdo Tadino (220 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
-13:30;Qatar Major;1/4 de Final Femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);M+ Deportes 4 (191);
+13:30;Qatar Major;1/4 de Final Femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;Red Bull TV;M+ Deportes 3 (65);M+ Deportes 4 (191);
 15:20;París-Niza;Etapa 4;Chalon-sur-Saône › Mont Brouilly (183 km);DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
-15:30;Qatar Major;1/4 de Final Masculino;Premier Padel;M+ Deportes 3 (65);M+ Deportes 4 (191);
-17:30;Qatar Major;1/4 de Final Femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);M+ Deportes 4 (191);
+15:30;Qatar Major;1/4 de Final Masculino;Premier Padel;Red Bull TV;M+ Deportes 3 (65);M+ Deportes 4 (191);
+17:30;Qatar Major;1/4 de Final Femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;Red Bull TV;M+ Deportes 3 (65);M+ Deportes 4 (191);
 18:00;Eurocup 1/8 de final;BC Prometey;Aris Thessaloniki BC;EuroLeague TV;
 18:30;Basketball Champions League Top 16;Peristeri BC;Karsiyaka Basket;DAZN (Regístrate);
 18:30;FIBA Europe Cup 1/4 de Final;CEZl Nymburk;Pallacanestro Varese;FIBA YouTube;
@@ -12,7 +12,7 @@
 18:45;Europa League 1/8 de final;Sporting CP;Atalanta;M+ Liga de Campeones 3 (M62 O118);
 19:00;Eurocup 1/8 de final;London Lions;Türk Telekom Ankara;EuroLeague TV;
 19:30;Eurocup Women Semifinales;Umana Reyer Venice;London Lions;FIBA YouTube;
-19:30;Qatar Major;1/4 de Final Masculino;Premier Padel;M+ Deportes 3 (65);M+ Deportes 4 (191);
+19:30;Qatar Major;1/4 de Final Masculino;Premier Padel;Red Bull TV;M+ Deportes 3 (65);M+ Deportes 4 (191);
 20:00;Basketball Champions League Top 16;Cholet Basket;Tofas Bursa;DAZN (Regístrate);
 20:00;Basketball Champions League Top 16;MHP RIESEN Ludwigsburg;JDA Dijon;DAZN (Regístrate);
 20:00;Masters Indian Wells 1ª Ronda;C. O'Connell;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);
@@ -29,6 +29,6 @@
 21:30;Masters Indian Wells 1ª Ronda;C. Eubanks;B. Nakashima;ATP Tennis TV;M+ Deportes 5 (192);
 21:30;Masters Indian Wells 1ª Ronda;L. Van Assche;M. Arnaldi;ATP Tennis TV;M+ Deportes 2 (64);
 21:30;WTA Indian Wells 1ª Ronda;M. Andreeva;K. Volynets;WTA TV;
-23:00;Masters Indian Wells 1ª Ronda;A. Murray;D. Goffin;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 5 (192);
+23:00;Masters Indian Wells 1ª Ronda;A. Murray;D. Goffin;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 5 (192);
 23:00;Masters Indian Wells 1ª Ronda;D. Lajovic;E. Ruusuvuori;ATP Tennis TV;M+ Deportes 2 (64);
 23:00;WTA Indian Wells 1ª Ronda;C. Wozniacki;L. Zhu;WTA TV;
