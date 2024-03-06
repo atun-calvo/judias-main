@@ -15,7 +15,8 @@
 19:30;Qatar Major;1/4 de Final Masculino;Premier Padel;M+ Deportes 3 (65);M+ Deportes 4 (191);
 20:00;Basketball Champions League Top 16;Cholet Basket;Tofas Bursa;DAZN (Regístrate);
 20:00;Basketball Champions League Top 16;MHP RIESEN Ludwigsburg;JDA Dijon;DAZN (Regístrate);
-20:00;Masters Indian Wells;1ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
+20:00;Masters Indian Wells 1ª Ronda;C. O'Connell;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);
+20:00;Masters Indian Wells 1ª Ronda;T. Kokkinakis;M. Giron;ATP Tennis TV;M+ Deportes 6 (193);
 20:00;Primera Federación Futsal;Manzanares FS;Movistar Inter;FEF TV;
 20:00;WTA Indian Wells 1ª Ronda;A. Kerber;P. Martic;WTA TV;
 20:30;FIBA Europe Cup 1/4 de Final;Casademont Zaragoza;NINERS Chemnitz;FIBA YouTube;Aragón Deporte;Aragón TV;
@@ -25,5 +26,9 @@
 21:00;Eurocup 1/8 de final;Dreamland Gran Canaria;Besiktas JK Istanbul;M+ Deportes (63);
 21:00;FIBA Europe Cup 1/4 de Final;FC Porto CB;Bahçeşehir Koleji;FIBA YouTube;
 21:00;Primera Federación Futsal;Real Betis FS;Servigroup Peñiscola FS;FEF TV;
+21:30;Masters Indian Wells 1ª Ronda;C. Eubanks;B. Nakashima;ATP Tennis TV;M+ Deportes 5 (192);
+21:30;Masters Indian Wells 1ª Ronda;L. Van Assche;M. Arnaldi;ATP Tennis TV;M+ Deportes 2 (64);
 21:30;WTA Indian Wells 1ª Ronda;M. Andreeva;K. Volynets;WTA TV;
+23:00;Masters Indian Wells 1ª Ronda;A. Murray;D. Goffin;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 5 (192);
+23:00;Masters Indian Wells 1ª Ronda;D. Lajovic;E. Ruusuvuori;ATP Tennis TV;M+ Deportes 2 (64);
 23:00;WTA Indian Wells 1ª Ronda;C. Wozniacki;L. Zhu;WTA TV;
