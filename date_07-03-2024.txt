@@ -13,6 +13,7 @@
 19:00;Euroliga Liga Regular;AS Monaco Basket;Crvena Zvezda MTS Belgrade;M+ Deportes 6 (193);
 19:30;F1 Academy;G.P. Arabia Saudí (Jeddah);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 19:30;Qatar Major;Semifinal Masculina;Premier Padel;Red Bull TV;M+ Deportes 3 (65);
+20:00;Masters Indian Wells 1ª Ronda;L. Sonego;M. Kecmanovic;ATP Tennis TV;M+ Deportes 8 (M195);
 20:00;Masters Indian Wells 1ª Ronda;S. Wawrinka;T. Machac;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;WTA Indian Wells 1ª Ronda;E. Raducanu;R. Masarova;WTA TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Zalgiris Kaunas;M+ Deportes 5 (192);
@@ -23,7 +24,9 @@
 21:00;Europa League 1/8 de final;Benfica;Rangers FC;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 5 (M182 O277);
 21:00;Europa League 1/8 de final;Freiburg;West Ham;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
 21:00;Europa League 1/8 de final;O. Marseille;Villarreal;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);LaLiga TV Bar;
+21:00;Puebla Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 21:30;Masters Indian Wells 1ª Ronda;D. Lajovic;E. Ruusuvuori;ATP Tennis TV;M+ Deportes 2 (64);
 21:30;WTA Indian Wells 1ª Ronda;N. Hibino;V. Williams;WTA TV;
 23:00;Masters Indian Wells 1ª Ronda;G. Monfils;M. Purcell;ATP Tennis TV;M+ Deportes 2 (64);
+23:00;Masters Indian Wells 1ª Ronda;R. Safiullin;D. Evans;ATP Tennis TV;M+ Deportes 8 (M195);
 23:00;WTA Indian Wells 1ª Ronda;N. Osaka;S. Errani;WTA TV;
