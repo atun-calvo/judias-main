@@ -1,5 +1,4 @@
 18:00;Eurocup Women Semifinales;Besiktas JK Istanbul;Spar Girona;FIBA YouTube;Esport3 Web;
-20:00;WTA Indian Wells;1ª Ronda;WTA 1000;WTA TV;
-21:30;WTA Indian Wells 1ª Ronda;C. Wozniacki;L. Zhu;WTA TV;
+20:00;WTA Indian Wells 1ª Ronda;E. Raducanu;R. Masarova;WTA TV;
 21:30;WTA Indian Wells 1ª Ronda;N. Hibino;V. Williams;WTA TV;
-21:30;WTA Indian Wells 1ª Ronda;N. Podoroska;A. Krueger;WTA TV;
+23:00;WTA Indian Wells 1ª Ronda;N. Osaka;S. Errani;WTA TV;
