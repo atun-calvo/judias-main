@@ -11,7 +11,7 @@
 18:45;Europa League 1/8 de final;Qarabag FK;Bayer Leverkusen;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
 18:45;Europa League 1/8 de final;Sparta Praha;Liverpool;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);Cuatro;Mitele.es;M+ Liga de Campeones 9 (M185 O281);
 19:00;Euroliga Liga Regular;AS Monaco Basket;Crvena Zvezda MTS Belgrade;M+ Deportes 6 (193);
-19:30;F1 Academy;G.P. Arabia Saudí (Jeddah);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
+19:30;F1 Academy;G.P. Arabia Saudí (Jeddah);Clasificación;DAZN (Regístrate);F1 Academy YouTube;DAZN F1 (M69);
 19:30;Qatar Major;Semifinal Masculina;Premier Padel;Red Bull TV;M+ Deportes 3 (65);
 20:00;Masters Indian Wells 1ª Ronda;L. Sonego;M. Kecmanovic;ATP Tennis TV;M+ Deportes 8 (M195);
 20:00;Masters Indian Wells 1ª Ronda;S. Wawrinka;T. Machac;ATP Tennis TV;M+ Deportes 2 (64);
