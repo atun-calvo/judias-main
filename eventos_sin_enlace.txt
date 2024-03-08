@@ -1,8 +1,8 @@
 00:30;Masters Indian Wells 1ª Ronda;T. Seyboth-Wild;J. Wolf;ATP Tennis TV;M+ Deportes 8 (M195);
 17:15;Velada Peso Pesado;A. Joshua;F. Ngannou;DAZN (Regístrate);
 19:30;Primera Federación Futsal;Osasuna Magna;Ribera Navarra FS;FEF TV;
+20:00;WTA Indian Wells 2ª Ronda;J. Ostapenko;A. Kerber;WTA TV;DAZN (Regístrate);
 21:00;Primera Federación Futsal;Noia Portus Apostoli FS;ElPozo Murcia;FEF TV;
-21:00;Puebla Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-21:30;Masters Indian Wells 1ª Ronda;A. Kovacevic;Zh. Zhang;ATP Tennis TV;M+ Deportes 8 (M195);
-23:00;Masters Indian Wells 1ª Ronda;B. Van de Zandschulp;D. Shapovalov;ATP Tennis TV;
-23:00;WTA Indian Wells 1ª Ronda;V. Tomova;S. Kenin;WTA TV;
+22:00;WTA Indian Wells 2ª Ronda;I. Swiatek;D. Collins;WTA TV;DAZN (Regístrate);
+23:00;Masters Indian Wells 1ª Ronda;B. Van de Zandschulp;D. Shapovalov;ATP Tennis TV;M+ Deportes 8 (M195);
+23:30;WTA Indian Wells 2ª Ronda;D. Vekic;C. Wozniacki;WTA TV;DAZN (Regístrate);
