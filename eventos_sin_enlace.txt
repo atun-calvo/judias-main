@@ -1,7 +1,8 @@
-18:00;Eurocup Women Semifinales;Besiktas JK Istanbul;Spar Girona;FIBA YouTube;Esport3 Web;
-20:00;Masters Indian Wells 1ª Ronda;L. Sonego;M. Kecmanovic;ATP Tennis TV;M+ Deportes 8 (M195);
-20:00;WTA Indian Wells 1ª Ronda;E. Raducanu;R. Masarova;WTA TV;
-21:00;Puebla Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-21:30;WTA Indian Wells 1ª Ronda;N. Hibino;V. Williams;WTA TV;
-23:00;Masters Indian Wells 1ª Ronda;R. Safiullin;D. Evans;ATP Tennis TV;M+ Deportes 8 (M195);
-23:00;WTA Indian Wells 1ª Ronda;N. Osaka;S. Errani;WTA TV;
+00:30;Masters Indian Wells 1ª Ronda;T. Seyboth-Wild;J. Wolf;ATP Tennis TV;M+ Deportes 8 (M195);
+17:15;Velada Peso Pesado;A. Joshua;F. Ngannou;DAZN (Regístrate);
+19:30;Primera Federación Futsal;Osasuna Magna;Ribera Navarra FS;FEF TV;
+21:00;Primera Federación Futsal;Noia Portus Apostoli FS;ElPozo Murcia;FEF TV;
+21:00;Puebla Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+21:30;Masters Indian Wells 1ª Ronda;A. Kovacevic;Zh. Zhang;ATP Tennis TV;M+ Deportes 8 (M195);
+23:00;Masters Indian Wells 1ª Ronda;B. Van de Zandschulp;D. Shapovalov;ATP Tennis TV;
+23:00;WTA Indian Wells 1ª Ronda;V. Tomova;S. Kenin;WTA TV;
