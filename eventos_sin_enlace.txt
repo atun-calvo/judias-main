@@ -6,4 +6,5 @@
 18:00;Primera Federación Futsal;Viña Albali Valdepeñas;Jaén FS;FEF TV;
 19:00;Segunda Federación Futsal;Full Energía Zaragoza;O Parrulo Ferrol;Aragón Deporte;
 20:00;Primera Federación Futsal;Movistar Inter;Real Betis FS;FEF TV;
+20:00;WTA Indian Wells 2ª Ronda;C. Burel;C. Gauff;WTA TV;DAZN (Regístrate);
 BaloncestoESP;
