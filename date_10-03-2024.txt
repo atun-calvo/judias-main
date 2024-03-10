@@ -32,9 +32,15 @@
 18:30;La Liga EA Sports;Real Madrid;Celta;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Eibar;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 18:30;Liga Endesa Liga Regular;Baskonia;Barça Basket;Movistar Plus+ (M7);Movistar Plus+ 2 (M176);M+ Deportes (63);
-19:00;Masters Indian Wells;3ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes 2 (64);
+19:00;Masters Indian Wells 3ª Ronda;F. Tiafoe;S. Tsitsipas;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 5 (192);
+19:00;WTA Indian Wells 3ª Ronda;I. Swiatek;L. Noskova;WTA TV;DAZN (Regístrate);
 20:00;NBA Liga Regular;Los Angeles Clippers;Milwaukee Bucks;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:00;WTA Indian Wells;3ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+20:30;Masters Indian Wells 3ª Ronda;A. Bublik;A. De Miñaur;ATP Tennis TV;M+ Deportes 3 (65);
 21:00;La Liga EA Sports;Real Betis;Villarreal;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Alcorcón;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
+21:00;Masters Indian Wells 3ª Ronda;F. Auger-Aliassime;C. Alcaraz;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
+21:00;WTA Indian Wells 3ª Ronda;A. Kalinskaya;J. Paolini;WTA TV;DAZN (Regístrate);
 21:30;NASCAR Cup Series;Phoenix Raceway;Carrera;DAZN (Regístrate);
+22:30;Masters Indian Wells 3ª Ronda;JL. Struff;J. Sinner;ATP Tennis TV;M+ Deportes 2 (64);
+22:30;WTA Indian Wells 3ª Ronda;A. Kerber;V. Kudermetova;WTA TV;DAZN (Regístrate);
+23:30;Masters Indian Wells 3ª Ronda;A. Rublev;J. Lehecka;ATP Tennis TV;M+ Deportes 3 (65);

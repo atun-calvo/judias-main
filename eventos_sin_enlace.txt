@@ -2,4 +2,7 @@
 02:00;UFC UFC 299;S. O'Malley;M. Vera;Eurosport Player;
 05:00;WTA Indian Wells 2ª Ronda;Q. Zheng;Y. Yuan;WTA TV;DAZN (Regístrate);
 17:00;Primera Federación Futsal;Jimbee Cartagena FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
+19:00;WTA Indian Wells 3ª Ronda;I. Swiatek;L. Noskova;WTA TV;DAZN (Regístrate);
+21:00;WTA Indian Wells 3ª Ronda;A. Kalinskaya;J. Paolini;WTA TV;DAZN (Regístrate);
 21:30;NASCAR Cup Series;Phoenix Raceway;Carrera;DAZN (Regístrate);
+22:30;WTA Indian Wells 3ª Ronda;A. Kerber;V. Kudermetova;WTA TV;DAZN (Regístrate);
