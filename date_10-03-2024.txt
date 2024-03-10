@@ -23,10 +23,10 @@
 16:15;LaLiga Hypermotion;Villarreal B;Elche;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 16:15;Moto2;G.P. Catar (Losail);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 16:45;Premier League;Liverpool;Manchester City;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+17:00;IndyCar;Grand Prix of St. Petersburg;Carrera;M+ Deportes 4 (191);
 17:00;Liga Endesa Liga Regular;Coviran Granada;Bilbao Basket;M+ Deportes 2 (64);
 17:00;Liga Endesa Liga Regular;Zunder Palencia;MoraBanc Andorra;M+ Deportes 3 (65);
 17:00;Primera Federación Futsal;Jimbee Cartagena FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
-18:00;IndyCar;Grand Prix of St. Petersburg;Carrera;M+ Deportes 4 (191);
 18:00;MotoGP;G.P. Catar (Losail);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 18:00;Puebla Open;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+ Plus;
 18:30;La Liga EA Sports;Real Madrid;Celta;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
