@@ -1,10 +1,5 @@
-02:00;Masters Indian Wells 2ª Ronda;B. Nakashima;J. Lehecka;ATP Tennis TV;M+ Deportes 8 (M195);
-03:00;WTA Indian Wells 2ª Ronda;K. Volynets;O. Jabeur;WTA TV;DAZN (Regístrate);
-05:00;WTA Indian Wells 2ª Ronda;E. Rybakina;N. Podoroska;WTA TV;DAZN (Regístrate);
-16:00;Primera Federación Futsal;Córdoba FS;Industrias Santa Coloma;FEF TV;
-18:00;Primera Federación Futsal;Servigroup Peñiscola FS;Alzira FS;FEF TV;
-18:00;Primera Federación Futsal;Viña Albali Valdepeñas;Jaén FS;FEF TV;
-19:00;Segunda Federación Futsal;Full Energía Zaragoza;O Parrulo Ferrol;Aragón Deporte;
-20:00;Primera Federación Futsal;Movistar Inter;Real Betis FS;FEF TV;
-20:00;WTA Indian Wells 2ª Ronda;C. Burel;C. Gauff;WTA TV;DAZN (Regístrate);
-BaloncestoESP;
+01:00;NBA Liga Regular;Detroit Pistons;Dallas Mavericks;ProSieben MAXX (M+ Astra);
+02:00;UFC UFC 299;S. O'Malley;M. Vera;Eurosport Player;
+05:00;WTA Indian Wells 2ª Ronda;Q. Zheng;Y. Yuan;WTA TV;DAZN (Regístrate);
+17:00;Primera Federación Futsal;Jimbee Cartagena FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
+21:30;NASCAR Cup Series;Phoenix Raceway;Carrera;DAZN (Regístrate);
