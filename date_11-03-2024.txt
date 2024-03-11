@@ -2,8 +2,15 @@
 02:00;WTA Indian Wells 3ª Ronda;C. Wozniacki;K. Volynets;WTA TV;DAZN (Regístrate);
 04:00;Masters Indian Wells 3ª Ronda;B. Shelton;F. Cerúndolo;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);
 04:00;WTA Indian Wells 3ª Ronda;B. Haddad Maia;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
-19:00;Masters Indian Wells;3ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
-20:00;WTA Indian Wells;3ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+19:00;Masters Indian Wells 3ª Ronda;C. Norrie;G. Monfils;ATP Tennis TV;M+ Deportes (63);
+19:00;Masters Indian Wells 3ª Ronda;L. Musetti;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);
+19:00;WTA Indian Wells 3ª Ronda;L. Bronzetti;C. Gauff;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 20:30;LaLiga Hypermotion;Amorebieta;Leganés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
+20:30;Masters Indian Wells 3ª Ronda;C. Ruud;A. Fils;ATP Tennis TV;M+ Deportes (63);M+ Deportes 4 (191);
+20:30;Masters Indian Wells 3ª Ronda;T. Paul;U. Humbert;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
 21:00;La Liga EA Sports;UD Almería;Sevilla FC;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Premier League;Chelsea;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+21:00;WTA Indian Wells 3ª Ronda;E. Raducanu;A. Sabalenka;WTA TV;DAZN (Regístrate);
+22:00;Masters Indian Wells 3ª Ronda;A. Mannarino;G. Dimitrov;ATP Tennis TV;M+ Deportes 4 (191);
+22:00;Masters Indian Wells 3ª Ronda;T. Fritz;S. Báez;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+22:30;WTA Indian Wells 3ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);
