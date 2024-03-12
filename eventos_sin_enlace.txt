@@ -1,4 +1,7 @@
-02:00;WTA Indian Wells 3ª Ronda;C. Wozniacki;K. Volynets;WTA TV;DAZN (Regístrate);
-04:00;WTA Indian Wells 3ª Ronda;B. Haddad Maia;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
-21:00;WTA Indian Wells 3ª Ronda;E. Raducanu;A. Sabalenka;WTA TV;DAZN (Regístrate);
-22:30;WTA Indian Wells 3ª Ronda;N. Osaka;E. Mertens;WTA TV;DAZN (Regístrate);
+02:00;WTA Indian Wells 3ª Ronda;C. García;M. Sakkari;WTA TV;DAZN (Regístrate);
+04:00;WTA Indian Wells 3ª Ronda;E. Svitolina;E. Navarro;WTA TV;DAZN (Regístrate);
+17:00;Eurocup 1/4 de Final;U-BT Cluj Napoca;London Lions;EuroLeague TV;
+18:00;Basketball Champions League Top 16;Galatasaray Istanbul;MHP RIESEN Ludwigsburg;DAZN (Regístrate);
+19:30;Eurocup 1/4 de Final;JL Bourg;BC Prometey;EuroLeague TV;
+20:00;Basketball Champions League Top 16;Telekom Baskets Bonn;JDA Dijon;DAZN (Regístrate);
+20:30;Basketball Champions League Top 16;UCAM Murcia CB;AEK BC;DAZN (Regístrate);Popular TV Murcia;

@@ -1,0 +1,14 @@
+02:00;Masters Indian Wells 3ª Ronda;N. Djokovic;L. Nardi;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+02:00;NBA Liga Regular;Denver Nuggets;Toronto Raptors;M+ Deportes (63);
+02:00;WTA Indian Wells 3ª Ronda;C. García;M. Sakkari;WTA TV;DAZN (Regístrate);
+03:30;Masters Indian Wells 3ª Ronda;D. Medvedev;S. Korda;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+04:00;WTA Indian Wells 3ª Ronda;E. Svitolina;E. Navarro;WTA TV;DAZN (Regístrate);
+17:00;Eurocup 1/4 de Final;U-BT Cluj Napoca;London Lions;EuroLeague TV;
+18:00;Basketball Champions League Top 16;Galatasaray Istanbul;MHP RIESEN Ludwigsburg;DAZN (Regístrate);
+19:00;Masters Indian Wells;1/8 de final;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
+19:30;Eurocup 1/4 de Final;JL Bourg;BC Prometey;EuroLeague TV;
+20:00;Basketball Champions League Top 16;Telekom Baskets Bonn;JDA Dijon;DAZN (Regístrate);
+20:00;WTA Indian Wells;1/8 de final;WTA 1000;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+20:30;Basketball Champions League Top 16;UCAM Murcia CB;AEK BC;DAZN (Regístrate);Popular TV Murcia;
+21:00;Champions League 1/8 de final;Arsenal;FC Porto;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
+21:00;Champions League 1/8 de final;FC Barcelona;Napoli;Movistar Plus+ (M7);M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
