@@ -1,7 +1,7 @@
-02:00;WTA Indian Wells 3ª Ronda;C. García;M. Sakkari;WTA TV;DAZN (Regístrate);
-04:00;WTA Indian Wells 3ª Ronda;E. Svitolina;E. Navarro;WTA TV;DAZN (Regístrate);
-18:00;Basketball Champions League Top 16;Galatasaray Istanbul;MHP RIESEN Ludwigsburg;DAZN (Regístrate);
-19:30;Eurocup 1/4 de Final;JL Bourg;BC Prometey;EuroLeague TV;
-20:00;Basketball Champions League Top 16;Telekom Baskets Bonn;JDA Dijon;DAZN (Regístrate);
-20:30;Basketball Champions League Top 16;UCAM Murcia CB;AEK BC;DAZN (Regístrate);Popular TV Murcia;
-21:00;WTA Indian Wells 1/8 de final;A. Pavlyuchenkova;M. Kostyuk;WTA TV;DAZN (Regístrate);
+04:00;WTA Indian Wells 1/8 de final;I. Swiatek;Y. Putintseva;WTA TV;DAZN (Regístrate);
+18:00;Basketball Champions League Top 16;Promitheas Patras BC;Hapoel Holon;DAZN (Regístrate);
+18:00;Basketball Champions League Top 16;Tofas Bursa;Unicaja Málaga;101 TV (Málaga);DAZN (Regístrate);
+18:00;Eurocup 1/4 de Final;U-BT Cluj Napoca;London Lions;EuroLeague TV;
+18:30;Eurocup 1/4 de Final;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
+19:00;FIBA Europe Cup 1/4 de Final;NINERS Chemnitz;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
+20:00;FIBA Europe Cup 1/4 de Final;Bilbao Basket;Legia Warszawa BC;FIBA YouTube;ETB4 (País Vasco);
