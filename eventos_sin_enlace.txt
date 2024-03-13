@@ -4,4 +4,10 @@
 18:00;Eurocup 1/4 de Final;U-BT Cluj Napoca;London Lions;EuroLeague TV;
 18:30;Eurocup 1/4 de Final;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
 19:00;FIBA Europe Cup 1/4 de Final;NINERS Chemnitz;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
+19:00;WTA Indian Wells 1/8 de final;E. Navarro;A. Sabalenka;WTA TV;DAZN (Regístrate);
+20:00;Basketball Champions League Top 16;Hapoel Jerusalem;Peristeri BC;DAZN (Regístrate);
+20:00;Basketball Champions League Top 16;Strasbourg Basket;Cholet Basket;DAZN (Regístrate);
 20:00;FIBA Europe Cup 1/4 de Final;Bilbao Basket;Legia Warszawa BC;FIBA YouTube;ETB4 (País Vasco);
+20:30;WTA Indian Wells 1/8 de final;E. Mertens;C. Gauff;WTA TV;DAZN (Regístrate);
+22:00;Masters Indian Wells 1/8 de final;D. Medvedev;G. Dimitrov;ATP Tennis TV;Movistar Plus+ 2 (M176);
+23:00;WTA Indian Wells 1/8 de final;D. Parry;M. Sakkari;WTA TV;DAZN (Regístrate);

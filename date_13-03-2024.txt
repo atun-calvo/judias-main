@@ -10,10 +10,16 @@
 18:30;Eurocup 1/4 de Final;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
 19:00;FIBA Europe Cup 1/4 de Final;NINERS Chemnitz;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
 19:00;LaLiga Hypermotion;Levante;FC Andorra;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-19:00;Masters Indian Wells;1/8 de final;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
+19:00;Masters Indian Wells 1/8 de final;C. Ruud;G. Monfils;ATP Tennis TV;M+ Deportes (63);
+19:00;WTA Indian Wells 1/8 de final;E. Navarro;A. Sabalenka;WTA TV;DAZN (Regístrate);
+20:00;Basketball Champions League Top 16;Hapoel Jerusalem;Peristeri BC;DAZN (Regístrate);
+20:00;Basketball Champions League Top 16;Strasbourg Basket;Cholet Basket;DAZN (Regístrate);
 20:00;FIBA Europe Cup 1/4 de Final;Bilbao Basket;Legia Warszawa BC;FIBA YouTube;ETB4 (País Vasco);
-20:00;WTA Indian Wells;1/4 de Final;WTA 1000;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+20:30;Masters Indian Wells 1/8 de final;L. Nardi;T. Paul;ATP Tennis TV;M+ Deportes (63);
 20:30;Premier League;Bournemouth;Luton Town;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
+20:30;WTA Indian Wells 1/8 de final;E. Mertens;C. Gauff;WTA TV;DAZN (Regístrate);
 21:00;Basketball Champions League Top 16;Lenovo Tenerife;Karsiyaka Basket;Teledeporte;RTVE Play;
 21:00;Champions League 1/8 de final;At. Madrid;Inter Milan;M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 21:00;Champions League 1/8 de final;Borussia Dortmund;PSV Eindhoven;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
+22:00;Masters Indian Wells 1/8 de final;D. Medvedev;G. Dimitrov;ATP Tennis TV;Movistar Plus+ 2 (M176);
+23:00;WTA Indian Wells 1/8 de final;D. Parry;M. Sakkari;WTA TV;DAZN (Regístrate);
