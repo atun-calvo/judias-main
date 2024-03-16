@@ -1,6 +1,8 @@
 10:00;Mónaco Masters;1ª Ronda;A1 Padel;LaLiga+ Plus;
-14:10;Vuelta a Extremadura;Etapa 1;Badajoz › Badajoz (156 km);SPORTPUBLIC TV YouTube;Canal Extremadura;
-19:30;Primera Federación Futsal;ElPozo Murcia;Alzira FS;FEF TV;
-19:30;Primera Federación Futsal;Industrias Santa Coloma;Osasuna Magna;FEF TV;
-20:30;Primera Federación Futsal;Palma Futsal;Viña Albali Valdepeñas;FEF TV;
-21:00;Primera Federación Futsal;Movistar Inter;Servigroup Peñiscola FS;FEF TV;
+13:00;Primera Federación Futsal;Real Betis FS;Jimbee Cartagena FS;FEF TV;
+14:15;Vuelta a Extremadura;Etapa 2;Guareña › Alto del Castillo de Herrera del Duque (136 km);SPORTPUBLIC TV YouTube;Canal Extremadura;
+18:00;Primera Federación Futsal;Jaén FS;Noia Portus Apostoli FS;FEF TV;
+19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Burela FS;Aragón Deporte;
+19:00;Segunda Federación Futsal;O Parrulo Ferrol;Real Betis Futsal B;RFEF.es;
+20:00;Primera Federación Futsal;Ribera Navarra FS;Barça FS;FEF TV;Esport3 (Cataluña);
+21:00;Amistoso Femenino;Brasil;España;RTVE Play;
