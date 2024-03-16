@@ -28,5 +28,5 @@
 21:00;La Liga EA Sports;Athletic Club;Alavés;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Sporting Gijón;Alcorcón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;Primera Federación Futsal;Manzanares FS;Córdoba FS;FEF TV;Teledeporte;RTVE Play;
-21:30;Masters Indian Wells Semifinal 1 ATP Masters 1000;J. Sinner;C. Alcaraz;ATP Tennis TV;M+ Deportes (63);
+21:30;Masters Indian Wells Semifinal 1 ATP Masters 1000;J. Sinner;C. Alcaraz;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 23:00;Masters Indian Wells Semifinal 2 ATP Masters 1000;T. Paul;D. Medvedev;ATP Tennis TV;M+ Deportes (63);
