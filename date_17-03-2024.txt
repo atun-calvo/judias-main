@@ -21,10 +21,10 @@
 18:30;LaLiga Hypermotion;Elche;Albacete;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M3;
 18:30;LaLiga Hypermotion;Real Zaragoza;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M4;
 18:30;Liga Endesa Liga Regular;Unicaja Málaga;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
-20:00;WTA Indian Wells Final WTA 1000;I. Swiatek;M. Sakkari;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
+19:00;WTA Indian Wells Final WTA 1000;I. Swiatek;M. Sakkari;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Teledeporte;RTVE Play;
 20:30;NBA Liga Regular;Dallas Mavericks;Denver Nuggets;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Amistoso Femenino;Portugal;España;Teledeporte;RTVE Play;
 21:00;La Liga EA Sports;At. Madrid;FC Barcelona;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:30;NASCAR Cup Series;Bristol Speedway;Carrera;DAZN (Regístrate);
-22:00;Masters Indian Wells;Final;ATP Masters 1000;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);
+22:00;Masters Indian Wells Final ATP Masters 1000;D. Medvedev;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 BaloncestoESP;Aragón Deporte;Aragón TV;
