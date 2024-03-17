@@ -1,8 +1,7 @@
+00:00;NBA Liga Regular;Philadelphia 76ers;Charlotte Hornets;ProSieben MAXX (M+ Astra);
+00:00;UFC UFC Fight Night;T. Tuivasa;M. Tybura;Eurosport Player;
+09:00;Velada Peso Semipesado;C. Wallace;J. Gipp;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 10:00;Mónaco Masters;1ª Ronda;A1 Padel;LaLiga+ Plus;
-13:00;Primera Federación Futsal;Real Betis FS;Jimbee Cartagena FS;FEF TV;
-14:15;Vuelta a Extremadura;Etapa 2;Guareña › Alto del Castillo de Herrera del Duque (136 km);SPORTPUBLIC TV YouTube;Canal Extremadura;
-18:00;Primera Federación Futsal;Jaén FS;Noia Portus Apostoli FS;FEF TV;
-19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Burela FS;Aragón Deporte;
-19:00;Segunda Federación Futsal;O Parrulo Ferrol;Real Betis Futsal B;RFEF.es;
-20:00;Primera Federación Futsal;Ribera Navarra FS;Barça FS;FEF TV;Esport3 (Cataluña);
-21:00;Amistoso Femenino;Brasil;España;RTVE Play;
+11:50;Vuelta a Extremadura;Etapa 3;Garrovillas de Alconétar › Piornal (153 km);SPORTPUBLIC TV YouTube;Canal Extremadura;
+21:30;NASCAR Cup Series;Bristol Speedway;Carrera;DAZN (Regístrate);
+BaloncestoESP;Aragón Deporte;Aragón TV;
