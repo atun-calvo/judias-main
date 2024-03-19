@@ -5,6 +5,7 @@
 16:00;WTA Miami 1ª Ronda;P. Stearns;Y. Wang;WTA TV;
 17:00;Amistoso Femenino;Japón;España;Teledeporte;RTVE Play;
 17:30;WTA Miami 1ª Ronda;D. Shnaider;V. Williams;WTA TV;
+18:00;México Open;1ª Ronda;Premier Padel;Premier Padel YouTube;
 18:30;Basketball Champions League Top 16;Karsiyaka Basket;Hapoel Jerusalem;DAZN (Regístrate);
 18:30;Basketball Champions League Top 16;Peristeri BC;Lenovo Tenerife;DAZN (Regístrate);Teledeporte;RTVE Play;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Olympiacos Piraeus;M+ Deportes 3 (65);
