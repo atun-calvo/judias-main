@@ -1,10 +1,7 @@
-15:50;Settimana Coppi e Bartali;Etapa 1;Pesaro › Pesaro (109,7 km);CiclismoLive YouTube;
-16:00;WTA Miami 1ª Ronda;P. Stearns;Y. Wang;WTA TV;
-17:30;WTA Miami 1ª Ronda;D. Shnaider;V. Williams;WTA TV;
-18:00;México Open;1ª Ronda;Premier Padel;Premier Padel YouTube;
-18:30;Basketball Champions League Top 16;Karsiyaka Basket;Hapoel Jerusalem;DAZN (Regístrate);
-19:00;JJOO Femeninos;Sorteo;París 2024;FIBA YouTube;
-19:00;JJOO Masculinos;Sorteo;París 2024;FIBA YouTube;
-19:00;WTA Miami 1ª Ronda;C. Burel;C. Wozniacki;WTA TV;
-20:30;Basketball Champions League Top 16;Strasbourg Basket;Tofas Bursa;DAZN (Regístrate);
-20:30;Basketball Champions League Top 16;Unicaja Málaga;Cholet Basket;101 TV (Málaga);DAZN (Regístrate);
+07:30;Cape Epic;Etapa 3;Saronsberg › CPUT Wellington (94 km);LaLiga+;LaLiga+ Plus;
+15:00;Settimana Coppi e Bartali;Etapa 2;Riccione › Sogliano al Rubicone (156,5 km);CiclismoLive YouTube;
+18:00;México Open;2ª Ronda;Premier Padel;Premier Padel YouTube;
+18:30;Basketball Champions League Top 16;AEK BC;Promitheas Patras BC;DAZN (Regístrate);
+18:30;Basketball Champions League Top 16;Hapoel Holon;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
+20:00;Basketball Champions League Top 16;JDA Dijon;Galatasaray Istanbul;DAZN (Regístrate);
+20:00;Basketball Champions League Top 16;MHP RIESEN Ludwigsburg;Telekom Baskets Bonn;DAZN (Regístrate);
