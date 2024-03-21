@@ -1,10 +1,8 @@
-07:30;Cape Epic;Etapa 3;Saronsberg › CPUT Wellington (94 km);LaLiga+;LaLiga+ Plus;
-15:00;Settimana Coppi e Bartali;Etapa 2;Riccione › Sogliano al Rubicone (156,5 km);CiclismoLive YouTube;
-16:00;WTA Miami 1ª Ronda;M. Frech;C. Giorgi;WTA TV;DAZN (Regístrate);
-17:00;WTA Miami 1ª Ronda;S. Stephens;A. Kerber;WTA TV;DAZN (Regístrate);
-18:00;México Open;2ª Ronda;Premier Padel;Premier Padel YouTube;
-18:30;Basketball Champions League Top 16;AEK BC;Promitheas Patras BC;DAZN (Regístrate);
-18:30;Basketball Champions League Top 16;Hapoel Holon;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
-19:00;WTA Miami 1ª Ronda;D. Vekic;K. Pliskova;WTA TV;DAZN (Regístrate);
-20:00;Basketball Champions League Top 16;JDA Dijon;Galatasaray Istanbul;DAZN (Regístrate);
-20:00;Basketball Champions League Top 16;MHP RIESEN Ludwigsburg;Telekom Baskets Bonn;DAZN (Regístrate);
+00:00;WTA Miami 1ª Ronda;E. Cocciaretto;N. Osaka;WTA TV;DAZN (Regístrate);
+07:30;Cape Epic;Etapa 4;CPUT Wellington (88 km);LaLiga+;LaLiga+ Plus;
+14:40;Settimana Coppi e Bartali;Etapa 3;Riccione › Riccione (134,5 km);CiclismoLive YouTube;
+16:00;WTA Miami;2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);
+18:00;Copa de la Reina 1/4 de Final;Valencia Basket;IDK Euskotren;Twitch baloncestoesp;À Punt (C. Valenciana);RTVE Play;
+18:00;México Open;3ª Ronda;Premier Padel;Premier Padel YouTube;
+19:00;Basketball Champions League;Sorteo Cuartos de Final;BCL YouTube;
+21:30;Copa de España 1/4 de Final;Movistar Inter;Palma Futsal;RTVE Play;
