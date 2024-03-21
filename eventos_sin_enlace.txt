@@ -1,8 +1,10 @@
 00:00;WTA Miami 1ª Ronda;E. Cocciaretto;N. Osaka;WTA TV;DAZN (Regístrate);
 07:30;Cape Epic;Etapa 4;CPUT Wellington (88 km);LaLiga+;LaLiga+ Plus;
 14:40;Settimana Coppi e Bartali;Etapa 3;Riccione › Riccione (134,5 km);CiclismoLive YouTube;
-16:00;WTA Miami;2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);
+16:00;WTA Miami 2ª Ronda;D. Parry;B. Haddad Maia;WTA TV;DAZN (Regístrate);
 18:00;Copa de la Reina 1/4 de Final;Valencia Basket;IDK Euskotren;Twitch baloncestoesp;À Punt (C. Valenciana);RTVE Play;
 18:00;México Open;3ª Ronda;Premier Padel;Premier Padel YouTube;
+18:30;WTA Miami 2ª Ronda;M. Sakkari;Y. Yuan;WTA TV;DAZN (Regístrate);
 19:00;Basketball Champions League;Sorteo Cuartos de Final;BCL YouTube;
+20:00;WTA Miami 2ª Ronda;D. Shnaider;M. Keys;WTA TV;DAZN (Regístrate);
 21:30;Copa de España 1/4 de Final;Movistar Inter;Palma Futsal;RTVE Play;
