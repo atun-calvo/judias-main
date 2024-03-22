@@ -1,8 +1,8 @@
 00:00;WTA Miami 2ª Ronda;P. Stearns;V. Azarenka;WTA TV;DAZN (Regístrate);
 01:30;WTA Miami 2ª Ronda;C. Tauson;E. Rybakina;WTA TV;DAZN (Regístrate);
 07:30;Cape Epic;Etapa 5;CPUT Wellington (70 km);LaLiga+;LaLiga+ Plus;
-11:00;Torneo de Murcia 1/4 de Final ATP Challenger Tour;R. Albot;H. Rocha;Eurosport Player;
-12:30;Torneo de Murcia 1/4 de Final ATP Challenger Tour;P. Llamas;R. Gasquet;Eurosport Player;
+11:00;Torneo de Murcia 1/4 de Final ATP Challenger Tour;R. Albot;H. Rocha;Marca YouTube;Eurosport Player;
+12:30;Torneo de Murcia 1/4 de Final ATP Challenger Tour;P. Llamas;R. Gasquet;Marca YouTube;Eurosport Player;
 14:10;Supersport 300;G.P. Cataluña (Montmeló);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);RTVE Play;Eurosport Player;
 15:00;Settimana Coppi e Bartali;Etapa 4;Brisighella › Brisighella (150,7 km);CiclismoLive YouTube;
 16:00;Supersport;G.P. Cataluña (Montmeló);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);RTVE Play;Eurosport Player;
