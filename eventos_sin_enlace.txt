@@ -5,7 +5,6 @@
 11:30;Torneo de Murcia Final;N. Basilashvili;H. Rocha;Marca YouTube;Eurosport Player;
 12:30;Liga Endesa Liga Regular;Zunder Palencia;Real Madrid Baloncesto;Canal por confirmar;
 15:15;Supersport;G.P. Cataluña (Montmeló);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);RTVE Play;Eurosport Player;
-16:00;Masters Miami 2ª Ronda;M. Landaluce;B. Shelton;ATP Tennis TV;
 16:45;La Roue Tourangelle;UCI Europe Tour;Descartes › Tours (200 km);Eurosport Player;
 17:00;WTA Miami 3ª Ronda;C. Gauff;O. Dodin;WTA TV;DAZN (Regístrate);
 20:00;WTA Miami 3ª Ronda;C. García;N. Osaka;WTA TV;DAZN (Regístrate);

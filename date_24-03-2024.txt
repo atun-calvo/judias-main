@@ -25,7 +25,7 @@
 15:00;MotoGP;G.P. Portugal (Algarve International);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Mónaco Masters;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+ Plus;LaLiga+ TV (Orange 109);
 15:15;Supersport;G.P. Cataluña (Montmeló);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);RTVE Play;Eurosport Player;
-16:00;Masters Miami 2ª Ronda;M. Landaluce;B. Shelton;ATP Tennis TV;
+16:00;Masters Miami 2ª Ronda;M. Landaluce;B. Shelton;ATP Tennis TV;M+ Deportes 2 (64);
 16:15;LaLiga Hypermotion;Huesca;Burgos CF;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 16:15;LaLiga Hypermotion;Real Valladolid;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
 16:45;La Roue Tourangelle;UCI Europe Tour;Descartes › Tours (200 km);Eurosport Player;
@@ -33,14 +33,14 @@
 17:00;Liga Endesa Liga Regular;Valencia Basket;UCAM Murcia CB;M+ Deportes 4 (191);
 17:00;WTA Miami 3ª Ronda;C. Gauff;O. Dodin;WTA TV;DAZN (Regístrate);
 17:30;IndyCar;Thermal Club ($1 Million Challenge);Carrera;M+ Deportes 5 (192);
-17:30;Masters Miami 2ª Ronda;A. De Miñaur;S. Kwon;ATP Tennis TV;M+ Deportes 6 (193);
+17:30;Masters Miami 2ª Ronda;A. De Miñaur;S. Kwon;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 6 (193);
 18:30;Copa de España;Final;Teledeporte;RTVE Play;Esport3 (Cataluña);
 18:30;LaLiga Hypermotion;Levante;Elche;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Mirandés;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
 18:30;Liga Endesa Liga Regular;Joventut Badalona;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
-18:30;Masters Miami 2ª Ronda;F. Marozsan;H. Rune;ATP Tennis TV;M+ Deportes 7 (194);
+18:30;Masters Miami 2ª Ronda;F. Marozsan;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 7 (194);
 19:00;Masters Miami 3ª Ronda;T. Machac;A. Murray;ATP Tennis TV;M+ Deportes 6 (193);
-20:00;Masters Miami 3ª Ronda;T. Griekspoor;J. Sinner;ATP Tennis TV;M+ Deportes 7 (194);
+20:00;Masters Miami 3ª Ronda;T. Griekspoor;J. Sinner;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 7 (194);
 20:00;WTA Miami 3ª Ronda;C. García;N. Osaka;WTA TV;DAZN (Regístrate);
 20:30;Masters Miami 3ª Ronda;N. Jarry;T. Seyboth-Wild;ATP Tennis TV;M+ Deportes 6 (193);
 20:30;NBA Liga Regular;Los Angeles Clippers;Philadelphia 76ers;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
