@@ -1,2 +1,10 @@
-02:00;Velada Peso Semipesado;J. Carrillo;Q. Rankin;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-14:00;Route Adélie de Vitré;UCI Europe Tour;Vitré › Vitré (176,7 km);Eurosport Player;
+01:00;Velada Peso Supergallo;E. Pierce;A. Villanueva;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+13:00;Primera Federación Futsal;Viña Albali Valdepeñas;Ribera Navarra FS;FEF TV;
+15:00;Volta Limburg Classic;UCI Europe Tour;Eijsden › Eijsden (190,8 km);Eurosport Player;
+16:00;Premier League;Nottingham Forest;Crystal Palace;DAZN (Regístrate);
+16:00;Premier League;Sheffield United;Fulham;DAZN (Regístrate);
+18:00;Primera Federación Futsal;Córdoba FS;Real Betis FS;FEF TV;
+18:00;Primera Federación Futsal;Servigroup Peñiscola FS;ElPozo Murcia;FEF TV;
+18:45;Segunda Federación Futsal;Burela FS;UD Ibiza FS;RFEF.es;
+20:00;Primera Federación Futsal;Alzira FS;Jaén FS;FEF TV;
+20:00;Título Europeo Peso Pluma;K. Walker;J. Beech Jr;DAZN (Regístrate);DAZN App Gratis (Regístrate);
