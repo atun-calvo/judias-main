@@ -1,7 +1,6 @@
-00:00;NBA Liga Regular;Orlando Magic;Memphis Grizzlies;ProSieben MAXX (M+ Astra);
-02:00;Velada Peso Superwelter;T. Tszyu;K. Thurman;Fight Sports Max;
-04:00;UFC UFC Fight Night;E. Blanchfield;M. Fiorot;Eurosport Player;
-13:00;Primera Federación Futsal;Noia Portus Apostoli FS;Palma Futsal;FEF TV;
-18:00;Primera Federación Futsal;Osasuna Magna;Manzanares FS;FEF TV;
-19:15;Primera Federación Futsal;Barça FS;Industrias Santa Coloma;FEF TV;Esport3 (Cataluña);
-BaloncestoESP;
+01:00;NASCAR Cup Series;Richmond Raceway;Carrera;DAZN (Regístrate);
+12:30;Torneo de Marrakech;1ª Ronda;ATP 250;ATP Tennis TV;
+13:00;Torneo de Estoril;1ª Ronda;ATP 250;ATP Tennis TV;
+17:00;WTA Torneo de Bogotá;1ª Ronda;WTA 250;WTA TV;
+17:00;WTA Torneo de Charleston;1ª Ronda;WTA 500;WTA TV;
+18:00;Torneo de Houston;1ª Ronda;ATP 250;ATP Tennis TV;
