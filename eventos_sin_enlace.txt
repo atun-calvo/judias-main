@@ -7,10 +7,13 @@
 15:30;Torneo de Estoril 1ª Ronda;A. Fils;J. Sousa;ATP Tennis TV;
 16:00;Torneo de Marrakech 1ª Ronda;A. Ramos;S. Wawrinka;ATP Tennis TV;
 17:00;Torneo de Estoril 1ª Ronda;J. Choinski;J. Fonseca;ATP Tennis TV;
+17:00;WTA Torneo de Bogotá 1ª Ronda;J. Niemeier;N. Brancaccio;WTA TV;
 17:00;WTA Torneo de Bogotá;1ª Ronda;WTA 250;WTA TV;
 17:00;WTA Torneo de Charleston;1ª y 2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
 17:30;Torneo de Marrakech 1ª Ronda;D. Goffin;A. Rinderknech;ATP Tennis TV;
 18:00;Torneo de Houston;1ª Ronda;ATP 250;ATP Tennis TV;
 18:30;Torneo de Estoril 1ª Ronda;H. Rocha;G. Monfils;ATP Tennis TV;
+18:30;WTA Torneo de Bogotá 1ª Ronda;C. Bucsa;X. You;WTA TV;
+18:30;WTA Torneo de Bogotá 1ª Ronda;V. Mediorreal Arias;K. Rakhimova;WTA TV;
 20:30;Premier League;Nottingham Forest;Fulham;DAZN (Regístrate);
 20:45;Premier League;Burnley;Wolverhampton;DAZN (Regístrate);
