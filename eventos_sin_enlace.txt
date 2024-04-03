@@ -3,7 +3,7 @@
 02:30;Torneo de Houston 1ª Ronda;J. Thompson;Y. Wu;ATP Tennis TV;
 13:00;Torneo de Estoril 1ª Ronda;J. Choinski;J. Fonseca;ATP Tennis TV;
 13:00;Torneo de Marrakech 2ª Ronda;S. Nagal;L. Sonego;ATP Tennis TV;
-14:30;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+14:30;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 14:30;Torneo de Estoril 1ª Ronda;J. Rodionov;C. Garín;ATP Tennis TV;
 14:30;Torneo de Marrakech 2ª Ronda;P. Kotov;F. Cobolli;ATP Tennis TV;
 15:00;Scheldeprijs;UCI Pro Series;Terneuzen › Schoten (205,3 km);Eurosport Player;
