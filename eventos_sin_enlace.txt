@@ -1,6 +1,4 @@
-00:00;WTA Torneo de Charleston 2ª Ronda;D. Collins;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 01:00;Torneo de Houston 2ª Ronda;B. Shelton;Z. Bergs;ATP Tennis TV;
-01:30;WTA Torneo de Charleston 2ª Ronda;L. Fernández;S. Stephens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 02:30;Torneo de Houston 2ª Ronda;M. Giron;J. Wolf;ATP Tennis TV;
 13:00;Torneo de Estoril 2ª Ronda;J. Choinski;H. Hurkacz;ATP Tennis TV;
 13:00;Torneo de Marrakech 2ª Ronda;D. Evans;R. Carballés;ATP Tennis TV;
@@ -9,8 +7,10 @@
 16:00;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 16:00;Torneo de Marrakech 2ª Ronda;M. Navone;S. Wawrinka;ATP Tennis TV;
 17:00;WTA Torneo de Bogotá;2ª Ronda;WTA 250;WTA TV;DAZN (Regístrate);
+17:00;WTA Torneo de Charleston 2ª Ronda;D. Collins;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+17:00;WTA Torneo de Charleston 2ª Ronda;L. Fernández;S. Stephens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:00;WTA Torneo de Charleston;3ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;Torneo de Marrakech 2ª Ronda;A. Vukic;S. Ofner;ATP Tennis TV;
-18:00;Torneo de Estoril 2ª Ronda;C. Ruud;TBD;ATP Tennis TV;
+18:00;Torneo de Estoril 2ª Ronda;C. Ruud;B. Van de Zandschulp;ATP Tennis TV;
 18:00;Torneo de Houston;2ª Ronda;ATP 250;ATP Tennis TV;
 19:30;Torneo de Estoril 2ª Ronda;M. Fucsovics;G. Monfils;ATP Tennis TV;
