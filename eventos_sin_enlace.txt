@@ -5,8 +5,10 @@
 02:30;Torneo de Houston 2ª Ronda;J. Thompson;A. Kovacevic;ATP Tennis TV;
 03:00;Velada Peso Supergallo;J. Sánchez;E. Ruiz;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 13:00;Torneo de Marrakech 1/4 de Final;R. Carballés;N. Moreno De Alboran;ATP Tennis TV;
+14:00;WTA Torneo de La Bisbal 1/4 de Final;E. Jacquemot;O. Danilovic;Marca YouTube;
 14:30;Torneo de Marrakech 1/4 de Final;F. Fognini;P. Kotov;ATP Tennis TV;
 15:00;Torneo de Estoril 1/4 de Final;C. Garín;N. Borges;ATP Tennis TV;
+15:30;WTA Torneo de La Bisbal 1/4 de Final;R. Sramkova;R. Masarova;Marca YouTube;
 16:00;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 16:00;Torneo de Marrakech 1/4 de Final;M. Berrettini;L. Sonego;ATP Tennis TV;
 17:00;WTA Torneo de Bogotá;1/4 de Final;WTA 250;WTA TV;DAZN (Regístrate);
