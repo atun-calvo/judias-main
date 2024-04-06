@@ -11,8 +11,8 @@
 18:00;Primera Federación Futsal;Ribera Navarra FS;Noia Portus Apostoli FS;FEF TV;
 19:30;Segunda Federación Futsal;AD Sala 10 Zaragoza;Club Sala 5 Martorell;Aragón Deporte;RFEF.es;
 20:00;Primera Federación Futsal;Jimbee Cartagena FS;Servigroup Peñiscola FS;FEF TV;
-20:00;Torneo de Houston;Semifinal 1;ATP 250;ATP Tennis TV;
+20:00;Torneo de Houston Semifinal 1 ATP 250;B. Shelton;TM. Etcheverry;ATP Tennis TV;
 20:15;Adidas Next Generation Fase de Clasificación;CFBB Paris;Dreamland Gran Canaria;EuroLeague YouTube;
 21:00;Miami Open;Semifinales;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
-21:30;Torneo de Houston;Semifinal 2;ATP 250;ATP Tennis TV;
+21:30;Torneo de Houston Semifinal 2 ATP 250;F. Tiafoe;L. Darderi;ATP Tennis TV;
 22:00;UFC;UFC Fight Night;Prelims;Eurosport Player;
