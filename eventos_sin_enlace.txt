@@ -1,11 +1,11 @@
 00:00;Miami Open;Semifinales;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 00:00;UFC UFC Fight Night;B. Allen;C. Curtis;Eurosport Player;
 01:00;NBA Liga Regular;Brooklyn Nets;Detroit Pistons;ProSieben MAXX (M+ Astra);
-13:00;Masters Montecarlo 1ª Ronda;JL. Struff;S. Báez;ATP Tennis TV;
-14:30;Masters Montecarlo 1ª Ronda;A. Bublik;B. Coric;ATP Tennis TV;
-16:00;Masters Montecarlo 1ª Ronda;L. Musetti;T. Fritz;ATP Tennis TV;
+14:10;Masters Montecarlo 1ª Ronda;JL. Struff;S. Báez;ATP Tennis TV;
 16:00;Torneo de Marrakech Final ATP 250;R. Carballés;M. Berrettini;ATP Tennis TV;
+16:55;Masters Montecarlo 1ª Ronda;A. Bublik;B. Coric;ATP Tennis TV;
 17:00;Primera Federación Futsal;Manzanares FS;Barça FS;FEF TV;Esport3 (Cataluña);
+18:20;Masters Montecarlo 1ª Ronda;L. Musetti;T. Fritz;ATP Tennis TV;
 20:00;Miami Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 21:00;NASCAR Cup Series;Martinsville Speedway;Carrera;DAZN (Regístrate);
 21:00;Torneo de Houston Final ATP 250;B. Shelton;F. Tiafoe;ATP Tennis TV;
