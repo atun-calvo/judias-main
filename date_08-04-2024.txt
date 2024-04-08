@@ -2,7 +2,6 @@
 11:00;Masters Montecarlo 1ª Ronda;D. Evans;S. Ofner;ATP Tennis TV;M+ Deportes 2 (64);
 11:00;Masters Montecarlo 1ª Ronda;F. Auger-Aliassime;L. Nardi;ATP Tennis TV;M+ Deportes (63);
 11:00;Masters Montecarlo 1ª Ronda;M. Arnaldi;E. Ruusuvuori;ATP Tennis TV;M+ Deportes 2 (64);
-11:00;Masters Montecarlo;1ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
 12:30;Masters Montecarlo 1ª Ronda;V. Vacherot;G. Dimitrov;ATP Tennis TV;M+ Deportes (63);
 14:00;Masters Montecarlo 1ª Ronda;A. Fils;A. Mannarino;ATP Tennis TV;M+ Deportes 2 (64);
 14:00;Masters Montecarlo 1ª Ronda;L. Djere;S. Tsitsipas;ATP Tennis TV;M+ Deportes (63);
