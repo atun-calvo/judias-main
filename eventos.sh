@@ -124,67 +124,67 @@ canales_eurosport2="$(mktemp)" ; grep -A1 -i -e 'eurosport *2' id_$date.txt > $c
 
 ##Descarga del fichero de horarios y formateado##
 curl -s https://www.futbolenlatv.es/competicion/la-liga | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol > $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/segunda-division-espana | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/copa-del-rey | pandoc -f html > $futbol 
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/supercopa-espana | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/liga-campeones | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/europa-league | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/competicion/premier-league | pandoc -f html > $futbol
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/baloncesto | pandoc -f html > $file3 
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file3 > $basket; cat $basket | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file3
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file3 > $basket; cat $basket | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file3
 cat $file3 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/automovilismo | pandoc -f html > $file4
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file4 > $formula; cat $formula | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file4
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file4 > $formula; cat $formula | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file4
 cat $file4 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/motociclismo | pandoc -f html > $file5 
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file5 > $motos; cat $motos | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file5
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file5 > $motos; cat $motos | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file5
 cat $file5 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/tenis | pandoc -f html > $file6
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file6 > $tenis; cat $tenis | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file6
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $file6 > $tenis; cat $tenis | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $file6
 cat $file6 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/mma | pandoc -f html > $mma1
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $mma1 > $mma2; cat $mma2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $mma1
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $mma1 > $mma2; cat $mma2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $mma1
 cat $mma1 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/boxeo | pandoc -f html > $boxeo1
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $boxeo1 > $boxeo2; cat $boxeo2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $boxeo1
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $boxeo1 > $boxeo2; cat $boxeo2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $boxeo1
 cat $boxeo1 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/ciclismo | pandoc -f html > $ciclismo1
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $ciclismo1 > $ciclismo2; cat $ciclismo2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $ciclismo1
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $ciclismo1 > $ciclismo2; cat $ciclismo2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $ciclismo1
 cat $ciclismo1 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/padel | pandoc -f html > $padel1
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $padel1 > $padel2; cat $padel2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $padel1
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $padel1 > $padel2; cat $padel2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $padel1
 cat $padel1 >> $filecanales
 
 curl -s https://www.futbolenlatv.es/deporte/futbol-sala | pandoc -f html > $sala1
-sed -n '/hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $sala1 > $sala2; cat $sala2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $sala1
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $sala1 > $sala2; cat $sala2 | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $sala1
 cat $sala1 >> $filecanales
 
 
