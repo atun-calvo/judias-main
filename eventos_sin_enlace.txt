@@ -1,0 +1,13 @@
+12:00;Billie Jean King Cup Fase de Clasificación;Eslovaquia;Eslovenia;Eurovision Sports TV;
+12:05;Tour du Jura;UCI Europe Tour;Domblans › Mont Poupet (Salin-les-Bains) (174,6 km);Eurosport Player;
+13:00;Billie Jean King Cup Fase de Clasificación;Suiza;Polonia;Eurovision Sports TV;
+13:30;Billie Jean King Cup Fase de Clasificación;Francia;Gran Bretaña;Eurovision Sports TV;
+16:00;Premier League;Brentford;Sheffield United;DAZN (Regístrate);
+16:00;Premier League;Nottingham Forest;Wolverhampton;DAZN (Regístrate);
+17:00;Billie Jean King Cup Fase de Clasificación;Ucrania;Rumanía;Eurovision Sports TV;
+18:30;Segunda Federación Futsal;Levante UD FS;AD Sala 10 Zaragoza;Aragón Deporte;
+19:00;Segunda Federación Futsal;Full Energía Zaragoza;Barça B FS;Aragón Deporte;
+20:00;Billie Jean King Cup Fase de Clasificación;Brasil;Alemania;Eurovision Sports TV;
+20:30;Título Europeo Femenino Peso Supergallo;T. Álvarez;M. Cecchi;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+21:00;Miami Open;Semifinales;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;
+BaloncestoESP;Aragón Deporte;Aragón TV;
