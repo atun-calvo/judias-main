@@ -27,7 +27,7 @@
 18:30;LaLiga Hypermotion;Real Zaragoza;Elche;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 18:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Joventut Badalona;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 19:15;Moto2;G.P. Américas (Austin);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-20:00;Copa de la Reina;Final;Teledeporte;RTVE Play;
+20:00;Copa de la Reina Final;At. Navalcarnero FS;Torreblanca Melilla;Teledeporte;RTVE Play;
 20:00;Miami Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;
 21:00;La Liga EA Sports;Real Sociedad;UD Almería;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Racing Ferrol;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
