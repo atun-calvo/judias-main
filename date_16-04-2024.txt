@@ -18,8 +18,8 @@
 15:00;Chile Open;1ª Ronda;A1 Padel;DAZN (Regístrate);LaLiga+ Plus;DAZN App Gratis (Regístrate);DAZN 2 (M71);
 15:30;Barcelona Open 2ª Ronda;S. Báez;M. Arnaldi;ATP Tennis TV;RTVE Play;
 15:30;Torneo de Múnich 1ª Ronda;MA. Huesler;M. Topo;ATP Tennis TV;
-16:00;Barcelona Open 1ª Ronda;F. Cobolli;R. Nadal;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
 16:00;Torneo de Bucarest 1ª Ronda;D. Goffin;M. Kecmanovic;ATP Tennis TV;
+16:45;Barcelona Open 1ª Ronda;F. Cobolli;R. Nadal;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
 17:00;Barcelona Open 2ª Ronda;H. Mayot;C. Norrie;ATP Tennis TV;RTVE Play;
 17:00;WTA Torneo de Stuttgart 1ª Ronda;M. Vondrousova;D. Vekic;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;WTA Torneo de Rouen 1ª Ronda;E. Cocciaretto;C. García;WTA TV;
