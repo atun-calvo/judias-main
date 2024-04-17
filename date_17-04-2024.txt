@@ -32,4 +32,4 @@
 20:00;WTA Torneo de Stuttgart 2ª Ronda;P. Badosa;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 21:00;Champions League 1/4 de Final;FC Bayern;Arsenal;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
 21:00;Champions League 1/4 de Final;Manchester City;Real Madrid;M+ Liga de Campeones UHD (M441 O115);Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
-22:00;Chile Open;2ª Ronda;A1 Padel;DAZN (Regístrate);LaLiga+ Plus;DAZN App Gratis (Regístrate);DAZN 2 (M71);
+22:00;Chile Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 2 (M71);LaLiga+;LaLiga+ Plus;
