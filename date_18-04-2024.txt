@@ -1,7 +1,7 @@
 01:00;NBA Play-In;Miami Heat;Philadelphia 76ers;M+ Deportes (63);
 03:30;NBA Play-In;Atlanta Hawks;Chicago Bulls;M+ Deportes (63);
 10:00;Torneo de Bucarest 2ª Ronda;M. Fucsovics;T. Griekspoor;ATP Tennis TV;
-11:00;Barcelona Open 3ª Ronda;R. Bautista-Agut;C. Norrie;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
+11:00;Barcelona Open 3ª Ronda;R. Bautista-Agut;C. Norrie;ATP Tennis TV;Movistar Plus+ (M7);Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
 11:00;Barcelona Open 3ª Ronda;R. Carballés;S. Tsitsipas;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);Esport3 (Cataluña);
 11:00;Barcelona Open 3ª Ronda;TM. Etcheverry;B. Nakashima;ATP Tennis TV;RTVE Play;
 11:00;Torneo de Múnich 2ª Ronda;A. Michelsen;C. Garín;ATP Tennis TV;
