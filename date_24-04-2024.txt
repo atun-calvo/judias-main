@@ -20,13 +20,13 @@
 13:00;WTA Madrid 1ª Ronda;N. Osaka;G. Minnen;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;RTVE Play;M+ Deportes 4 (191);
 13:30;Tour de Turquía;Etapa 4;Marmaris › Bodrum (137,9 km);DAZN (Regístrate);Eurosport 2;Eurosport Player;
 14:00;Masters Madrid 1ª Ronda;A. Karatsev;F. Marozsan;ATP Tennis TV;RTVE Play;M+ Deportes 6 (193);
-14:00;Masters Madrid 1ª Ronda;L. Darderi;G. Monfils;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
+14:00;Masters Madrid 1ª Ronda;L. Darderi;G. Monfils;ATP Tennis TV;RTVE Play;M+ Deportes 2 (64);
 14:00;Masters Madrid 1ª Ronda;L. Van Assche;Z. Bergs;ATP Tennis TV;RTVE Play;
 14:00;WTA Madrid 1ª Ronda;M. Linette;E. Cocciaretto;WTA TV;RTVE Play;
 14:00;WTA Madrid 1ª Ronda;X. Wang;V. Tomova;WTA TV;RTVE Play;
 14:00;WTA Madrid 1ª Ronda;Y. Wang;C. Dolehide;WTA TV;RTVE Play;
 14:30;WTA Madrid 1ª Ronda;E. Raducanu;M. Carle;WTA TV;RTVE Play;M+ Deportes 4 (191);
-14:30;WTA Madrid 1ª Ronda;H. Dart;C. Bucsa;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;RTVE Play;M+ Deportes 5 (192);
+14:30;WTA Madrid 1ª Ronda;H. Dart;C. Bucsa;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 5 (192);
 15:30;Tour de Romandía;Etapa 1;Château d’Oex › Fribourg (165,7 km);DAZN (Regístrate);ETB1 (País Vasco);Eurosport 2;Eurosport Player;
 15:30;WTA Madrid 1ª Ronda;C. Burel;O. Danilovic;WTA TV;RTVE Play;
 15:30;WTA Madrid 1ª Ronda;L. Bronzetti;V. Gracheva;WTA TV;RTVE Play;
