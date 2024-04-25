@@ -32,9 +32,9 @@
 15:30;WTA Madrid 2ª Ronda;E. Mertens;S. Stephens;WTA TV;RTVE Play;
 15:30;WTA Madrid 2ª Ronda;M. Carle;V. Kudermetova;WTA TV;RTVE Play;M+ Deportes 6 (193);
 17:00;Masters Madrid 1ª Ronda;A. Michelsen;J. Fonseca;ATP Tennis TV;RTVE Play;M+ Deportes 5 (192);
-17:00;Masters Madrid 1ª Ronda;D. Blanch;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);Teledeporte;RTVE Play;M+ Deportes 2 (64);
 17:00;WTA Madrid 2ª Ronda;A. Schmiedlova;O. Jabeur;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;RTVE Play;M+ Deportes 4 (191);
 17:00;WTA Madrid 2ª Ronda;L. Fernández;A. Potapova;WTA TV;RTVE Play;M+ Deportes 6 (193);
+17:45;Masters Madrid 1ª Ronda;D. Blanch;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);Teledeporte;RTVE Play;M+ Deportes 2 (64);
 18:30;Masters Madrid 1ª Ronda;D. Koepfer;R. Carballés;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 4 (191);
 19:00;WTA Madrid 2ª Ronda;I. Swiatek;Xi. Wang;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 20:15;Euroliga Playoffs;Panathinaikos BC;Maccabi Tel Aviv BC;M+ Deportes 3 (65);
