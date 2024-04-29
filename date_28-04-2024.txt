@@ -1,6 +1,0 @@
-01:00;NBA Playoffs;Milwaukee Bucks;Indiana Pacers;NBA League Pass;
-03:30;NBA Playoffs;Minnesota Timberwolves;Phoenix Suns;NBA League Pass;
-11:00;Masters Madrid;3ª Ronda;ATP Masters 1000;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);M+ Deportes 3 (65);M+ Deportes 4 (191);M+ Deportes 5 (192);
-11:00;WTA Madrid;1/8 de final;WTA 1000;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;
-20:30;LaLiga Hypermotion;Racing Ferrol;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-21:00;La Liga EA Sports;FC Barcelona;Valencia CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
