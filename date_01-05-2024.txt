@@ -7,7 +7,7 @@
 16:00;Masters Madrid 1/4 de Final;A. Rublev;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);La 1 TVE;RTVE Play;M+ Deportes 2 (64);
 18:00;Liga Endesa Liga Regular;UCAM Murcia CB;Casademont Zaragoza;M+ Deportes (63);
 19:45;Euroliga Playoffs;Fenerbahce Istanbul;AS Monaco Basket;M+ Deportes 3 (65);
-20:00;WTA Madrid 1/4 de Final;M. Andreeva;A. Sabalenka;WTA TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
+20:00;WTA Madrid 1/4 de Final;M. Andreeva;A. Sabalenka;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 20:30;Euroliga Playoffs;Baskonia;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:45;Liga Endesa Liga Regular;Lenovo Tenerife;Unicaja Málaga;M+ Deportes (63);
 21:00;Champions League Semifinales;Borussia Dortmund;PSG;M+ Liga de Campeones UHD (M441 O115);Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
