@@ -3,10 +3,10 @@
 10:00;Sevilla Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 16:00;WTA Madrid Semifinal 1;I. Swiatek;M. Keys;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 18:45;Euroliga Playoffs;Olympiacos Piraeus;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:00;Masters Madrid 1/4 de Final;D. Medvedev;J. Lehecka;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
+20:00;Masters Madrid 1/4 de Final;D. Medvedev;J. Lehecka;ATP Tennis TV;Movistar Plus+ 2 (M176);Teledeporte;RTVE Play;M+ Deportes 2 (64);
 20:30;Giro de Italia;Presentación de Equipos;Edición 2024;ETB4 (País Vasco);Eurosport Player;
 20:30;Premier League;Chelsea;Tottenham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 20:45;Euroliga Playoffs;Maccabi Tel Aviv BC;Panathinaikos BC;M+ Deportes (63);
 21:00;Europa League Semifinales;AS Roma;Bayer Leverkusen;Movistar Plus+ (M7);M+ Liga de Campeones UHD (M441 O115);BE MAD;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 3 (M62 O118);Mitele.es;LaLiga TV Bar;
 21:00;Europa League Semifinales;O. Marseille;Atalanta;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 3 (M62 O118);
-21:30;WTA Madrid Semifinal 2 WTA 1000;E. Rybakina;A. Sabalenka;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
+21:30;WTA Madrid Semifinal 2;E. Rybakina;A. Sabalenka;WTA TV;M+ Ellas Vamos (66);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
