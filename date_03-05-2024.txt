@@ -15,7 +15,7 @@
 19:00;Futsal Champions League Semifinales;Barça FS;Sporting CP FS;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Barça One;Esport3 (Cataluña);
 19:30;Primera Federación Futsal;Osasuna Magna;Córdoba FS;FEF TV;
 19:45;Euroliga Playoffs;Fenerbahce Istanbul;AS Monaco Basket;M+ Deportes 3 (65);
-20:00;Masters Madrid Semifinal 2;F. Auger-Aliassime;J. Lehecka;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
+20:00;Masters Madrid Semifinal 2;F. Auger-Aliassime;J. Lehecka;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 20:00;Sevilla Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 20:30;LaLiga Hypermotion;Villarreal B;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;La Liga EA Sports;Getafe;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);LaLiga TV Bar;
