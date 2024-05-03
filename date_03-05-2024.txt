@@ -1,12 +1,15 @@
 00:30;NBA Playoffs;Milwaukee Bucks;Indiana Pacers;M+ Deportes (63);
 03:00;NBA Playoffs;New York Knicks;Philadelphia 76ers;NBA League Pass;
 10:00;Sevilla Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 4 (191);
+11:00;WTA Torneo de Lleida 1/4 de Final;A. Rus;G. Maristany;Marca YouTube;
 12:00;Sevilla Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 5 (192);
+12:30;WTA Torneo de Lleida 1/4 de Final;E. Navarro;M. Sherif;Marca YouTube;
 14:00;Sevilla Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 4 (191);M+ Deportes 5 (192);
+14:00;WTA Torneo de Lleida 1/4 de Final;A. Krueger;K. Siniakova;Marca YouTube;
+15:30;WTA Torneo de Lleida 1/4 de Final;MC. Osorio;M. Frech;M+ Ellas Vamos (66);Movistar+ Lite;Marca YouTube;
 16:00;Futsal Champions League Semifinales;Benfica FS;Palma Futsal;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);Esport3 (Cataluña);IB3 (Baleares);
 16:00;Masters Madrid Semifinal 1;T. Fritz;A. Rublev;ATP Tennis TV;Teledeporte;RTVE Play;M+ Deportes 2 (64);
 16:00;Sevilla Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
-16:00;WTA Torneo de Lleida;1/4 de Final;WTA 125;M+ Ellas Vamos (66);Movistar+ Lite;
 18:00;Sevilla Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 18:30;Fórmula 1;G.P. Miami (Miami);Libres 1;DAZN (Regístrate);DAZN F1 (M69);
 19:00;Futsal Champions League Semifinales;Barça FS;Sporting CP FS;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Esport3 (Cataluña);
