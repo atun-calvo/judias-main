@@ -2,7 +2,7 @@
 02:00;Título Mundial Peso Supermedio;S. Canelo Álvarez;J. Munguía;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 02:00;UFC;UFC 301;Prelims;Eurosport Player;
 04:00;UFC UFC 301;A. Pantoja;S. Erceg;Eurosport Player;
-12:00;WTA Torneo de Lleida Final WTA 125;M. Sherif;K. Siniakova;M+ Ellas Vamos (66);Movistar+ Lite;La Xarxa+;Lleida Televisió;
+12:00;WTA Torneo de Lleida Final;M. Sherif;K. Siniakova;M+ Ellas Vamos (66);Movistar+ Lite;La Xarxa+;Lleida Televisió;Esport3 Web;
 12:30;Liga Endesa Liga Regular;Casademont Zaragoza;BAXI Manresa;M+ Deportes (63);
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Coviran Granada;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 12:45;Giro de Italia;Etapa 2;San Francesco al Campo › Santuario di Oropa (150 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
@@ -21,7 +21,7 @@
 17:00;Liga Endesa Liga Regular;Barça Basket;Dreamland Gran Canaria;M+ Deportes 3 (65);
 17:00;Liga Endesa Liga Regular;Baskonia;Basquet Girona;M+ Deportes 5 (192);
 17:00;Liga Endesa Liga Regular;Río Breogán;Lenovo Tenerife;M+ Deportes 4 (191);
-17:30;LF Challenge;Playoff Ascenso Final;Twitch baloncestoesp;
+17:30;LF Challenge Playoff Ascenso Final;CAB Estepona;Joventut Badalona;Twitch baloncestoesp;
 17:30;Premier League;Liverpool;Tottenham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 18:00;Futsal Champions League Final;Palma Futsal;Barça FS;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 3 (M196);Barça One;Esports IB3 YouTube;Esport3 (Cataluña);IB3 (Baleares);
 18:00;Sevilla Open;Final Masculina;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Deportes 7 (194);
@@ -29,7 +29,7 @@
 18:30;LaLiga Hypermotion;Eldense;Leganés;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M4;
 18:30;LaLiga Hypermotion;Real Zaragoza;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 18:30;Liga Endesa Liga Regular;Unicaja Málaga;UCAM Murcia CB;Movistar Plus+ (M7);M+ Deportes (63);
-18:30;Masters Madrid Final ATP Masters 1000;F. Auger-Aliassime;A. Rublev;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;La 1 TVE;RTVE Play;M+ Deportes 2 (64);
+18:30;Masters Madrid Final;F. Auger-Aliassime;A. Rublev;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;La 1 TVE;RTVE Play;M+ Deportes 2 (64);
 19:00;NBA Playoffs;Orlando Magic;Cleveland Cavaliers;M+ Deportes 3 (65);
 19:05;F1 Academy;G.P. Miami (Miami);Carrera 2;DAZN (Regístrate);F1 Academy YouTube;DAZN F1 (M69);
 21:00;La Liga EA Sports;Rayo Vallecano;UD Almería;M+ LaLiga TV (M54-O110);LaLiga TV M2;
