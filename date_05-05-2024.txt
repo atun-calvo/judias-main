@@ -13,6 +13,7 @@
 15:00;Premier League;Brighton;Aston Villa;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Premier League;Chelsea;West Ham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:05;Tro-Bro Léon;UCI Europe Tour;Le Carpont Plouguin › Lannilis (203,6 km);Eurosport Player;
+15:30;WTA Madrid Final Dobles;B. Krejcikova | L. Siegemund;C. Bucsa | S. Sorribes;Movistar+ Lite;M+ Deportes 2 (64);
 15:45;Elfstedenronde;UCI Europe Tour;Brugge › Brugge (199,9 km);Eurosport Player;
 16:15;La Liga EA Sports;Celta;Villarreal;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Espanyol;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M3;
