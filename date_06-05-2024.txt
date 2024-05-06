@@ -1,5 +1,11 @@
+01:30;NBA Playoffs Semifinal Conferencia;Indiana Pacers;New York Knicks;M+ Deportes (63);
+04:00;NBA Playoffs Semifinal Conferencia;Minnesota Timberwolves;Denver Nuggets;M+ Deportes (63);
 10:00;Masters Roma;Ronda de clasificación;ATP Masters 1000;Internazionali BNL d'Italia YouTube;
-10:00;Título Mundial Peso Supergallo;N. Inoue;L. Nery;Eurosport Player;
-13:00;Giro de Italia;Etapa 3;Novara › Fossano (165 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
-15:15;Giro de Italia;Etapa 3;Novara › Fossano (165 km);DAZN (Regístrate);ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-21:00;Premier League;Crystal Palace;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+11:00;WTA Roma 1ª Ronda;L. Pigato;S. Rogers;WTA TV;DAZN (Regístrate);
+12:15;Giro de Italia;Etapa 4;Acqui Terme › Andora (187 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+12:30;WTA Roma 1ª Ronda;M. Andreeva;P. Badosa;WTA TV;DAZN (Regístrate);
+14:00;WTA Roma 1ª Ronda;M. Trevisan;Y. Putintseva;WTA TV;DAZN (Regístrate);
+15:15;Giro de Italia;Etapa 4;Acqui Terme › Andora (187 km);DAZN (Regístrate);ETB1 (País Vasco);Eurosport 1;Eurosport Player;
+15:30;WTA Roma 1ª Ronda;A. Bogdan;L. Fernández;WTA TV;DAZN (Regístrate);
+20:15;Euroliga Playoffs;Panathinaikos BC;Maccabi Tel Aviv BC;M+ Deportes (63);
+21:00;Champions League Semifinales;PSG;Borussia Dortmund;M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
