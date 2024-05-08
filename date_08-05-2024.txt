@@ -1,7 +1,7 @@
 01:00;NBA Playoffs Semifinal Conferencia;Cleveland Cavaliers;Boston Celtics;M+ Deportes (63);
 03:30;NBA Playoffs Semifinal Conferencia;Dallas Mavericks;Oklahoma C. Thunder;Movistar Plus+ (M7);M+ Deportes (63);
 11:00;Masters Roma 1ª Ronda;J. Mensik;Y. Hanfmann;ATP Tennis TV;M+ Deportes 5 (192);
-11:00;Masters Roma 1ª Ronda;L. Darderi;D. Shapovalov;ATP Tennis TV;M+ Deportes 2 (64);
+11:00;Masters Roma 1ª Ronda;L. Darderi;D. Shapovalov;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 11:00;Masters Roma 1ª Ronda;Zh. Zhang;D. Galán;ATP Tennis TV;M+ Deportes 6 (193);
 11:00;WTA Roma 1ª Ronda;D. Vekic;L. Tsurenko;WTA TV;DAZN (Regístrate);
 12:30;Giro de Italia;Etapa 5;Genova › Lucca (176 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
@@ -12,7 +12,7 @@
 14:30;Giro de Italia;Etapa 5;Genova › Lucca (176 km);DAZN (Regístrate);ETB1 (País Vasco);ETB4 (País Vasco);Eurosport 1;Eurosport Player;
 14:30;WTA Roma 1ª Ronda;S. Kenin;L. Bronzetti;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 14:50;Tour de Hungría;Etapa 1;Karcag › Hajdúszoboszló (169,8 km);Eurosport Player;
-15:30;Clásica de Navarra;UCI Women Elite;Pamplona › Pamplona (135,6 km);Eurosport Player;
+15:30;Clásica de Navarra;UCI Women Elite;Pamplona › Pamplona (135,6 km);Navarra TV;ETBK (País Vasco);Eurosport Player;
 15:30;Masters Roma 1ª Ronda;A. Rinderknech;F. Passaro;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 5 (192);
 15:30;Masters Roma 1ª Ronda;C. Eubanks;T. Atmane;ATP Tennis TV;M+ Deportes 6 (193);
 16:00;WTA Roma 1ª Ronda;R. Zarazúa;E. Cocciaretto;WTA TV;DAZN (Regístrate);
