@@ -19,6 +19,7 @@
 17:00;Masters Roma 1ª Ronda;M. Gigante;G. Zeppieri;ATP Tennis TV;M+ Deportes 4 (191);
 19:00;Euroliga Playoffs;AS Monaco Basket;Fenerbahce Istanbul;M+ Deportes 3 (65);
 19:00;Masters Roma 1ª Ronda;D. Evans;F. Fognini;ATP Tennis TV;M+ Deportes 2 (64);
+20:00;Amistoso Sub-19;Italia;España;RFEF.es;SeFutbol YouTube;
 20:30;WTA Roma 1ª Ronda;S. Errani;A. Anisimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 21:00;Champions League Semifinales;Real Madrid;FC Bayern;M+ Liga de Campeones UHD (M441 O115);Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 21:00;Euroliga Playoffs;Barça Basket;Olympiacos Piraeus;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
