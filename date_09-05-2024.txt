@@ -4,8 +4,8 @@
 11:00;WTA Roma 2ª Ronda;L. Noskova;L. Stefanini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
 12:30;Giro de Italia;Etapa 6;Viareggio › Rapolano Terme (177 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
 13:00;Masters Roma 1ª Ronda;A. Rinderknech;F. Passaro;ATP Tennis TV;M+ Deportes 4 (191);
-13:00;Masters Roma 1ª Ronda;Z. Bergs;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 13:00;WTA Roma 2ª Ronda;N. Osaka;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
+13:30;Masters Roma 1ª Ronda;Z. Bergs;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 14:00;Masters Roma 1ª Ronda;M. Gigante;G. Zeppieri;ATP Tennis TV;M+ Deportes 4 (191);
 14:00;Masters Roma 1ª Ronda;S. Napolitano;J. Wolf;ATP Tennis TV;M+ Deportes 6 (193);
 14:30;Masters Roma 1ª Ronda;T. Machac;M. Arnaldi;ATP Tennis TV;M+ Deportes 2 (64);
