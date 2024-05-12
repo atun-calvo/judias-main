@@ -14,7 +14,7 @@
 12:30;WTA Roma 3ª Ronda;D. Yastremska;A. Sabalenka;WTA TV;Tennis Channel (Orange 104);DAZN (Regístrate);
 14:00;La Liga EA Sports;Cádiz CF;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Amorebieta;Villarreal B;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-14:00;Masters Roma 3ª Ronda;N. Djokovic;A. Tabilo;ATP Tennis TV;M+ Deportes 2 (64);
+14:00;Masters Roma 3ª Ronda;N. Djokovic;A. Tabilo;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 14:00;Masters Roma 3ª Ronda;T. Fritz;S. Korda;ATP Tennis TV;M+ Deportes 4 (191);
 14:00;MotoGP;G.P. Francia (Le Mans);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;FIA Fórmula E;Berlín (Alemania);Carrera 2;DAZN (Regístrate);Eurosport 2;Eurosport Player;
