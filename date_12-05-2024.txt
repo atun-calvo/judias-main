@@ -4,18 +4,18 @@
 04:00;Título Mundial Peso Ligero;V. Lomachenko;G. Kambosos Jr.;Fight Sports Max;
 08:35;Red Bull MotoGP Rookies Cup;G.P. Francia (Le Mans);Carrera 2;DAZN (Regístrate);Red Bull TV;DAZN 2 (M71);
 11:00;Masters Roma 3ª Ronda;F. Passaro;N. Borges;ATP Tennis TV;M+ Deportes 2 (64);
-11:00;Masters Roma 3ª Ronda;T. Monteiro;M. Kecmanovic;M+ Deportes 4 (191);
+11:00;Masters Roma 3ª Ronda;T. Monteiro;M. Kecmanovic;ATP Tennis TV;M+ Deportes 4 (191);
 11:00;Moto3;G.P. Francia (Le Mans);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 11:00;WTA Roma 3ª Ronda;M. Sakkari;A. Kalinina;WTA TV;Tennis Channel (Orange 104);DAZN (Regístrate);
 11:45;Giro de Italia;Etapa 9;Avezzano › Napoli (206 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
 12:15;Moto2;G.P. Francia (Le Mans);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-12:30;Masters Roma 3ª Ronda;F. Cerúndolo;K. Khachanov;M+ Deportes 4 (191);
+12:30;Masters Roma 3ª Ronda;F. Cerúndolo;K. Khachanov;ATP Tennis TV;M+ Deportes 4 (191);
 12:30;Masters Roma 3ª Ronda;T. Atmane;G. Dimitrov;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 5 (192);
 12:30;WTA Roma 3ª Ronda;D. Yastremska;A. Sabalenka;WTA TV;Tennis Channel (Orange 104);DAZN (Regístrate);
 14:00;La Liga EA Sports;Cádiz CF;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Amorebieta;Villarreal B;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 14:00;Masters Roma 3ª Ronda;N. Djokovic;A. Tabilo;ATP Tennis TV;M+ Deportes 2 (64);
-14:00;Masters Roma 3ª Ronda;T. Fritz;S. Korda;M+ Deportes 4 (191);
+14:00;Masters Roma 3ª Ronda;T. Fritz;S. Korda;ATP Tennis TV;M+ Deportes 4 (191);
 14:00;MotoGP;G.P. Francia (Le Mans);Carrera;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;FIA Fórmula E;Berlín (Alemania);Carrera 2;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 15:00;Giro de Italia;Etapa 9;Avezzano › Napoli (206 km);DAZN (Regístrate);ETB1 (País Vasco);Eurosport 1;Eurosport Player;
@@ -43,4 +43,4 @@
 21:00;La Liga EA Sports;Real Betis;UD Almería;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Elche;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;NASCAR Cup Series;Darlington Raceway;Carrera;DAZN (Regístrate);
-21:30;NBA Playoffs Semifinal Conferencia;New York Knicks;Indiana Pacers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+21:30;NBA Playoffs Semifinal Conferencia;New York Knicks;Indiana Pacers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
