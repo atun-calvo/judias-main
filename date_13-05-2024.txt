@@ -4,10 +4,10 @@
 11:00;WTA Roma 1/8 de final;N. Osaka;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:30;Masters Roma 3ª Ronda;S. Tsitsipas;C. Norrie;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 13:00;Masters Roma 3ª Ronda;A. Muller;A. Rublev;ATP Tennis TV;M+ Deportes 4 (191);
-13:00;WTA Roma 1/8 de final;C. Gauff;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
 14:30;Masters Roma 3ª Ronda;S. Napolitano;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
+14:30;WTA Roma 1/8 de final;C. Gauff;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
 15:00;Masters Roma 3ª Ronda;T. Paul;D. Koepfer;ATP Tennis TV;M+ Deportes 5 (192);
-15:00;WTA Roma 1/8 de final;I. Swiatek;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
+15:00;WTA Roma 1/8 de final;I. Swiatek;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 16:00;Masters Roma 3ª Ronda;H. Hurkacz;TM. Etcheverry;ATP Tennis TV;M+ Deportes 4 (191);
 16:00;Masters Roma 3ª Ronda;S. Báez;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
 18:00;WTA Roma 1/8 de final;M. Sakkari;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
