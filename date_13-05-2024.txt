@@ -2,7 +2,7 @@
 09:00;Francia Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);
 11:00;Masters Roma 3ª Ronda;F. Auger-Aliassime;A. De Miñaur;ATP Tennis TV;M+ Deportes 2 (64);
 11:00;WTA Roma 1/8 de final;N. Osaka;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:30;Masters Roma 3ª Ronda;S. Tsitsipas;C. Norrie;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);M+ Deportes 2 (64);
+12:30;Masters Roma 3ª Ronda;S. Tsitsipas;C. Norrie;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 13:00;Masters Roma 3ª Ronda;A. Muller;A. Rublev;ATP Tennis TV;M+ Deportes 4 (191);
 13:00;WTA Roma 1/8 de final;C. Gauff;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);Teledeporte;RTVE Play;
 14:30;Masters Roma 3ª Ronda;S. Napolitano;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
