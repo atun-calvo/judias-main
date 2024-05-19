@@ -46,6 +46,7 @@
 19:00;La Liga EA Sports;Real Betis;Real Sociedad;DAZN (Regístrate);DAZN LaLiga 3 (M173 O275);M+ LaLiga TV (M54-O110);LaLiga TV Bar;LaLiga TV M6;
 19:00;La Liga EA Sports;Valencia CF;Girona;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);M+ LaLiga TV (M54-O110);LaLiga TV Bar;LaLiga TV M9;
 19:00;La Liga EA Sports;Villarreal;Real Madrid;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;LaLiga TV M4;
+19:30;Preolímpico 3X3 Femenino Semifinales;España;Canadá;DAZN (Regístrate);RTVE Play;Eurosport 2;Eurosport Player;
 21:00;IndyCar;500 millas de Indianápolis;Clasificación 2;M+ Deportes 4 (191);
 21:00;LaLiga Hypermotion;Real Zaragoza;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;LaLiga TV M2;
 21:30;NBA Playoffs Semifinal Conferencia;Indiana Pacers;New York Knicks;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
