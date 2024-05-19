@@ -21,7 +21,7 @@
 15:30;4 Días de Dunkerque;Etapa 6;Loon-Plage › Dunkerque (176,8 km);Eurosport Player;
 15:30;Antwerp Port Epic;UCI Europe Tour;Antwerpen › Antwerpen (177,9 km);Eurosport Player;
 15:30;Torneo de Ginebra 1ª Ronda;D. Altmaier;R. Carballés;ATP Tennis TV;
-16:00;Copa del Rey;Final;Teledeporte;RTVE Play;
+16:00;Copa del Rey Final;Real Betis FS;Jimbee Cartagena FS;Teledeporte;RTVE Play;
 16:15;LaLiga Hypermotion;Alcorcón;Real Valladolid;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
 16:30;WTA Torneo de Rabat 1ª Ronda;K. Rakhimova;T. Townsend;WTA TV;
 17:00;Masters Roma Final ATP Masters 1000;A. Zverev;N. Jarry;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
