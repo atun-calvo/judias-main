@@ -25,7 +25,7 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
  M. LaLiga 5 1080
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
  M. LaLiga 6 1080
-acestream://c896d37778f9e43549a788fc22206a655895b51b
+acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
  La Liga BAR 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
  DAZN LaLiga 1080 MultiAudio
