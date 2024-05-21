@@ -4,13 +4,11 @@
 11:30;Torneo de Ginebra 1ª Ronda;D. Goffin;N. Moreno De Alboran;ATP Tennis TV;
 12:00;WTA Torneo de Rabat 1ª Ronda;M. El Allami;L. Bronzetti;WTA TV;
 12:30;Torneo de Lyon 1ª Ronda;H. Gaston;D. Galán;ATP Tennis TV;
-12:30;WTA Torneo de Estrasburgo 2ª Ronda;C. Burel;E. Svitolina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:00;Torneo de Ginebra 1ª Ronda;Y. Hanfmann;A. Murray;ATP Tennis TV;
 13:15;Torneo de Lyon 2ª Ronda;G. Monfils;Y. Nishioka;ATP Tennis TV;
 13:30;Torneo de Ginebra 1ª Ronda;C. Eubanks;T. Griekspoor;ATP Tennis TV;
 13:30;WTA Torneo de Rabat 1ª Ronda;A. El Aouni;M. Sherif;WTA TV;
 14:00;Mar de Plata Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-14:00;WTA Torneo de Estrasburgo 2ª Ronda;D. Collins;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;Torneo de Ginebra 1ª Ronda;F. Coria;D. Shapovalov;ATP Tennis TV;
 14:45;Torneo de Lyon 2ª Ronda;P. Kotov;A. Muller;ATP Tennis TV;
 15:00;WTA Torneo de Rabat 2ª Ronda;S. Sorribes;N. Podoroska;WTA TV;
