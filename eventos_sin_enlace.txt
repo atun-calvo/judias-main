@@ -1,4 +1,4 @@
-10:00;Roland Garros;Ronda de clasificación;Grand Slam;Eurosport Player;
+10:00;Roland Garros;Ronda de clasificación;Grand Slam;MAX;Eurosport Player;
 11:00;Torneo de Lyon 2ª Ronda;G. Mpetshi Perricard;L. Sonego;ATP Tennis TV;
 11:00;WTA Torneo de Estrasburgo 2ª Ronda;L. Samsonova;L. Fernández;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 11:30;Torneo de Ginebra 1ª Ronda;D. Goffin;N. Moreno De Alboran;ATP Tennis TV;
