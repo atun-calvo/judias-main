@@ -16,4 +16,4 @@
 17:30;Torneo de Lyon 2ª Ronda;H. Gaston;F. Cerúndolo;ATP Tennis TV;
 17:30;WTA Torneo de Estrasburgo 2ª Ronda;D. Collins;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 18:00;Torneo de Ginebra 2ª Ronda;N. Djokovic;Y. Hanfmann;ATP Tennis TV;
-19:30;Torneo de Ginebra 2ª Ronda;D. Shapovalov;T. Griekspoor;ATP Tennis TV;
+21:00;Torneo de Ginebra 2ª Ronda;D. Shapovalov;T. Griekspoor;ATP Tennis TV;

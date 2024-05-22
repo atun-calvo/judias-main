@@ -19,6 +19,6 @@
 17:30;Torneo de Lyon 2ª Ronda;H. Gaston;F. Cerúndolo;ATP Tennis TV;
 17:30;WTA Torneo de Estrasburgo 2ª Ronda;D. Collins;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 18:00;Torneo de Ginebra 2ª Ronda;N. Djokovic;Y. Hanfmann;ATP Tennis TV;
-19:30;Torneo de Ginebra 2ª Ronda;D. Shapovalov;T. Griekspoor;ATP Tennis TV;
 20:30;Liga Endesa Playoffs 1/4 Final;UCAM Murcia CB;Valencia Basket;M+ Deportes (63);
 21:00;Europa League Final;Atalanta;Bayer Leverkusen;Movistar Plus+ (M7);M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;DATOS ESTADÍSTICOS DE EUROPA LEAGUE EN TELEVISIÓN EN ESPAÑA;
+21:00;Torneo de Ginebra 2ª Ronda;D. Shapovalov;T. Griekspoor;ATP Tennis TV;
