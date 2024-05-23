@@ -1,5 +1,5 @@
 02:30;NBA Final Conferencia Oeste;Dallas Mavericks;Minnesota Timberwolves;M+ Deportes (63);
-09:00;Adidas Next Generation Fase de grupos;Real Madrid Baloncesto;AX Olimpia Milano;Real Madrid TV;
+09:00;Adidas Next Generation Fase de grupos;Real Madrid Baloncesto;AX Olimpia Milano;EuroLeague YouTube;Real Madrid TV;
 11:00;Roland Garros;Ronda de clasificación;Grand Slam;MAX;Eurosport Player;
 11:00;Torneo de Lyon 1/4 de Final;D. Koepfer;TM. Etcheverry;ATP Tennis TV;
 11:00;WTA Torneo de Estrasburgo 1/4 de Final;L. Samsonova;B. Haddad Maia;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
@@ -8,10 +8,11 @@
 12:30;WTA Torneo de Estrasburgo 1/4 de Final;M. Linette;M. Keys;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:45;Giro de Italia;Etapa 18;Fiera di Primiero › Padova (166 km);DAZN (Regístrate);MAX;Eurosport 1;Eurosport Player;
 13:00;Torneo de Ginebra 2ª Ronda;D. Shapovalov;T. Griekspoor;ATP Tennis TV;
-13:30;Adidas Next Generation Fase de grupos;Barça Basket;ALBA Berlin;Canal por confirmar;
+13:30;Adidas Next Generation Fase de grupos;Barça Basket;ALBA Berlin;EuroLeague YouTube;
 13:30;Torneo de Ginebra 1/4 de Final;A. Michelsen;T. Machac;ATP Tennis TV;
 13:30;WTA Torneo de Rabat 1/4 de Final;P. Stearns;L. Bronzetti;WTA TV;DAZN (Regístrate);
 14:00;Mar de Plata Open;3ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+14:00;Roland Garros;Sorteo de cuadros;Grand Slam;MAX;Roland-Garros YouTube;Eurosport Player;
 14:00;Torneo de Lyon 1/4 de Final;P. Kotov;A. Bublik;ATP Tennis TV;
 14:00;WTA Torneo de Estrasburgo 1/4 de Final;D. Collins;C. Burel;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 15:00;WTA Torneo de Rabat 1/4 de Final;S. Sorribes;M. Sherif;WTA TV;DAZN (Regístrate);
