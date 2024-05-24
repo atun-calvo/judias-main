@@ -18,14 +18,14 @@
 14:30;WTA Torneo de Rabat Semifinal 2 WTA 250;K. Rakhimova;M. Sherif;WTA TV;DAZN (Regístrate);DAZN 4 (M197);
 15:00;MotoGP;G.P. Cataluña (Circuito de Barcelona);Libres 2;DAZN (Regístrate);MotoGP Videopass;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Esport3 (Cataluña);
 15:10;FIA Fórmula 2;G.P. Mónaco (Montecarlo);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
-15:30;Torneo de Ginebra Semifinal 2 ATP 250;F. Cobolli;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 15:45;Adidas Next Generation Fase de grupos;Barça Basket;Overtime Elite;EuroLeague YouTube;
 16:00;Mar de Plata Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
 16:00;Torneo de Lyon Semifinal 2 ATP 250;G. Mpetshi Perricard;A. Bublik;ATP Tennis TV;M+ Deportes 3 (65);
 16:00;Tour de Noruega;Etapa 2;Odda › Gullingen (208 km);MAX;Eurosport Player;
-16:30;WTA Torneo de Estrasburgo Semifinal 2 WTA 500;A. Kalinina;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
 17:00;Fórmula 1;G.P. Mónaco (Montecarlo);Libres 2;DAZN (Regístrate);DAZN F1 (M69);
-18:00;Euroliga Semifinales;Panathinaikos BC;Fenerbahce Istanbul;Movistar Plus+ (M7);M+ Deportes (63);
+17:00;Torneo de Ginebra Semifinal 2 ATP 250;F. Cobolli;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
+18:10;Euroliga Semifinales;Panathinaikos BC;Fenerbahce Istanbul;Movistar Plus+ (M7);M+ Deportes (63);
+18:30;WTA Torneo de Estrasburgo Semifinal 2 WTA 500;A. Kalinina;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
 20:00;Primera Federación Futsal Playoff 1/4 Final;ElPozo Murcia;Viña Albali Valdepeñas;FEF TV;
 20:45;Primera Federación Futsal Playoff 1/4 Final;Barça FS;Manzanares FS;FEF TV;Esport3 (Cataluña);
 21:00;Euroliga Semifinales;Real Madrid Baloncesto;Olympiacos Piraeus;Movistar Plus+ (M7);M+ Deportes (63);
