@@ -75,23 +75,18 @@ fi
 
 
 ## Descarga del fichero de enlaces y formateado de texto ##
-#curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
-curl 'https://telegra.ph/CLONELCANO-08-09' > $file1 # Borrar cuando elcano se recupere
+curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
 
-#awk '/• <a href="acestream/ {print $0}' $file1 | awk '{split($0,a,"\"")
- #                                               split(a[5],b,">")
-  #                                              split(b[2],c,"<")
-   #                                             print a[2],"\""c[1]"\""}' > $file2
+awk '/• <a href="acestream/ {print $0}' $file1 | awk '{split($0,a,"\"")
+                                                split(a[5],b,">")
+                                                split(b[2],c,"<")
+                                                print a[2],"\""c[1]"\""}' > $file2
 
-# Borrar cuando elcano se recupere:
-grep article $file1 | sed -e 's/<p>/\n/g' -e 's/<\/p>//g' -e 's/<[^>]*>//g' | grep acestream -B1 | grep -vE '^\s*$|^--$' | sed 's/^•//' > id_$date.txt
+while read line
+do
+        echo $line | awk '{split($0,a,"\"");print a[2],"\n"a[1]}' >> id_$date.txt
 
-
-#while read line
-#do
-        #echo $line | awk '{split($0,a,"\"");print a[2],"\n"a[1]}' >> id_$date.txt
-
-#done < $file2
+done < $file2
 
 # Organizador de enlaces
 canales_mliga="$(mktemp)"; grep -A1 -i -e "M\. *LaLiga *1080" -e "M\. *LaLiga *720" -e "M\..*Laliga *HD" id_$date.txt > $canales_mliga
