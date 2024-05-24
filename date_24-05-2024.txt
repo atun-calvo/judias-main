@@ -9,7 +9,7 @@
 13:00;WTA Torneo de Rabat Semifinal 1 WTA 250;P. Stearns;V. Tomova;WTA TV;DAZN (Regístrate);DAZN 4 (M197);
 13:30;Fórmula 1;G.P. Mónaco (Montecarlo);Libres 1;DAZN (Regístrate);DAZN F1 (M69);
 14:00;Boucles de la Mayenne;Etapa 1;Renault - Saint-Berthevin › Ernée (167,5 km);MAX;Eurosport Player;
-14:00;Mar de Plata Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 4 (191);
+14:00;Mar de Plata Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
 14:00;Torneo de Ginebra Semifinal 1 ATP 250;N. Djokovic;T. Machac;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 14:30;Giro de Italia;Etapa 19;Mortegliano › Sappada (164 km);DAZN (Regístrate);MAX;ETB1 (País Vasco);ETB4 (País Vasco);Eurosport 1;Eurosport Player;
 14:30;Ride London-Surrey Classic;Etapa 1;Saffron Walden › Colchester (159 km);MAX;Eurosport Player;
@@ -20,7 +20,7 @@
 15:10;FIA Fórmula 2;G.P. Mónaco (Montecarlo);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 15:30;Torneo de Ginebra Semifinal 2 ATP 250;F. Cobolli;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 15:45;Adidas Next Generation Fase de grupos;Barça Basket;Overtime Elite;EuroLeague YouTube;
-16:00;Mar de Plata Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
+16:00;Mar de Plata Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
 16:00;Torneo de Lyon Semifinal 2 ATP 250;G. Mpetshi Perricard;A. Bublik;ATP Tennis TV;M+ Deportes 3 (65);
 16:00;Tour de Noruega;Etapa 2;Odda › Gullingen (208 km);MAX;Eurosport Player;
 16:30;WTA Torneo de Estrasburgo Semifinal 2 WTA 500;A. Kalinina;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
