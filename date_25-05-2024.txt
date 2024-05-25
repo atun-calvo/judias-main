@@ -20,7 +20,7 @@
 14:15;Ride London-Surrey Classic;Etapa 2;Maldon › Maldon (143 km);MAX;Eurosport Player;
 14:30;Torneo de Lyon Final ATP 250;TM. Etcheverry;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;MotoGP;G.P. Cataluña (Circuito de Barcelona);Sprint;DAZN (Regístrate);MotoGP Videopass;MEGA;M+ Vamos (8 y 53);Movistar+ Lite;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);TV3 (Cataluña);
-15:00;Torneo de Ginebra Final ATP 250;T. Machac;TBD;ATP Tennis TV;M+ Deportes (63);
+15:00;Torneo de Ginebra Final ATP 250;T. Machac;C. Ruud;ATP Tennis TV;M+ Deportes (63);
 15:00;WTA Torneo de Estrasburgo Final WTA 500;D. Collins;M. Keys;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 4 (M197);
 15:10;Boucles de la Mayenne;Etapa 2;Le Ham › Villaines-la-Juhel (208,8 km);MAX;Eurosport Player;
 15:50;Tour de Noruega;Etapa 3;Sola › Egersund (168 km);MAX;Eurosport Player;
