@@ -28,10 +28,10 @@
 13:00;Roland Garros 1ª Ronda (Suzanne Lenglen);J. Ostapenko;J. Cristian;MAX;M+ Deportes 6 (193);Eurosport Player;
 13:20;Tour de Noruega;Etapa 4;Stavanger › Stavanger (125 km);MAX;Eurosport Player;
 13:30;DTM;Lausitzring;Carrera 2;DAZN (Regístrate);DAZN 3 (M196);
-13:30;Roland Garros 1ª Ronda (Philippe Chatrier);J. Wolf;C. Alcaraz;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
 14:00;La Liga EA Sports;Getafe;Mallorca;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;MotoGP;G.P. Cataluña (Circuito de Barcelona);Carrera;DAZN (Regístrate);MotoGP Videopass;M+ Vamos (8 y 53);Movistar+ Lite;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);La Sexta;TV3 (Cataluña);
 14:00;Roland Garros 1ª Ronda (Pista 6);K. Nishikori;G. Diallo;MAX;Eurosport Player;
+14:15;Roland Garros 1ª Ronda (Philippe Chatrier);J. Wolf;C. Alcaraz;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 5 (192);Eurosport 1;Eurosport Player;
 14:30;Roland Garros 1ª Ronda (Pista 12);T. Maria;C. Tauson;MAX;Eurosport Player;
 14:30;Roland Garros 1ª Ronda (Pista 13);A. Tabilo;Z. Bergs;MAX;Eurosport Player;
 14:30;Roland Garros 1ª Ronda (Pista 14);R. Sramkova;A. Anisimova;MAX;Eurosport Player;
