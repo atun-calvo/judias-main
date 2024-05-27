@@ -35,8 +35,8 @@
 14:00;Roland Garros 1ª Ronda (Pista 9);T. Monteiro;M. Kecmanovic;MAX;Eurosport Player;
 14:00;Roland Garros 1ª Ronda (Simonne Mathieu);M. Sakkari;V. Gracheva;MAX;M+ Deportes 6 (193);Eurosport Player;
 14:00;Roland Garros 1ª Ronda (Suzanne Lenglen);C. Gauff;J. Avdeeva;MAX;M+ Deportes 5 (192);Eurosport Player;
-15:00;Roland Garros 1ª Ronda (Philippe Chatrier);A. Zverev;R. Nadal;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 15:00;Santiago Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+15:15;Roland Garros 1ª Ronda (Philippe Chatrier);A. Zverev;R. Nadal;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 15:30;Roland Garros 1ª Ronda (Pista 12);D. Galán;L. Musetti;MAX;Eurosport Player;
 15:30;Roland Garros 1ª Ronda (Pista 13);E. Jacquemot;A. Bogdan;MAX;Eurosport Player;
 15:30;Roland Garros 1ª Ronda (Pista 14);F. Ferro;D. Parry;MAX;Eurosport Player;
