@@ -35,9 +35,9 @@
 18:15;Roland Garros 1ª Ronda (Pista 8);A. Popyrin;T. Kokkinakis;MAX;Eurosport Player;
 18:15;Roland Garros 1ª Ronda (Pista 9);M. Andreeva;E. Bektas;MAX;Eurosport Player;
 18:15;Roland Garros 1ª Ronda (Simonne Mathieu);M. Keys;R. Zarazúa;MAX;M+ Deportes 6 (193);Eurosport Player;
-19:45;Roland Garros 1ª Ronda (Pista 14);G. Barrere;A. Bublik;MAX;Eurosport Player;
-19:45;Roland Garros 1ª Ronda (Pista 14);K. Boulter;P. Badosa;MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 19:45;Roland Garros 1ª Ronda (Pista 7);Y. Putintseva;S. Stephens;MAX;Eurosport Player;
 19:45;Roland Garros 1ª Ronda (Simonne Mathieu);V. Azarenka;N. Podoroska;MAX;M+ Deportes 6 (193);Eurosport Player;
 20:15;Roland Garros 1ª Ronda (Philippe Chatrier);N. Djokovic;PH. Herbert;MAX;Eurosport 4K (M444 O102);DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 20:30;Liga Endesa Semifinales;Unicaja Málaga;UCAM Murcia CB;M+ Deportes (63);
+21:15;Roland Garros 1ª Ronda (Pista 14);K. Boulter;P. Badosa;MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+21:35;Roland Garros 1ª Ronda (Simonne Mathieu);G. Barrere;A. Bublik;MAX;M+ Deportes 6 (193);Eurosport Player;
