@@ -1,5 +1,8 @@
-08:00;Preolímpico;Día 2;Bangkok (Tailandia);MAX;Eurosport Player;
-08:00;WRC Rally;Rally de Cerdeña;Shakedown › SS4;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-12:30;Roland Garros 3ª Ronda (Pista 14);A. Potapova;X. Wang;MAX;Eurosport Player;
-13:00;Roland Garros 3ª Ronda (Pista 7);C. Tauson;S. Kenin;MAX;Eurosport Player;
-15:00;Santiago Open;3ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+02:00;Título Mundial Peso Superligero;K. Brown;I. Umara;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+02:00;Velada Peso Superwelter;A. Katzourakis;K. Abdukakhorov;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+07:41;WRC Rally;Rally de Cerdeña;SS5 › SS12;DAZN (Regístrate);
+08:00;Preolímpico;Día 3;Bangkok (Tailandia);MAX;Eurosport Player;
+12:30;Segunda Federación Futsal Play-Off Ascenso Semi-Final;Unión África Ceutí;Burela FS;RFEF.es;RFEF TV YouTube;
+16:55;Red Bull MotoGP Rookies Cup;G.P. Italia (Mugello);Carrera 1;DAZN (Regístrate);Red Bull TV;
+18:00;Segunda Federación Futsal Play-Off Ascenso Semi-Final;Full Energía Zaragoza;UMA Antequera;RFEF.es;Aragón Deporte;RFEF TV YouTube;
+20:00;Velada;Queensberry vs. Matchroom 5 vs. 5;Riad (Arabia Saudí);DAZN (Regístrate);
