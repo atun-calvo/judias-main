@@ -2,6 +2,4 @@
 08:00;WRC Rally;Rally de Cerdeña;Shakedown › SS4;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 12:30;Roland Garros 3ª Ronda (Pista 14);A. Potapova;X. Wang;MAX;Eurosport Player;
 13:00;Roland Garros 3ª Ronda (Pista 7);C. Tauson;S. Kenin;MAX;Eurosport Player;
-14:00;Roland Garros 3ª Ronda (Pista 14);Z. Bergs;G. Dimitrov;MAX;Eurosport Player;
 15:00;Santiago Open;3ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-16:00;Roland Garros 3ª Ronda (Pista 14);B. Shelton;F. Auger-Aliassime;MAX;Eurosport Player;
