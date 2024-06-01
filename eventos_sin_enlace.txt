@@ -4,7 +4,6 @@
 08:00;Preolímpico;Día 3;Bangkok (Tailandia);MAX;Eurosport Player;
 11:00;Roland Garros 3ª Ronda (Pista 14);A. De Miñaur;JL. Struff;MAX;Eurosport Player;
 12:30;Segunda Federación Futsal Play-Off Ascenso Semi-Final;Unión África Ceutí;Burela FS;RFEF.es;RFEF TV YouTube;
-13:00;Roland Garros 3ª Ronda (Pista 14);Z. Bergs;G. Dimitrov;MAX;Eurosport Player;
 13:30;Roland Garros 3ª Ronda (Pista 14);E. Svitolina;A. Bogdan;MAX;Eurosport Player;
 13:30;Roland Garros 3ª Ronda (Pista 7);M. Andreeva;P. Stearns;MAX;Eurosport Player;
 15:00;Roland Garros 3ª Ronda (Pista 14);F. Cerúndolo;T. Paul;MAX;Eurosport Player;

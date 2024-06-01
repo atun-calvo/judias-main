@@ -11,7 +11,6 @@
 12:30;Roland Garros 3ª Ronda (Suzanne Lenglen);B. Shelton;F. Auger-Aliassime;MAX;DAZN (Regístrate);M+ Deportes 5 (192);Eurosport 2;Eurosport Player;
 12:30;Segunda Federación Futsal Play-Off Ascenso Semi-Final;Unión África Ceutí;Burela FS;RFEF.es;RFEF TV YouTube;
 12:50;Moto3;G.P. Italia (Mugello);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-13:00;Roland Garros 3ª Ronda (Pista 14);Z. Bergs;G. Dimitrov;MAX;Eurosport Player;
 13:00;Roland Garros 3ª Ronda (Simonne Mathieu);H. Hurkacz;D. Shapovalov;MAX;M+ Deportes 6 (193);Eurosport Player;
 13:30;Roland Garros 3ª Ronda (Philippe Chatrier);P. Badosa;A. Sabalenka;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 13:30;Roland Garros 3ª Ronda (Pista 14);E. Svitolina;A. Bogdan;MAX;Eurosport Player;
@@ -33,7 +32,8 @@
 18:00;Roland Garros 3ª Ronda (Simonne Mathieu);T. Fritz;T. Kokkinakis;MAX;M+ Deportes 6 (193);Eurosport Player;
 18:00;Segunda Federación Futsal Play-Off Ascenso Semi-Final;Full Energía Zaragoza;UMA Antequera;RFEF.es;Aragón Deporte;RFEF TV YouTube;
 18:15;IndyCar;Detroit Grand Prix;Clasificación;M+ Deportes 7 (194);
+19:00;Roland Garros 3ª Ronda (Philippe Chatrier);Z. Bergs;G. Dimitrov;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 20:00;Velada;Queensberry vs. Matchroom 5 vs. 5;Riad (Arabia Saudí);DAZN (Regístrate);
-20:15;Roland Garros 3ª Ronda (Philippe Chatrier);N. Djokovic;L. Musetti;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 21:00;Champions League Final;Borussia Dortmund;Real Madrid;M+ Liga de Campeones UHD (M441 O115);Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);La 1 TVE;RTVE Play;LaLiga TV Bar;DATOS ESTADÍSTICOS DE CHAMPIONS LEAGUE EN TELEVISIÓN EN ESPAÑA;
+21:00;Roland Garros 3ª Ronda (Philippe Chatrier);N. Djokovic;L. Musetti;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;M+ Deportes 4 (191);Eurosport 1;Eurosport Player;
 22:00;Santiago Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
