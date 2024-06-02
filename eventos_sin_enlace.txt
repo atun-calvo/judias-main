@@ -1,6 +1,0 @@
-04:00;UFC UFC 302;I. Makhachev;D. Poirier;MAX;Eurosport Player;
-08:00;Preolímpico;Día 4;Bangkok (Tailandia);MAX;Eurosport Player;
-08:00;WRC Rally;Rally de Cerdeña;SS13 › SS16;DAZN (Regístrate);
-08:40;Red Bull MotoGP Rookies Cup;G.P. Italia (Mugello);Carrera 2;DAZN (Regístrate);Red Bull TV;
-13:35;Brussels Classic;UCI Europe Tour;Brussels › Brussels (218,4 km);MAX;Eurosport Player;
-21:30;NASCAR Cup Series;World Wide Technology Raceway (Madison);Carrera;DAZN (Regístrate);
