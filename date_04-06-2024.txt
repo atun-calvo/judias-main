@@ -1,7 +1,7 @@
-02:30;Santiago Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
-11:00;Roland Garros 1/4 Final (Philippe Chatrier);C. Gauff;O. Jabeur;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-12:30;Roland Garros 1/4 Final (Philippe Chatrier);I. Swiatek;M. Vondrousova;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-14:00;Roland Garros 1/4 Final (Philippe Chatrier);G. Dimitrov;J. Sinner;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-15:00;Critérium du Dauphiné;Etapa 3;Celles-sur-Durolle › Les Estables (181,7 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
-20:15;Roland Garros 1/4 Final (Philippe Chatrier);S. Tsitsipas;C. Alcaraz;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-20:30;Primera Federación Futsal Playoff Semifinales;ElPozo Murcia;Jaén FS;FEF TV;
+14:15;Roland Garros 1/4 Final (Philippe Chatrier) Djokovic injured;N. Djokovic;C. Ruud;SUSPENDIDO;
+14:15;Roland Garros 1/4 Final (Philippe Chatrier) Grand Slam;J. Paolini;E. Rybakina;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
+15:10;Critérium du Dauphiné;Etapa 4;Saint-Germain-Laval › Neulise (34,4 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
+15:45;Roland Garros 1/4 Final (Philippe Chatrier) Grand Slam;M. Andreeva;A. Sabalenka;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
+18:30;ZLM Tour;Etapa 1;Westkapelle › Westkapelle (14,7 km);MAX;Eurosport Player;
+20:15;Roland Garros 1/4 Final (Philippe Chatrier) Grand Slam;A. Zverev;A. De Miñaur;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
+20:30;Liga Endesa Semifinales;Unicaja Málaga;UCAM Murcia CB;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
