@@ -1,2 +1,3 @@
-13:00;The Women's Tour;Etapa 1;Welshpool › Llandudno (142,4 km);MAX;Eurosport Player;
-15:30;ZLM Tour;Etapa 2;Middelburg › Wissenkerke (193,8 km);MAX;Eurosport Player;
+14:00;The Women's Tour;Etapa 2;Wrexham › Wrexham (140,1 km);MAX;Eurosport Player;
+15:30;ZLM Tour;Etapa 3;Schijndel › Buchten (179,4 km);MAX;Eurosport Player;
+21:30;Primera Federación Futsal Playoff Semifinales;Jaén FS;ElPozo Murcia;FEF TV;

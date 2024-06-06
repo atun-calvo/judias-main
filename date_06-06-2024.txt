@@ -1,8 +1,9 @@
-12:00;Roland Garros;Final Dobles Mixtos;Grand Slam;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-12:45;Critérium du Dauphiné;Etapa 5;Amplepuis › Saint-Priest (167 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB4 (País Vasco);Eurosport 2;Eurosport Player;
-13:00;The Women's Tour;Etapa 1;Welshpool › Llandudno (142,4 km);MAX;Eurosport Player;
-15:00;Roland Garros Semifinal femenina Grand Slam;I. Swiatek;C. Gauff;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-15:20;Critérium du Dauphiné;Etapa 5;Amplepuis › Saint-Priest (167 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
-15:30;ZLM Tour;Etapa 2;Middelburg › Wissenkerke (193,8 km);MAX;Eurosport Player;
-17:00;Roland Garros Semifinal femenina Grand Slam;J. Paolini;M. Andreeva;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
-20:30;Primera Federación Futsal Playoff Semifinales;Jimbee Cartagena FS;Barça FS;FEF TV;Teledeporte;RTVE Play;Esport3 (Cataluña);
+02:30;NBA Final;Dallas Mavericks;Boston Celtics;Movistar Plus+ (M7);M+ Deportes (63);
+14:00;The Women's Tour;Etapa 2;Wrexham › Wrexham (140,1 km);MAX;Eurosport Player;
+14:30;Roland Garros Semifinal masculina Grand Slam;C. Alcaraz;J. Sinner;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;DMAX;Eurosport 1;Eurosport Player;
+15:25;Critérium du Dauphiné;Etapa 6;Hauterives › Le Collet d'Allevard (174,1 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
+15:30;ZLM Tour;Etapa 3;Schijndel › Buchten (179,4 km);MAX;Eurosport Player;
+17:30;Roland Garros Semifinal masculina Grand Slam;C. Ruud;A. Zverev;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
+19:30;Fórmula 1;G.P. Canadá (Gilles-Villeneuve);Libres 1;DAZN (Regístrate);DAZN F1 (M69);
+21:30;Primera Federación Futsal Playoff Semifinales;Jaén FS;ElPozo Murcia;FEF TV;
+23:00;Fórmula 1;G.P. Canadá (Gilles-Villeneuve);Libres 2;DAZN (Regístrate);DAZN F1 (M69);
