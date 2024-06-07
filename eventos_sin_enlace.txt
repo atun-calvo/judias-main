@@ -1,3 +1,4 @@
-14:00;The Women's Tour;Etapa 2;Wrexham › Wrexham (140,1 km);MAX;Eurosport Player;
-15:30;ZLM Tour;Etapa 3;Schijndel › Buchten (179,4 km);MAX;Eurosport Player;
-21:30;Primera Federación Futsal Playoff Semifinales;Jaén FS;ElPozo Murcia;FEF TV;
+11:30;The Women's Tour;Etapa 3;Warrington › Warrington (106,8 km);MAX;Eurosport Player;
+14:30;ZLM Tour;Etapa 4;Roosendaal › Roosendaal (196,7 km);MAX;Eurosport Player;
+15:15;Dwars door het Hageland;UCI ProSeries;Aarschot › Diest (181 km);MAX;Eurosport Player;
+17:00;Segunda Federación Futsal Play-Off Ascenso Final;UMA Antequera;Burela FS;RFEF.es;RFEF TV YouTube;
