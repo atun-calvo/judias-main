@@ -1,4 +1,6 @@
-11:30;The Women's Tour;Etapa 3;Warrington › Warrington (106,8 km);MAX;Eurosport Player;
-14:30;ZLM Tour;Etapa 4;Roosendaal › Roosendaal (196,7 km);MAX;Eurosport Player;
-15:15;Dwars door het Hageland;UCI ProSeries;Aarschot › Diest (181 km);MAX;Eurosport Player;
-17:00;Segunda Federación Futsal Play-Off Ascenso Final;UMA Antequera;Burela FS;RFEF.es;RFEF TV YouTube;
+02:00;Velada Peso Semipesado;A. Oberlton;H. Cruz;DAZN (Regístrate);
+11:45;The Women's Tour;Etapa 4;Manchester › Manchester (99,2 km);MAX;Eurosport Player;
+12:40;Giro de Italia Next Gen;Etapa 1;Aosta › Aosta (8,8 km);MAX;Eurosport Player;
+14:30;ZLM Tour;Etapa 5;Oosterhout › Oosterhout (159,4 km);MAX;Eurosport Player;
+14:35;Tour de Suiza;Etapa 1;Vaduz › Vaduz (4,8 km);ETB1 (País Vasco);
+21:30;NASCAR Cup Series;Sonoma Raceway;Carrera;DAZN (Regístrate);
