@@ -4,7 +4,6 @@
 13:30;DTM;Circuit Park Zandvoort;Carrera 1;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 14:30;ZLM Tour;Etapa 4;Roosendaal › Roosendaal (196,7 km);MAX;Eurosport Player;
 15:15;Dwars door het Hageland;UCI ProSeries;Aarschot › Diest (181 km);MAX;Eurosport Player;
-15:30;Critérium du Dauphiné;Etapa 7;Albertville › Samoëns 1600 (155,3 km);MAX;DAZN (Regístrate);RTVE Play;ETB1 (País Vasco);Eurosport 2;Eurosport Player;
 17:00;Segunda Federación Futsal Play-Off Ascenso Final;UMA Antequera;Burela FS;RFEF.es;RFEF TV YouTube;
 18:00;Roland Garros;Final Dobles Masculinos;Grand Slam;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
 18:30;Fórmula 1;G.P. Canadá (Gilles-Villeneuve);Libres 3;DAZN (Regístrate);DAZN F1 (M69);
