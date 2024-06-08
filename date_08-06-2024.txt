@@ -7,7 +7,7 @@
 17:00;Segunda Federación Futsal Play-Off Ascenso Final;UMA Antequera;Burela FS;RFEF.es;RFEF TV YouTube;
 18:00;Roland Garros;Final Dobles Masculinos;Grand Slam;DAZN (Regístrate);Eurosport 4K (M444 O102);MAX;Eurosport 1;Eurosport Player;
 18:30;Fórmula 1;G.P. Canadá (Gilles-Villeneuve);Libres 3;DAZN (Regístrate);DAZN F1 (M69);
-18:30;LaLiga Hypermotion Play-Off Semi-Final;Real Oviedo;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
+18:30;LaLiga Hypermotion Play-Off Semi-Final;Real Oviedo;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 20:30;Liga Endesa Final;Real Madrid Baloncesto;UCAM Murcia CB;Movistar Plus+ (M7);M+ Deportes (63);
 21:15;IndyCar;Grand Prix at Road America;Clasificación;M+ Deportes 2 (64);
 22:00;Fórmula 1;G.P. Canadá (Gilles-Villeneuve);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
