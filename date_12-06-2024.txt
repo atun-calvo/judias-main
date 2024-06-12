@@ -4,7 +4,7 @@
 11:00;WTA Torneo de Hertogenbosch 2ª Ronda;A. Van Uytvanck;L. Samsonova;WTA TV;
 12:00;WTA Torneo de Nottingham 2ª Ronda;K. Birrell;L. Stefanini;WTA TV;Tennis Channel (Orange 104);
 12:30;Torneo de Stuttgart 2ª Ronda;F. Tiafoe;Y. Hanfmann;ATP Tennis TV;
-12:30;WTA Torneo de Hertogenbosch 2ª Ronda;B. Andreescu;Y. Yuan;WTA TV;
+12:30;WTA Torneo de Hertogenbosch 2ª Ronda;B. Andreescu;Y. Yuan;WTA TV;DAZN (Regístrate);
 13:30;Tour de Eslovenia;Etapa 1;Murska Sobota › Ormož (191,9 km);MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 13:30;WTA Torneo de Nottingham 2ª Ronda;D. Saville;D. Parry;WTA TV;Tennis Channel (Orange 104);
 14:20;Giro de Italia Next Gen;Etapa 4;Pertusio › Borgomanero (139 km);MAX;Eurosport Player;
