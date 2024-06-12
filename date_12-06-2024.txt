@@ -20,4 +20,4 @@
 17:00;WTA Torneo de Nottingham 2ª Ronda;H. Watson;K. Pliskova;WTA TV;Tennis Channel (Orange 104);
 18:45;24 Horas de Le Mans;Campeonato Mundial de Resistencia FIA;Clasificación;MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 20:30;Liga Endesa Final;UCAM Murcia CB;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
-21:00;LaLiga Hypermotion Play-Off Semi-Final;Eibar;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
+21:00;LaLiga Hypermotion Play-Off Semi-Final;Eibar;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
