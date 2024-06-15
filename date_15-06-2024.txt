@@ -27,11 +27,10 @@
 15:15;Tour de Bélgica;Etapa 4;Durbuy › Durbuy (177 km);MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 16:00;24 Horas de Le Mans;Campeonato Mundial de Resistencia FIA;Carrera;MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
 17:00;WTA Torneo de Nottingham Semifinal 1 WTA 250;K. Boulter;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-17:30;WTA Torneo de Hertogenbosch Semifinal 2 WTA 250;E. Alexandrova;L. Samsonova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 18:00;Sanlúcar Open;Semifinales;A1 Padel;DAZN (Regístrate);LaLiga+;LaLiga+ Plus;DAZN App Gratis (Regístrate);DAZN 2 (M71);
-18:30;WTA Torneo de Nottingham;Semifinal 2;WTA 250;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 19:00;Burdeos Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
 19:00;Título Internacional Peso Superwelter;R. Knapp;J. García Pérez;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:30;Amistoso Sub-17;España;Francia;Twitch baloncestoesp;
 20:00;Título Mundial Peso Crucero;C. Billam-Smith;R. Riakporhe;Fight Sports Max;
 20:30;Segunda Federación Futsal Play-Off Ascenso Final;Burela FS;UMA Antequera;RFEF.es;RFEF TV YouTube;
+21:00;WTA Torneo de Nottingham Semifinal 2 WTA 250;K. Pliskova;D. Parry;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
