@@ -8,10 +8,10 @@
 13:30;WTA Torneo de Nottingham 1/4 de Final;F. Jones;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:15;Tour Femenino Int. de los Pirineos;Etapa 2;Pierrefitte-Nestalas › Col d’Aubisque (95 km);MAX;Eurosport Player;
 14:20;Giro de Italia Next Gen;Etapa 7;Montegrotto Terme › Zocca (180 km);MAX;Eurosport Player;
-14:30;WTA Torneo de Nottingham;Semifinal 1;WTA 250;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 15:00;Tour de Suiza;Etapa 7;Villars-sur-Ollon › Villars-sur-Ollon (118,2 km);ETB1 (País Vasco);
 15:15;Supersport;G.P. Emilia Romagna (Misano);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;Eurosport Player;
-16:00;WTA Torneo de Nottingham Semifinal 2 WTA 250;K. Boulter;TBD;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+17:00;WTA Torneo de Nottingham Semifinal 1 WTA 250;K. Boulter;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+18:30;WTA Torneo de Nottingham;Semifinal 2;WTA 250;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 19:00;Título Internacional Peso Superwelter;R. Knapp;J. García Pérez;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:30;Amistoso Sub-17;España;Francia;Twitch baloncestoesp;
 20:00;Título Mundial Peso Crucero;C. Billam-Smith;R. Riakporhe;Fight Sports Max;
