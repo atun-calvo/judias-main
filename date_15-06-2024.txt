@@ -5,7 +5,7 @@
 11:00;Torneo de Hertogenbosch 1/4 de Final;U. Humbert;G. Brouwer;ATP Tennis TV;
 11:00;Torneo de Hertogenbosch Semifinal 1 ATP 250;T. Griekspoor;S. Korda;ATP Tennis TV;M+ Deportes (63);
 11:00;WTA Torneo de Hertogenbosch Semifinal 1 WTA 250;D. Galfi;B. Andreescu;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
-11:30;Open Internacional de Valencia;Semifinal 1;WTA 125;MAX;Eurosport Player;
+11:30;Open Internacional de Valencia Semifinal 1 WTA 125;V. Tomova;I. Shymanovich;MAX;Eurosport Player;
 11:50;WorldWCR;G.P. Emilia Romagna (Misano);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Ellas Vamos (66);Movistar+ Lite;MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Eurosport Player;
 12:00;Torneo de Stuttgart Semifinal 1 ATP 250;B. Nakashima;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);
 12:00;WTA Torneo de Hertogenbosch 1/4 de Final;R. Montgomery;E. Alexandrova;WTA TV;DAZN (Regístrate);
@@ -14,10 +14,10 @@
 12:30;WTA Torneo de Hertogenbosch Semifinal 2 WTA 250;TBD;L. Samsonova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 12:45;Supersport 300;G.P. Emilia Romagna (Misano);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;Eurosport Player;
 13:00;Burdeos Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
+13:00;Open Internacional de Valencia Semifinal 2 WTA 125;A. Li;J. Bouzas;MAX;Eurosport Player;
 13:00;Primera Federación Futsal Playoff Final;ElPozo Murcia;Jimbee Cartagena FS;FEF TV;Teledeporte;RTVE Play;Esport3 (Cataluña);
 13:00;Torneo de Hertogenbosch Semifinal 2 ATP 250;A. De Miñaur;TBD;ATP Tennis TV;M+ Deportes (63);
 13:00;Tour de Eslovenia;Etapa 4;Škofljica › Krvavec (147,2 km);MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
-13:30;Open Internacional de Valencia;Semifinal 2;WTA 125;MAX;Eurosport Player;
 13:30;WTA Torneo de Nottingham 1/4 de Final;F. Jones;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:00;Superbike;G.P. Emilia Romagna (Misano);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;Eurosport 1;Eurosport Player;
 14:00;Torneo de Stuttgart Semifinal 2 ATP 250;L. Musetti;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
