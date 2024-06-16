@@ -15,14 +15,14 @@
 13:00;Torneo de Stuttgart Final ATP 250;J. Draper;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
 13:00;Tour Femenino Int. de los Pirineos;Etapa 3;Nay › Bosdarros (126 km);MAX;Eurosport Player;
 13:00;Tour de Eslovenia;Etapa 5;Šentjernej › Novo mesto (156,9 km);MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
-13:15;WTA Torneo de Hertogenbosch Final WTA 250;B. Andreescu;TBD;WTA TV;DAZN (Regístrate);DAZN 4 (M197);
+13:15;WTA Torneo de Hertogenbosch Final WTA 250;B. Andreescu;L. Samsonova;WTA TV;DAZN (Regístrate);DAZN 4 (M197);
 14:00;Superbike;G.P. Emilia Romagna (Misano);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Teledeporte;RTVE Play;Eurosport Player;
 14:20;Giro de Italia Next Gen;Etapa 8;Cesena › Forlimpopoli (137 km);MAX;Eurosport Player;
-14:30;WTA Torneo de Nottingham;Final;WTA 250;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
 15:00;Tour de Suiza;Etapa 8;Aigle › Villars-sur-Ollon (15,7 km);ETB1 (País Vasco);
 15:15;Supersport;G.P. Emilia Romagna (Misano);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Teledeporte;RTVE Play;Eurosport Player;
 15:15;Tour de Bélgica;Etapa 5;Brussel › Brussel (186,2 km);MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 16:00;Burdeos Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
 16:30;Open Internacional de Valencia Final WTA 125;V. Tomova;A. Li;MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
+17:00;WTA Torneo de Nottingham Final WTA 250;K. Pliskova;K. Boulter;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 3 (M196);
 18:00;Sanlúcar Open;Final;A1 Padel;DAZN (Regístrate);LaLiga+;LaLiga+ Plus;DAZN App Gratis (Regístrate);DAZN 2 (M71);
 18:30;LaLiga Hypermotion Play-Off Final;Real Oviedo;Espanyol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);M+ LaLiga TV (M54-O110);LaLiga TV Bar;
