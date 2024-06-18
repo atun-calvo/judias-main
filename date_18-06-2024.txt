@@ -1,0 +1,17 @@
+02:30;NBA Final;Dallas Mavericks;Boston Celtics;Movistar Plus+ (M7);M+ Deportes (63);
+10:00;Italia Major;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:00;WTA Torneo de Berlín 1ª Ronda;N. Osaka;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+12:00;Torneo de Halle 1ª Ronda;M. Giron;A. Rublev;ATP Tennis TV;M+ Deportes (63);
+12:00;WTA Torneo de Birmingham;1ª Ronda;WTA 250;WTA TV;
+12:30;WTA Torneo de Berlín 1ª Ronda;L. Noskova;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+13:00;La Liga EA Sports;Sorteo Calendario 2024/2025;RFEF.es;RFEF TV YouTube;DATOS ESTADÍSTICOS DE LA LIGA EA SPORTS EN TELEVISIÓN EN ESPAÑA;
+13:00;Torneo de Queen's 1ª Ronda;L. Musetti;A. De Miñaur;ATP Tennis TV;M+ Deportes 2 (64);
+13:30;Torneo de Halle 1ª Ronda;J. Sinner;T. Griekspoor;ATP Tennis TV;M+ Deportes (63);
+14:00;WTA Torneo de Berlín 1ª Ronda;M. Sakkari;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+14:30;Torneo de Queen's 1ª Ronda;C. Alcaraz;F. Cerúndolo;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+15:00;Tour de Suiza Femenino;Etapa 4;Champagne › Champagne (127,5 km);MAX;DAZN (Regístrate);ETB1 (País Vasco);Eurosport 1;Eurosport Player;
+16:00;Torneo de Halle 1ª Ronda;O. Otte;A. Zverev;ATP Tennis TV;M+ Deportes (63);
+16:00;Torneo de Queen's 1ª Ronda;A. Murray;A. Popyrin;ATP Tennis TV;M+ Deportes 2 (64);
+16:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+17:30;Torneo de Halle 1ª Ronda;H. Squire;S. Tsitsipas;ATP Tennis TV;M+ Deportes (63);
+17:30;Torneo de Queen's 1ª Ronda;M. Navone;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);
