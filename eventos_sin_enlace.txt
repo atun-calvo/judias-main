@@ -6,5 +6,4 @@
 13:30;WTA Torneo de Birmingham 1ª Ronda;H. Watson;M. Bouzkova;WTA TV;
 14:00;WTA Torneo de Berlín 1ª Ronda;M. Sakkari;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 15:00;WTA Torneo de Birmingham 1ª Ronda;K. Pliskova;C. Dolehide;WTA TV;
-16:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 16:30;WTA Torneo de Birmingham 1ª Ronda;K. Boulter;A. Kalinina;WTA TV;

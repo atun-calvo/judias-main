@@ -15,7 +15,6 @@
 15:00;WTA Torneo de Birmingham 1ª Ronda;K. Pliskova;C. Dolehide;WTA TV;
 16:00;Torneo de Halle 1ª Ronda;O. Otte;A. Zverev;ATP Tennis TV;M+ Deportes (63);
 16:30;Torneo de Queen's 1ª Ronda;A. Murray;A. Popyrin;ATP Tennis TV;M+ Deportes 2 (64);
-16:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 16:30;WTA Torneo de Birmingham 1ª Ronda;K. Boulter;A. Kalinina;WTA TV;
 17:30;Torneo de Halle 1ª Ronda;H. Squire;S. Tsitsipas;ATP Tennis TV;M+ Deportes (63);
 18:00;Torneo de Queen's 1ª Ronda;M. Navone;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);
