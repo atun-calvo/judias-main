@@ -1,9 +1,4 @@
-10:00;Italia Major;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;WTA Torneo de Berlín 1ª Ronda;N. Osaka;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:00;WTA Torneo de Birmingham 1ª Ronda;C. Wozniacki;E. Mertens;WTA TV;
-12:30;WTA Torneo de Berlín 1ª Ronda;L. Noskova;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:00;La Liga EA Sports;Sorteo Calendario 2024/2025;RFEF.es;RFEF TV YouTube;
-13:30;WTA Torneo de Birmingham 1ª Ronda;H. Watson;M. Bouzkova;WTA TV;
-14:00;WTA Torneo de Berlín 1ª Ronda;M. Sakkari;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-15:00;WTA Torneo de Birmingham 1ª Ronda;K. Pliskova;C. Dolehide;WTA TV;
-16:30;WTA Torneo de Birmingham 1ª Ronda;K. Boulter;A. Kalinina;WTA TV;
+10:00;Italia Major;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:00;WTA Torneo de Berlín;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+12:00;WTA Torneo de Birmingham;2ª Ronda;WTA 250;WTA TV;
+12:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
