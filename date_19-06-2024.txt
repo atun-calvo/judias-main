@@ -1,6 +1,6 @@
 10:00;Italia Major;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 11:00;WTA Torneo de Berlín 2ª Ronda;V. Azarenka;Z. Sonmez;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:00;Torneo de Halle 2ª Ronda;L. Darderi;JL. Struff;ATP Tennis TV;M+ Deportes (63);
+12:00;Torneo de Halle 2ª Ronda;L. Darderi;JL. Struff;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 12:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:00;Torneo de Queen's 2ª Ronda;R. Hijikata;M. Arnaldi;ATP Tennis TV;M+ Deportes 2 (64);
 13:00;WTA Torneo de Birmingham 2ª Ronda;A. Tomljanovic;L. Zhu;WTA TV;
@@ -10,9 +10,10 @@
 14:30;WTA Torneo de Birmingham 2ª Ronda;E. Cocciaretto;S. Stephens;WTA TV;
 15:00;Torneo de Halle 2ª Ronda;D. Medvedev;Zh. Zhang;ATP Tennis TV;M+ Deportes (63);
 15:00;WTA Torneo de Berlín 2ª Ronda;M. Vondrousova;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-16:00;Torneo de Queen's 2ª Ronda;J. Thompson;A. Murray;ATP Tennis TV;M+ Deportes 2 (64);
+16:00;Torneo de Queen's 2ª Ronda;J. Thompson;A. Murray;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 16:00;WTA Torneo de Birmingham 2ª Ronda;L. Fernández;V. Golubic;WTA TV;
 16:30;Torneo de Halle 2ª Ronda;L. Sonego;A. Zverev;ATP Tennis TV;M+ Deportes (63);
 16:30;WTA Torneo de Berlín 2ª Ronda;D. Kasatkina;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;Torneo de Queen's 2ª Ronda;M. Raonic;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
 17:30;WTA Torneo de Birmingham 2ª Ronda;A. Potapova;L. Bronzetti;WTA TV;
+18:00;Vuelta a Colombia;Etapa 5;Manizales › Buga (195,6 km);RCN Nuestra Tele;
