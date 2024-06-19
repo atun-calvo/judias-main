@@ -16,4 +16,4 @@
 16:30;WTA Torneo de Berlín 2ª Ronda;D. Kasatkina;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;Torneo de Queen's 2ª Ronda;M. Raonic;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
 17:30;WTA Torneo de Birmingham 2ª Ronda;A. Potapova;L. Bronzetti;WTA TV;
-18:00;Vuelta a Colombia;Etapa 5;Manizales › Buga (195,6 km);RCN Nuestra Tele;
+18:00;Vuelta a Colombia;Etapa 5;Manizales › Buga (195,6 km);RCN Deportes YouTube;RCN Nuestra Tele;
