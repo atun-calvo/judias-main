@@ -1,6 +1,0 @@
-10:00;Italia Major;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;WTA Torneo de Berlín;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:00;Torneo de Halle;2ª Ronda;ATP 500;ATP Tennis TV;M+ Deportes (63);
-12:00;WTA Torneo de Birmingham;2ª Ronda;WTA 250;WTA TV;
-12:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:00;Torneo de Queen's;2ª Ronda;ATP 500;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
