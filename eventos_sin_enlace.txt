@@ -1,11 +1,7 @@
-10:00;Italia Major;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;WTA Torneo de Berlín 2ª Ronda;V. Azarenka;Z. Sonmez;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:30;WTA Torneo de Berlín 1ª Ronda;X. Wang;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:00;WTA Torneo de Birmingham 2ª Ronda;A. Tomljanovic;L. Zhu;WTA TV;
-13:30;WTA Torneo de Berlín 2ª Ronda;K. Siniakova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-14:30;WTA Torneo de Birmingham 2ª Ronda;E. Cocciaretto;S. Stephens;WTA TV;
-15:00;WTA Torneo de Berlín 2ª Ronda;M. Vondrousova;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-16:00;WTA Torneo de Birmingham 2ª Ronda;L. Fernández;V. Golubic;WTA TV;
+10:00;Italia Major;1/8 de final;Premier Padel Tour;Premier Padel YouTube;
+11:00;WTA Torneo de Berlín 2ª Ronda;M. Vondrousova;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+11:00;WTA Torneo de Berlín;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+12:00;WTA Torneo de Berlín 2ª Ronda;K. Siniakova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+12:00;WTA Torneo de Birmingham;2ª Ronda;WTA 250;WTA TV;DAZN (Regístrate);
 16:30;WTA Torneo de Berlín 2ª Ronda;D. Kasatkina;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-17:30;WTA Torneo de Birmingham 2ª Ronda;A. Potapova;L. Bronzetti;WTA TV;
-18:00;Vuelta a Colombia;Etapa 5;Manizales › Buga (195,6 km);RCN Deportes YouTube;RCN Nuestra Tele;
+18:00;Vuelta a Colombia;Etapa 6;Buga › Apía (173,3 km);RCN Deportes YouTube;RCN Nuestra Tele;
