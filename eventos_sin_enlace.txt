@@ -1,10 +1,8 @@
-11:00;WTA Torneo de Berlín 1/4 de Final;V. Azarenka;E. Rybakina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-12:00;WTA Torneo de Birmingham 1/4 de Final;E. Cocciaretto;D. Shnaider;WTA TV;DAZN (Regístrate);
-12:30;WTA Torneo de Berlín 1/4 de Final;J. Pegula;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:30;WTA Torneo de Birmingham 1/4 de Final;A. Potapova;B. Krejcikova;WTA TV;DAZN (Regístrate);
-14:00;WTA Torneo de Berlín 1/4 de Final;C. Gauff;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-15:00;WTA Torneo de Birmingham 1/4 de Final;Y. Putintseva;C. Dolehide;WTA TV;DAZN (Regístrate);
-15:30;WTA Torneo de Berlín 1/4 de Final;A. Kalinskaya;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-16:30;WTA Torneo de Birmingham 1/4 de Final;L. Fernández;A. Tomljanovic;WTA TV;DAZN (Regístrate);
-18:00;Vuelta a Colombia;Etapa 7;Pereira › Riosucio (155,3 km);RCN Deportes YouTube;RCN Nuestra Tele;
-21:15;Amistoso Femenino Sub-20;España;República Checa;FPB TV;
+11:30;WTA Torneo de Berlín 1/4 de Final;C. Gauff;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+13:00;WTA Torneo de Berlín 1/4 de Final;J. Pegula;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+17:00;Amistoso Femenino;China;Turquía;RTVE Play;
+18:00;Campeonato de España Peso Superpluma;C. Eusse;C. Ramos;GolStadium (acceder);
+18:00;Vuelta a Colombia;Etapa 8;Supía › Alto de Minas (144,3 km);RCN Deportes YouTube;RCN Nuestra Tele;
+18:45;Amistoso Femenino Sub-20;España;Polonia;FPB TV;
+19:00;UFC UFC Fight Night;R. Whittaker;K. Chimaev;MAX;Eurosport Player;
+20:00;Amistoso Sub-17;España;Puerto Rico;Baloncesto España YouTube;
