@@ -2,10 +2,10 @@
 11:30;WTA Torneo de Berlín 1/4 de Final;C. Gauff;O. Jabeur;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 12:00;WTA Torneo de Birmingham Semifinal 1 WTA 250;E. Cocciaretto;Y. Putintseva;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 12:30;Fórmula 1;G.P. España (Montmeló);Libres 3;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Telecinco;Mitele.es;TV3 (Cataluña);DAZN F1 (M69);
-13:00;Torneo de Halle Semifinal 1 ATP 500;H. Hurkacz;A. Zverev;ATP Tennis TV;M+ Deportes (63);
+13:00;Torneo de Halle Semifinal 1 ATP 500;H. Hurkacz;A. Zverev;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 13:00;WTA Torneo de Berlín 1/4 de Final;J. Pegula;K. Siniakova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:30;WTA Torneo de Berlín Semifinal 1 WTA 500;V. Azarenka;TBD;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 2 (M71);
-14:00;Torneo de Queen's Semifinal 1 ATP 500;J. Thompson;L. Musetti;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+14:00;Torneo de Queen's Semifinal 1 ATP 500;J. Thompson;L. Musetti;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);
 14:00;WTA Torneo de Birmingham Semifinal 2 WTA 250;A. Tomljanovic;A. Potapova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 14:15;FIA Fórmula 2;G.P. España (Montmeló);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN F1 (M69);
 15:00;Torneo de Halle Semifinal 2 ATP 500;J. Sinner;Z. Zhang;ATP Tennis TV;M+ Deportes (63);
