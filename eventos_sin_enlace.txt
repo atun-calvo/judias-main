@@ -1,12 +1,5 @@
-12:00;WTA Torneo de Bad Homburg 1ª Ronda;D. Yastremska;M. Andreeva;WTA TV;DAZN (Regístrate);
-13:15;Amistoso Femenino Sub-20;Portugal;España;FPB TV;
-13:30;WTA Torneo de Bad Homburg 1ª Ronda;A. Rus;P. Badosa;WTA TV;DAZN (Regístrate);
-14:20;Campeonato de Gran Bretaña;Carrera Masculina;Saltburn-by-the-Sea › Saltburn-by-the-Sea (182 km);MAX;Eurosport Player;
-15:00;WTA Torneo de Bad Homburg 1ª Ronda;V. Tomova;T. Maria;WTA TV;DAZN (Regístrate);
-15:30;Torneo de Mallorca 1ª Ronda;R. Bautista-Agut;T. Daniel;ATP Tennis TV;RTVE Play;
-16:30;WTA Torneo de Bad Homburg 1ª Ronda;E. Navarro;J. Cristian;WTA TV;DAZN (Regístrate);
-18:00;Torneo de Mallorca 1ª Ronda;R. Carballés;P. Carreño;ATP Tennis TV;RTVE Play;
-18:00;Vuelta a Colombia;Etapa 9;Envigado › Alto de Las Palmas (17,3 km);RCN Deportes YouTube;RCN Nuestra Tele;
-20:00;Amistoso Sub-17;España;Italia;Baloncesto España YouTube;
-20:00;NASCAR Cup Series;New Hampshire Speedway (Loudon);Carrera;DAZN (Regístrate);
-20:15;Amistoso Sub-22;España;República Checa;Twitch baloncestoesp;
+12:00;Torneo de Eastbourne;1ª Ronda;ATP 250;ATP Tennis TV;
+12:00;WTA Torneo de Bad Homburg;1ª Ronda;WTA 250;WTA TV;DAZN (Regístrate);
+12:00;WTA Torneo de Eastbourne;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
+20:00;Amistoso Sub-17;España;Canadá;Baloncesto España YouTube;
+20:15;Amistoso Sub-22;España;Conferencia Este;Twitch baloncestoesp;
