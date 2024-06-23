@@ -5,12 +5,12 @@
 12:00;WTA Torneo de Bad Homburg 1ª Ronda;D. Yastremska;M. Andreeva;WTA TV;DAZN (Regístrate);
 12:00;WTA Torneo de Berlín Semifinal 2 WTA 500;C. Gauff;J. Pegula;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 2 (M71);
 12:30;Campeonato de España;Carrera Masculina;San Lorenzo de El Escorial › San Lorenzo de El Escorial (201,6 km);MAX;DAZN (Regístrate);Eurosport 1;Eurosport Player;
+12:30;WTA Torneo de Berlín Final WTA 500;J. Pegula;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 2 (M71);
 13:00;Torneo de Mallorca 1ª Ronda;N. Borges;A. Michelsen;ATP Tennis TV;Teledeporte;RTVE Play;
 13:00;WTA Torneo de Birmingham Final WTA 250;Y. Putintseva;A. Tomljanovic;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 13:15;Amistoso Femenino Sub-20;Portugal;España;FPB TV;
 13:30;WTA Torneo de Bad Homburg 1ª Ronda;A. Rus;P. Badosa;WTA TV;DAZN (Regístrate);
 14:00;Torneo de Halle Final ATP 500;J. Sinner;H. Hurkacz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
-14:00;WTA Torneo de Berlín Final WTA 500;TBD;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);DAZN 2 (M71);
 14:20;Campeonato de Gran Bretaña;Carrera Masculina;Saltburn-by-the-Sea › Saltburn-by-the-Sea (182 km);MAX;Eurosport Player;
 15:00;Fórmula 1;G.P. España (Montmeló);Carrera;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Telecinco;Mitele.es;TV3 (Cataluña);DAZN F1 (M69);
 15:00;Torneo de Queen's Final ATP 500;T. Paul;L. Musetti;ATP Tennis TV;M+ Deportes 2 (64);
