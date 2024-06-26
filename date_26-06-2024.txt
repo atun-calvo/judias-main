@@ -4,7 +4,6 @@
 12:00;WTA Torneo de Bad Homburg 2ª Ronda;D. Shnaider;D. Yastremska;WTA TV;DAZN (Regístrate);
 12:00;WTA Torneo de Eastbourne 2ª Ronda;M. Keys;A. Kalinina;WTA TV;DAZN (Regístrate);
 12:00;Wimbledon;Ronda de clasificación;Grand Slam;Wimbledon.com;
-13:00;LaLiga Hypermotion;Sorteo Calendario 2024/2025;estilo.css eventos.sh generador_html.sh id_26-06-2024.txt index.html SIN TV EN DIRECTO *;DATOS ESTADÍSTICOS DE LALIGA HYPERMOTION EN TELEVISIÓN EN ESPAÑA;
 13:00;Torneo de Mallorca 2ª Ronda;J. Mensik;F. Fognini;ATP Tennis TV;Teledeporte;RTVE Play;
 13:00;WTA Torneo de Bad Homburg 2ª Ronda;K. Siniakova;L. Samsonova;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Eastbourne 2ª Ronda;E. Ruusuvuori;J. Shang;ATP Tennis TV;
@@ -14,6 +13,7 @@
 15:00;Torneo de Eastbourne 2ª Ronda;A. Bublik;A. Vukic;ATP Tennis TV;
 15:00;WTA Torneo de Eastbourne 2ª Ronda;E. Raducanu;J. Pegula;WTA TV;DAZN (Regístrate);
 15:30;Torneo de Mallorca 2ª Ronda;P. Jubb;A. Walton;ATP Tennis TV;Teledeporte;RTVE Play;
+16:00;LaLiga Hypermotion;Sorteo Calendario 2024/2025;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;DATOS ESTADÍSTICOS DE LALIGA HYPERMOTION EN TELEVISIÓN EN ESPAÑA;
 16:00;WTA Torneo de Bad Homburg 2ª Ronda;V. Kudermetova;C. Wozniacki;WTA TV;DAZN (Regístrate);
 17:00;Torneo de Eastbourne 2ª Ronda;T. Fritz;T. Seyboth-Wild;ATP Tennis TV;
 17:00;WTA Torneo de Eastbourne 2ª Ronda;E. Mertens;J. Paolini;WTA TV;DAZN (Regístrate);
