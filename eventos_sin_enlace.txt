@@ -10,7 +10,7 @@
 14:00;Tour de Turingia;Etapa 2;Gera › Gera (119,2 km);MAX;Eurosport Player;
 15:00;Torneo de Eastbourne 2ª Ronda;A. Bublik;A. Vukic;ATP Tennis TV;
 15:00;WTA Torneo de Eastbourne 2ª Ronda;E. Raducanu;J. Pegula;WTA TV;DAZN (Regístrate);
-16:00;LaLiga Hypermotion;Sorteo Calendario 2024/2025;estilo.css eventos.sh generador_html.sh id_26-06-2024.txt index.html SIN TV EN DIRECTO *;DATOS ESTADÍSTICOS DE LALIGA HYPERMOTION EN TELEVISIÓN EN ESPAÑA;
+16:00;LaLiga Hypermotion;Sorteo Calendario 2024/2025;estilo.css eventos.sh generador_html.sh id_26-06-2024.txt index.html SIN TV EN DIRECTO *;
 16:00;WTA Torneo de Bad Homburg 2ª Ronda;V. Kudermetova;C. Wozniacki;WTA TV;DAZN (Regístrate);
 17:00;Torneo de Eastbourne 2ª Ronda;T. Fritz;T. Seyboth-Wild;ATP Tennis TV;
 17:00;WTA Torneo de Eastbourne 2ª Ronda;E. Mertens;J. Paolini;WTA TV;DAZN (Regístrate);
