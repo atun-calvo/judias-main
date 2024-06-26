@@ -1,8 +1,0 @@
-12:00;Pontevedra Open;2ª Ronda;A1 Padel;DAZN (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN App Gratis (Regístrate);
-12:00;Torneo de Eastbourne;2ª Ronda;ATP 250;ATP Tennis TV;
-12:00;Torneo de Mallorca;2ª Ronda;ATP 250;ATP Tennis TV;Teledeporte;RTVE Play;
-12:00;WTA Torneo de Bad Homburg;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
-12:00;WTA Torneo de Eastbourne;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
-12:00;Wimbledon;Ronda de clasificación;Grand Slam;Wimbledon.com;
-14:00;Tour de Turingia;Etapa 2;Gera › Gera (119,2 km);MAX;Eurosport Player;
-PD;LaLiga Hypermotion;Sorteo Calendario 2024/2025;RFEF.es;RFEF TV YouTube;DATOS ESTADÍSTICOS DE LALIGA HYPERMOTION EN TELEVISIÓN EN ESPAÑA;
