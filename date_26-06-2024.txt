@@ -1,8 +1,10 @@
+11:00;Basketball Champions League;Sorteo de Fase de Grupos;Temporada 2024-25;BCL YouTube;
 12:00;Pontevedra Open;2ª Ronda;A1 Padel;DAZN (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN App Gratis (Regístrate);
 12:00;Torneo de Eastbourne 2ª Ronda;M. Kecmanovic;S. Báez;ATP Tennis TV;
 12:00;WTA Torneo de Bad Homburg 2ª Ronda;D. Shnaider;D. Yastremska;WTA TV;DAZN (Regístrate);
 12:00;WTA Torneo de Eastbourne 2ª Ronda;M. Keys;A. Kalinina;WTA TV;DAZN (Regístrate);
 12:00;Wimbledon;Ronda de clasificación;Grand Slam;Wimbledon.com;
+13:00;LaLiga Hypermotion;Sorteo Calendario 2024/2025;estilo.css eventos.sh generador_html.sh id_26-06-2024.txt index.html SIN TV EN DIRECTO *;DATOS ESTADÍSTICOS DE LALIGA HYPERMOTION EN TELEVISIÓN EN ESPAÑA;
 13:00;Torneo de Mallorca 2ª Ronda;J. Mensik;F. Fognini;ATP Tennis TV;Teledeporte;RTVE Play;
 13:00;WTA Torneo de Bad Homburg 2ª Ronda;K. Siniakova;L. Samsonova;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Eastbourne 2ª Ronda;E. Ruusuvuori;J. Shang;ATP Tennis TV;
