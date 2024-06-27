@@ -14,6 +14,7 @@
 17:00;Torneo de Eastbourne 1/4 de Final;T. Fritz;J. Shang;ATP Tennis TV;
 17:00;WTA Torneo de Bad Homburg 1/4 de Final;V. Tomova;TBD;WTA TV;DAZN (Regístrate);
 17:00;WTA Torneo de Eastbourne 1/4 de Final;M. Keys;K. Muchova;WTA TV;DAZN (Regístrate);
+18:00;Amistoso Femenino Sub-17;España;Canarias;Baloncesto España YouTube;
 18:00;Torneo de Mallorca 1/4 de Final;B. Shelton;P. Jubb;ATP Tennis TV;RTVE Play;
 19:00;Amistoso;Grecia;Bahamas;Courtside 1891 Max;
 22:00;NBA;Draft 2024;Round 2;NBA League Pass;
