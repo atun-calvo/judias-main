@@ -12,7 +12,7 @@
 15:00;WTA Torneo de Eastbourne 1/4 de Final;D. Kasatkina;E. Raducanu;WTA TV;DAZN (Regístrate);
 15:30;WTA Torneo de Bad Homburg 1/4 de Final;E. Navarro;C. Wozniacki;WTA TV;DAZN (Regístrate);
 17:00;Torneo de Eastbourne 1/4 de Final;T. Fritz;J. Shang;ATP Tennis TV;
-17:00;WTA Torneo de Bad Homburg 1/4 de Final;V. Tomova;TBD;WTA TV;DAZN (Regístrate);
+17:00;WTA Torneo de Bad Homburg 1/4 de Final;V. Tomova;A. Blinkova;WTA TV;DAZN (Regístrate);
 17:00;WTA Torneo de Eastbourne 1/4 de Final;M. Keys;K. Muchova;WTA TV;DAZN (Regístrate);
 18:00;Amistoso Femenino Sub-17;España;Canarias;Baloncesto España YouTube;
 18:00;Torneo de Mallorca 1/4 de Final;B. Shelton;P. Jubb;ATP Tennis TV;RTVE Play;
