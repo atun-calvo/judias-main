@@ -15,7 +15,7 @@
 13:55;Tour de Francia;Etapa 1;Firenze › Rimini (206 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 14:00;FIBA Mundial Sub-17 Fase de grupos;Alemania;Canadá;FIBA YouTube;
 15:00;MotoGP;G.P. Holanda (Assen);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-15:00;Torneo de Mallorca Final ATP 250;S. Ofner;A. Tabilo;ATP Tennis TV;Teledeporte;RTVE Play;
+15:00;Torneo de Mallorca Final ATP 250;S. Ofner;A. Tabilo;ATP Tennis TV;RTVE Play;
 15:00;Tour de Turingia;Etapa 5;Altenburg › Altenburg (31,5 km);MAX;Eurosport Player;
 15:00;WTA Torneo de Bad Homburg Final WTA 500;D. Shnaider;D. Vekic;WTA TV;DAZN (Regístrate);
 15:00;WTA Torneo de Eastbourne Final WTA 500;L. Fernández;D. Kasatkina;WTA TV;DAZN (Regístrate);DAZN 3 (M196);

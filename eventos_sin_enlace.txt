@@ -5,6 +5,7 @@
 11:30;FIBA Mundial Sub-17 Fase de grupos;Lituania;Filipinas;FIBA YouTube;
 13:30;FIBA Mundial Sub-17 Fase de grupos;Egipto;Australia;FIBA YouTube;
 14:00;FIBA Mundial Sub-17 Fase de grupos;Alemania;Canadá;FIBA YouTube;
+15:00;Torneo de Mallorca Final ATP 250;S. Ofner;A. Tabilo;ATP Tennis TV;RTVE Play;
 15:00;Tour de Turingia;Etapa 5;Altenburg › Altenburg (31,5 km);MAX;Eurosport Player;
 15:00;WTA Torneo de Bad Homburg Final WTA 500;D. Shnaider;D. Vekic;WTA TV;DAZN (Regístrate);
 16:00;FIBA Mundial Sub-17 Fase de grupos;China;Guinea;FIBA YouTube;
