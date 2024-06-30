@@ -8,7 +8,7 @@
 14:00;Tour de Turingia;Etapa 6;Schmalkalden › Schmalkalden (105,4 km);MAX;Eurosport Player;
 16:00;FIBA Mundial Sub-17 Fase de grupos;Puerto Rico;Lituania;FIBA YouTube;
 16:30;FIBA Mundial Sub-17 Fase de grupos;Filipinas;España;FIBA YouTube;
-17:00;Amistoso;Bélgica;Serbia;Courtside 1891 Max;
+18:00;Amistoso Femenino Sub-20;España;Selección Tenerife;Twitch baloncestoesp;
 18:30;FIBA Mundial Sub-17 Fase de grupos;Nueva Zelanda;Argentina;FIBA YouTube;
 19:00;FIBA Mundial Sub-17 Fase de grupos;Italia;Turquía;FIBA YouTube;
 19:15;Amistoso Sub-20;España;Francia;Baloncesto España YouTube;
