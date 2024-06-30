@@ -20,6 +20,7 @@
 16:00;Pontevedra Open;Final;A1 Padel;DAZN (Regístrate);LaLiga+;LaLiga+ Plus;DAZN App Gratis (Regístrate);DAZN 2 (M71);
 16:05;Tour de Francia;Etapa 2;Cesenatico › Bologna (200 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 16:30;FIBA Mundial Sub-17 Fase de grupos;Filipinas;España;FIBA YouTube;
+17:00;Amistoso;Bélgica;Serbia;Courtside 1891 Max;
 18:30;FIBA Mundial Sub-17 Fase de grupos;Nueva Zelanda;Argentina;FIBA YouTube;
 19:00;FIBA Mundial Sub-17 Fase de grupos;Italia;Turquía;FIBA YouTube;
 19:15;Amistoso Sub-20;España;Francia;Baloncesto España YouTube;
