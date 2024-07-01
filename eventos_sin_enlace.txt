@@ -1,1 +1,15 @@
-20:00;Amistoso Femenino Sub-20;España;Polonia;Twitch baloncestoesp;
+11:30;FIBA Mundial Sub-17 Fase de grupos;China;Estados Unidos;FIBA YouTube;
+11:30;FIBA Mundial Sub-17 Fase de grupos;Francia;Guinea;FIBA YouTube;
+14:00;FIBA Mundial Sub-17 Fase de grupos;España;Lituania;FIBA YouTube;
+14:00;FIBA Mundial Sub-17 Fase de grupos;Filipinas;Puerto Rico;FIBA YouTube;
+14:30;Preolímpico Masculino Fase de grupos;Brasil;Montenegro;DAZN (Regístrate);
+16:30;FIBA Mundial Sub-17 Fase de grupos;Canadá;Australia;FIBA YouTube;
+16:30;FIBA Mundial Sub-17 Fase de grupos;Egipto;Alemania;FIBA YouTube;
+16:30;Preolímpico Masculino Fase de grupos;Egipto;República Dominicana;DAZN (Regístrate);
+17:30;Preolímpico Masculino Fase de grupos;Finlandia;Bahamas;DAZN (Regístrate);
+18:00;Preolímpico Masculino Fase de grupos;Georgia;Letonia;DAZN (Regístrate);
+19:00;FIBA Mundial Sub-17 Fase de grupos;Argentina;Turquía;FIBA YouTube;
+19:00;FIBA Mundial Sub-17 Fase de grupos;Nueva Zelanda;Italia;FIBA YouTube;
+20:00;Amistoso Femenino Sub-20;España;Francia;Twitch baloncestoesp;
+20:00;Preolímpico Masculino Fase de grupos;Eslovenia;Croacia;DAZN (Regístrate);
+23:30;Preolímpico Masculino Fase de grupos;Italia;Baréin;DAZN (Regístrate);
