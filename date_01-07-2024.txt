@@ -20,7 +20,7 @@
 16:00;Wimbledon 1ª Ronda (Pista 2);N. Osaka;D. Parry;M+ Deportes 7 (194);
 16:05;Tour de Francia;Etapa 3;Piacenza › Torino (229 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 16:30;Wimbledon 1ª Ronda (Pista Central);E. Alexandrova;E. Raducanu;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
-17:00;Wimbledon 1ª Ronda (Pista 14);P. Carreño;T. Griekspoor;M+ Deportes 5 (192);
+17:00;Wimbledon 1ª Ronda (Pista 14);D. Galán;T. Griekspoor;M+ Deportes 5 (192);
 17:00;Wimbledon 1ª Ronda (Pista 3);T. Paul;P. Martínez;M+ Deportes 3 (65);
 17:00;Wimbledon 1ª Ronda (Pista 8);R. Bautista-Agut;M. Marterer;M+ Deportes 4 (191);
 17:30;Wimbledon 1ª Ronda (Pista 1);J. Sinner;Y. Hanfmann;M+ Deportes (63);
