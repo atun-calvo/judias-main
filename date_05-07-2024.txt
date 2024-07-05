@@ -17,13 +17,13 @@
 14:30;Wimbledon 3ª Ronda (Pista Central);C. Alcaraz;F. Tiafoe;Movistar Plus+ (M7);M+ Wimbledon UHD (444);M+ Deportes 2 (64);
 15:00;Génova Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
 15:00;MotoGP;G.P. Alemania (Sachsenring);Libres;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+15:00;Wimbledon 3ª Ronda (Pista 17);M. Kostyuk;M. Keys;M+ Deportes 7 (194);
 15:10;FIA Fórmula 3;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 15:30;Wimbledon 3ª Ronda (Pista 1);G. Dimitrov;G. Monfils;M+ Deportes (63);
 15:45;Wimbledon 3ª Ronda (Pista 18);D. Yastremska;D. Vekic;M+ Deportes 8 (M195);
 15:45;Wimbledon 3ª Ronda (Pista 3);D. Shapovalov;B. Shelton;M+ Deportes 6 (193);
 16:05;FIA Fórmula 2;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 16:05;Tour de Francia;Etapa 7;Nuits-Saint-Georges › Gevrey-Chambertin (25 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-16:15;Wimbledon 3ª Ronda (Pista 12);M. Kostyuk;M. Keys;M+ Deportes 7 (194);
 16:15;Wimbledon 3ª Ronda (Pista 2);JL. Struff;D. Medvedev;M+ Deportes 5 (192);
 16:30;FIBA Mundial Sub-17 1/4 de Final;Puerto Rico;Italia;Courtside 1891;DAZN (Regístrate);
 16:30;Wimbledon 3ª Ronda (Pista Central);E. Raducanu;M. Sakkari;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
