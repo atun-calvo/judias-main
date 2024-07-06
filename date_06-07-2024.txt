@@ -46,6 +46,7 @@
 17:30;Preolímpico Masculino Semifinales Valencia (España);Bahamas;Líbano;DAZN (Regístrate);
 18:00;Preolímpico Masculino Semifinales Riga (Letonia);Camerún;Letonia;DAZN (Regístrate);
 18:30;Wimbledon 3ª Ronda (Pista Central);A. Popyrin;N. Djokovic;M+ Wimbledon UHD (444);M+ Deportes 2 (64);
+19:00;Amistoso Femenino Sub-17;España;Finlandia;Twitch baloncestoesp;
 19:00;FIA Fórmula 3;G.P. Gran Bretaña (Silverstone);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
 19:00;FIBA Mundial Sub-17 Semifinales;Turquía;Italia;Courtside 1891;DAZN (Regístrate);FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;España;Montenegro;FIBA YouTube;

@@ -16,6 +16,7 @@
 17:00;Europeo Femenino Sub-20 Fase de grupos;Polonia;Finlandia;FIBA YouTube;
 17:30;Preolímpico Masculino Semifinales Valencia (España);Bahamas;Líbano;DAZN (Regístrate);
 18:00;Preolímpico Masculino Semifinales Riga (Letonia);Camerún;Letonia;DAZN (Regístrate);
+19:00;Amistoso Femenino Sub-17;España;Finlandia;Twitch baloncestoesp;
 19:00;FIBA Mundial Sub-17 Semifinales;Turquía;Italia;Courtside 1891;DAZN (Regístrate);FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;España;Montenegro;FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;Serbia;Alemania;FIBA YouTube;
