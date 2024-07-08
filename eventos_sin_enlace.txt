@@ -2,3 +2,4 @@
 00:30;NBA Summer League California;Golden State Warriors;Los Angeles Lakers;NBA League Pass;
 02:00;NBA Summer League California;Charlotte Hornets;China;NBA League Pass;
 04:00;NBA Summer League California;Sacramento Kings;San Antonio Spurs;NBA League Pass;
+06:00;Tour del Lago Qinghai;Etapa 2;Duoba › Huzhu (112,3 km);Canal Deporte TV (Síguelo en directo);
