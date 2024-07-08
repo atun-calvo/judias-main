@@ -2,8 +2,12 @@
 00:30;NBA Summer League California;Golden State Warriors;Los Angeles Lakers;NBA League Pass;
 02:00;NBA Summer League California;Charlotte Hornets;China;NBA League Pass;
 04:00;NBA Summer League California;Sacramento Kings;San Antonio Spurs;NBA League Pass;
-12:00;Wimbledon;1/8 de final;Grand Slam;Movistar Plus+ (M7);M+ Deportes 8 (M195);M+ Deportes (63);M+ Deportes 3 (65);M+ Deportes 4 (191);M+ Deportes 5 (192);M+ Deportes 6 (193);M+ Deportes 7 (194);
+12:00;Wimbledon 1/8 de final (Pista 2);L. Musetti;G. Mpetshi Perricard;M+ Deportes 3 (65);
 12:50;Giro de Italia Femenino;Etapa 2;Sirmione › Volta Mantovana (110 km);MAX;Eurosport 1;Eurosport Player;
-14:30;Wimbledon 1/8 de final (Pista Central);E. Rybakina;A. Kalinskaya;M+ Wimbledon UHD (444);M+ Deportes 2 (64);
+14:00;Wimbledon 1/8 de final (Pista 1);A. Fils;A. De Miñaur;M+ Deportes (63);
+14:00;Wimbledon 1/8 de final (Pista 2);E. Svitolina;X. Wang;M+ Deportes 3 (65);
+14:30;Wimbledon 1/8 de final (Pista Central);E. Rybakina;A. Kalinskaya;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+16:00;Wimbledon 1/8 de final (Pista 1);Y. Putintseva;J. Ostapenko;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
 16:00;Wimbledon 1/8 de final (Pista Central);T. Fritz;A. Zverev;M+ Wimbledon UHD (444);M+ Deportes 2 (64);
-18:00;Wimbledon 1/8 de final (Pista Central);H. Rune;N. Djokovic;M+ Wimbledon UHD (444);M+ Deportes 2 (64);
+17:30;Wimbledon 1/8 de final (Pista 1);D. Collins;B. Krejcikova;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+18:00;Wimbledon 1/8 de final (Pista Central);H. Rune;N. Djokovic;M+ Wimbledon UHD (444);Movistar Plus+ (M7);M+ Deportes 2 (64);
