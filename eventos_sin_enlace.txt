@@ -7,8 +7,6 @@
 12:50;Giro de Italia Femenino;Etapa 3;Sabbioneta › Toano (113 km);MAX;Eurosport Player;
 14:30;Europeo Femenino Sub-20 Fase de grupos;Portugal;España;FIBA YouTube;
 14:30;Europeo Femenino Sub-20 Fase de grupos;Turquía;Finlandia;FIBA YouTube;
-14:30;Wimbledon 1/4 Final (Pista Central);J. Sinner;D. Medvedev;M+ Wimbledon UHD (444);
-15:30;Wimbledon 1/4 Final (Pista 1);C. Alcaraz;T. Paul;Movistar Plus+ (M7);
 17:00;Europeo Femenino Sub-20 Fase de grupos;Eslovenia;Lituania;FIBA YouTube;
 17:00;Europeo Femenino Sub-20 Fase de grupos;Polonia;Italia;FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;Hungría;Serbia;FIBA YouTube;

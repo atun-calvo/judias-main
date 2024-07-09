@@ -6,14 +6,14 @@
 12:00;Europeo Femenino Sub-20 Fase de grupos;Montenegro;Suecia;FIBA YouTube;
 12:45;Tour de Francia;Etapa 10;Orléans › Saint-Amand-Montrond (187 km);DAZN (Regístrate);MAX;Eurosport 1;Eurosport Player;
 12:50;Giro de Italia Femenino;Etapa 3;Sabbioneta › Toano (113 km);MAX;Eurosport Player;
-14:00;Wimbledon 1/4 Final (Pista 1);L. Sun;D. Vekic;M+ Ellas Vamos (66);Movistar+ Lite;
+14:00;Wimbledon 1/4 Final (Pista 1);L. Sun;D. Vekic;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 14:30;Europeo Femenino Sub-20 Fase de grupos;Portugal;España;FIBA YouTube;
 14:30;Europeo Femenino Sub-20 Fase de grupos;Turquía;Finlandia;FIBA YouTube;
-14:30;Wimbledon 1/4 Final (Pista Central);J. Sinner;D. Medvedev;M+ Wimbledon UHD (444);
+14:30;Wimbledon 1/4 Final (Pista Central);J. Sinner;D. Medvedev;M+ Wimbledon UHD (444);M+ Deportes (63);
 14:40;Tour de Francia;Etapa 10;Orléans › Saint-Amand-Montrond (187 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-15:30;Wimbledon 1/4 Final (Pista 1);C. Alcaraz;T. Paul;Movistar Plus+ (M7);
+15:30;Wimbledon 1/4 Final (Pista 1);C. Alcaraz;T. Paul;Movistar Plus+ (M7);M+ Deportes 2 (64);
 16:05;Tour de Francia;Etapa 10;Orléans › Saint-Amand-Montrond (187 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-16:30;Wimbledon 1/4 Final (Pista Central);J. Paolini;E. Navarro;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;
+16:30;Wimbledon 1/4 Final (Pista Central);J. Paolini;E. Navarro;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
 17:00;Europeo Femenino Sub-20 Fase de grupos;Eslovenia;Lituania;FIBA YouTube;
 17:00;Europeo Femenino Sub-20 Fase de grupos;Polonia;Italia;FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;Hungría;Serbia;FIBA YouTube;
