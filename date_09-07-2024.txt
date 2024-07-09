@@ -16,5 +16,7 @@
 16:30;Wimbledon 1/4 Final (Pista Central);J. Paolini;E. Navarro;M+ Wimbledon UHD (444);M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
 17:00;Europeo Femenino Sub-20 Fase de grupos;Eslovenia;Lituania;FIBA YouTube;
 17:00;Europeo Femenino Sub-20 Fase de grupos;Polonia;Italia;FIBA YouTube;
+17:00;Wimbledon 2ª Ronda Junior;A. Santamarta;M. Mrva;M+ Deportes 6 (193);
+18:30;Wimbledon 2ª Ronda Junior;R. Bennani;R. Jodar;M+ Deportes 7 (194);
 19:30;Europeo Femenino Sub-20 Fase de grupos;Hungría;Serbia;FIBA YouTube;
 19:30;Europeo Femenino Sub-20 Fase de grupos;Letonia;Francia;FIBA YouTube;
