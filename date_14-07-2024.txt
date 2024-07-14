@@ -22,9 +22,9 @@
 16:00;Málaga Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 16:00;Tour de Francia;Etapa 15;Loudenvielle › Plateau de Beille (198 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 16:15;Supersport;G.P. Gran Bretaña (Donington Park);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport Player;
-17:00;Europeo Femenino Sub-20;3er Puesto;FIBA YouTube;
+17:00;Europeo Femenino Sub-20 3er Puesto;Alemania;Italia;FIBA YouTube;
 18:30;IndyCar;Grand Prix of Iowa;Carrera 2;M+ Deportes (63);
-19:30;Europeo Femenino Sub-20;Final;FIBA YouTube;
+19:30;Europeo Femenino Sub-20 Final;Francia;España;Teledeporte;RTVE Play;
 20:30;NASCAR Cup Series;Pocono Raceway (Long Pond);Carrera;DAZN (Regístrate);
 21:00;FIBA Mundial Femenino Sub-17 Fase de grupos;Finlandia;España;FIBA YouTube;
 21:30;NBA Summer League Las Vegas;Milwaukee Bucks;Cleveland Cavaliers;NBA League Pass;

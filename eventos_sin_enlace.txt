@@ -9,8 +9,7 @@
 14:00;Rally Extreme E;Dumfries &amp; Galloway (Escocia);Carrera;DAZN (Regístrate);MAX;RTVE Play;Eurosport Player;
 14:00;Tour de l'Ain;Etapa 2;Saint-Vulbas › Lélex Monts-Jura (145,4 km);MAX;Eurosport Player;
 15:30;Europeo Sub-20 Fase de grupos;Bélgica;España;FIBA YouTube;
-17:00;Europeo Femenino Sub-20;3er Puesto;FIBA YouTube;
-19:30;Europeo Femenino Sub-20;Final;FIBA YouTube;
+17:00;Europeo Femenino Sub-20 3er Puesto;Alemania;Italia;FIBA YouTube;
 20:30;NASCAR Cup Series;Pocono Raceway (Long Pond);Carrera;DAZN (Regístrate);
 21:00;FIBA Mundial Femenino Sub-17 Fase de grupos;Finlandia;España;FIBA YouTube;
 21:30;NBA Summer League Las Vegas;Milwaukee Bucks;Cleveland Cavaliers;NBA League Pass;
