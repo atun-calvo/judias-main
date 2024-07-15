@@ -22,7 +22,6 @@
 14:30;WTA Torneo de Budapest 1ª Ronda;A. Sasnovich;V. Tomova;WTA TV;Tennis Channel (Orange 104);
 15:00;Torneo de Bastad 1ª Ronda;P. Kotov;C. Garín;ATP Tennis TV;
 15:00;Torneo de Gstaad 1ª Ronda;D. Thiem;JP. Varillas;ATP Tennis TV;
-15:00;Torneo de Hamburgo 1ª Ronda;F. Cerúndolo;H. Squire;ATP Tennis TV;M+ Deportes (63);
 15:30;Europeo Sub-20 Fase de grupos;República Checa;Italia;FIBA YouTube;
 15:30;Europeo Sub-20 Fase de grupos;Turquía;España;FIBA YouTube;
 15:45;Clásica Tierras del Ebro;UCI Europe Tour;Amposta › Mont Caro (187,5 km);MAX;DAZN (Regístrate);Esport3 (Cataluña);Eurosport 1;Eurosport Player;
@@ -33,11 +32,12 @@
 18:00;Amistoso;Estados Unidos;Australia;NBA League Pass;
 18:00;Europeo Sub-20 Fase de grupos;Macedonia Norte;Bélgica;FIBA YouTube;
 18:00;Europeo Sub-20 Fase de grupos;Polonia;Serbia;FIBA YouTube;
-18:30;Torneo de Hamburgo 1ª Ronda;P. Martínez;M. Arnaldi;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+18:15;Torneo de Hamburgo 1ª Ronda;F. Cerúndolo;F. Comesana;ATP Tennis TV;M+ Deportes (63);
 18:30;Torneo de Newport 1ª Ronda;R. Albot;M. Cressy;ATP Tennis TV;
 20:00;Torneo de Newport 1ª Ronda;C. Lestienne;R. Opelka;ATP Tennis TV;
 20:00;WTA Torneo de Palermo 1ª Ronda;K. Kawa;K. Muchova;WTA TV;
 20:30;Europeo Sub-20 Fase de grupos;Alemania;Israel;FIBA YouTube;
 20:30;Europeo Sub-20 Fase de grupos;Montenegro;Lituania;FIBA YouTube;
+21:00;Torneo de Hamburgo 1ª Ronda;P. Martínez;M. Arnaldi;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:30;Torneo de Newport 1ª Ronda;Z. Svajda;B. Paire;ATP Tennis TV;
 21:30;WTA Torneo de Palermo 1ª Ronda;I. Begu;M. Bassols;WTA TV;
