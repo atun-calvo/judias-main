@@ -24,6 +24,7 @@
 17:00;Torneo de Newport 1ª Ronda;H. Mayot;A. Kovacevic;ATP Tennis TV;
 17:30;Torneo de Gstaad 1ª Ronda;MA. Huesler;H. Medjedovic;ATP Tennis TV;
 17:30;WTA Torneo de Palermo 1ª Ronda;A. Blinkova;A. Sharma;WTA TV;
+18:00;Amistoso;Estados Unidos;Australia;NBA League Pass;
 18:00;Europeo Sub-20 Fase de grupos;Macedonia Norte;Bélgica;FIBA YouTube;
 18:00;Europeo Sub-20 Fase de grupos;Polonia;Serbia;FIBA YouTube;
 18:30;Torneo de Newport 1ª Ronda;R. Albot;M. Cressy;ATP Tennis TV;
