@@ -25,7 +25,7 @@
 17:00;Torneo de Newport 2ª Ronda;A. Michelsen;M. Cressy;ATP Tennis TV;
 17:30;Torneo de Gstaad 2ª Ronda;JL. Struff;L. Riedi;ATP Tennis TV;
 17:30;WTA Torneo de Palermo 2ª Ronda;A. Rus;I. Begu;WTA TV;
-18:00;Amistoso;Estados Unidos;Serbia;NBA League Pass;
+18:00;Amistoso;Estados Unidos;Serbia;NBA League Pass;NBA YouTube;
 18:00;Europeo Sub-20 1/8 de final;Israel;Grecia;FIBA YouTube;
 18:00;Europeo Sub-20 1/8 de final;Serbia;República Checa;FIBA YouTube;
 18:30;Torneo de Newport 2ª Ronda;A. Mannarino;R. Opelka;ATP Tennis TV;
