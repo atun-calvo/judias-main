@@ -20,13 +20,13 @@
 13:00;WTA Torneo de Budapest 2ª Ronda;D. Shnaider;E. Makarova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 13:30;Torneo de Hamburgo 2ª Ronda;F. Cobolli;Zh. Zhang;ATP Tennis TV;M+ Deportes 2 (64);
 14:25;Tour de Francia;Etapa 18;Gap › Barcelonnette (179 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-14:30;Torneo de Bastad 2ª Ronda;C. Norrie;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 14:30;WTA Torneo de Budapest 2ª Ronda;A. Bondar;E. Seidel;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+15:00;Torneo de Bastad 2ª Ronda;C. Norrie;R. Nadal;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 15:00;Torneo de Gstaad 2ª Ronda;D. Galán;M. Berrettini;ATP Tennis TV;
 15:00;Torneo de Hamburgo 2ª Ronda;M. Trungelliti;H. Rune;ATP Tennis TV;M+ Deportes 2 (64);
 15:30;Europeo Sub-20 1/4 de Final;República Checa;Bélgica;FIBA YouTube;
-16:00;Torneo de Bastad 2ª Ronda;H. Rocha;N. Borges;ATP Tennis TV;
 16:05;Tour de Francia;Etapa 18;Gap › Barcelonnette (179 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
+16:30;Torneo de Bastad 2ª Ronda;H. Rocha;N. Borges;ATP Tennis TV;
 17:30;Torneo de Gstaad 2ª Ronda;F. Auger-Aliassime;Y. Hanfmann;ATP Tennis TV;
 17:30;WTA Torneo de Palermo 2ª Ronda;E. Andreeva;A. Li;WTA TV;DAZN (Regístrate);
 18:00;Europeo Sub-20 1/4 de Final;Polonia;Eslovenia;FIBA YouTube;
