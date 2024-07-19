@@ -35,6 +35,7 @@
 18:00;ITF Torneo de Vitoria-Gasteiz 1/4 de Final;J. Mikulskyte;J. Ponchet;M+ Ellas Vamos (66);Movistar+ Lite;
 18:00;Título Internacional Peso Crucero;J. Uldedaj;S. Ward;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:00;WTA Torneo de Palermo 1/4 de Final;I. Begu;A. Li;WTA TV;DAZN (Regístrate);
+18:30;Amistoso;Australia;Puerto Rico;Courtside 1891 Max;
 18:30;Torneo de Hamburgo 1/4 de Final;A. Zverev;Zh. Zhang;ATP Tennis TV;M+ Deportes 2 (64);
 19:00;Torneo de Newport 1/4 de Final;A. Vukic;C. Eubanks;ATP Tennis TV;
 19:30;Torneo de Pozoblanco 1/4 de Final;A. Escoffier;A. Barroso Campos;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;Eurosport Player;
@@ -42,7 +43,8 @@
 20:00;WTA Torneo de Palermo 1/4 de Final;Q. Zheng;J. Cristian;WTA TV;DAZN (Regístrate);
 20:30;Torneo de Newport 1/4 de Final;A. Bolt;M. Giron;ATP Tennis TV;
 21:00;FIBA Mundial Femenino Sub-17 1/4 de Final;Italia;Francia;FIBA YouTube;
-21:15;Torneo Tenis Playa Luanco Final;P. Cachin;D. Schwartzman;Teledeporte;RTVE Play;
+21:10;Amistoso;Francia;Canadá;Courtside 1891 Max;NBA YouTube;
+21:15;Torneo Tenis Playa Luanco Final;P. Cachin;D. Schwartzman;RTVE Play;
 21:30;Torneo de Pozoblanco 1/4 de Final;R. Bertrand;L. Lokoli;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;Eurosport Player;
 21:30;WTA Torneo de Palermo 1/4 de Final;A. Sharma;K. Muchova;WTA TV;DAZN (Regístrate);
 22:00;NBA Summer League Las Vegas;Phoenix Suns;Milwaukee Bucks;NBA League Pass;
