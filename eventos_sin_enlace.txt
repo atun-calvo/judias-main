@@ -15,3 +15,6 @@
 20:30;Europeo Sub-20 Semifinales;Francia;Grecia;FIBA YouTube;
 20:30;Torneo de Newport Semifinal 2 ATP 250;C. Eubanks;M. Giron;ATP Tennis TV;
 21:00;Amistoso;Estados Unidos;Sudán del Sur;NBA League Pass;NBA YouTube;
+21:00;NBA Summer League Las Vegas;Phoenix Suns;Sacramento Kings;NBA League Pass;
+22:00;NBA Summer League Las Vegas;Milwaukee Bucks;Washington Wizards;NBA League Pass;
+23:00;NBA Summer League Las Vegas;Indiana Pacers;Cleveland Cavaliers;NBA League Pass;
