@@ -30,7 +30,7 @@
 15:30;Tour de Francia;Etapa 20;Nice › Col de la Couillole (133 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
 16:00;Fórmula 1;G.P. Hungría (Hungaroring);Clasificación;DAZN (Regístrate);DAZN F1 (M69);
 16:00;Tour de Francia;Etapa 20;Nice › Col de la Couillole (133 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;ETB1 (País Vasco);Eurosport 1;Eurosport Player;
-17:00;Torneo de Hamburgo Semifinal 2 ATP 500;A. Zverev;P. Martínez;ATP Tennis TV;M+ Deportes (63);
+17:00;Torneo de Hamburgo Semifinal 2 ATP 500;A. Zverev;P. Martínez;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 18:00;Europeo Sub-20 Semifinales;Bélgica;Eslovenia;FIBA YouTube;
 18:00;FIA Fórmula E;Londres (Gran Bretaña);Carrera 1;MAX;DAZN (Regístrate);Eurosport 2;Eurosport Player;
 19:00;Torneo de Newport Semifinal 1 ATP 250;R. Opelka;A. Michelsen;ATP Tennis TV;
