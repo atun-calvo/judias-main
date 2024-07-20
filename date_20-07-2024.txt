@@ -37,6 +37,7 @@
 19:30;Torneo de Pozoblanco Semifinal 1 ATP Challenger Tour;A. Holmgren;E. Gerasimov;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;Eurosport Player;
 20:00;IndyCar;Grand Prix of Toronto;Clasificación;M+ Deportes 2 (64);
 20:00;WTA Torneo de Palermo Semifinal 2 WTA 250;Q. Zheng;D. Parry;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
+20:30;Amistoso Sub-18;España;Grecia;Federación Riojana de Baloncesto YouTube;
 20:30;Europeo Sub-20 Semifinales;Francia;Grecia;FIBA YouTube;
 20:30;Torneo de Newport Semifinal 2 ATP 250;C. Eubanks;M. Giron;ATP Tennis TV;
 21:00;Amistoso;Estados Unidos;Sudán del Sur;NBA League Pass;NBA YouTube;
