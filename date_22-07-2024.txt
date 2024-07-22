@@ -20,6 +20,7 @@
 17:00;Torneo de Atlanta 1ª Ronda;A. Cazaux;A. Davidovich;ATP Tennis TV;
 18:00;Torneo de Umag 1ª Ronda;M. Navone;F. Cobolli;ATP Tennis TV;
 18:30;Torneo de Atlanta 1ª Ronda;Z. Svajda;Y. Nishioka;ATP Tennis TV;
+20:00;Amistoso Femenino;España;Australia;Teledeporte;RTVE Play;
 20:00;Torneo de Atlanta 1ª Ronda;D. Shapovalov;D. Goffin;ATP Tennis TV;
 21:00;Amistoso;Alemania;Estados Unidos;NBA League Pass;NBA YouTube;
 21:00;Torneo de Umag 1ª Ronda;M. Poljicak;L. Sonego;ATP Tennis TV;
