@@ -10,7 +10,7 @@
 14:00;WTA Torneo de Iasi 2ª Ronda;M. Andreeva;A. Sasnovich;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
 16:00;WTA Torneo de Iasi 2ª Ronda;EG. Ruse;J. Cristian;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
 16:00;WTA Torneo de Praga 2ª Ronda;L. Noskova;E. Lys;WTA TV;DAZN (Regístrate);
-16:15;Vuelta a Castilla y León;UCI Europe Tour;Valladolid › La Cistérniga (199 km);SPORTPUBLIC TV YouTube;
+16:15;Vuelta a Castilla y León;UCI Europe Tour;Valladolid › La Cistérniga (199 km);SPORTPUBLIC TV YouTube;La 7 (Castilla y León);
 16:30;Torneo de Umag 1ª Ronda;L. Van Assche;F. Fognini;ATP Tennis TV;
 16:30;Tour de Valonia;Etapa 2;Saint-Ghislain › Ouffet (188,2 km);MAX;
 17:00;Torneo de Atlanta 1ª Ronda;A. Rinderknech;J. Wolf;ATP Tennis TV;
