@@ -16,5 +16,6 @@
 16:30;Tour de Valonia;Etapa 3;Arlon › La Roche-en-Ardenne (192,6 km);MAX;
 18:00;Torneo de Umag 2ª Ronda;M. Trungelliti;L. Musetti;ATP Tennis TV;
 19:00;Torneo de Atlanta 1ª Ronda;R. Opelka;A. Kovacevic;ATP Tennis TV;
+20:00;Amistoso Femenino;España;Canadá;Teledeporte;RTVE Play;
 20:30;Torneo de Atlanta 2ª Ronda;M. Bellucci;A. Mannarino;ATP Tennis TV;
 21:00;Torneo de Umag 2ª Ronda;L. Darderi;J. Mensik;ATP Tennis TV;
