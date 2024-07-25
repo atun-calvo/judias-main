@@ -6,7 +6,7 @@
 11:00;WTA Torneo de Praga Semifinal 1;M. Frech;L. Samson;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 12:30;Torneo de Kitzbühel 1/4 de Final;N. Moreno De Alboran;M. Berrettini;ATP Tennis TV;M+ Deportes (63);
 12:30;WTA Torneo de Praga Semifinal 2;L. Noskova;M. Linette;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
-13:00;WTA Torneo de Iasi Semifinal 2;TBD;C. Paquet;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 3 (M196);
+13:00;WTA Torneo de Iasi Semifinal 2;E. Avanesyan;C. Paquet;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 3 (M196);
 14:00;Torneo de Kitzbühel 1/4 de Final;P. Martínez;F. Díaz Acosta;ATP Tennis TV;M+ Deportes (63);
 15:30;Torneo de Kitzbühel 1/4 de Final;S. Báez;H. Gaston;ATP Tennis TV;
 16:00;Vuelta a Portugal;Etapa 1;Anadia (Sangalhos) › Miranda do Corvo (Observatorio Vila Nova) (158,2 km);RTP Internacional;RTP Play Internacional;
