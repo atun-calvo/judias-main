@@ -1,5 +1,7 @@
 01:00;Torneo de Atlanta 2ª Ronda;B. Shelton;J. Shang;ATP Tennis TV;
 15:00;WTA Torneo de Iasi Final WTA 250;M. Andreeva;E. Avanesyan;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+15:40;Tour de República Checa;Etapa 2;Zlín › Pustevny (172,7 km);MAX;
 16:00;Vuelta a Portugal;Etapa 2;Santarém › Lisboa (Marvila) (164,5 km);RTP Internacional;RTP Play Internacional;
 16:30;Tour de Valonia;Etapa 5;Mouscron › Thuin (192,1 km);MAX;
-19:00;Torneo de Atlanta;1/4 de Final;ATP 250;ATP Tennis TV;
+20:00;Torneo de Atlanta 1/4 de Final;J. Thompson;A. Davidovich;ATP Tennis TV;
+21:30;Torneo de Atlanta 1/4 de Final;J. Shang;M. Purcell;ATP Tennis TV;
