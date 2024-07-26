@@ -1,11 +1,5 @@
-09:00;WTA Torneo de Iasi 1/4 de Final;E. Avanesyan;J. Cristian;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-10:00;Velada Peso Pesado;J. Huni;T. Pilcher;DAZN (Regístrate);
-11:00;Clásica de Ordizia;UCI Europe Tour;Ordizia › Ordizia (165,7 km);ETB1 (País Vasco);
-11:00;Torneo de Kitzbühel 1/4 de Final;T. Seyboth-Wild;Y. Hanfmann;ATP Tennis TV;
-15:30;Torneo de Kitzbühel 1/4 de Final;S. Báez;H. Gaston;ATP Tennis TV;
-16:00;Vuelta a Portugal;Etapa 1;Anadia (Sangalhos) › Miranda do Corvo (Observatorio Vila Nova) (158,2 km);RTP Internacional;RTP Play Internacional;
-16:30;Torneo de Umag 1/4 de Final;F. Cerúndolo;L. Sonego;ATP Tennis TV;
-16:30;Tour de Valonia;Etapa 4;Verviers › Herve (188,5 km);MAX;
-18:00;Torneo de Atlanta 2ª Ronda;M. McDonald;Y. Nishioka;ATP Tennis TV;
-19:30;Torneo de Atlanta 2ª Ronda;A. Karatsev;F. Tiafoe;ATP Tennis TV;
-21:00;Torneo de Atlanta 2ª Ronda;R. Opelka;A. Davidovich;ATP Tennis TV;
+01:00;Torneo de Atlanta 2ª Ronda;B. Shelton;J. Shang;ATP Tennis TV;
+15:00;WTA Torneo de Iasi Final WTA 250;M. Andreeva;E. Avanesyan;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+16:00;Vuelta a Portugal;Etapa 2;Santarém › Lisboa (Marvila) (164,5 km);RTP Internacional;RTP Play Internacional;
+16:30;Tour de Valonia;Etapa 5;Mouscron › Thuin (192,1 km);MAX;
+19:00;Torneo de Atlanta;1/4 de Final;ATP 250;ATP Tennis TV;
