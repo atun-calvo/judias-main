@@ -4,7 +4,6 @@
 12:00;Europeo Sub-18 Fase de grupos;Grecia;Francia;FIBA YouTube;
 12:00;Juegos Olímpicos 1ª Ronda;A. Bogdan;J. Paolini;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;A. Kalinina;A. Rus;MAX;
-12:00;Juegos Olímpicos 1ª Ronda;D. Saville;Q. Zheng;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;E. Navarro;J. Grabher;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;I. Swiatek;I. Begu;MAX;Eurosport 3 (M180 O102);
 12:00;Juegos Olímpicos 1ª Ronda;J. Draper;K. Nishikori;MAX;
