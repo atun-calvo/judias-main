@@ -24,12 +24,12 @@
 13:30;Juegos Olímpicos 1ª Ronda;B. Haddad Maia;V. Gracheva;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;E. Cocciaretto;D. Shnaider;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;F. Auger-Aliassime;M. Giron;MAX;
-13:30;Juegos Olímpicos 1ª Ronda;H. Habib;C. Alcaraz;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 13:30;Juegos Olímpicos 1ª Ronda;L. Pigossi;D. Yastremska;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;L. Siegemund;D. Collins;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;M. Navone;N. Borges;MAX;
 13:30;Juegos Olímpicos 1ª Ronda;N. Djokovic;M. Ebden;MAX;Eurosport 3 (M180 O102);
 13:30;Juegos Olímpicos 1ª Ronda;T. Griekspoor;C. Norrie;MAX;
+14:00;Juegos Olímpicos 1ª Ronda;H. Habib;C. Alcaraz;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 14:15;FIA Fórmula 2;G.P. Bélgica (Spa);Carrera 1;DAZN (Regístrate);DAZN F1 (M69);
 14:15;Tour de República Checa;Etapa 3;Moravská Trebová › Dlouhé stráne (134,5 km);MAX;
 14:30;Europeo Sub-18 Fase de grupos;Italia;Serbia;FIBA YouTube;
