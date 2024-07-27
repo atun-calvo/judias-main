@@ -30,15 +30,13 @@
 15:00;Juegos Olímpicos 1ª Ronda;A. Bublik;T. Fritz;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;A. Schmiedlova;K. Boulter;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;C. García;J. Cristian;MAX;
+15:00;Juegos Olímpicos 1ª Ronda;L. Sun;M. Kostyuk;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;M. Echargu;D. Evans;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;R. Haase;S. Ofner;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;T. Machac;Zh. Zhang;MAX;
-15:00;Juegos Olímpicos 1ª Ronda;Y. Putintseva;M. Kostyuk;MAX;
 15:00;Juegos Olímpicos 1ª Ronda;Z. Bergs;S. Tsitsipas;MAX;
 16:00;Vuelta a Portugal;Etapa 3;Crato › Covilhã (Torre) (161,2 km);RTP Internacional;RTP Play Internacional;
-16:30;Juegos Olímpicos 1ª Ronda;C. Eubanks;B. Hassan;MAX;
 16:30;Juegos Olímpicos 1ª Ronda;R. Hijikata;D. Medvedev;MAX;
-16:30;Juegos Olímpicos 1ª Ronda;S. Wawrinka;P. Kotov;MAX;
 17:00;Europeo Sub-18 Fase de grupos;Letonia;Israel;FIBA YouTube;
 17:15;JJOO Masculinos Fase de grupos;Francia;Brasil;MAX;Eurosport 6 (M183 O105);
 17:30;Europeo Sub-18 Fase de grupos;Finlandia;Lituania;FIBA YouTube;
