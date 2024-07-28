@@ -10,7 +10,6 @@
 12:00;Juegos Olímpicos 1ª Ronda;L. Noskova;Xi. Wang;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;M. Carle;T. Maria;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;M. Sakkari;D. Kovinic;MAX;
-12:00;Juegos Olímpicos 1ª Ronda;S. Sorribes;B. Krejcikova;MAX;Eurosport 3 (M180 O102);La 1 TVE;RTVE Play;
 12:00;Juegos Olímpicos 1ª Ronda;TM. Etcheverry;T. Seyboth-Wild;MAX;
 12:00;Juegos Olímpicos 1ª Ronda;X. Wang;T. Korpatsch;MAX;
 12:30;Europeo Sub-18 Fase de grupos;Israel;Italia;FIBA YouTube;
