@@ -26,7 +26,7 @@
 15:00;Juegos Olímpicos 2ª Ronda;D. Koepfer;M. Arnaldi;MAX;
 16:30;Juegos Olímpicos 2ª Ronda;S. Báez;B. Hassan;MAX;
 17:00;Europeo Sub-18 Fase de grupos;Dinamarca;Grecia;FIBA YouTube;
-17:00;WTA Torneo de Washington 1ª Ronda;A. Pavlyuchenkova;A. Krueger;WTA TV;DAZN (Regístrate);
+17:10;WTA Torneo de Washington 1ª Ronda;A. Pavlyuchenkova;A. Krueger;WTA TV;DAZN (Regístrate);
 17:15;JJOO Femeninos Fase de grupos;Canadá;Francia;MAX;Eurosport 6 (M183 O105);
 17:30;Europeo Sub-18 Fase de grupos;Finlandia;Eslovenia;FIBA YouTube;
 18:00;Juegos Olímpicos 1ª Ronda Dobles Mixtos;S. Sorribes | M. Granollers;E. Perez | M. Ebden;MAX;
