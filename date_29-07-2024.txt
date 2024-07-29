@@ -43,5 +43,5 @@
 20:00;WTA Torneo de Washington 1ª Ronda;S. Rogers;R. Montgomery;WTA TV;DAZN (Regístrate);
 20:30;Juegos Olímpicos 2ª Ronda;J. Pegula;E. Svitolina;MAX;Eurosport 3 (M180 O102);
 21:00;JJOO Femeninos Fase de grupos;Estados Unidos;Japón;MAX;Eurosport 6 (M183 O105);
-21:00;Torneo de Washington 1ª Ronda;D. Shapovalov;R. Bautista-Agut;ATP Tennis TV;M+ Deportes (63);
+21:00;Torneo de Washington 1ª Ronda;D. Shapovalov;R. Bautista-Agut;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 21:50;JJOO Masculinos;Sesión Vespertina;MAX;Eurosport 7 (M184 O106);Teledeporte;RTVE Play;
