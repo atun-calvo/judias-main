@@ -20,13 +20,13 @@
 15:00;Juegos Olímpicos 2ª Ronda Dobles;P. Carreño | M. Granollers;M. Ebden | J. Peers;MAX;
 15:00;Juegos Olímpicos 2ª Ronda;JL. Struff;C. Moutet;MAX;
 16:00;Vuelta a Portugal;Etapa 5;Penedono › Bragança (176,8 km);RTP Internacional;RTP Play Internacional;
+17:00;Torneo de Washington 1ª Ronda;J. Wolf;M. Kecmanovic;ATP Tennis TV;
 17:00;WTA Torneo de Washington 1ª Ronda;K. Volynets;K. Rakhimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:15;JJOO Masculinos Fase de grupos;Japón;Francia;MAX;Eurosport 6 (M183 O105);
 17:30;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Alemania;MAX;
 19:00;Juegos Olímpicos 1/8 de final;I. Swiatek;Xi. Wang;MAX;Eurosport 3 (M180 O102);
 19:00;WTA Torneo de Washington 1ª Ronda;T. Townsend;A. Potapova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 19:05;JJOO 3x3 Masculino Fase de grupos;Holanda;China;MAX;
-20:00;Torneo de Washington 1ª Ronda;S. Korda;C. Garín;ATP Tennis TV;
 20:30;Juegos Olímpicos 2ª Ronda;S. Ofner;D. Medvedev;MAX;Eurosport 3 (M180 O102);
 21:00;JJOO Masculinos Fase de grupos;Brasil;Alemania;MAX;Eurosport 6 (M183 O105);
 21:00;WTA Torneo de Washington 1ª Ronda;H. Baptiste;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
