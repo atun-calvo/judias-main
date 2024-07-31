@@ -14,8 +14,8 @@
 13:30;Juegos Olímpicos 1/4 de Final Dobles;T. Machac / A. Pavlasek;K. Krawietz | T. Puetz;MAX;
 13:30;Juegos Olímpicos 1/4 de Final;A. Kerber;Q. Zheng;MAX;Eurosport 3 (M180 O102);
 13:30;Juegos Olímpicos 1/4 de Final;B. Krejcikova;A. Schmiedlova;MAX;
-13:30;Juegos Olímpicos 1/8 de final;R. Safiullin;C. Alcaraz;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 14:30;Europeo Sub-18 1/8 de final;Eslovenia;Letonia;FIBA YouTube;
+14:30;Juegos Olímpicos 1/8 de final;R. Safiullin;C. Alcaraz;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 14:44;Juegos Olímpicos;Final BMX Freestyle Masculino;MAX;
 15:00;Europeo Sub-18 1/8 de final;Italia;Lituania;FIBA YouTube;
 15:00;Juegos Olímpicos 1/4 de Final Dobles;M. Ebden | J. Peers;D. Koepfee | JL. Struff;MAX;
@@ -26,13 +26,14 @@
 16:30;Juegos Olímpicos 1/8 de final;A. Zverev;A. Popyrin;MAX;
 16:30;Juegos Olímpicos 1/8 de final;C. Ruud;F. Cerúndolo;MAX;
 17:00;Europeo Sub-18 1/8 de final;Francia;Turquía;FIBA YouTube;
-17:00;Torneo de Washington 2ª Ronda;A. Davidovich;M. Krueger;ATP Tennis TV;
+17:00;Torneo de Washington 2ª Ronda;A. Davidovich;M. Krueger;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 17:00;WTA Torneo de Washington 2ª Ronda;A. Pavlyuchenkova;A. Anisimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:15;JJOO Masculinos Fase de grupos;Puerto Rico;Serbia;MAX;Eurosport 6 (M183 O105);
 17:30;Europeo Sub-18 1/8 de final;Serbia;Finlandia;FIBA YouTube;
 17:30;JJOO 3x3 Femenino Fase de grupos;Australia;Alemania;MAX;
 18:00;JJOO 3x3 Femenino Fase de grupos;Canadá;China;MAX;
 18:30;Torneo de Washington 2ª Ronda;A. Michelsen;M. Bellucci;ATP Tennis TV;
+18:30;Torneo de Washington 2ª Ronda;S-C. Hong;K. Khachanov;ATP Tennis TV;M+ Deportes (63);
 18:35;JJOO 3x3 Masculino Fase de grupos;Letonia;Holanda;MAX;
 19:00;Juegos Olímpicos 1/4 de Final Dobles;C. Alcaraz | R. Nadal;A. Krajicek | R. Ram;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 19:00;La Rioja Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
@@ -43,7 +44,8 @@
 20:30;Juegos Olímpicos 1/4 de Final;M. Kostyuk;D. Vekic;MAX;Eurosport 3 (M180 O102);
 21:00;JJOO 3x3 Femenino Fase de grupos;España;Francia;MAX;RTVE Play;
 21:00;JJOO Masculinos Fase de grupos;Estados Unidos;Sudán del Sur;MAX;Eurosport 6 (M183 O105);La 1 TVE;RTVE Play;
-21:00;Torneo de Washington 2ª Ronda;A. Rublev;L. Van Assche;ATP Tennis TV;
+21:00;Torneo de Washington 2ª Ronda;A. Rublev;L. Van Assche;ATP Tennis TV;M+ Deportes (63);
 21:30;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Azerbaiyán;MAX;
+21:30;Torneo de Washington 2ª Ronda;R. Opelka;J. Thompson;ATP Tennis TV;M+ Deportes (63);
 22:05;JJOO 3x3 Masculino Fase de grupos;Lituania;Francia;MAX;
 22:35;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Polonia;MAX;
