@@ -18,7 +18,7 @@
 14:30;Juegos Olímpicos 1/8 de final;R. Safiullin;C. Alcaraz;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 14:44;Juegos Olímpicos;Final BMX Freestyle Masculino;MAX;
 15:00;Europeo Sub-18 1/8 de final;Italia;Lituania;FIBA YouTube;
-15:00;Juegos Olímpicos 1/4 de Final Dobles;M. Ebden | J. Peers;D. Koepfee | JL. Struff;MAX;
+15:00;Juegos Olímpicos 1/4 de Final Dobles;M. Ebden | J. Peers;D. Koepfer | JL. Struff;MAX;
 15:00;Juegos Olímpicos 1/4 de Final;I. Swiatek;D. Collins;MAX;
 15:00;Juegos Olímpicos 1/8 de final;F. Auger-Aliassime;D. Medvedev;MAX;
 16:00;Juegos Olímpicos 2ª Ronda Dobles;T. Fritz | T. Paul;R. Haase | JJ. Rojer;MAX;
