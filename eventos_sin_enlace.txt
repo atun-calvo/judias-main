@@ -22,13 +22,16 @@
 16:30;Juegos Olímpicos 1/4 de Final Dobles;T. Fritz | T. Paul;D. Evans | A. Murray;MAX;
 17:15;JJOO Femeninos Fase de grupos;Francia;Nigeria;MAX;Eurosport 6 (M183 O105);
 17:30;Europeo Sub-18 1/4 de Final;Serbia;Bélgica;FIBA YouTube;
-18:00;WTA Torneo de Washington;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:30;JJOO 3x3 Femenino Fase de grupos;Alemania;Azerbaiyán;MAX;
 19:00;Juegos Olímpicos 1/4 de Final;N. Djokovic;S. Tsitsipas;MAX;Eurosport 3 (M180 O102);
 19:00;WRC Rally;Rally de Finlandia;SS1;DAZN (Regístrate);
+19:00;WTA Torneo de Washington 2ª Ronda;Y. Wang;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 19:05;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Lituania;MAX;
+19:30;Europeo Sub-18 9º Puesto;Turquía;España;FIBA YouTube;
 19:35;JJOO 3x3 Masculino Fase de grupos;China;Polonia;MAX;
 20:00;Europeo Sub-18 1/4 de Final;Israel;Francia;FIBA YouTube;
+20:30;WTA Torneo de Washington 2ª Ronda;P. Badosa;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 21:00;JJOO Femeninos Fase de grupos;Bélgica;Estados Unidos;MAX;Eurosport 6 (M183 O105);
 22:00;JJOO 3x3 Femenino Fase de grupos;Canadá;Francia;MAX;
 22:35;JJOO 3x3 Masculino Fase de grupos;Serbia;Francia;MAX;
+23:00;WTA Torneo de Washington 2ª Ronda;M. Bouzkova;T. Townsend;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
