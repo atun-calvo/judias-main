@@ -15,8 +15,8 @@
 13:30;JJOO Femeninos Fase de grupos;Australia;Canadá;MAX;Eurosport 6 (M183 O105);
 13:30;Juegos Olímpicos 1/4 de Final;A. Zverev;L. Musetti;MAX;
 13:30;Juegos Olímpicos 1/4 de Final;T. Paul;C. Alcaraz;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
-13:35;JJOO 3x3 Masculino Fase de grupos;Polonia;Lituania;MAX;
-14:05;JJOO 3x3 Masculino Fase de grupos;Francia;Holanda;MAX;
+13:35;JJOO 3x3 Masculino Fase de grupos;Lituania;Polonia;MAX;
+14:05;JJOO 3x3 Masculino Fase de grupos;Holanda;Francia;MAX;
 14:30;Juegos Olímpicos Semifinal Dobles;A. Krajicek | R. Ram;T. Machac / A. Pavlasek;MAX;
 15:00;Europeo Sub-18 1/4 de Final;Eslovenia;Suecia;FIBA YouTube;
 15:00;Juegos Olímpicos 1/4 de Final;C. Ruud;F. Auger-Aliassime;MAX;
@@ -32,12 +32,12 @@
 19:00;Juegos Olímpicos 1/4 de Final;N. Djokovic;S. Tsitsipas;MAX;Eurosport 3 (M180 O102);
 19:00;La Rioja Open;1/8 de final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
 19:00;WRC Rally;Rally de Finlandia;SS1;DAZN (Regístrate);
-19:05;JJOO 3x3 Masculino Fase de grupos;Lituania;Estados Unidos;MAX;
+19:05;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Lituania;MAX;
 19:35;JJOO 3x3 Masculino Fase de grupos;China;Polonia;MAX;
 20:00;Europeo Sub-18 1/4 de Final;Israel;Francia;FIBA YouTube;
 20:30;Juegos Olímpicos Semifinal femenina;A. Schmiedlova;D. Vekic;MAX;Eurosport 3 (M180 O102);DAZN (Regístrate);Eurosport 2;
 21:00;JJOO Femeninos Fase de grupos;Bélgica;Estados Unidos;MAX;Eurosport 6 (M183 O105);
-21:30;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;España;MAX;DAZN (Regístrate);RTVE Play;Eurosport 2;
+21:30;JJOO 3x3 Femenino Fase de grupos;España;Estados Unidos;MAX;DAZN (Regístrate);RTVE Play;Eurosport 2;
 22:00;JJOO 3x3 Femenino Fase de grupos;Canadá;Francia;MAX;
 22:35;JJOO 3x3 Masculino Fase de grupos;Serbia;Francia;MAX;
-23:05;JJOO 3x3 Masculino Fase de grupos;Letonia;Estados Unidos;MAX;DAZN (Regístrate);Eurosport 2;
+23:05;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Letonia;MAX;DAZN (Regístrate);Eurosport 2;

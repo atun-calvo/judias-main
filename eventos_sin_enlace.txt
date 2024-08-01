@@ -12,8 +12,8 @@
 13:08;JJOO Masculinos 1/4 de Final;V. Schelstraete;E. Reyes;MAX;Eurosport 7 (M184 O106);RTVE Play;
 13:30;JJOO Femeninos Fase de grupos;Australia;Canadá;MAX;Eurosport 6 (M183 O105);
 13:30;Juegos Olímpicos 1/4 de Final;A. Zverev;L. Musetti;MAX;
-13:35;JJOO 3x3 Masculino Fase de grupos;Polonia;Lituania;MAX;
-14:05;JJOO 3x3 Masculino Fase de grupos;Francia;Holanda;MAX;
+13:35;JJOO 3x3 Masculino Fase de grupos;Lituania;Polonia;MAX;
+14:05;JJOO 3x3 Masculino Fase de grupos;Holanda;Francia;MAX;
 14:30;Juegos Olímpicos Semifinal Dobles;A. Krajicek | R. Ram;T. Machac / A. Pavlasek;MAX;
 15:00;Europeo Sub-18 1/4 de Final;Eslovenia;Suecia;FIBA YouTube;
 15:00;Juegos Olímpicos 1/4 de Final;C. Ruud;F. Auger-Aliassime;MAX;
@@ -26,7 +26,7 @@
 18:30;JJOO 3x3 Femenino Fase de grupos;Alemania;Azerbaiyán;MAX;
 19:00;Juegos Olímpicos 1/4 de Final;N. Djokovic;S. Tsitsipas;MAX;Eurosport 3 (M180 O102);
 19:00;WRC Rally;Rally de Finlandia;SS1;DAZN (Regístrate);
-19:05;JJOO 3x3 Masculino Fase de grupos;Lituania;Estados Unidos;MAX;
+19:05;JJOO 3x3 Masculino Fase de grupos;Estados Unidos;Lituania;MAX;
 19:35;JJOO 3x3 Masculino Fase de grupos;China;Polonia;MAX;
 20:00;Europeo Sub-18 1/4 de Final;Israel;Francia;FIBA YouTube;
 21:00;JJOO Femeninos Fase de grupos;Bélgica;Estados Unidos;MAX;Eurosport 6 (M183 O105);
