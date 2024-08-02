@@ -15,7 +15,7 @@
 18:00;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Canadá;MAX;
 18:00;WTA Torneo de Washington 1/4 de Final;A. Anisimova;C. Dolehide;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:35;JJOO 3x3 Masculino Fase de grupos;Francia;Estados Unidos;MAX;
-19:00;Juegos Olímpicos Semifinal masculina;N. Djokovic;L. Musetti;MAX;Eurosport 3 (M180 O102);
+19:00;Juegos Olímpicos Semifinal masculina;N. Djokovic;L. Musetti;MAX;Eurosport 3 (M180 O102);La 1 TVE;RTVE Play;
 19:05;JJOO 3x3 Masculino Fase de grupos;Letonia;Serbia;MAX;
 19:30;WTA Torneo de Washington 1/4 de Final;E. Raducanu;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:30;Juegos Olímpicos Final Dobles Mixtos;T. Machac | K. Siniakova;Z. Zhang | X. Wang;MAX;

@@ -33,7 +33,7 @@
 18:00;WTA Torneo de Washington 1/4 de Final;A. Anisimova;C. Dolehide;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:35;JJOO 3x3 Masculino Fase de grupos;Francia;Estados Unidos;MAX;
 19:00;Finlandia Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
-19:00;Juegos Olímpicos Semifinal masculina;N. Djokovic;L. Musetti;MAX;Eurosport 3 (M180 O102);
+19:00;Juegos Olímpicos Semifinal masculina;N. Djokovic;L. Musetti;MAX;Eurosport 3 (M180 O102);La 1 TVE;RTVE Play;
 19:00;La Rioja Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 4 (M197);
 19:05;JJOO 3x3 Masculino Fase de grupos;Letonia;Serbia;MAX;
 19:30;WTA Torneo de Washington 1/4 de Final;E. Raducanu;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
