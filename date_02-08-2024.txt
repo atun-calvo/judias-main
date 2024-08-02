@@ -10,6 +10,7 @@
 10:35;JJOO 3x3 Masculino Fase de grupos;Polonia;Holanda;MAX;
 11:00;Finlandia Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
 11:00;JJOO Masculinos Fase de grupos;Japón;Brasil;MAX;Eurosport 6 (M183 O105);
+11:45;MotoGP;G.P. Gran Bretaña (Silverstone);Libres 1;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 12:00;Juegos Olímpicos Semifinales Dobles Femeninos;K. Muchova | L. Noskova;S. Errani | J. Paolini;MAX;
 12:30;JJOO 3x3 Femenino Fase de grupos;Australia;España;MAX;DAZN (Regístrate);RTVE Play;Eurosport 2;
 13:00;Finlandia Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);M+ Deportes 2 (64);
@@ -21,6 +22,7 @@
 14:05;JJOO 3x3 Masculino Fase de grupos;Francia;Letonia;MAX;
 15:00;Finlandia Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 15:00;Juegos Olímpicos Medalla de Bronce Dobles Mixtos;F. Auger-Aliassime | G. Dabrowski;W. Koolhof | D. Schuurs;MAX;
+16:00;MotoGP;G.P. Gran Bretaña (Silverstone);Libres;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 16:00;Vuelta a Portugal;Etapa 8;Viana do Castelo › Fafe (182,4 km);RTP Internacional;RTP Play Internacional;
 16:30;Juegos Olímpicos Semifinales Dobles Femeninos;C. Bucsa | S. Sorribes;M. Andreeva | D. Shnaider;MAX;RTVE Play;
 16:50;JJOO Masculinos 1/4 de Final;R. Lozano Serrano;Y. Alcantara Reyes;MAX;RTVE Play;
