@@ -24,7 +24,7 @@
 15:00;Juegos Olímpicos Medalla de Bronce Dobles Mixtos;F. Auger-Aliassime | G. Dabrowski;W. Koolhof | D. Schuurs;MAX;
 16:00;MotoGP;G.P. Gran Bretaña (Silverstone);Libres;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 16:00;Vuelta a Portugal;Etapa 8;Viana do Castelo › Fafe (182,4 km);RTP Internacional;RTP Play Internacional;
-16:30;Juegos Olímpicos Semifinales Dobles Femeninos;C. Bucsa | S. Sorribes;M. Andreeva | D. Shnaider;MAX;RTVE Play;
+16:05;Juegos Olímpicos Semifinales Dobles Femeninos;C. Bucsa | S. Sorribes;M. Andreeva | D. Shnaider;MAX;Teledeporte;RTVE Play;
 16:50;JJOO Masculinos 1/4 de Final;R. Lozano Serrano;Y. Alcantara Reyes;MAX;RTVE Play;
 17:00;Finlandia Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Ellas Vamos (66);M+ Deportes 2 (64);
 17:15;JJOO Masculinos Fase de grupos;Canadá;España;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);La 2 TVE;RTVE Play;Eurosport 2;

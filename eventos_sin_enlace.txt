@@ -10,7 +10,6 @@
 14:05;JJOO 3x3 Masculino Fase de grupos;Francia;Letonia;MAX;
 15:00;Juegos Olímpicos Medalla de Bronce Dobles Mixtos;F. Auger-Aliassime | G. Dabrowski;W. Koolhof | D. Schuurs;MAX;
 16:00;Vuelta a Portugal;Etapa 8;Viana do Castelo › Fafe (182,4 km);RTP Internacional;RTP Play Internacional;
-16:30;Juegos Olímpicos Semifinales Dobles Femeninos;C. Bucsa | S. Sorribes;M. Andreeva | D. Shnaider;MAX;RTVE Play;
 16:50;JJOO Masculinos 1/4 de Final;R. Lozano Serrano;Y. Alcantara Reyes;MAX;RTVE Play;
 17:30;JJOO 3x3 Femenino Fase de grupos;Azerbaiyán;China;MAX;
 18:00;JJOO 3x3 Femenino Fase de grupos;Estados Unidos;Canadá;MAX;
