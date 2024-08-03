@@ -11,12 +11,16 @@
 13:30;JJOO Femeninos Fase de grupos;Serbia;España;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;
 13:30;Juegos Olímpicos Medalla de Bronce Dobles;T. Fritz | T. Paul;T. Machac | A. Pavlasek;MAX;Eurosport 3 (M180 O102);
 13:50;Moto3;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+14:00;Europeo Femenino Sub-18 Fase de grupos;Finlandia;Israel;FIBA YouTube;
+14:00;Europeo Femenino Sub-18 Fase de grupos;Polonia;Bélgica;FIBA YouTube;
 14:45;Moto2;G.P. Gran Bretaña (Silverstone);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Europeo Sub-18 13º Puesto;Finlandia;España;FIBA YouTube;
 15:30;JJOO Masculinos 1/4 de Final;A. Khalokov;J. Quiles;MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;
 16:00;Juegos Olímpicos;Ruta Masculina;Paris › Paris (275 km);MAX;DAZN (Regístrate);Eurosport 4K (M444 O98);La 2 TVE;RTVE Play;Eurosport 1;
 16:00;MotoGP;G.P. Gran Bretaña (Silverstone);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 16:00;Vuelta a Portugal;Etapa 9;Maia › Mondim de Basto (Srª da Graça) (170,8 km);RTP Internacional;RTP Play Internacional;
+16:30;Europeo Femenino Sub-18 Fase de grupos;Francia;Luxemburgo;FIBA YouTube;
+16:30;Europeo Femenino Sub-18 Fase de grupos;Hungría;Croacia;FIBA YouTube;
 17:00;Finlandia Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 17:00;Juegos Olímpicos Medalla de Bronce Masculina;L. Musetti;F. Auger-Aliassime;MAX;Eurosport 3 (M180 O102);
 17:15;JJOO Masculinos Fase de grupos;Puerto Rico;Estados Unidos;MAX;Eurosport 6 (M183 O105);Teledeporte;RTVE Play;
@@ -25,6 +29,8 @@
 17:38;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 18:00;JJOO 3x3 Femenino Fase de grupos;España;Alemania;MAX;RTVE Play;
 18:35;JJOO 3x3 Femenino Fase de grupos;Francia;Australia;MAX;
+19:00;Europeo Femenino Sub-18 Fase de grupos;Alemania;Serbia;FIBA YouTube;
+19:00;Europeo Femenino Sub-18 Fase de grupos;Letonia;Turquía;FIBA YouTube;
 19:05;JJOO 3x3 Femenino Fase de grupos;China;Estados Unidos;MAX;
 20:00;Europeo Sub-18 Semifinales;Israel;Serbia;FIBA YouTube;
 20:00;Velada Peso Superligero;T. McKenna;M. Mimoune;DAZN (Regístrate);DAZN App Gratis (Regístrate);
@@ -33,9 +39,10 @@
 21:00;JJOO Masculinos Fase de grupos;Serbia;Sudán del Sur;MAX;Eurosport 6 (M183 O105);
 21:00;UFC UFC Fight Night;J. Álvarez;E. Brener;MAX;
 21:30;Europeo Femenino Sub-18 Fase de grupos;España;Eslovenia;FIBA YouTube;
-21:30;JJOO 3x3 Femenino;Play-In;MAX;
+21:30;Europeo Femenino Sub-18 Fase de grupos;Italia;Portugal;FIBA YouTube;
+21:30;JJOO 3x3 Femenino Play-In;Canadá;Australia;MAX;
 22:00;WTA Torneo de Washington Semifinal 2 WTA 500;A. Sabalenka;M. Bouzkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-22:05;JJOO 3x3 Femenino;Play-In;MAX;
+22:05;JJOO 3x3 Femenino Play-In;Estados Unidos;China;MAX;
 22:08;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:20;Título Mundial Peso Superwélter;T. Crawford;I. Madrimov;DAZN (Regístrate);
 23:00;UFC UFC Fight Night;C. Sandhagen;U. Nurmagomedov;MAX;
