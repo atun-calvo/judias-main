@@ -2,7 +2,7 @@
 13:00;Europa League;Sorteo de Play-offs;UEFA TV;DATOS ESTADÍSTICOS DE EUROPA LEAGUE EN TELEVISIÓN EN ESPAÑA;
 14:00;Europeo Femenino Sub-18 Fase de grupos;Alemania;Italia;FIBA YouTube;
 14:00;Europeo Femenino Sub-18 Fase de grupos;Croacia;Bélgica;FIBA YouTube;
-15:00;Vuelta a Burgos;Etapa 1;Vilviestre Del Pinar › Burgos (168 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;ETB1 (País Vasco);
+15:00;Vuelta a Burgos;Etapa 1;Vilviestre Del Pinar › Burgos (168 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
 16:00;Carrera Ártica Noruega;Etapa 2;Beiarn › Fauske (175 km);MAX;
 16:30;Europeo Femenino Sub-18 Fase de grupos;Eslovenia;Turquía;FIBA YouTube;
 16:30;Europeo Femenino Sub-18 Fase de grupos;Luxemburgo;Israel;FIBA YouTube;
