@@ -16,5 +16,5 @@
 21:30;Europeo Femenino Sub-18 Fase de grupos;Letonia;España;FIBA YouTube;
 21:30;Europeo Femenino Sub-18 Fase de grupos;Portugal;Serbia;FIBA YouTube;
 21:30;JJOO 3x3 Masculino;Medalla de Bronce;MAX;DAZN (Regístrate);Eurosport 2;
-22:05;JJOO 3x3 Femenino Final;España;Alemania;MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;
+22:05;JJOO 3x3 Femenino Final;España;Alemania;MAX;DAZN (Regístrate);La 1 TVE;RTVE Play;Eurosport 2;
 22:35;JJOO 3x3 Masculino;Final;MAX;DAZN (Regístrate);Eurosport 2;
