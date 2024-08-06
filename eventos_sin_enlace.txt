@@ -1,7 +1,7 @@
 15:00;Vuelta a Burgos;Etapa 2;Valle De Mena › Complejo Karstico Ojo Guareña (161 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
 16:00;Carrera Ártica Noruega;Etapa 3;Tverlandet › Sulitjelma (Jakobsbakken) (155 km);MAX;
 17:00;WTA Canadá 1ª Ronda;T. Maria;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-18:00;JJOO Masculinos 1/4 de Final;Francia;Canadá;MAX;Eurosport 6 (M183 O105);La 2 TVE;RTVE Play;
+18:00;JJOO Masculinos 1/4 de Final;Francia;Canadá;MAX;Eurosport 6 (M183 O105);La 1 TVE;RTVE Play;
 18:30;WTA Canadá 1ª Ronda;S. Rogers;E. Svitolina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;WTA Canadá 1ª Ronda;V. Azarenka;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
