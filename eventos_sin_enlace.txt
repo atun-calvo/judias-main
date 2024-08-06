@@ -4,6 +4,7 @@
 18:00;JJOO Masculinos 1/4 de Final;Francia;Canadá;MAX;Eurosport 6 (M183 O105);La 1 TVE;RTVE Play;
 18:30;WTA Canadá 1ª Ronda;S. Rogers;E. Svitolina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;WTA Canadá 1ª Ronda;V. Azarenka;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+21:30;JJOO Masculinos 1/4 de Final;Brasil;Estados Unidos;MAX;Eurosport 6 (M183 O105);La 2 TVE;RTVE Play;
 21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:02;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 23:00;WTA Canadá 1ª Ronda;D. Yastremska;Y. Putintseva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);

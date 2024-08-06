@@ -12,7 +12,7 @@
 18:30;WTA Canadá 1ª Ronda;S. Rogers;E. Svitolina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Masters Canadá 1ª Ronda;TM. Etcheverry;N. Jarry;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);
 20:00;WTA Canadá 1ª Ronda;V. Azarenka;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-21:30;JJOO Masculinos 1/4 de Final;Brasil;Estados Unidos;MAX;Eurosport 6 (M183 O105);Teledeporte;RTVE Play;
+21:30;JJOO Masculinos 1/4 de Final;Brasil;Estados Unidos;MAX;Eurosport 6 (M183 O105);La 2 TVE;RTVE Play;
 21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:02;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:30;Masters Canadá 1ª Ronda;G. Diallo;K. Khachanov;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
