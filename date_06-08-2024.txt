@@ -1,10 +1,10 @@
-11:00;JJOO Masculinos 1/4 de Final;Alemania;Grecia;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
+11:00;JJOO Masculinos 1/4 de Final;Alemania;Grecia;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;
 14:30;JJOO Masculinos 1/4 de Final;Serbia;Australia;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
 15:00;Vuelta a Burgos;Etapa 2;Valle De Mena › Complejo Karstico Ojo Guareña (161 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
 16:00;Carrera Ártica Noruega;Etapa 3;Tverlandet › Sulitjelma (Jakobsbakken) (155 km);MAX;
 17:00;WTA Canadá;1ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:00;JJOO Masculinos 1/4 de Final;Francia;Canadá;MAX;Eurosport 6 (M183 O105);
 18:15;Masters Canadá;1ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);M+ Deportes 4 (191);M+ Deportes 5 (192);
-21:30;JJOO Masculinos 1/4 de Final;Brasil;Estados Unidos;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
+21:30;JJOO Masculinos 1/4 de Final;Brasil;Estados Unidos;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);La 2 TVE;RTVE Play;Eurosport 2;
 21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
 22:02;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
