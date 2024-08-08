@@ -1,0 +1,15 @@
+01:05;Masters Canadá 1ª Ronda;S. Korda;V. Pospisil;ATP Tennis TV;M+ Deportes 3 (65);
+01:10;Masters Canadá 1ª Ronda;F. Auger-Aliassime;F. Cobolli;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);
+02:40;Masters Canadá 1ª Ronda;T. Kokkinakis;G. Monfils;ATP Tennis TV;M+ Deportes 2 (64);
+03:35;WTA Canadá 1ª Ronda;J. Pegula;K. Pliskova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+14:00;Europeo Femenino Sub-18 1/4 de Final;España;Hungría;FIBA YouTube;
+15:00;Vuelta a Burgos;Etapa 4;Santa María del Campo › Pampliega (18,5 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
+16:30;Europeo Femenino Sub-18 1/4 de Final;Finlandia;Serbia;FIBA YouTube;
+17:00;WTA Canadá;2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:30;JJOO Masculinos Semifinales;Francia;Alemania;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;
+18:15;Masters Canadá;2ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);M+ Deportes 4 (191);M+ Deportes 5 (192);
+19:00;Europeo Femenino Sub-18 1/4 de Final;Francia;Bélgica;FIBA YouTube;
+21:00;JJOO Masculinos Semifinales;Estados Unidos;Serbia;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);La 2 TVE;RTVE Play;Eurosport 2;
+21:30;Europeo Femenino Sub-18 1/4 de Final;Israel;Portugal;FIBA YouTube;
+21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
+22:02;JJOO Femeninos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
