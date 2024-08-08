@@ -2,6 +2,9 @@
 14:00;Europeo Femenino Sub-18 1/4 de Final;España;Hungría;FIBA YouTube;
 15:00;Vuelta a Burgos;Etapa 4;Santa María del Campo › Pampliega (18,5 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
 16:30;Europeo Femenino Sub-18 1/4 de Final;Finlandia;Serbia;FIBA YouTube;
-17:00;WTA Canadá;2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:00;WTA Canadá 2ª Ronda;E. Svitolina;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+18:30;WTA Canadá 2ª Ronda;C. Gauff;Y. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 19:00;Europeo Femenino Sub-18 1/4 de Final;Francia;Bélgica;FIBA YouTube;
+20:00;WTA Canadá 2ª Ronda;A. Krueger;L. Fernández;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 21:30;Europeo Femenino Sub-18 1/4 de Final;Israel;Portugal;FIBA YouTube;
+23:00;WTA Canadá 2ª Ronda;P. Badosa;J. Ostapenko;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
