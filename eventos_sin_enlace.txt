@@ -5,13 +5,15 @@
 15:00;Europeo Sub-16 Fase de grupos;Alemania;Serbia;FIBA YouTube;
 15:00;Europeo Sub-16 Fase de grupos;Georgia;Francia;FIBA YouTube;
 15:00;Vuelta a Burgos;Etapa 5;Frías › Condado de Treviño (156 km);La 7 (Castilla y León);LaLiga+;LaLiga+ Plus;RTVE Play;ETB1 (País Vasco);
-17:00;WTA Canadá;3ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:30;Europeo Sub-16 Fase de grupos;Finlandia;España;FIBA YouTube;
 17:30;Europeo Sub-16 Fase de grupos;Israel;Grecia;FIBA YouTube;
 17:30;JJOO Femeninos Semifinales;Estados Unidos;Australia;MAX;Eurosport 6 (M183 O105);
 18:10;Supersport 300;G.P. Portugal (Portimao);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
+18:30;WTA Canadá 3ª Ronda;T. Townsend;J. Ostapenko;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:55;Supersport;G.P. Portugal (Portimao);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 20:00;Europeo Sub-16 Fase de grupos;Croacia;Italia;FIBA YouTube;
 20:00;Europeo Sub-16 Fase de grupos;Letonia;Turquía;FIBA YouTube;
+20:00;WTA Canadá 3ª Ronda;J. Pegula;A. Krueger;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 21:00;JJOO Femeninos Semifinales;Francia;Bélgica;MAX;Eurosport 6 (M183 O105);
 21:30;JJOO Masculinos;Eliminatorias Finales;MAX;Eurosport 7 (M184 O106);
+23:00;WTA Canadá 3ª Ronda;E. Mertens;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
