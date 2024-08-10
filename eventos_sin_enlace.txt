@@ -5,15 +5,12 @@
 14:30;Clásica de San Sebastián;UCI World Tour;San Sebastián › San Sebastián (236 km);MAX;ETB1 (País Vasco);
 15:00;Europeo Sub-16 Fase de grupos;España;Letonia;FIBA YouTube;
 15:00;Europeo Sub-16 Fase de grupos;Francia;Polonia;FIBA YouTube;
-15:45;Superbike;G.P. Portugal (Portimao);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
-16:30;Supersport 300;G.P. Portugal (Portimao);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
+17:00;Masters Canadá 2ª Ronda;T. Kokkinakis;H. Hurkacz;ATP Tennis TV;
 17:30;Europeo Sub-16 Fase de grupos;Grecia;Croacia;FIBA YouTube;
 17:30;Europeo Sub-16 Fase de grupos;Italia;Israel;FIBA YouTube;
-17:30;Supersport;G.P. Portugal (Portimao);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
-18:30;Masters Canadá 3ª Ronda;N. Borges;K. Nishikori;ATP Tennis TV;
 19:00;Europeo Femenino Sub-18 Semifinales;España;Serbia;FIBA YouTube;
-19:00;Superbike;G.P. Portugal (Portimao);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
-19:00;WTA Canadá;1/4 de Final;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+19:00;WTA Canadá 1/4 de Final;E. Navarro;T. Townsend;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Europeo Sub-16 Fase de grupos;Lituania;Alemania;FIBA YouTube;
 20:00;Europeo Sub-16 Fase de grupos;Turquía;Finlandia;FIBA YouTube;
 21:30;Europeo Femenino Sub-18 Semifinales;Israel;Francia;FIBA YouTube;
+22:00;WTA Canadá 1/4 de Final;A. Anisimova;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
