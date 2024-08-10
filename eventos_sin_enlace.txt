@@ -1,5 +1,5 @@
-01:00;WTA Canadá 3ª Ronda;C. Gauff;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;WTA Canadá 3ª Ronda;K. Boulter;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:10;WTA Canadá 3ª Ronda;C. Gauff;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:40;WTA Canadá 3ª Ronda;K. Boulter;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:30;Europeo Sub-16 Fase de grupos;Eslovenia;Georgia;FIBA YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Serbia;Bulgaria;FIBA YouTube;
 14:30;Clásica de San Sebastián;UCI World Tour;San Sebastián › San Sebastián (236 km);MAX;ETB1 (País Vasco);
