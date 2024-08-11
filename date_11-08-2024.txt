@@ -22,5 +22,7 @@
 19:00;WTA Canadá Semifinal 1 WTA 1000;E. Navarro;A. Anisimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);
 20:00;Europeo Sub-16 Fase de grupos;Finlandia;Letonia;FIBA YouTube;
 20:00;Europeo Sub-16 Fase de grupos;Serbia;Lituania;FIBA YouTube;
+20:00;Masters Canadá 1/4 de Final ATP Masters 1000;A. Popyrin;H. Hurkacz;ATP Tennis TV;M+ Deportes 3 (65);
+20:00;Masters Canadá 1/4 de Final ATP Masters 1000;S. Korda;A. Zverev;ATP Tennis TV;M+ Deportes 2 (64);
 21:00;Europeo Femenino Sub-18 Final;España;Francia;FIBA YouTube;
-23:00;Masters Canadá Semifinal 1 ATP Masters 1000;A. Rublev;M. Arnaldi;ATP Tennis TV;Movistar+;
+23:00;Masters Canadá Semifinal 1 ATP Masters 1000;A. Rublev;M. Arnaldi;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);M+ Deportes (63);M+ Deportes 2 (64);
