@@ -1,6 +1,6 @@
 01:00;UFC UFC Fight Night;M. Tybura;S. Spivac;MAX;
-01:00;WTA Canadá 1/4 de Final;J. Pegula;P. Stearns;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;WTA Canadá 1/4 de Final;D. Shnaider;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:10;WTA Canadá 1/4 de Final;J. Pegula;P. Stearns;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+03:00;WTA Canadá 1/4 de Final;D. Shnaider;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:00;Circuito de Getxo;UCI Europe Tour;Bilbao › Getxo (196,5 km);SPORTPUBLIC TV YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Croacia;Israel;FIBA YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Georgia;Polonia;FIBA YouTube;

@@ -1,9 +1,8 @@
-01:00;Masters Canadá 1/4 de Final;J. Sinner;A. Rublev;ATP Tennis TV;M+ Deportes 2 (64);
 01:00;UFC UFC Fight Night;M. Tybura;S. Spivac;MAX;
-01:00;WTA Canadá 1/4 de Final;J. Pegula;P. Stearns;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;Masters Canadá 1/4 de Final;M. Arnaldi;K. Nishikori;ATP Tennis TV;M+ Deportes 2 (64);
-02:30;Masters Canadá;1/4 de Final;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);
-02:30;WTA Canadá 1/4 de Final;D. Shnaider;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:10;WTA Canadá 1/4 de Final;J. Pegula;P. Stearns;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:10;Masters Canadá 1/4 de Final;J. Sinner;A. Rublev;ATP Tennis TV;M+ Deportes 2 (64);
+03:00;WTA Canadá 1/4 de Final;D. Shnaider;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+04:45;Masters Canadá 1/4 de Final;M. Arnaldi;K. Nishikori;ATP Tennis TV;M+ Deportes 2 (64);
 11:30;JJOO Femeninos Medalla de Bronce;Bélgica;Australia;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
 12:00;Circuito de Getxo;UCI Europe Tour;Bilbao › Getxo (196,5 km);SPORTPUBLIC TV YouTube;
 12:30;Europeo Sub-16 Fase de grupos;Croacia;Israel;FIBA YouTube;
@@ -12,7 +11,7 @@
 15:00;Circuito de Getxo;UCI Europe Tour;Bilbao › Getxo (196,5 km);SPORTPUBLIC TV YouTube;ETB1 (País Vasco);
 15:00;Europeo Sub-16 Fase de grupos;Bulgaria;Alemania;FIBA YouTube;
 15:00;Europeo Sub-16 Fase de grupos;Turquía;España;FIBA YouTube;
-15:30;JJOO Femeninos Final;Francia;Estados Unidos;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 2;
+15:30;JJOO Femeninos Final;Francia;Estados Unidos;MAX;Eurosport 6 (M183 O105);DAZN (Regístrate);Eurosport 4K (M444 O98);La 1 TVE;RTVE Play;Eurosport 2;
 15:45;Superbike;G.P. Portugal (Portimao);Superpole Race;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
 16:30;Supersport 300;G.P. Portugal (Portimao);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
 17:30;Europeo Sub-16 Fase de grupos;Eslovenia;Francia;FIBA YouTube;
@@ -20,9 +19,8 @@
 17:30;Supersport;G.P. Portugal (Portimao);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
 18:30;Europeo Femenino Sub-18 3er Puesto;Serbia;Israel;FIBA YouTube;
 19:00;Superbike;G.P. Portugal (Portimao);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
-19:00;WTA Canadá;Semifinal 1;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);
+19:00;WTA Canadá Semifinal 1 WTA 1000;E. Navarro;A. Anisimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);
 20:00;Europeo Sub-16 Fase de grupos;Finlandia;Letonia;FIBA YouTube;
 20:00;Europeo Sub-16 Fase de grupos;Serbia;Lituania;FIBA YouTube;
 21:00;Europeo Femenino Sub-18 Final;España;Francia;FIBA YouTube;
-21:00;Masters Canadá;Semifinal 1;ATP Masters 1000;ATP Tennis TV;Movistar+;
-23:00;WTA Canadá;Semifinal 2;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);
+23:00;Masters Canadá Semifinal 1 ATP Masters 1000;A. Rublev;M. Arnaldi;ATP Tennis TV;Movistar+;
