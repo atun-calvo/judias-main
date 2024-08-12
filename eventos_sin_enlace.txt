@@ -1,4 +1,4 @@
 00:00;NASCAR Cup Series;Richmond Raceway;Carrera;DAZN (Regístrate);
 14:30;Tour de Polonia;Etapa 1;Wroclaw › Karpacz (156,1 km);Esport3 (Cataluña);ETB1 (País Vasco);
-20:00;Amistoso;Marruecos;España;estilo.css eventos.sh generador_html.sh id_12-08-2024.txt index.html SIN TV EN DIRECTO *;
+20:00;Amistoso;Marruecos;España;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 21:00;Masters Cincinnati 1ª Ronda;F. Cobolli;T. Paul;ATP Tennis TV;
