@@ -3,6 +3,6 @@
 02:00;Masters Canadá Semifinal 2 ATP Masters 1000;A. Popyrin;S. Korda;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);
 09:00;Marbella Master;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
 12:00;Tour de Francia Femenino;Etapa 1;Rotterdam › The Hague (124 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
-14:30;Tour de Polonia;Etapa 1;Esport3 (Cataluña);
+14:30;Tour de Polonia;Etapa 1;Wroclaw › Karpacz (156,1 km);Esport3 (Cataluña);ETB1 (País Vasco);
 20:00;Amistoso;Marruecos;España;estilo.css eventos.sh generador_html.sh id_12-08-2024.txt index.html SIN TV EN DIRECTO *;
 21:00;Masters Cincinnati 1ª Ronda;F. Cobolli;T. Paul;ATP Tennis TV;
