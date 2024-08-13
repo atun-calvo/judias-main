@@ -10,12 +10,17 @@
 15:00;Europeo Sub-16 1/8 de final;Eslovenia;Italia;FIBA YouTube;
 15:00;Europeo Sub-16 1/8 de final;Francia;Croacia;FIBA YouTube;
 15:30;Tour de Francia Femenino;Etapa 2b;Rotterdam › Rotterdam (6,3 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
-17:00;Masters Cincinnati;1ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);M+ Deportes 2 (64);M+ Deportes 3 (65);M+ Deportes 4 (191);M+ Deportes 5 (192);
+17:00;Masters Cincinnati 1ª Ronda;M. Giron;S. Báez;ATP Tennis TV;M+ Deportes 2 (64);
+17:00;Masters Cincinnati 1ª Ronda;Zh. Zhang;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes (63);
 17:00;WTA Cincinnati 1ª Ronda;K. Pliskova;V. Tomova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:30;Europeo Sub-16 1/8 de final;Grecia;Polonia;FIBA YouTube;
 17:30;Europeo Sub-16 1/8 de final;Serbia;Finlandia;FIBA YouTube;
+18:30;Masters Cincinnati 1ª Ronda;A. Davidovich;F. Tiafoe;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+18:30;Masters Cincinnati 1ª Ronda;A. Michelsen;T. Griekspoor;ATP Tennis TV;M+ Deportes 2 (64);
 18:30;WTA Cincinnati 1ª Ronda;E. Mertens;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Europeo Sub-16 1/8 de final;Israel;Georgia;FIBA YouTube;
 20:00;Europeo Sub-16 1/8 de final;Lituania;Turquía;FIBA YouTube;
+20:00;Masters Cincinnati 1ª Ronda;B. Shelton;R. Opelka;ATP Tennis TV;M+ Deportes (63);
+20:00;Masters Cincinnati 1ª Ronda;L. Musetti;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
 20:45;Champions League 3ª Ronda Clasificación;Rangers FC;Dynamo Kyiv;FC Dinamo Kiev YouTube;DATOS ESTADÍSTICOS DE CHAMPIONS LEAGUE EN TELEVISIÓN EN ESPAÑA;
 21:00;WTA Cincinnati 1ª Ronda;D. Vekic;A. Krueger;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
