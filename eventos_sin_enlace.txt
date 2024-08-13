@@ -5,10 +5,10 @@
 14:30;Tour del Limousin;Etapa 1;Boisseuil › Auzances (174 km);MAX;
 15:00;Europeo Sub-16 1/8 de final;Eslovenia;Italia;FIBA YouTube;
 15:00;Europeo Sub-16 1/8 de final;Francia;Croacia;FIBA YouTube;
-17:00;WTA Cincinnati 1ª Ronda;K. Pliskova;V. Tomova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:10;WTA Cincinnati 1ª Ronda;K. Pliskova;V. Tomova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:30;Europeo Sub-16 1/8 de final;Grecia;Polonia;FIBA YouTube;
 17:30;Europeo Sub-16 1/8 de final;Serbia;Finlandia;FIBA YouTube;
-18:30;WTA Cincinnati 1ª Ronda;E. Mertens;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+19:10;WTA Cincinnati 1ª Ronda;E. Mertens;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Europeo Sub-16 1/8 de final;Israel;Georgia;FIBA YouTube;
 20:00;Europeo Sub-16 1/8 de final;Lituania;Turquía;FIBA YouTube;
 20:45;Champions League 3ª Ronda Clasificación;Rangers FC;Dynamo Kyiv;FC Dinamo Kiev YouTube;DATOS ESTADÍSTICOS DE CHAMPIONS LEAGUE EN TELEVISIÓN EN ESPAÑA;
