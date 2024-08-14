@@ -1,7 +1,7 @@
-01:00;Masters Cincinnati 1ª Ronda;T. Fritz;B. Nakashima;ATP Tennis TV;M+ Deportes (63);
-01:00;WTA Cincinnati 1ª Ronda;E. Svitolina;Y. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;Masters Cincinnati 1ª Ronda;B. Holt;A. Fils;ATP Tennis TV;M+ Deportes 2 (64);
-02:30;WTA Cincinnati 1ª Ronda;E. Avanesyan;B. Andreescu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+01:10;Masters Cincinnati 1ª Ronda;T. Fritz;B. Nakashima;ATP Tennis TV;M+ Deportes (63);
+01:10;WTA Cincinnati 1ª Ronda;E. Svitolina;Y. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+03:40;Masters Cincinnati 1ª Ronda;B. Holt;A. Fils;ATP Tennis TV;M+ Deportes 2 (64);
+03:45;WTA Cincinnati 1ª Ronda;E. Avanesyan;B. Andreescu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:30;Europeo Sub-16 1/4 de Final;España;Italia;FIBA YouTube;
 13:30;Tour de Francia Femenino;Etapa 3;Valkenburg › Liège (122 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
 14:30;Tour de Polonia;Etapa 3;Walbrzych › Duszniki-Zdrój (156,5 km);Esport3 (Cataluña);ETB1 (País Vasco);
