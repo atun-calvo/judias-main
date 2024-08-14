@@ -4,7 +4,9 @@
 14:30;Tour de Polonia;Etapa 3;Walbrzych › Duszniki-Zdrój (156,5 km);Esport3 (Cataluña);ETB1 (País Vasco);
 14:30;Tour del Limousin;Etapa 2;Saint-Aulaye-Puymangou › Terrasson-Lavilledieu (193,8 km);MAX;
 15:00;Europeo Sub-16 1/4 de Final;Letonia;Francia;FIBA YouTube;
-17:00;WTA Cincinnati;1ª y 2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:00;WTA Cincinnati 1ª Ronda;P. Stearns;P. Badosa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:30;Europeo Sub-16 1/4 de Final;Turquía;Grecia;FIBA YouTube;
-20:00;Amistoso;Marruecos;España;Canal por confirmar;
+18:30;WTA Cincinnati 1ª Ronda;L. Bronzetti;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+20:00;Amistoso;Marruecos;España;estilo.css eventos.sh generador_html.sh id_14-08-2024.txt index.html SIN TV EN DIRECTO *;
 20:00;Europeo Sub-16 1/4 de Final;Serbia;Israel;FIBA YouTube;
+21:00;WTA Cincinnati 1ª Ronda;E. Navarro;M. Andreeva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
