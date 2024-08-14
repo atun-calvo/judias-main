@@ -147,6 +147,10 @@ curl -s https://www.futbolenlatv.es/competicion/europa-league | pandoc -f html >
 sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
+curl -s https://www.futbolenlatv.es/competicion/supercopa-europa | pandoc -f html > $futbol
+sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
+cat $futbol >> $filecanales
+
 curl -s https://www.futbolenlatv.es/competicion/premier-league | pandoc -f html > $futbol
 sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
