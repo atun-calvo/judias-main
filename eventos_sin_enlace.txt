@@ -5,12 +5,14 @@
 14:30;Tour del Limousin;Etapa 4;Oradour-sur-Glane › Limoges (161,1 km);MAX;
 15:30;Europeo Femenino Sub-16 Fase de grupos;España;Letonia;FIBA YouTube;
 15:30;Europeo Femenino Sub-16 Fase de grupos;Italia;Croacia;FIBA YouTube;
-17:00;WTA Cincinnati;3ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:00;WTA Cincinnati 3ª Ronda;I. Swiatek;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:30;Europeo Sub-16 Semifinales;España;Grecia;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Francia;Hungría;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Serbia;Polonia;FIBA YouTube;
 18:30;WTA Cincinnati 2ª Ronda;Q. Zheng;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Europeo Sub-16 Semifinales;Francia;Serbia;FIBA YouTube;
-20:00;WTA Cincinnati 2ª Ronda;J. Pegula;K. Muchova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+20:00;WTA Cincinnati 3ª Ronda;A. Sabalenka;E. Svitolina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:30;Europeo Femenino Sub-16 Fase de grupos;Bélgica;Finlandia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Israel;Grecia;FIBA YouTube;
+21:30;WTA Cincinnati 3ª Ronda;D. Shnaider;L. Fernández;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+21:30;WTA Cincinnati 3ª Ronda;P. Badosa;Y. Putintseva;WTA TV;
