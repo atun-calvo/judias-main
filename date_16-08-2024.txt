@@ -1,7 +1,4 @@
-01:00;Masters Cincinnati 2ª Ronda;G. Monfils;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
-01:00;WTA Cincinnati 2ª Ronda;Q. Zheng;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-02:30;Masters Cincinnati 2ª Ronda;C. Ruud;F. Auger-Aliassime;ATP Tennis TV;M+ Deportes (63);
-02:30;WTA Cincinnati 2ª Ronda;J. Pegula;K. Muchova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+00:50;WTA Cincinnati 2ª Ronda;A. Potapova;J. Paolini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 10:45;MotoGP;G.P. Austria (Red Bull Ring);Libres 1;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 13:00;Europeo Femenino Sub-16 Fase de grupos;Montenegro;Eslovenia;FIBA YouTube;
 13:00;Europeo Femenino Sub-16 Fase de grupos;Suecia;Alemania;FIBA YouTube;
@@ -18,9 +15,13 @@
 17:30;Europeo Sub-16 Semifinales;España;Grecia;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Francia;Hungría;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Serbia;Polonia;FIBA YouTube;
+18:30;Masters Cincinnati 2ª Ronda;C. Ruud;F. Auger-Aliassime;ATP Tennis TV;M+ Deportes (63);
+18:30;Masters Cincinnati 2ª Ronda;G. Monfils;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
+18:30;WTA Cincinnati 2ª Ronda;Q. Zheng;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 19:00;La Liga EA Sports;Celta;Alavés;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 19:00;LaLiga Hypermotion;Mirandés;Córdoba;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 20:00;Europeo Sub-16 Semifinales;Francia;Serbia;FIBA YouTube;
+20:00;WTA Cincinnati 2ª Ronda;J. Pegula;K. Muchova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:30;Europeo Femenino Sub-16 Fase de grupos;Bélgica;Finlandia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Israel;Grecia;FIBA YouTube;
 21:00;Premier League;Manchester Utd.;Fulham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
