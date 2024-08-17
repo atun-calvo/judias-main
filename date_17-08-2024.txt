@@ -1,6 +1,6 @@
-00:00;WTA Cincinnati;3ª Ronda;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-01:00;Masters Cincinnati 3ª Ronda;F. Tiafoe;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
-01:30;Masters Cincinnati 3ª Ronda;F. Auger-Aliassime;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+01:10;Masters Cincinnati 3ª Ronda;F. Auger-Aliassime;J. Draper;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
+01:15;WTA Cincinnati 3ª Ronda;J. Pegula;T. Townsend;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+04:15;Masters Cincinnati 3ª Ronda;F. Tiafoe;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 3 (65);
 08:10;Supercars Championship;Symmons Plains Raceway;Carrera 1;DAZN (Regístrate);
 10:50;MotoGP;G.P. Austria (Red Bull Ring);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 12:15;MotoE;G.P. Austria (Red Bull Ring);Carrera 1;MotoGP Videopass;DAZN (Regístrate);DAZN 3 (M196);
@@ -33,7 +33,7 @@
 19:00;La Liga EA Sports;Osasuna;Leganés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;LaLiga TV M2;
 19:00;LaLiga Hypermotion;Deportivo;Real Oviedo;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);LALIGA TV Hypermotion (M56 O 119);LALIGA TV Hypermotion 3 (M178 O290);LaLiga TV M4;
 19:00;Masters Cincinnati;1/4 de Final;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
-20:00;Europeo Sub-16 Final;España;Francia;Teledeporte;RTVE Play;
+20:00;Europeo Sub-16 Final;España;Francia;FIBA YouTube;Teledeporte;RTVE Play;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Croacia;Suecia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Polonia;España;FIBA YouTube;
 21:30;La Liga EA Sports;Valencia CF;FC Barcelona;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
