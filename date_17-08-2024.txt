@@ -23,8 +23,8 @@
 16:10;MotoE;G.P. Austria (Red Bull Ring);Carrera 2;MotoGP Videopass;DAZN (Regístrate);
 17:00;LaLiga Hypermotion;Eibar;CD Castellón;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M3;
 17:00;LaLiga Hypermotion;Racing Ferrol;Málaga;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
-17:00;Vuelta a España;Etapa 1;Lisboa › Oeiras (12 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
-17:00;WTA Cincinnati;1/4 de Final;WTA 1000;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
+17:00;Vuelta a España;Etapa 1;Lisboa › Oeiras (12 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
+17:00;WTA Cincinnati 1/4 de Final;I. Swiatek;M. Andreeva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
 17:30;Europeo Sub-16 3er Puesto;Grecia;Serbia;FIBA YouTube;
 17:30;Marbella Master;Semifinales;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);
 18:00;Europeo Femenino Sub-16 Fase de grupos;Finlandia;Montenegro;FIBA YouTube;
@@ -32,8 +32,11 @@
 18:30;Premier League;West Ham;Aston Villa;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 19:00;La Liga EA Sports;Osasuna;Leganés;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;LaLiga TV M2;
 19:00;LaLiga Hypermotion;Deportivo;Real Oviedo;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);LALIGA TV Hypermotion (M56 O 119);LALIGA TV Hypermotion 3 (M178 O290);LaLiga TV M4;
-19:00;Masters Cincinnati;1/4 de Final;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
+19:00;Masters Cincinnati 1/4 de Final;J. Sinner;A. Rublev;ATP Tennis TV;M+ Deportes (63);
+19:00;WTA Cincinnati 1/4 de Final;A. Sabalenka;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
 20:00;Europeo Sub-16 Final;España;Francia;FIBA YouTube;Teledeporte;RTVE Play;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Croacia;Suecia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Polonia;España;FIBA YouTube;
+20:30;Masters Cincinnati 1/4 de Final;A. Zverev;B. Shelton;ATP Tennis TV;M+ Deportes (63);
+20:30;WTA Cincinnati 1/4 de Final;J. Pegula;L. Fernández;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
 21:30;La Liga EA Sports;Valencia CF;FC Barcelona;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
