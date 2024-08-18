@@ -30,9 +30,9 @@
 19:30;LaLiga Hypermotion;Burgos CF;FC Cartagena;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M3;
 19:30;LaLiga Hypermotion;Elche;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M4;
 19:30;Marbella Master;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
-20:00;Torneo de Winston-Salem;1ª Ronda;ATP 250;ATP Tennis TV;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Letonia;Polonia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Montenegro;Bélgica;FIBA YouTube;
 20:30;NASCAR Cup Series;Michigan International Speedway (Brooklyn);Carrera;DAZN (Regístrate);
-21:00;Masters Cincinnati Semifinal 1 ATP Masters 1000;J. Sinner;A. Zverev;ATP Tennis TV;M+ Deportes (63);
+21:00;Masters Cincinnati Semifinal 1 ATP Masters 1000;J. Sinner;A. Zverev;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+21:00;Torneo de Winston-Salem 1ª Ronda;B. Coric;S. Nagal;ATP Tennis TV;
 21:30;La Liga EA Sports;Mallorca;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;

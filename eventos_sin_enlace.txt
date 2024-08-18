@@ -9,7 +9,7 @@
 16:45;Tour de L'Avenir;Etapa 1;Sarrebourg › Sarrebourg (7,1 km);MAX;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Croacia;Alemania;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 Fase de grupos;Hungría;Grecia;FIBA YouTube;
-20:00;Torneo de Winston-Salem;1ª Ronda;ATP 250;ATP Tennis TV;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Letonia;Polonia;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 Fase de grupos;Montenegro;Bélgica;FIBA YouTube;
 20:30;NASCAR Cup Series;Michigan International Speedway (Brooklyn);Carrera;DAZN (Regístrate);
+21:00;Torneo de Winston-Salem 1ª Ronda;B. Coric;S. Nagal;ATP Tennis TV;
