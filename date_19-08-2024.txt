@@ -8,8 +8,7 @@
 18:30;WTA Torneo de Cleveland 1ª Ronda;K. Scott;M. Kessler;WTA TV;
 19:00;La Liga EA Sports;Real Valladolid;Espanyol;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 19:00;San Diego Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
-19:00;WTA Torneo de Monterrey;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
-19:30;WTA Cincinnati Final WTA 1000;A. Sabalenka;J. Pegula;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+19:30;WTA Cincinnati Final WTA 1000;A. Sabalenka;J. Pegula;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 20:00;Torneo de Winston-Salem 1ª Ronda;F. Coria;D. Stricker;ATP Tennis TV;
 20:30;LaLiga Hypermotion;Eldense;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;Premier League;Leicester City;Tottenham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
@@ -17,3 +16,4 @@
 21:30;WTA Torneo de Cleveland 1ª Ronda;V. Tomova;L. Davis;WTA TV;
 22:00;Torneo de Winston-Salem 1ª Ronda;D. Goffin;J. Munar;ATP Tennis TV;
 23:00;WTA Torneo de Cleveland 1ª Ronda;K. Volynets;S. Kenin;WTA TV;
+23:30;WTA Torneo de Monterrey 1ª Ronda;M. Carle;V. Kudermetova;WTA TV;DAZN (Regístrate);
