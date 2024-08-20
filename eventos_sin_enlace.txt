@@ -10,11 +10,15 @@
 15:15;Tour de L'Avenir;Etapa 3;Mouchard › Plateau d'Hauteville (170,2 km);MAX;
 15:30;Europeo Femenino Sub-16 1/8 de final;Eslovenia;Serbia;FIBA YouTube;
 15:30;Europeo Femenino Sub-16 1/8 de final;Letonia;Bélgica;FIBA YouTube;
-17:00;WTA Torneo de Cleveland;2ª Ronda;WTA 250;WTA TV;
+17:00;WTA Torneo de Cleveland 1ª Ronda;S. Sorribes;Y. Wang;WTA TV;
 18:00;Europeo Femenino Sub-16 1/8 de final;Alemania;Israel;FIBA YouTube;
 18:00;Europeo Femenino Sub-16 1/8 de final;Hungría;Croacia;FIBA YouTube;
+18:30;WTA Torneo de Cleveland 1ª Ronda;M. Uchijima;P. Stearns;WTA TV;
 19:00;San Diego Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
-19:00;WTA Torneo de Monterrey;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
-20:00;Torneo de Winston-Salem;2ª Ronda;ATP 250;ATP Tennis TV;
+20:00;Torneo de Winston-Salem 2ª Ronda;F. Cerúndolo;Z. Svajda;ATP Tennis TV;
+20:00;WTA Torneo de Cleveland 1ª Ronda;A. Bogdan;L. Fernández;WTA TV;
 20:30;Europeo Femenino Sub-16 1/8 de final;España;Montenegro;FIBA YouTube;
 20:30;Europeo Femenino Sub-16 1/8 de final;Finlandia;Polonia;FIBA YouTube;
+21:30;WTA Torneo de Cleveland 1ª Ronda;B. Haddad Maia;V. Golubic;WTA TV;
+22:00;Torneo de Winston-Salem 2ª Ronda;S. Báez;B. Coric;ATP Tennis TV;
+23:30;WTA Torneo de Monterrey 1ª Ronda;L. Noskova;A. Danilina;WTA TV;DAZN (Regístrate);
