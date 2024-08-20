@@ -1,8 +1,10 @@
-00:30;Torneo de Winston-Salem 2ª Ronda;A. Vukic;A. Mannarino;ATP Tennis TV;
-01:00;WTA Torneo de Monterrey 1ª Ronda;C. Paquet;L. Sun;WTA TV;DAZN (Regístrate);
-02:30;Torneo de Winston-Salem 1ª Ronda;M. McDonald;C. Moutet;ATP Tennis TV;
-04:00;WTA Torneo de Monterrey 1ª Ronda;MC. Osorio;A. Tomljanovic;WTA TV;DAZN (Regístrate);
-05:30;WTA Torneo de Monterrey 1ª Ronda;E. Avanesyan;E. Cocciaretto;WTA TV;DAZN (Regístrate);
+00:40;WTA Torneo de Cleveland 1ª Ronda;V. Tomova;L. Davis;WTA TV;
+01:05;Torneo de Winston-Salem 2ª Ronda;A. Vukic;A. Mannarino;ATP Tennis TV;
+02:20;WTA Torneo de Cleveland 1ª Ronda;K. Volynets;S. Kenin;WTA TV;
+02:45;WTA Torneo de Monterrey 1ª Ronda;C. Paquet;L. Sun;WTA TV;DAZN (Regístrate);
+03:25;Torneo de Winston-Salem 1ª Ronda;N. Mejía;C. Moutet;ATP Tennis TV;
+04:35;WTA Torneo de Monterrey 1ª Ronda;MC. Osorio;A. Tomljanovic;WTA TV;DAZN (Regístrate);
+06:25;WTA Torneo de Monterrey 1ª Ronda;E. Avanesyan;E. Cocciaretto;WTA TV;DAZN (Regístrate);
 13:00;Europeo Femenino Sub-16 1/8 de final;Francia;Suecia;FIBA YouTube;
 13:00;Europeo Femenino Sub-16 1/8 de final;Italia;Grecia;FIBA YouTube;
 15:15;Tour de L'Avenir;Etapa 3;Mouchard › Plateau d'Hauteville (170,2 km);MAX;
