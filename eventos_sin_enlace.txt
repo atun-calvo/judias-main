@@ -9,13 +9,13 @@
 14:05;Tour de Alemania;Prólogo;Schweinfurt › Schweinfurt (2,9 km);MAX;
 14:05;Tour de L'Avenir;Etapa 4;Peisey-Vallandry › La Rosière (70,7 km);MAX;
 15:30;Europeo Femenino Sub-16 1/4 de Final;Alemania;España;FIBA YouTube;
-17:00;WTA Torneo de Cleveland 2ª Ronda;M. Kessler;X. Wang;WTA TV;Tennis Channel (Orange 123);
+17:00;WTA Torneo de Cleveland 2ª Ronda;M. Kessler;X. Wang;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
 17:15;Tour de L'Avenir Femenino;Prólogo;La Rosiere › La Rosiere (2,1 km);MAX;
 18:00;Europeo Femenino Sub-16 1/4 de Final;Hungría;Finlandia;FIBA YouTube;
-18:30;WTA Torneo de Cleveland 2ª Ronda;A. Potapova;C. Tauson;WTA TV;Tennis Channel (Orange 123);
+18:30;WTA Torneo de Cleveland 2ª Ronda;A. Potapova;C. Tauson;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
 19:00;San Diego Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
 20:00;Torneo de Winston-Salem 3ª Ronda;A. Rinderknech;D. Goffin;ATP Tennis TV;
-20:00;WTA Torneo de Cleveland 2ª Ronda;B. Haddad Maia;C. Bucsa;WTA TV;Tennis Channel (Orange 123);
+20:00;WTA Torneo de Cleveland 2ª Ronda;B. Haddad Maia;C. Bucsa;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
 20:30;Europeo Femenino Sub-16 1/4 de Final;Italia;Bélgica;FIBA YouTube;
 22:00;Torneo de Winston-Salem 3ª Ronda;B. Coric;R. Hijikata;ATP Tennis TV;
 23:30;WTA Torneo de Monterrey 2ª Ronda;L. Sun;M. Carle;WTA TV;DAZN (Regístrate);
