@@ -1,10 +1,10 @@
-00:30;Torneo de Winston-Salem 3ª Ronda;C. Eubanks;R. Safiullin;ATP Tennis TV;
-00:30;WTA Torneo de Cleveland 2ª Ronda;C. Burel;S. Kenin;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
-01:00;WTA Torneo de Monterrey 2ª Ronda;E. Avanesyan;E. Svitolina;WTA TV;DAZN (Regístrate);
-02:00;Torneo de Winston-Salem 3ª Ronda;P. Carreño;A. Vukic;ATP Tennis TV;
-02:00;WTA Torneo de Cleveland 2ª Ronda;S. Sorribes;P. Stearns;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
-04:00;WTA Torneo de Monterrey 2ª Ronda;E. Alexandrova;R. Zarazúa;WTA TV;DAZN (Regístrate);
-05:30;WTA Torneo de Monterrey 2ª Ronda;MC. Osorio;E. Navarro;WTA TV;DAZN (Regístrate);
+00:40;WTA Torneo de Cleveland 2ª Ronda;C. Burel;S. Kenin;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
+01:05;Torneo de Winston-Salem 3ª Ronda;C. Eubanks;R. Safiullin;ATP Tennis TV;
+02:30;WTA Torneo de Cleveland 2ª Ronda;S. Sorribes;P. Stearns;WTA TV;Tennis Channel (Orange 123);DAZN (Regístrate);
+02:45;WTA Torneo de Monterrey 2ª Ronda;E. Avanesyan;E. Svitolina;WTA TV;DAZN (Regístrate);
+03:30;Torneo de Winston-Salem 3ª Ronda;P. Carreño;A. Vukic;ATP Tennis TV;
+04:10;WTA Torneo de Monterrey 2ª Ronda;E. Alexandrova;R. Zarazúa;WTA TV;DAZN (Regístrate);
+05:45;WTA Torneo de Monterrey 2ª Ronda;MC. Osorio;E. Navarro;WTA TV;DAZN (Regístrate);
 10:00;Supercopa Endesa;Sorteo;Murcia 2024;ACB YouTube;
 13:40;FIBA Europe Cup 3x3 Femenino Fase de grupos;España;Azerbaiyán;RTVE Play;
 13:45;Tour de L'Avenir Femenino;Etapa 2;Bessans › Les Karellis (72,6 km);MAX;
