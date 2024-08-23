@@ -26,4 +26,3 @@
 21:30;LaLiga Hypermotion;Huesca;Deportivo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M2;
 22:00;Torneo de Winston-Salem Semifinal 1 ATP 250;D. Goffin;L. Sonego;ATP Tennis TV;
 23:30;WTA Torneo de Cleveland Semifinal 1 WTA 250;M. Kessler;A. Potapova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 3 (M196);
-23:30;WTA Torneo de Monterrey;Semifinal 1;WTA 500;WTA TV;DAZN (Regístrate);
