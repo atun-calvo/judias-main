@@ -3,7 +3,7 @@
 00:30;Torneo de Winston-Salem Semifinal 2 ATP 250;P. Carreño;A. Michelsen;ATP Tennis TV;
 01:00;Ultimate Tennis Showdown Semifinales;A. De Miñaur;A. Bublik;GolStadium (acceder);
 01:00;WTA Torneo de Monterrey Semifinal 1 WTA 500;L. Sun;E. Alexandrova;WTA TV;DAZN (Regístrate);
-02:30;Ultimate Tennis Showdown;Final;GolStadium (acceder);
+02:30;Ultimate Tennis Showdown Final;G. Monfils;A. Bublik;GolStadium (acceder);
 04:00;WTA Torneo de Monterrey Semifinal 2 WTA 500;L. Noskova;E. Navarro;WTA TV;DAZN (Regístrate);
 12:15;Tour de L'Avenir Femenino;Etapa 4;Bobbio Pellice › Colle Delle Finestre (125,9 km);MAX;
 14:10;Lorient Agglomération Trophée;UCI Women's World Tour;Plouay › Plouay (158 km);MAX;
@@ -15,4 +15,4 @@
 20:30;Europeo Femenino Sub-16 Final;Finlandia;Francia;FIBA YouTube;
 21:30;Velada;WAR MMA;Auditorio Julio Iglesias (Benidorm);GolStadium (acceder);
 23:00;San Diego Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
-23:00;Torneo de Winston-Salem;Final;ATP 250;ATP Tennis TV;
+23:00;Torneo de Winston-Salem Final ATP 250;L. Sonego;A. Michelsen;ATP Tennis TV;
