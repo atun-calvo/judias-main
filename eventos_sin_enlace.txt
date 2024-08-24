@@ -11,7 +11,6 @@
 15:05;Tour de Alemania;Etapa 3;Schwäbisch Gmünd › Villingen-Schwenningen (211,1 km);MAX;
 16:00;Premier League;Southampton;Nottingham Forest;DAZN (Regístrate);
 18:00;Europeo Femenino Sub-16 3er Puesto;Italia;España;FIBA YouTube;
-20:15;FIBA Europe Cup 3x3 Femenino 1/4 de Final;España;Ucrania;MAX;RTVE Play;
 20:30;Europeo Femenino Sub-16 Final;Finlandia;Francia;FIBA YouTube;
 21:30;Velada;WAR MMA;Auditorio Julio Iglesias (Benidorm);GolStadium (acceder);
 23:00;San Diego Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
