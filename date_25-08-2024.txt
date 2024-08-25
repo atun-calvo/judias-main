@@ -19,6 +19,7 @@
 19:00;LaLiga Hypermotion;Albacete;Elche;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 19:05;FIBA Europe Cup 3x3 Femenino Final;España;Francia;MAX;Teledeporte;RTVE Play;
 19:15;La Liga EA Sports;Alavés;Real Betis;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
+20:30;Amistoso;Unicaja Málaga;Benfica CB;101 TV (Málaga);101 TV YouTube;
 21:30;IndyCar;Grand Prix of Portland;Carrera;M+ Deportes (63);
 21:30;La Liga EA Sports;At. Madrid;Girona;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:30;LaLiga Hypermotion;CD Castellón;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;

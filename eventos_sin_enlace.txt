@@ -5,4 +5,5 @@
 12:25;FIBA Europe Cup 3x3 Femenino Semifinales;Polonia;España;MAX;RTVE Play;
 12:40;Bretagne Classic;UCI World Tour;Plouay › Plouay (259,8 km);MAX;
 15:05;Tour de Alemania;Etapa 4;Annweiler am Trifels › Saarbrücken (182,7 km);MAX;
+20:30;Amistoso;Unicaja Málaga;Benfica CB;101 TV (Málaga);101 TV YouTube;
 23:00;San Diego Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;GolStadium (acceder);
