@@ -1,0 +1,11 @@
+17:00;US Open 1ª Ronda (Pista Grandstand);M. Marterer;A. Zverev;Movistar+;
+17:00;US Open 1ª Ronda (Pista Louis Armstrong);Q. Zheng;A. Anisimova;Movistar+;
+18:00;US Open 1ª Ronda (Pista Arthur Ashe);B. Shelton;D. Thiem;Movistar+;
+18:30;US Open 1ª Ronda (Pista Louis Armstrong);C. Ugo Carabelli;T. Fritz;Movistar+;
+19:00;LaLiga Hypermotion;FC Cartagena;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
+19:00;US Open 1ª Ronda (Pista Grandstand);V. Golubic;P. Badosa;Movistar+;
+20:00;US Open 1ª Ronda (Pista Arthur Ashe);V. Gracheva;C. Gauff;Movistar+;
+20:30;US Open 1ª Ronda (Pista Grandstand);G. Monfils;D. Schwartzman;Movistar+;PD;Amistoso;España;Francia;Canal por confirmar;
+20:30;US Open 1ª Ronda (Pista Louis Armstrong);M. Keys;K. Siniakova;Movistar+;
+21:30;La Liga EA Sports;Villarreal;Celta;DAZN LaLiga (M55 O113);DAZN (Regístrate);GOL PLAY (Síguelo en directo);GolStadium (acceder);TVG (Galicia);LaLiga TV Bar;
+21:30;LaLiga Hypermotion;Córdoba;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
