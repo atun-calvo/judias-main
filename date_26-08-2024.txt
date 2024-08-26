@@ -10,6 +10,7 @@
 19:00;LaLiga Hypermotion;FC Cartagena;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
 19:00;US Open 1ª Ronda (Pista Grandstand);V. Golubic;P. Badosa;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
 20:00;US Open 1ª Ronda (Pista Arthur Ashe);V. Gracheva;C. Gauff;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+20:30;Amistoso;España;Francia;RFEF.es;
 20:30;US Open 1ª Ronda (Pista 5);K. Jacquet;G. Dimitrov;M+ Deportes 7 (194);
 20:30;US Open 1ª Ronda (Pista 6);R. Hijikata;A. Davidovich;M+ Deportes (63);M+ Deportes 5 (192);
 20:30;US Open 1ª Ronda (Pista 7);R. Opelka;L. Musetti;M+ Deportes 4 (191);
@@ -18,4 +19,4 @@
 21:30;LaLiga Hypermotion;Córdoba;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 22:00;US Open 1ª Ronda (Pista 5);B. Krejcikova;M. Bassols;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 7 (194);
 22:00;US Open 1ª Ronda (Pista 8);A. Cazaux;P. Carreño;M+ Deportes (63);M+ Deportes 2 (64);M+ Deportes 6 (193);
-22:30;US Open 1ª Ronda (Pista 7);E. Navarro;A. Blinkova;M+ Deportes 4 (191);PD;Amistoso;España;Francia;Canal por confirmar;
+22:30;US Open 1ª Ronda (Pista 7);E. Navarro;A. Blinkova;M+ Deportes 4 (191);
