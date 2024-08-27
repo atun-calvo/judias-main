@@ -1,9 +1,11 @@
-00:00;US Open 1ª Ronda (Pista 5);B. Krejcikova;M. Bassols;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 7 (194);
-00:00;US Open 1ª Ronda (Pista Grandstand);V. Azarenka;Y. Starodubtseva;M+ Deportes 3 (65);
-01:00;US Open 1ª Ronda (Pista Arthur Ashe);C. Burel;S. Stephens;M+ Deportes 2 (64);
-01:00;US Open 1ª Ronda (Pista Louis Armstrong);A. Kovacevic;F. Tiafoe;M+ Deportes (63);
-02:30;US Open 1ª Ronda (Pista Arthur Ashe);R. Albot;N. Djokovic;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
-03:00;US Open 1ª Ronda (Pista Louis Armstrong);P. Hon;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+00:30;US Open 1ª Ronda (Pista 5);B. Krejcikova;M. Bassols;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 7 (194);
+00:30;US Open 1ª Ronda (Pista 7);E. Navarro;A. Blinkova;M+ Deportes 4 (191);
+01:00;US Open 1ª Ronda (Pista Grandstand);V. Azarenka;Y. Starodubtseva;M+ Deportes 3 (65);
+01:10;US Open 1ª Ronda (Pista Louis Armstrong);A. Kovacevic;F. Tiafoe;M+ Deportes (63);
+01:20;US Open 1ª Ronda (Pista Arthur Ashe);C. Burel;S. Stephens;M+ Deportes 2 (64);
+01:50;US Open 1ª Ronda (Pista 8);A. Cazaux;P. Carreño;M+ Deportes (63);M+ Deportes 2 (64);M+ Deportes 6 (193);
+03:45;US Open 1ª Ronda (Pista Arthur Ashe);R. Albot;N. Djokovic;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
+04:50;US Open 1ª Ronda (Pista Louis Armstrong);P. Hon;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
 13:00;Vuelta a España;Etapa 10;Ponteareas › Baiona (160 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport 1;
 16:05;Vuelta a España;Etapa 10;Ponteareas › Baiona (160 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
 17:00;US Open 1ª Ronda (Pista 15);C. Bucsa;S. Errani;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 4 (191);
