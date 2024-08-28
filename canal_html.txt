@@ -1,4 +1,2 @@
-DAZN LaLiga 2 1080 MultiAudio 
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10 
-DAZN LaLiga 2 720 MultiAudio 
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47 
+M. Deportes 7 1080 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78 

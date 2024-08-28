@@ -1,5 +1,8 @@
 02:00;Dana White Contender Series;Semana 3;UFC Apex Centre (Las Vegas);MAX;
 13:45;Tour del Benelux;Etapa 1;Riemst › Bilzen (163,6 km);MAX;
+17:00;US Open 1ª Ronda (Pista 7);A. Tomljanovic;E. Mertens;M+ Deportes 8 (M195);
+18:30;US Open 1ª Ronda (Pista 7);S. Báez;T. Griekspoor;M+ Deportes 8 (M195);
 20:00;Torneo Sant Juliá;BAXI Manresa;Basquet Girona;La Xarxa+;
-20:30;Amistoso;España;Costa Rica;Canal por confirmar;
+20:30;Amistoso;España;Costa Rica;RFEF.es;
+20:30;US Open 1ª Ronda (Pista 7);U. Humbert;F. Comesana;M+ Deportes 8 (M195);
 PD;La Liga EA Sports;Real Betis;Getafe;APLAZADO;
