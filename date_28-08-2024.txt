@@ -1,10 +1,12 @@
-00:15;US Open 1ª Ronda (Pista 4);E. Lys;M. Bouzkova;M+ Deportes 6 (193);
-01:00;US Open 1ª Ronda (Pista Arthur Ashe);C. Alcaraz;L. Tu;Movistar Plus+ (M7);M+ Deportes 2 (64);
-01:00;US Open 1ª Ronda (Pista Grandstand);E. Raducanu;S. Kenin;M+ Deportes 3 (65);
-01:00;US Open 1ª Ronda (Pista Louis Armstrong);B. Andreescu;J. Paolini;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+00:00;US Open 1ª Ronda (Pista 8);J. Munar;G. Diallo;M+ Deportes 7 (194);
+00:35;US Open 1ª Ronda (Pista 4);E. Lys;M. Bouzkova;M+ Deportes 6 (193);
+00:40;US Open 1ª Ronda (Pista 15);Z. Bergs;P. Kotov;M+ Deportes 4 (191);
+01:15;US Open 1ª Ronda (Pista Arthur Ashe);C. Alcaraz;L. Tu;Movistar Plus+ (M7);M+ Deportes 2 (64);
+01:30;US Open 1ª Ronda (Pista Louis Armstrong);B. Andreescu;J. Paolini;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+01:45;US Open 1ª Ronda (Pista Grandstand);E. Raducanu;S. Kenin;M+ Deportes 3 (65);
 02:00;Dana White Contender Series;Semana 3;UFC Apex Centre (Las Vegas);MAX;
-02:30;US Open 1ª Ronda (Pista Louis Armstrong);L. Sonego;T. Paul;M+ Deportes (63);
-03:00;US Open 1ª Ronda (Pista Arthur Ashe);S. Rogers;J. Pegula;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+04:30;US Open 1ª Ronda (Pista Arthur Ashe);S. Rogers;J. Pegula;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+04:45;US Open 1ª Ronda (Pista Louis Armstrong);L. Sonego;T. Paul;M+ Deportes (63);
 13:45;Tour del Benelux;Etapa 1;Riemst › Bilzen (163,6 km);MAX;
 14:30;Vuelta a España;Etapa 11;Campus Tecnológico Cortizo Padrón › Campus Tecnológico Cortizo Padrón (164 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport 1;
 16:05;Vuelta a España;Etapa 11;Campus Tecnológico Cortizo Padrón › Campus Tecnológico Cortizo Padrón (164 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
