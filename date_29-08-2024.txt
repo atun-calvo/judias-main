@@ -17,7 +17,7 @@
 17:00;US Open 2ª Ronda (Pista 7);C. Tauson;D. Shnaider;M+ Deportes 7 (194);
 17:00;US Open 2ª Ronda (Pista Grandstand);Y. Putintseva;X. Wang;M+ Deportes 5 (192);
 17:00;US Open 2ª Ronda (Pista Louis Armstrong);T. Machac;S. Korda;M+ Deportes 4 (191);
-18:00;Champions League;Sorteo de Fase Liga;UEFA TV;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);DATOS ESTADÍSTICOS DE CHAMPIONS LEAGUE EN TELEVISIÓN EN ESPAÑA;
+18:00;Champions League;Sorteo de Fase Liga;UEFA TV;Movistar Plus+ (M7);M+ Liga de Campeones (M60 O114);
 18:00;US Open 2ª Ronda (Pista Arthur Ashe);J. Sinner;A. Michelsen;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 18:30;US Open 2ª Ronda (Pista 11);T. Kokkinakis;N. Borges;M+ Deportes 6 (193);
 18:30;US Open 2ª Ronda (Pista 5);K. Boulter;J. Bouzas;M+ Deportes 3 (65);
