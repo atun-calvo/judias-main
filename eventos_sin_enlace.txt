@@ -1,6 +1,11 @@
-06:00;Tour de Hainan;Etapa 4;Wuzhishan › Changjiang (151,3 km);Hainan Touch YouTube;
-13:45;Tour del Benelux;Etapa 3;Blankenberge › Ardooie (185,5 km);MAX;
-18:30;Amistoso Femenino;Tarbes GB;Casademont Zaragoza;Aragón Deporte;
-20:00;Amistoso;Casademont Zaragoza;Dreamland Gran Canaria;Aragón Deporte;Aragón TV;
-20:30;Amistoso;Puente Génave FS;Jaén FS;Jaenenjuego YouTube;
-20:30;Torneo Sant Juliá;Joventut Badalona;MoraBanc Andorra;La Xarxa+;
+01:30;Velada Peso Supergallo;E. Pierce;J. Sanmartin;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+06:00;Tour de Hainan;Etapa 5;Changjiang › Sanya (203,4 km);Hainan Touch YouTube;
+12:00;Amistoso;Baskonia;Lenovo Tenerife;Canal por confirmar;
+13:45;Tour del Benelux;Etapa 4;Oostburg › Aalter (178,5 km);MAX;
+16:00;Premier League;Brentford;Southampton;DAZN (Regístrate);
+16:00;Premier League;Ipswich Town;Fulham;DAZN (Regístrate);
+17:00;Amistoso Femenino;Famila Schio;Casademont Zaragoza;Aragón Deporte;Aragón TV;
+18:00;IndyCar;Grand Prix of Milwaukee;Clasificación;M+ Deportes 8 (M195);
+19:00;Velada;MF &amp; DAZN: X Series;3Arena (Dublín);DAZN (Regístrate);
+20:00;Torneo Sant Juliá;BAXI Manresa;Valencia Basket;La Xarxa+;
+20:30;Copa Andalucía Final;Unicaja Málaga;Coviran Granada;Canal Sur;
