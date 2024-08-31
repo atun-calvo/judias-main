@@ -1,11 +1,5 @@
-01:30;Velada Peso Supergallo;E. Pierce;J. Sanmartin;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-06:00;Tour de Hainan;Etapa 5;Changjiang › Sanya (203,4 km);Hainan Touch YouTube;
-12:00;Amistoso;Baskonia;Lenovo Tenerife;Canal por confirmar;
-13:45;Tour del Benelux;Etapa 4;Oostburg › Aalter (178,5 km);MAX;
-16:00;Premier League;Brentford;Southampton;DAZN (Regístrate);
-16:00;Premier League;Ipswich Town;Fulham;DAZN (Regístrate);
-17:00;Amistoso Femenino;Famila Schio;Casademont Zaragoza;Aragón Deporte;Aragón TV;
-18:00;IndyCar;Grand Prix of Milwaukee;Clasificación;M+ Deportes 8 (M195);
-19:00;Velada;MF &amp; DAZN: X Series;3Arena (Dublín);DAZN (Regístrate);
-20:00;Torneo Sant Juliá;BAXI Manresa;Valencia Basket;La Xarxa+;
-20:30;Copa Andalucía Final;Unicaja Málaga;Coviran Granada;Canal Sur;
+01:30;Título Internacional Peso Supermediano;D. Pacheco;M. Sulecki;DAZN (Regístrate);
+02:00;Velada Peso Welter;J. Luna;O. Quintana;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+13:30;Amistoso;Beijing Ducks;Barça Basket;Barça One;
+13:45;Tour del Benelux;Etapa 5;Menen › Geraardsbergen (202,5 km);MAX;
+18:00;Torneo Sant Juliá;Joventut Badalona;Valencia Basket;La Xarxa+;
