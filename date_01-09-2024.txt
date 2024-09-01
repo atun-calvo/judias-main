@@ -1,9 +1,9 @@
-01:00;US Open 3ª Ronda (Pista Arthur Ashe);I. Swiatek;A. Pavlyuchenkova;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
-01:00;US Open 3ª Ronda (Pista Louis Armstrong);A. De Miñaur;D. Evans;Movistar Plus+ (M7);M+ Deportes (63);
+01:20;US Open 3ª Ronda (Pista Arthur Ashe);I. Swiatek;A. Pavlyuchenkova;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+01:20;US Open 3ª Ronda (Pista Louis Armstrong);A. De Miñaur;D. Evans;Movistar Plus+ (M7);M+ Deportes (63);
 01:30;Título Internacional Peso Supermediano;D. Pacheco;M. Sulecki;DAZN (Regístrate);
 02:00;Velada Peso Welter;J. Luna;O. Quintana;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-02:30;US Open 3ª Ronda (Pista Arthur Ashe);F. Cobolli;D. Medvedev;M+ Deportes 2 (64);
-03:00;US Open 3ª Ronda (Pista Louis Armstrong);B. Haddad Maia;A. Kalinskaya;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+03:20;US Open 3ª Ronda (Pista Arthur Ashe);F. Cobolli;D. Medvedev;M+ Deportes 2 (64);
+04:40;US Open 3ª Ronda (Pista Louis Armstrong);B. Haddad Maia;A. Kalinskaya;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
 08:35;FIA Fórmula 3;G.P. Italia (Monza);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
 10:05;FIA Fórmula 2;G.P. Italia (Monza);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
 11:00;Moto3;G.P. Aragón (Motorland);Carrera;DAZN (Regístrate);MotoGP Videopass;Aragón Deporte;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);Aragón TV;
@@ -26,7 +26,7 @@
 19:00;La Liga EA Sports;Sevilla FC;Girona;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV M2;
 19:00;LaLiga Hypermotion;Eldense;FC Cartagena;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M4;
 19:00;LaLiga Hypermotion;Mirandés;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
-19:00;Rafa Nadal Open;Final;ATP Challenger Tour;M+ Deportes 4 (191);
+19:00;Rafa Nadal Open Final ATP Challenger Tour;D. Ajdukovic;M. Gigante;M+ Deportes 4 (191);
 19:15;La Liga EA Sports;Getafe;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 20:00;6 Horas de Austin;Campeonato Mundial de Resistencia FIA;Carrera;MAX;DAZN (Regístrate);Eurosport 1;
 21:00;IndyCar;Grand Prix of Milwaukee;Carrera 2;M+ Deportes 5 (192);
