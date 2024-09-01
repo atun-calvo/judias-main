@@ -21,13 +21,17 @@
 17:00;LaLiga Hypermotion;Burgos CF;CD Castellón;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M4;
 17:00;LaLiga Hypermotion;Deportivo;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 17:00;Premier League;Manchester Utd.;Liverpool;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);M+ Liga de Campeones (M60 O114);
-17:00;US Open;1/8 de final;Grand Slam;Movistar+;
+17:00;US Open 4ª Ronda (Pista Louis Armstrong);P. Badosa;Y. Wang;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 18:00;Torneo Sant Juliá;Joventut Badalona;Valencia Basket;La Xarxa+;
+18:00;US Open 4ª Ronda (Pista Arthur Ashe);A. Rublev;G. Dimitrov;M+ Deportes 2 (64);
 19:00;La Liga EA Sports;Sevilla FC;Girona;DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV M2;
 19:00;LaLiga Hypermotion;Eldense;FC Cartagena;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M4;
 19:00;LaLiga Hypermotion;Mirandés;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 19:00;Rafa Nadal Open Final ATP Challenger Tour;D. Ajdukovic;M. Gigante;M+ Deportes 4 (191);
+19:00;US Open 4ª Ronda (Pista Louis Armstrong);C. Ruud;T. Fritz;M+ Deportes (63);
 19:15;La Liga EA Sports;Getafe;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 20:00;6 Horas de Austin;Campeonato Mundial de Resistencia FIA;Carrera;MAX;DAZN (Regístrate);Eurosport 1;
+20:30;US Open 4ª Ronda (Pista Arthur Ashe);E. Navarro;C. Gauff;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 21:00;IndyCar;Grand Prix of Milwaukee;Carrera 2;M+ Deportes 5 (192);
 21:30;La Liga EA Sports;Real Madrid;Real Betis;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
+22:30;US Open 4ª Ronda (Pista Louis Armstrong);B. Nakashima;A. Zverev;M+ Deportes (63);
