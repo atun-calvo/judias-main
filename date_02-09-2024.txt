@@ -1,7 +1,7 @@
 00:00;NASCAR Cup Series;Darlington Raceway;Carrera;DAZN (Regístrate);
-00:30;US Open 4ª Ronda (Pista Louis Armstrong);E. Mertens;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
-01:00;US Open 4ª Ronda (Pista Arthur Ashe);F. Tiafoe;A. Popyrin;Movistar Plus+ (M7);M+ Deportes 2 (64);
-03:00;US Open 4ª Ronda (Pista Arthur Ashe);Q. Zheng;D. Vekic;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
+01:40;US Open 4ª Ronda (Pista Louis Armstrong);E. Mertens;A. Sabalenka;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes (63);
+01:55;US Open 4ª Ronda (Pista Arthur Ashe);F. Tiafoe;A. Popyrin;Movistar Plus+ (M7);M+ Deportes 2 (64);
+05:25;US Open 4ª Ronda (Pista Arthur Ashe);Q. Zheng;D. Vekic;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 09:00;Asturias Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
 10:00;Madrid Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 13:00;Amistoso;Barça Basket;Basquet Girona;Barça One;
