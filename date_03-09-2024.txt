@@ -6,6 +6,6 @@
 12:30;Vuelta a España;Etapa 16;Luanco › Lagos de Covadonga (181 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
 15:00;Tour Gran Bretaña;Etapa 1;Kelso › Kelso (181,9 km);MAX;
 16:05;Vuelta a España;Etapa 16;Luanco › Lagos de Covadonga (181 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
-18:00;US Open 1/4 de Final;P. Badosa;E. Navarro;M+ Deportes 2 (64);
+18:00;US Open 1/4 de Final;P. Badosa;E. Navarro;Movistar Plus+ (M7);M+ Deportes 2 (64);
 19:00;Amistoso;Casademont Zaragoza;MoraBanc Andorra;Aragón Deporte;Aragón TV;
 19:30;US Open 1/4 de Final;T. Fritz;A. Zverev;M+ Deportes 2 (64);
