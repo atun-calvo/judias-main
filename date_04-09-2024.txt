@@ -1,11 +1,10 @@
-01:00;US Open 1/4 de Final;Q. Zheng;A. Sabalenka;M+ Deportes 2 (64);
+01:15;US Open 1/4 de Final;Q. Zheng;A. Sabalenka;M+ Deportes 2 (64);
 02:00;Dana White Contender Series;Semana 4;UFC Apex Centre (Las Vegas);MAX;
-02:30;US Open 1/4 de Final;G. Dimitrov;F. Tiafoe;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
+02:55;US Open 1/4 de Final;G. Dimitrov;F. Tiafoe;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 10:00;Madrid Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 14:00;Asturias Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
 14:30;Vuelta a España;Etapa 17;Arnuero › Santander (143 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
 15:00;Tour Gran Bretaña;Etapa 2;Darlington › Redcar (152 km);MAX;British Cycling YouTube;
 18:00;US Open 1/4 de Final;B. Haddad Maia;K. Muchova;M+ Deportes 2 (64);
-19:00;Amistoso;Coviran Granada;Baskonia;Canal por confirmar;
-19:30;US Open 1/4 de Final;J. Draper;A. De Miñaur;M+ Deportes 2 (64);
+19:30;US Open 1/4 de Final;J. Draper;A. De Miñaur;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 20:00;Amistoso;CD Bélmez Atlético;Jaén FS;Jaenenjuego YouTube;
