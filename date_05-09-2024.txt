@@ -3,9 +3,10 @@
 08:01;WRC Rally;Rally de Acrópolis;Shakedown;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 10:00;Madrid Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 14:00;Asturias Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
-14:30;Vuelta a España;Etapa 18;Vitoria-Gasteiz › Maestu-Parque Natural de Izki (175 km);DAZN (Regístrate);MAX;Teledeporte;RTVE Play;Eurosport 1;
+14:30;Vuelta a España;Etapa 18;Vitoria-Gasteiz › Maestu-Parque Natural de Izki (175 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
 15:00;Tour Gran Bretaña;Etapa 3;Sheffield › Barnsley (166,1 km);MAX;British Cycling YouTube;
 17:00;Amistoso;Tayikistán;España;Canal por confirmar;
 19:00;Copa Sevilla 1/4 de Final;R. Carballés;O. Roca;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 20:00;Amistoso;Força Lleida;Joventut Badalona;La Xarxa+;
+20:00;Torneo Costa del Sol;Unicaja Málaga;AS Monaco Basket;101 TV (Málaga);
 20:30;Copa Sevilla 1/4 de Final;A. Ritschard;D. Jordà;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
