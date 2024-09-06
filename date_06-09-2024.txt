@@ -15,14 +15,14 @@
 16:00;Supersport;G.P. Francia (Magny-Cours);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);RTVE Play;
 16:05;Vuelta a España;Etapa 19;Logroño › Alto de Moncalvillo (168 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
 18:00;Madrid Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
+18:00;US Open Semifinal Junior;R. Sakamoto;R. Jodar;M+ Deportes 4 (191);
 18:00;US Open;Final Dobles Femeninos;Grand Slam;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
-19:00;Copa Sevilla;Semifinal 1;ATP Challenger Tour;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
+19:00;Copa Sevilla Semifinal 1;R. Carballés;C. Hemery;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 19:00;Copa de España Fase de grupos;Melilla Sport Capital;Real Betis Baloncesto;FEB TV;
 20:00;Copa de España Fase de grupos;Gipuzkoa Basket;Iraurgi SB;FEB TV;
 20:00;Madrid Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
 20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Canal por confirmar;
-21:00;Copa Sevilla;Semifinal 2;ATP Challenger Tour;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
+20:30;Copa Sevilla Semifinal 2;D. Altmaier;A. Ritschard;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 21:00;LaLiga Hypermotion;CD Tenerife;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
-21:00;US Open Semifinal masculina;J. Sinner;J. Draper;M+ Deportes 2 (64);
-21:00;US Open Semifinal masculina;T. Fritz;F. Tiafoe;M+ Deportes 2 (64);
+21:00;US Open Semifinal masculina;J. Sinner;J. Draper;Movistar Plus+ (M7);M+ Deportes 2 (64);
 22:00;Madrid Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
