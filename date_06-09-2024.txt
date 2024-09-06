@@ -10,7 +10,7 @@
 14:00;Vuelta a España;Etapa 19;Logroño › Alto de Moncalvillo (168 km);DAZN (Regístrate);MAX;La 2 TVE;RTVE Play;Eurosport 1;
 14:10;Supersport 300;G.P. Francia (Magny-Cours);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);RTVE Play;
 15:00;MotoGP;G.P. San Marino (Misano);Libres;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-15:00;Tour Gran Bretaña;Etapa 4;Derby › Newark-on-Trent (138,5 km);MAX;British Cycling YouTube;
+15:00;Tour Gran Bretaña;Etapa 4;Derby › Newark-on-Trent (138,5 km);MAX;
 16:00;Madrid Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
 16:00;Supersport;G.P. Francia (Magny-Cours);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);RTVE Play;
 16:05;Vuelta a España;Etapa 19;Logroño › Alto de Moncalvillo (168 km);DAZN (Regístrate);MAX;La 1 TVE;RTVE Play;Eurosport 1;
@@ -19,9 +19,10 @@
 18:00;US Open;Final Dobles Femeninos;Grand Slam;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 19:00;Copa Sevilla Semifinal 1;R. Carballés;C. Hemery;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 19:00;Copa de España Fase de grupos;Melilla Sport Capital;Real Betis Baloncesto;FEB TV;
+20:00;Amistoso;Básquet Coruña;Flamengo Basketball;Fundación CB Granada YouTube;
 20:00;Copa de España Fase de grupos;Gipuzkoa Basket;Iraurgi SB;FEB TV;
 20:00;Madrid Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
-20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Canal por confirmar;
+20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Baskonia YouTube;
 20:30;Copa Sevilla Semifinal 2;D. Altmaier;A. Ritschard;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 21:00;LaLiga Hypermotion;CD Tenerife;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV Bar;
 21:00;US Open Semifinal masculina;J. Sinner;J. Draper;Movistar Plus+ (M7);M+ Deportes 2 (64);

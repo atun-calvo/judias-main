@@ -1,6 +1,7 @@
 06:58;WRC Rally;Rally de Acrópolis;SS1 › SS6;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 14:00;Tour de Romandía Femenino;Etapa 1;La Grande Béroche › Lausanne (133,8 km);MAX;
-15:00;Tour Gran Bretaña;Etapa 4;Derby › Newark-on-Trent (138,5 km);MAX;British Cycling YouTube;
+15:00;Tour Gran Bretaña;Etapa 4;Derby › Newark-on-Trent (138,5 km);MAX;
 19:00;Copa de España Fase de grupos;Melilla Sport Capital;Real Betis Baloncesto;FEB TV;
+20:00;Amistoso;Básquet Coruña;Flamengo Basketball;Fundación CB Granada YouTube;
 20:00;Copa de España Fase de grupos;Gipuzkoa Basket;Iraurgi SB;FEB TV;
-20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Canal por confirmar;
+20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Baskonia YouTube;
