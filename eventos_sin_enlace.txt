@@ -5,3 +5,4 @@
 20:00;Amistoso;Básquet Coruña;Flamengo Basketball;Fundación CB Granada YouTube;
 20:00;Copa de España Fase de grupos;Gipuzkoa Basket;Iraurgi SB;FEB TV;
 20:00;Torneo Costa del Sol;Baskonia;AS Monaco Basket;Baskonia YouTube;
+20:30;Amistoso;Jaén FS;Manzanares FS;Jaenenjuego YouTube;
