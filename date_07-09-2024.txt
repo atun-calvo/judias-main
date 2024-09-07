@@ -26,16 +26,18 @@
 16:15;LaLiga Hypermotion;Granada CF;Deportivo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
 16:55;Red Bull MotoGP Rookies Cup;G.P. San Marino (Misano);Carrera 1;DAZN (Regístrate);Red Bull TV;DAZN 3 (M196);
 17:00;Amistoso;España;Holanda;Canal por confirmar;
+18:00;Copa de España Fase de grupos;Gipuzkoa Basket;Iraurgi SB;FEB TV;
 18:00;Copa de España Fase de grupos;HLA Alicante;Sant Antoni Ibiza;FEB TV;
 18:00;US Open Final Dobles Masculinos Grand Slam;M. Purcell | J. Thompson;K. Krawietz | T. Puetz;M+ Deportes 2 (64);
 18:00;US Open Final Masculina Junior;N. Budkov Kjaer;R. Jodar;M+ Deportes 4 (191);
+18:15;Copa de España Fase de grupos;Clínica Ponferrada SDP;CB Zamora;FEB TV;
 18:30;Amistoso;Dreamland Gran Canaria;PAOK Salónica;Videolevels.com;
 18:30;Copa de España Fase de grupos;CEB Llíria;FC Cartagena CB;FEB TV;
 18:30;Copa de España Fase de grupos;Monbus Obradoiro;Club Ourense Baloncesto;FEB TV;
 18:30;LaLiga Hypermotion;Huesca;Burgos CF;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Sporting Gijón;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);LaLiga TV Bar;
 18:45;Amistoso;Bilbao Basket;Paris Basketball;Dinamo TV YouTube;
-19:00;Copa de España Fase de grupos;Clínica Ponferrada SDP;CB Zamora;FEB TV;
+19:00;Copa de España Fase de grupos;CB Peñas Huesca;CB Clavijo;FEB TV;
 19:00;Copa de España Fase de grupos;GA Cantabria;Oviedo Baloncesto;FEB TV;
 19:00;Copa de España Fase de grupos;La Salud Archena;Movistar Estudiantes;FEB TV;
 19:00;Copa de España Fase de grupos;UEMC RV Baloncesto;Zunder Palencia;FEB TV;
@@ -45,7 +47,5 @@
 20:00;Amistoso;Coviran Granada;Básquet Coruña;Fundación CB Granada YouTube;
 20:00;Amistoso;Real Madrid Baloncesto;Benfica CB;Real Madrid TV;
 20:00;Copa Sevilla Final;R. Carballés;D. Altmaier;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
-20:00;Copa de España Fase de grupos;San Pablo Burgos;CB Tizona Burgos;FEB TV;
 20:00;Torneo Costa del Sol;Unicaja Málaga;Baskonia;101 TV (Málaga);
-20:15;Copa de España Fase de grupos;CB Peñas Huesca;CB Clavijo;FEB TV;
 21:00;LaLiga Hypermotion;Córdoba;Málaga;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV Bar;
