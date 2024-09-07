@@ -41,7 +41,7 @@
 20:00;Amistoso;Casademont Zaragoza;Joventut Badalona;Aragón Deporte;Aragón TV;
 20:00;Amistoso;Coviran Granada;Básquet Coruña;Fundación CB Granada YouTube;
 20:00;Amistoso;Real Madrid Baloncesto;Benfica CB;Real Madrid TV;
-20:00;Copa Sevilla;Final;ATP Challenger Tour;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
+20:00;Copa Sevilla Final;R. Carballés;D. Altmaier;DAZN (Regístrate);MAX;Tennis Channel (Orange 123);Marca YouTube;Eurosport 2;
 20:00;Copa de España Fase de grupos;San Pablo Burgos;CB Tizona Burgos;FEB TV;
 20:00;Torneo Costa del Sol;Unicaja Málaga;Baskonia;101 TV (Málaga);
 20:15;Copa de España Fase de grupos;CB Peñas Huesca;CB Clavijo;FEB TV;
