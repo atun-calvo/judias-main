@@ -13,8 +13,10 @@
 16:00;MotoE;G.P. San Marino (Misano);Carrera 2;MotoGP Videopass;DAZN (Regístrate);
 17:00;Amistoso;España;Holanda;Canal por confirmar;
 18:00;Copa de España Fase de grupos;HLA Alicante;Sant Antoni Ibiza;FEB TV;
+18:30;Amistoso;Dreamland Gran Canaria;PAOK Salónica;Videolevels.com;
 18:30;Copa de España Fase de grupos;CEB Llíria;FC Cartagena CB;FEB TV;
 18:30;Copa de España Fase de grupos;Monbus Obradoiro;Club Ourense Baloncesto;FEB TV;
+18:45;Amistoso;Bilbao Basket;Paris Basketball;Dinamo TV YouTube;
 19:00;Copa de España Fase de grupos;Clínica Ponferrada SDP;CB Zamora;FEB TV;
 19:00;Copa de España Fase de grupos;GA Cantabria;Oviedo Baloncesto;FEB TV;
 19:00;Copa de España Fase de grupos;La Salud Archena;Movistar Estudiantes;FEB TV;
