@@ -1,5 +1,6 @@
-17:00;WTA Torneo de Monastir 1ª Ronda;D. Parry;S. Bechri;WTA TV;
-18:30;WTA Torneo de Monastir 1ª Ronda;M. Bassols;C. Burel;WTA TV;
-20:00;WTA Torneo de Monastir 1ª Ronda;A. Blinkova;S. Sorribes;WTA TV;
-21:00;WTA Torneo de Guadalajara 1ª Ronda;V. Kudermetova;S. Vickery;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-22:30;WTA Torneo de Guadalajara 1ª Ronda;S. Stephens;O. Gadecki;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+02:00;WTA Torneo de Guadalajara 1ª Ronda;A. Kalinina;R. Zarazúa;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+03:30;WTA Torneo de Guadalajara 1ª Ronda;MC. Osorio;H. Baptiste;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+09:30;Rotterdam Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:30;WTA Torneo de Monastir;1ª Ronda;WTA 250;WTA TV;
+19:00;Amistoso Femenino;España;Marruecos;RFEF.es;SeFutbol YouTube;
+19:00;WTA Torneo de Guadalajara;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
