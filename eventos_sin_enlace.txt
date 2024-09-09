@@ -1,4 +1,5 @@
 17:00;WTA Torneo de Monastir 1ª Ronda;D. Parry;S. Bechri;WTA TV;
 18:30;WTA Torneo de Monastir 1ª Ronda;M. Bassols;C. Burel;WTA TV;
-19:00;WTA Torneo de Guadalajara;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
 20:00;WTA Torneo de Monastir 1ª Ronda;A. Blinkova;S. Sorribes;WTA TV;
+21:00;WTA Torneo de Guadalajara 1ª Ronda;V. Kudermetova;S. Vickery;WTA TV;DAZN (Regístrate);
+22:30;WTA Torneo de Guadalajara 1ª Ronda;S. Stephens;O. Gadecki;WTA TV;DAZN (Regístrate);
