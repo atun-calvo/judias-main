@@ -9,7 +9,8 @@
 18:00;Copa de España Fase de grupos;UE Mataró;Monbus Obradoiro;FEB TV;
 18:30;WTA Torneo de Monastir 2ª Ronda;D. Parry;Y. Starodubtseva;WTA TV;
 19:00;Amistoso Femenino;Casademont Zaragoza;Lointek Gernika;Aragón Deporte;Aragón TV;
-19:00;WTA Torneo de Guadalajara;2ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 20:00;Amistoso;Real Madrid Baloncesto;AS Monaco Basket;Real Madrid TV;
 20:00;WTA Torneo de Monastir 2ª Ronda;R. Sramkova;C. Burel;WTA TV;
 20:30;Liga Catalana ACB;BAXI Manresa;Joventut Badalona;Esport3 (Cataluña);
+21:00;WTA Torneo de Guadalajara 2ª Ronda;K. Rakhimova;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+22:30;WTA Torneo de Guadalajara 2ª Ronda;V. Kudermetova;MC. Osorio;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
