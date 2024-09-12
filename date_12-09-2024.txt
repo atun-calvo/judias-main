@@ -18,6 +18,7 @@
 18:30;Liga Catalana ACB;Força Lleida;BAXI Manresa;Esport3 (Cataluña);
 18:30;WTA Torneo de Monastir 2ª Ronda;E. Mertens;E. Lys;WTA TV;DAZN (Regístrate);
 19:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Holanda;Brasil;M+ Deportes 4 (191);
+19:30;Copa Isola;Dreamland Gran Canaria;Lenovo Tenerife;CB Granca YouTube;
 20:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Australia;República Checa;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 20:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Canadá;Finlandia;M+ Deportes (63);
 20:00;WTA Torneo de Monastir 2ª Ronda;Z. Sonmez;G. Minnen;WTA TV;DAZN (Regístrate);
