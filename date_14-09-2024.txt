@@ -1,6 +1,7 @@
-00:00;WTA Torneo de Guadalajara 1/4 de Final;M. Stakusic;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+00:05;WTA Torneo de Monastir 1/4 de Final;Y. Starodubtseva;S. Kartal;WTA TV;DAZN (Regístrate);
 01:30;WTA Torneo de Guadalajara 1/4 de Final;C. García;M. Bouzkova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 02:00;Título Continental Peso Superpluma;E. Hernández;T. Mattice;DAZN (Regístrate);
+02:10;WTA Torneo de Guadalajara 1/4 de Final;M. Stakusic;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 07:00;Copa Intercontinental FIBA Fase de grupos;G League Ignite;Tasmania JackJumpers;FIBA YouTube;
 08:00;Davis Cup Finals Fase de grupos;Alemania;Estados Unidos;M+ Deportes 6 (193);
 09:30;Velada Peso Pesado;D. Nyika;T. Karpency;DAZN (Regístrate);DAZN App Gratis (Regístrate);
@@ -16,7 +17,6 @@
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Brasil;Cuba;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Paraguay;Costa Rica;FIFA+;
 15:00;Davis Cup Finals Fase de grupos;Bélgica;Brasil;M+ Deportes 3 (65);
-15:00;WTA Torneo de Monastir;Semifinal 1;WTA 250;WTA TV;DAZN (Regístrate);
 16:00;Davis Cup Finals Fase de grupos;República Checa;Francia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 16:00;Premier League;Brighton;Ipswich Town;DAZN (Regístrate);
 16:00;Premier League;Crystal Palace;Leicester City;DAZN (Regístrate);DAZN 3 (M196);
@@ -27,11 +27,11 @@
 16:15;LaLiga Hypermotion;Eibar;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 16:15;LaLiga Hypermotion;Levante;Eldense;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Uzbekistán;Holanda;Teledeporte;RTVE Play;
+17:00;WTA Torneo de Monastir Semifinal 1;L. Bronzetti;R. Sramkova;WTA TV;DAZN (Regístrate);
 17:15;Copa Andalucía Semifinales;Jaén FS;Málaga FS;Andalucía TV;
 17:30;Copa Castilla y León Semifinales;San Pablo Burgos;UEMC RV Baloncesto;CB Zamora Oficial YouTube;
 17:30;Copa de España Fase de grupos;CB L´Horta Godella;Sant Antoni Ibiza;FEB TV;
 17:30;Copa de España Fase de grupos;Club Ourense Baloncesto;UE Mataró;FEB TV;
-17:30;WTA Torneo de Monastir;Semifinal 2;WTA 250;WTA TV;DAZN (Regístrate);
 18:00;Rotterdam Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
 18:00;Torneo EncestaRías;3er Puesto;ADC EncestaRías YouTube;
 18:00;Trofeo Región de Murcia;FC Cartagena CB;Coviran Granada;Telecartagena;
@@ -47,6 +47,7 @@
 19:00;Velada;WOW 15;Palacio de Vistalegre (Madrid);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 19:30;Amistoso;Real Madrid Baloncesto;Pallacanestro Varese;Real Madrid TV;
 19:30;Copa Andalucía Semifinales;Córdoba FS;Real Betis FS;Andalucía TV;
+19:30;WTA Torneo de Monastir Semifinal 2;E. Lys;S. Kartal;WTA TV;DAZN (Regístrate);
 20:00;Copa Castilla y León Semifinales;CB Zamora;Zunder Palencia;CB Zamora Oficial YouTube;
 20:00;Copa de España Fase de grupos;Melilla Sport Capital;Damex UDEA Algeciras;FEB TV;
 20:00;IndyCar;Nashville Grand Prix;Clasificación;M+ Deportes 6 (193);
