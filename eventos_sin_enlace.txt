@@ -14,7 +14,7 @@
 17:30;Copa Castilla y León Semifinales;San Pablo Burgos;UEMC RV Baloncesto;CB Zamora Oficial YouTube;
 17:30;Copa de España Fase de grupos;CB L´Horta Godella;Sant Antoni Ibiza;FEB TV;
 17:30;Copa de España Fase de grupos;Club Ourense Baloncesto;UE Mataró;FEB TV;
-18:00;Torneo EncestaRías;3er Puesto;ADC EncestaRías YouTube;
+18:00;Torneo EncestaRías 3er Puesto;Básquet Coruña;Río Breogán;ADC EncestaRías YouTube;
 18:00;Trofeo Región de Murcia;FC Cartagena CB;Coviran Granada;Telecartagena;
 18:00;Velada Peso Medio;E. Oliha;A. Pavlov;DAZN (Regístrate);
 18:30;Copa de España Fase de grupos;Zornotza;Iraurgi SB;FEB TV;
@@ -25,4 +25,4 @@
 19:30;WTA Torneo de Monastir Semifinal 2;E. Lys;S. Kartal;WTA TV;DAZN (Regístrate);
 20:00;Copa Castilla y León Semifinales;CB Zamora;Zunder Palencia;CB Zamora Oficial YouTube;
 20:00;Copa de España Fase de grupos;Melilla Sport Capital;Damex UDEA Algeciras;FEB TV;
-20:15;Torneo EncestaRías;Final;ADC EncestaRías YouTube;
+20:15;Torneo EncestaRías Final;Valencia Basket;AS Monaco Basket;ADC EncestaRías YouTube;
