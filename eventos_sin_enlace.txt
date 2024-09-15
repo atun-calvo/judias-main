@@ -13,7 +13,7 @@
 18:00;Copa Castilla y León Final;San Pablo Burgos;Zunder Palencia;La 7 (Castilla y León);
 18:00;Trofeo Región de Murcia;UCAM Murcia CB;Coviran Granada;Telecartagena;
 18:30;Copa de España Fase de grupos;Movistar Estudiantes;Baloncesto Fuenlabrada;Twitch baloncestoesp;
-19:00;Memorial José Luis Abós;Casademont Zaragoza;Baskonia;Aragón Deporte;Aragón TV;
+19:00;Memorial José Luis Abós;Casademont Zaragoza;Baskonia;Aragón Deporte;Baskonia YouTube;Aragón TV;
 19:30;Copa de España Fase de grupos;Albacete Basket;Cáceres Basket;FEB TV;
 19:30;Liga Catalana ACB Final;Barça Basket;BAXI Manresa;Esport3 (Cataluña);
 21:00;NASCAR Cup Series;Watkins Glen International;Playoffs - Round of 16;DAZN (Regístrate);
