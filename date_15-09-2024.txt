@@ -8,7 +8,7 @@
 07:00;Davis Cup Finals Fase de grupos Partido 2;Eslovaquia;Chile;M+ Deportes 3 (65);
 09:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Eslovaquia;Chile;M+ Deportes 3 (65);
 09:35;FIA Fórmula 2;G.P. Azerbaiyán (Bakú);Carrera 2;DAZN (Regístrate);DAZN F1 (M69);
-11:00;Davis Cup Finals Fase de grupos Partido 1;Australia;España;Movistar Plus+ (M7);M+ Deportes 2 (64);
+11:00;Davis Cup Finals Fase de grupos Partido 1;Australia;España;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 11:30;Copa Andalucía Final;Córdoba FS;Jaén FS;Andalucía TV;
 12:00;Copa de España Fase de grupos;Real Betis Baloncesto;CB Morón;FEB TV;
 12:00;Copa de España Fase de grupos;TAU Castelló;Fibwi Palma;FEB TV;
@@ -16,7 +16,7 @@
 12:00;ITF Torneo de Madrid Final;D. Mérida Aguilar;G. Dalmasso;La Otra (Madrid);
 12:20;Campeonato de Europa;Carrera Masculina Ruta;Heusden-Zolder › Hasselt (220 km);MAX;DAZN (Regístrate);Eurosport 1;
 13:00;Copa Intercontinental FIBA Final;Unicaja Málaga;G League Ignite;FIBA YouTube;101 TV (Málaga);
-13:00;Davis Cup Finals Fase de grupos Partido 2;Australia;España;Movistar Plus+ (M7);M+ Deportes 2 (64);
+13:00;Davis Cup Finals Fase de grupos Partido 2;Australia;España;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 13:00;Fórmula 1;G.P. Azerbaiyán (Bakú);Carrera;DAZN (Regístrate);DAZN F1 (M69);
 14:00;Davis Cup Finals Fase de grupos Partido 1;Canadá;Gran Bretaña;M+ Deportes (63);
 14:00;La Liga EA Sports;Celta;Real Valladolid;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
@@ -24,7 +24,7 @@
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Afganistán;Angola;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;España;Kazajistán;Teledeporte;RTVE Play;
 15:00;Davis Cup Finals Fase de grupos Partido 1;Italia;Holanda;M+ Deportes 4 (191);
-15:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Australia;España;Movistar Plus+ (M7);M+ Deportes 2 (64);
+15:00;Davis Cup Finals Fase de grupos Partido 3 (Dobles);Australia;España;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 15:00;Premier League;Tottenham;Arsenal;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O114);
 16:00;Davis Cup Finals Fase de grupos Partido 2;Canadá;Gran Bretaña;M+ Deportes (63);
 16:15;La Liga EA Sports;Girona;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;
