@@ -1,3 +1,4 @@
+01:30;WTA Torneo de Guadalajara Final;M. Frech;O. Gadecki;WTA TV;DAZN (Regístrate);DAZN 2 (M71);Tennis Channel (Orange 123);
 05:00;WTA Torneo de Seúl;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
 09:00;WTA Torneo de Tailandia;1ª Ronda;WTA 250;WTA TV;
 10:00;Valladolid Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
@@ -6,3 +7,5 @@
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Portugal;Panamá;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Guatemala;Francia;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Tayikistán;Marruecos;FIFA+;
+20:30;LaLiga Hypermotion;UD Almería;CD Castellón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;LaLiga TV M3;
+21:00;La Liga EA Sports;Rayo Vallecano;Osasuna;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);ETB1 (País Vasco);LaLiga TV Bar;
