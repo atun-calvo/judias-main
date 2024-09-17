@@ -8,7 +8,7 @@
 13:10;WTA Torneo de Tailandia 1ª Ronda;L. Tsurenko;M. Linette;WTA TV;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Costa Rica;Holanda;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Tailandia;Cuba;FIFA+;
-14:30;WTA Torneo de Tailandia 1ª Ronda;M. Sawangkaew;R. Sramkova;WTA TV;
+15:20;WTA Torneo de Tailandia 1ª Ronda;M. Sawangkaew;R. Sramkova;WTA TV;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Brasil;Croacia;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Uzbekistán;Paraguay;FIFA+;
 18:45;Champions League Fase Liga;Juventus;PSV Eindhoven;M+ Liga de Campeones 2 (M61 O116);
