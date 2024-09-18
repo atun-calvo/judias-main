@@ -30,4 +30,4 @@
 21:00;Champions League Fase Liga;Celtic FC;Slovan Bratislava;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 5 (M182 O277);
 21:00;Champions League Fase Liga;Club Brugge;Borussia Dortmund;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
 21:00;Champions League Fase Liga;Manchester City;Inter Milan;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
-21:00;Champions League Fase Liga;PSG;Girona;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
+21:00;Champions League Fase Liga;PSG;Girona;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
