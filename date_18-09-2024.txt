@@ -25,6 +25,7 @@
 18:45;Champions League Fase Liga;Sparta Praha;Red Bull Salzburg;M+ Liga de Campeones 2 (M61 O116);
 19:00;La Liga EA Sports;Real Betis;Getafe;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M2;
 19:00;Memorial Pepe Lanzuela;Casademont Zaragoza;Valencia Basket;Aragón Deporte;Aragón TV;
+19:30;Copa Isola;La Laguna Tenerife;Dreamland Gran Canaria;Deportes TVCanaria YouTube;CBC TV;
 20:00;Copa de España Fase de grupos;CB Zamora;Zunder Palencia;FEB TV;
 20:30;Copa de España Fase de grupos;San Pablo Burgos;CB Salou;FEB TV;
 21:00;Champions League Fase Liga;Celtic FC;Slovan Bratislava;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 5 (M182 O277);
