@@ -9,7 +9,6 @@
 10:00;Valladolid Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 10:05;WTA Torneo de Seúl 2ª Ronda;V. Kudermetova;L. Samsonova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 10:40;Torneo de Hangzhou 1ª Ronda;L. Darderi;M. Kukushkin;ATP Tennis TV;
-10:40;WTA Torneo de Tailandia 2ª Ronda;X. Gao;A. Hartono;WTA TV;
 11:00;Torneo de Chengdú 1ª Ronda;G. Mpetshi Perricard;F. Sun;ATP Tennis TV;
 13:40;Torneo de Hangzhou 1ª Ronda;M. Cilic;Z. Svajda;ATP Tennis TV;
 13:50;WTA Torneo de Tailandia 2ª Ronda;K. Volynets;T. Zidansek;WTA TV;
