@@ -20,7 +20,7 @@
 16:45;GP de Valonia;UCI ProSeries;Blegny › Namur (202.3 km);MAX;DAZN (Regístrate);Eurosport 2;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Argentina;Afganistán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;España;Nueva Zelanda;Teledeporte;RTVE Play;
-18:00;Basketball Champions League 1/4 de Final Clasificación;MoraBanc Andorra;Telenet Giants Antwerp;Canal por confirmar;
+18:00;Basketball Champions League 1/4 de Final Clasificación;MoraBanc Andorra;Telenet Giants Antwerp;BCL YouTube;Andorra TV;
 18:45;Champions League Fase Liga;Bologna;Shakhtar Donetsk;M+ Liga de Campeones 3 (M62 O118);
 18:45;Champions League Fase Liga;Sparta Praha;Red Bull Salzburg;M+ Liga de Campeones 2 (M61 O116);
 19:00;La Liga EA Sports;Real Betis;Getafe;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M2;
