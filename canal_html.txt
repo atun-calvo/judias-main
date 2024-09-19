@@ -1,4 +1,5 @@
-M.L. Campeones 4 1080 
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f 
-M.L. Campeones 5 1080 
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561 
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
+--
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
