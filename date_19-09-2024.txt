@@ -23,7 +23,7 @@
 18:45;Champions League Fase Liga;Crvena Zvezda;Benfica;M+ Liga de Campeones 3 (M62 O118);
 18:45;Champions League Fase Liga;Feyenoord;Bayer Leverkusen;M+ Liga de Campeones 2 (M61 O116);
 19:00;La Liga EA Sports;Leganés;Athletic Club;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV M3;
-20:30;Eurocup Women Clasificación;PS Battipaglia;BAXI Ferrol;Canal por confirmar;
+20:30;Eurocup Women Clasificación;PS Battipaglia;BAXI Ferrol;FIBA YouTube;
 21:00;Champions League Fase Liga;AS Monaco;FC Barcelona;Movistar Plus+ (M7);M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
 21:00;Champions League Fase Liga;At. Madrid;RB Leipzig;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 6 (M183 O278);LaLiga TV M2;
 21:00;Champions League Fase Liga;Atalanta;Arsenal;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 4 (M180 O276);
