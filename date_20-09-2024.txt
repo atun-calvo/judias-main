@@ -33,12 +33,16 @@
 16:00;Valladolid Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 2 (64);
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Costa Rica;Uzbekistán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Holanda;Paraguay;FIFA+;
+18:00;Copa Galicia Semifinales;Básquet Coruña;Monbus Obradoiro;FEGABA TV YouTube;
 18:00;Valladolid Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
+19:00;Copa Navarra Final;Osasuna Magna;Ribera Navarra FS;Navarra TV;
 19:00;Laver Cup Partido 3;G. Dimitrov;A. Tabilo;MAX;DAZN (Regístrate);Eurosport 1;
-19:00;Trofeo Diputación;Baskonia;Trieste Pallacanestro;Canal por confirmar;
+19:00;Trofeo Diputación;Baskonia;Trieste Pallacanestro;Baskonia YouTube;
+19:00;Velada Peso Gallo;S. Nqothole;J. Amukwa;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Basketball Champions League Semifinal Clasificación;Telekom Baskets Bonn;MoraBanc Andorra;BCL YouTube;Andorra TV;
 20:00;Copa de España Fase de grupos;Oviedo Baloncesto;Gipuzkoa Basket;Twitch baloncestoesp;
 20:00;Valladolid Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
+20:30;Copa Galicia Semifinales;Río Breogán;Club Ourense Baloncesto;FEGABA TV YouTube;
 20:30;LaLiga Hypermotion;Granada CF;Málaga;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;LaLiga TV M2;
 20:45;Copa de España Fase de grupos;Cáceres Basket;Movistar Estudiantes;FEB TV;
 21:00;Copa de España Fase de grupos;Basquet Menorca;TAU Castelló;FEB TV;

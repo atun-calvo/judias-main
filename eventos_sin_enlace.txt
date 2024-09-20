@@ -19,8 +19,12 @@
 15:35;Kampioenschap van Vlaanderen;UCI Europe Tour;Koolskamp › Koolskamp (181 km);MAX;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Costa Rica;Uzbekistán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Holanda;Paraguay;FIFA+;
-19:00;Trofeo Diputación;Baskonia;Trieste Pallacanestro;Canal por confirmar;
+18:00;Copa Galicia Semifinales;Básquet Coruña;Monbus Obradoiro;FEGABA TV YouTube;
+19:00;Copa Navarra Final;Osasuna Magna;Ribera Navarra FS;Navarra TV;
+19:00;Trofeo Diputación;Baskonia;Trieste Pallacanestro;Baskonia YouTube;
+19:00;Velada Peso Gallo;S. Nqothole;J. Amukwa;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Basketball Champions League Semifinal Clasificación;Telekom Baskets Bonn;MoraBanc Andorra;BCL YouTube;Andorra TV;
 20:00;Copa de España Fase de grupos;Oviedo Baloncesto;Gipuzkoa Basket;Twitch baloncestoesp;
+20:30;Copa Galicia Semifinales;Río Breogán;Club Ourense Baloncesto;FEGABA TV YouTube;
 20:45;Copa de España Fase de grupos;Cáceres Basket;Movistar Estudiantes;FEB TV;
 21:00;Copa de España Fase de grupos;Basquet Menorca;TAU Castelló;FEB TV;
