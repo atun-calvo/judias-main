@@ -36,7 +36,7 @@
 16:15;LaLiga Hypermotion;FC Cartagena;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M3;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Francia;Irán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Venezuela;Guatemala;FIFA+;
-17:30;Copa Leyendas;Final;CMMPlay (Castilla-LM);
+17:30;Copa Leyendas Final;P. Andújar;M. López;CMMPlay (Castilla-LM);
 17:30;Premier League;Manchester City;Arsenal;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);M+ Liga de Campeones (M60 O115);
 18:00;Copa Galicia Final Masculina;Río Breogán;Básquet Coruña;FEGABA TV YouTube;
 18:00;Copa de España Fase de grupos;Fibwi Palma;Maderas Sorlí Benicarló;FEB TV;

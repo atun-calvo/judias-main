@@ -15,7 +15,7 @@
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Panamá;Tayikistán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Francia;Irán;FIFA+;
 17:00;FIFA Copa Mundial Futsal Fase de grupos;Venezuela;Guatemala;FIFA+;
-17:30;Copa Leyendas;Final;CMMPlay (Castilla-LM);
+17:30;Copa Leyendas Final;P. Andújar;M. López;CMMPlay (Castilla-LM);
 18:00;Copa Galicia Final Masculina;Río Breogán;Básquet Coruña;FEGABA TV YouTube;
 18:00;Copa de España Fase de grupos;Fibwi Palma;Maderas Sorlí Benicarló;FEB TV;
 18:00;Supercoppa Italia Final;AX Olimpia Milano;Virtus Bologna;DAZN (Regístrate);
