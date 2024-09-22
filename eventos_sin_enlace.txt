@@ -1,9 +1,15 @@
 01:30;NASCAR Cup Series;Bristol Speedway;Playoffs - Round of 16;DAZN (Regístrate);
 02:30;Velada Peso Supergallo;J. Terán;Y. Cuello;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-07:00;Torneo de Chengdú;1/4 de Final;ATP 250;ATP Tennis TV;
-07:00;Torneo de Hangzhou;1/4 de Final;ATP 250;ATP Tennis TV;
+07:00;Torneo de Chengdú 1/4 de Final;N. Jarry;A. Kachmazov;ATP Tennis TV;
+07:30;Torneo de Hangzhou 1/4 de Final;B. Nakashima;R. Hijikata;ATP Tennis TV;
+08:30;Torneo de Chengdú 1/4 de Final;L. Musetti;A. Mannarino;ATP Tennis TV;
+09:00;Torneo de Hangzhou 1/4 de Final;Y. Uchiyama;M. Cilic;ATP Tennis TV;
+10:00;Torneo de Chengdú 1/4 de Final;Y. Hanfmann;P. Martínez;ATP Tennis TV;
+10:30;Torneo de Hangzhou 1/4 de Final;M. Kukushkin;Y. Bu;ATP Tennis TV;
 11:00;WTA Torneo de Tailandia Final WTA 250;L. Siegemund;R. Sramkova;WTA TV;DAZN (Regístrate);
+11:30;Torneo de Chengdú 1/4 de Final;J. Shang;A. Bublik;ATP Tennis TV;
 12:00;Copa de España Fase de grupos;Damex UDEA Algeciras;CB Morón;FEB TV;
+13:30;Torneo de Hangzhou 1/4 de Final;Zh. Zhang;R. Carballés;ATP Tennis TV;
 13:30;Tour de Luxemburgo;Etapa 5;Mersch › Luxembourg (176 km);MAX;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Marruecos;Portugal;FIFA+;
 14:30;FIFA Copa Mundial Futsal Fase de grupos;Panamá;Tayikistán;FIFA+;
