@@ -1,4 +1,4 @@
-11:00;Torneo de Chengdú Semifinal 1 ATP 250;L. Musetti;A. Kachmazov;ATP Tennis TV;
-11:30;Torneo de Hangzhou Semifinal 1 ATP 250;M. Cilic;B. Nakashima;ATP Tennis TV;
-13:00;Torneo de Chengdú Semifinal 2 ATP 250;Y. Hanfmann;J. Shang;ATP Tennis TV;
-13:30;Torneo de Hangzhou Semifinal 2 ATP 250;Zh. Zhang;Y. Bu;ATP Tennis TV;
+11:10;Torneo de Chengdú Semifinal 1 ATP 250;L. Musetti;A. Kachmazov;ATP Tennis TV;
+11:40;Torneo de Hangzhou Semifinal 1 ATP 250;M. Cilic;B. Nakashima;ATP Tennis TV;
+13:10;Torneo de Chengdú Semifinal 2 ATP 250;Y. Hanfmann;J. Shang;ATP Tennis TV;
+13:45;Torneo de Hangzhou Semifinal 2 ATP 250;Zh. Zhang;Y. Bu;ATP Tennis TV;
