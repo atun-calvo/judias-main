@@ -1,4 +1,8 @@
-11:10;Torneo de Chengdú Semifinal 1 ATP 250;L. Musetti;A. Kachmazov;ATP Tennis TV;
-11:40;Torneo de Hangzhou Semifinal 1 ATP 250;M. Cilic;B. Nakashima;ATP Tennis TV;
-13:10;Torneo de Chengdú Semifinal 2 ATP 250;Y. Hanfmann;J. Shang;ATP Tennis TV;
-13:45;Torneo de Hangzhou Semifinal 2 ATP 250;Zh. Zhang;Y. Bu;ATP Tennis TV;
+13:00;Torneo de Chengdú Final ATP 250;L. Musetti;J. Shang;ATP Tennis TV;
+13:30;Torneo de Hangzhou Final ATP 250;M. Cilic;Zh. Zhang;ATP Tennis TV;
+14:30;FIFA Copa Mundial Futsal 1/8 de final;Brasil;Costa Rica;FIFA+;
+17:00;FIFA Copa Mundial Futsal 1/8 de final;Holanda;Ucrania;FIFA+;
+18:00;FIBA Europe Cup Ronda de clasificación;BC Neptunas;Bilbao Basket;ETB4 (País Vasco);
+18:30;Eurocup Liga Regular;Türk Telekom Ankara;Lietkabelis Panevezys;Canal por confirmar;
+19:30;Eurocup Liga Regular;Hamburg Towers;JL Bourg;Canal por confirmar;
+20:30;Eurocup Liga Regular;Joventut Badalona;Hapoel Tel Aviv BC;Esport3 (Cataluña);
