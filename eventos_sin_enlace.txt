@@ -3,6 +3,4 @@
 14:30;FIFA Copa Mundial Futsal 1/8 de final;Brasil;Costa Rica;FIFA+;
 17:00;FIFA Copa Mundial Futsal 1/8 de final;Holanda;Ucrania;FIFA+;
 18:00;FIBA Europe Cup Ronda de clasificación;BC Neptunas;Bilbao Basket;ETB4 (País Vasco);
-18:30;Eurocup Liga Regular;Türk Telekom Ankara;Lietkabelis Panevezys;Canal por confirmar;
-19:30;Eurocup Liga Regular;Hamburg Towers;JL Bourg;Canal por confirmar;
 20:30;Eurocup Liga Regular;Joventut Badalona;Hapoel Tel Aviv BC;Esport3 (Cataluña);
