@@ -5,9 +5,6 @@
 17:00;FIFA Copa Mundial Futsal 1/8 de final;Holanda;Ucrania;FIFA+;
 18:00;FIBA Europe Cup Ronda de clasificación;BC Neptunas;Bilbao Basket;ETB4 (País Vasco);
 18:30;Eurocup Liga Regular;Türk Telekom Ankara;Lietkabelis Panevezys;Canal por confirmar;
-19:00;La Liga EA Sports;Sevilla FC;Real Valladolid;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);GOL PLAY (Síguelo en directo);GolStadium (acceder);LaLiga TV M2;
-19:00;La Liga EA Sports;Valencia CF;Osasuna;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 19:30;Eurocup Liga Regular;Hamburg Towers;JL Bourg;Canal por confirmar;
 20:30;Eurocup Liga Regular;Joventut Badalona;Hapoel Tel Aviv BC;Esport3 (Cataluña);
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Dolomiti Energia Trento;M+ Deportes (63);
-21:00;La Liga EA Sports;Real Madrid;Alavés;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;LaLiga TV M3;
