@@ -1,6 +1,8 @@
-13:00;Torneo de Chengdú Final ATP 250;L. Musetti;J. Shang;ATP Tennis TV;
-13:30;Torneo de Hangzhou Final ATP 250;M. Cilic;Zh. Zhang;ATP Tennis TV;
-14:30;FIFA Copa Mundial Futsal 1/8 de final;Brasil;Costa Rica;FIFA+;
-17:00;FIFA Copa Mundial Futsal 1/8 de final;Holanda;Ucrania;FIFA+;
-18:00;FIBA Europe Cup Ronda de clasificación;BC Neptunas;Bilbao Basket;ETB4 (País Vasco);
-20:30;Eurocup Liga Regular;Joventut Badalona;Hapoel Tel Aviv BC;Esport3 (Cataluña);
+02:00;Dana White Contender Series;Semana 7;UFC Apex Centre (Las Vegas);MAX;
+05:00;WTA Pekín 1ª Ronda;S. Kenin;A. Bogdan;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+06:30;WTA Pekín 1ª Ronda;A. Anisimova;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+08:00;WTA Pekín 1ª Ronda;L. Bronzetti;N. Osaka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+09:30;WTA Pekín 1ª Ronda;J. Bouzas;P. Stearns;WTA TV;
+09:30;WTA Pekín 1ª Ronda;S. Zhang;M. Kessler;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+11:00;WTA Pekín 1ª Ronda;Q. Wang;A. Parks;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+17:00;FIFA Copa Mundial Futsal 1/8 de final;Paraguay;Afganistán;FIFA+;
