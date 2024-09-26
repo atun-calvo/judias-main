@@ -1,8 +1,8 @@
 05:00;WTA Pekín 1ª Ronda;MC. Osorio;A. Tomljanovic;WTA TV;Tennis Channel (Orange 123);
-06:30;WTA Pekín 1ª Ronda;V. Golubic;Xi. Wang;WTA TV;Tennis Channel (Orange 123);
-08:00;WTA Pekín 1ª Ronda;EG. Ruse;S. Wei;WTA TV;Tennis Channel (Orange 123);
-09:30;WTA Pekín 1ª Ronda;A. Blinkova;K. Muchova;WTA TV;Tennis Channel (Orange 123);
-13:00;WTA Pekín 1ª Ronda;Y. Wang;A. Krueger;WTA TV;Tennis Channel (Orange 123);
+07:25;WTA Pekín 1ª Ronda;V. Golubic;Xi. Wang;WTA TV;Tennis Channel (Orange 123);
+10:25;WTA Pekín 1ª Ronda;EG. Ruse;S. Wei;WTA TV;Tennis Channel (Orange 123);
+12:40;WTA Pekín 1ª Ronda;A. Blinkova;K. Muchova;WTA TV;Tennis Channel (Orange 123);
+13:10;WTA Pekín 1ª Ronda;Y. Wang;A. Krueger;WTA TV;Tennis Channel (Orange 123);
 14:30;FIFA Copa Mundial Futsal 1/8 de final;Irán;Marruecos;FIFA+;
 17:00;FIFA Copa Mundial Futsal 1/8 de final;Portugal;Kazajistán;FIFA+;
 20:00;Eurocup Women Clasificación;BAXI Ferrol;PS Battipaglia;FIBA YouTube;
