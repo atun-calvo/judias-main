@@ -4,11 +4,11 @@
 06:30;Torneo de Pekín 1ª Ronda;Y. Zhou;P. Kotov;ATP Tennis TV;M+ Deportes 2 (64);
 06:30;WTA Pekín 1ª Ronda;V. Golubic;Xi. Wang;WTA TV;Tennis Channel (Orange 123);
 07:00;Torneo de Tokio 1ª Ronda;T. Fritz;A. Fils;ATP Tennis TV;M+ Deportes (63);
-08:00;Torneo de Pekín 1ª Ronda;J. Sinner;N. Jarry;ATP Tennis TV;M+ Deportes 2 (64);
+08:00;Torneo de Pekín 1ª Ronda;J. Sinner;N. Jarry;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 08:00;WTA Pekín 1ª Ronda;EG. Ruse;S. Wei;WTA TV;Tennis Channel (Orange 123);
 09:30;WTA Pekín 1ª Ronda;A. Blinkova;K. Muchova;WTA TV;Tennis Channel (Orange 123);
 11:00;Torneo de Tokio 1ª Ronda;M. Cilic;K. Nishikori;ATP Tennis TV;M+ Deportes (63);
-12:30;Torneo de Tokio 1ª Ronda;C. Ruud;J. Thompson;ATP Tennis TV;M+ Deportes (63);
+12:30;Torneo de Tokio 1ª Ronda;C. Ruud;J. Thompson;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 13:00;Torneo de Pekín 1ª Ronda;J. Lehecka;P. Martínez;ATP Tennis TV;M+ Deportes 2 (64);
 13:00;WTA Pekín 1ª Ronda;Y. Wang;A. Krueger;WTA TV;Tennis Channel (Orange 123);
 14:00;Madrid Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);
