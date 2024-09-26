@@ -1,8 +1,8 @@
-02:00;Dana White Contender Series;Semana 7;UFC Apex Centre (Las Vegas);MAX;
-05:10;WTA Pekín 1ª Ronda;S. Kenin;A. Bogdan;WTA TV;Tennis Channel (Orange 123);
-06:55;WTA Pekín 1ª Ronda;M. Hontama;X. Wang;WTA TV;Tennis Channel (Orange 123);
-08:25;WTA Pekín 1ª Ronda;L. Bronzetti;N. Osaka;WTA TV;Tennis Channel (Orange 123);
-10:05;WTA Pekín 1ª Ronda;S. Zhang;M. Kessler;WTA TV;Tennis Channel (Orange 123);
-12:05;WTA Pekín 1ª Ronda;J. Bouzas;P. Stearns;WTA TV;
-12:25;WTA Pekín 1ª Ronda;Q. Wang;A. Parks;WTA TV;Tennis Channel (Orange 123);
-17:00;FIFA Copa Mundial Futsal 1/8 de final;Paraguay;Afganistán;FIFA+;
+05:00;WTA Pekín 1ª Ronda;MC. Osorio;A. Tomljanovic;WTA TV;Tennis Channel (Orange 123);
+06:30;WTA Pekín 1ª Ronda;V. Golubic;Xi. Wang;WTA TV;Tennis Channel (Orange 123);
+08:00;WTA Pekín 1ª Ronda;EG. Ruse;S. Wei;WTA TV;Tennis Channel (Orange 123);
+09:30;WTA Pekín 1ª Ronda;A. Blinkova;K. Muchova;WTA TV;Tennis Channel (Orange 123);
+13:00;WTA Pekín 1ª Ronda;Y. Wang;A. Krueger;WTA TV;Tennis Channel (Orange 123);
+14:30;FIFA Copa Mundial Futsal 1/8 de final;Irán;Marruecos;FIFA+;
+17:00;FIFA Copa Mundial Futsal 1/8 de final;Portugal;Kazajistán;FIFA+;
+20:00;Eurocup Women Clasificación;BAXI Ferrol;PS Battipaglia;FIBA YouTube;
