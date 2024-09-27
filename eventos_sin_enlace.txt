@@ -1,9 +1,9 @@
-05:00;WTA Pekín 2ª Ronda;E. Navarro;S. Zhang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-07:00;WTA Pekín 2ª Ronda;V. Kudermetova;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-08:30;WTA Pekín 2ª Ronda;D. Parry;J. Pegula;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:05;WTA Pekín 2ª Ronda;E. Navarro;S. Zhang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+08:00;WTA Pekín 2ª Ronda;V. Kudermetova;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+11:00;WTA Pekín 2ª Ronda;D. Parry;J. Pegula;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 13:35;WRC Rally;Rally de Chile;SS1 › SS6;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 14:30;FIFA Copa Mundial Futsal 1/8 de final;Tailandia;Francia;FIFA+;
-14:30;WTA Pekín 2ª Ronda;C. Burel;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+15:30;WTA Pekín 2ª Ronda;C. Burel;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:00;FIFA Copa Mundial Futsal 1/8 de final;Argentina;Croacia;FIFA+;
 19:00;FIBA Europe Cup Ronda de clasificación;Bilbao Basket;BC Neptunas;ETB4 (País Vasco);
 20:45;Primera FEB Liga Regular;CB Tizona Burgos;Zunder Palencia;LaLiga+ Plus;La 8 Burgos;
