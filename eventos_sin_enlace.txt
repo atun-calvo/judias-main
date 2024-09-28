@@ -14,6 +14,7 @@
 18:30;Segunda Federación Futsal;Alzira FS;FS La Nucía;RFEF.es;
 19:00;Primera FEB Liga Regular;Club Ourense Baloncesto;FC Cartagena CB;LaLiga+ Plus;
 19:30;Primera FEB Liga Regular;Basquet Menorca;CB Zamora;LaLiga+ Plus;
+20:00;Lega Serie A Liga Regular;Trapani Shark;Virtus Bologna;DAZN (Regístrate);
 20:00;Primera FEB Liga Regular;HLA Alicante;UEMC RV Baloncesto;LaLiga+ Plus;
 20:00;Primera FEB Liga Regular;San Pablo Burgos;GA Cantabria;LaLiga+ Plus;La 8 Burgos;
 20:45;Primera FEB Liga Regular;Gipuzkoa Basket;Real Betis Baloncesto;LaLiga+ Plus;LALIGA+ YouTube;
