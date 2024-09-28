@@ -1,11 +1,11 @@
 04:50;MotoGP;G.P. Indonesia (Mandalika);Clasificación;DAZN (Regístrate);MotoGP Videopass;
-05:00;WTA Pekín 2ª Ronda;J. Paolini;C. Tauson;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-06:30;WTA Pekín 2ª Ronda;A. Sabalenka;M. Sawangkaew;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:10;WTA Pekín 2ª Ronda;J. Paolini;C. Tauson;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 06:50;Moto3;G.P. Indonesia (Mandalika);Clasificación;DAZN (Regístrate);MotoGP Videopass;
+07:40;WTA Pekín 2ª Ronda;A. Sabalenka;M. Sawangkaew;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 07:45;Moto2;G.P. Indonesia (Mandalika);Clasificación;DAZN (Regístrate);MotoGP Videopass;
 09:00;MotoGP;G.P. Indonesia (Mandalika);Sprint;DAZN (Regístrate);MotoGP Videopass;
-10:00;WTA Pekín 2ª Ronda;M. Keys;S. Sorribes;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-13:00;WTA Pekín 2ª Ronda;K. Rakhimova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+10:30;WTA Pekín 2ª Ronda;M. Keys;S. Sorribes;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:10;WTA Pekín 2ª Ronda;K. Rakhimova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 13:30;DTM;Red Bull Ring;Carrera 1;DAZN (Regístrate);
 14:07;WRC Rally;Rally de Chile;SS7 › SS12;DAZN (Regístrate);
 16:00;Premier League;Nottingham Forest;Fulham;DAZN (Regístrate);
