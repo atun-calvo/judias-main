@@ -1,12 +1,11 @@
 03:10;Tour de Langkawi;Etapa 1;Kuah › Kuah (96,5 km);MAX;
 06:00;Moto3;G.P. Indonesia (Mandalika);Carrera;DAZN (Regístrate);MotoGP Videopass;
 07:15;Moto2;G.P. Indonesia (Mandalika);Carrera;DAZN (Regístrate);MotoGP Videopass;
-08:30;WTA Pekín 2ª Ronda;S. Zhang;G. Minnen;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 09:00;MotoGP;G.P. Indonesia (Mandalika);Carrera;DAZN (Regístrate);MotoGP Videopass;
-11:00;WTA Pekín 2ª Ronda;K. Volynets;N. Osaka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+10:10;WTA Pekín 2ª Ronda;S. Zhang;G. Minnen;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:00;Lega Serie A Liga Regular;Trieste Pallacanestro;AX Olimpia Milano;DAZN (Regístrate);
 13:23;WRC Rally;Rally de Chile;SS13 › SS16;DAZN (Regístrate);
 14:30;FIFA Copa Mundial Futsal 1/4 de Final;Brasil;Marruecos;FIFA+;
-14:30;WTA Pekín 2ª Ronda;K. Boulter;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+14:40;WTA Pekín 2ª Ronda;K. Boulter;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:00;FIFA Copa Mundial Futsal 1/4 de Final;Ucrania;Venezuela;FIFA+;
 21:00;NASCAR Cup Series;Kansas Speedway;Playoffs - Round of 12;DAZN (Regístrate);
