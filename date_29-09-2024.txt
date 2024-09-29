@@ -29,6 +29,7 @@
 14:00;Superbike;G.P. Aragón (Motorland);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Teledeporte;RTVE Play;Eurosport 2;
 14:30;FIFA Copa Mundial Futsal 1/4 de Final;Brasil;Marruecos;FIFA+;
 14:30;WTA Pekín 2ª Ronda;K. Boulter;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+14:45;Mundial de Ciclismo en Ruta;Carrera Masculina;Winterthur › Zürich (273,9 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 1;
 15:00;Premier League;Ipswich Town;Aston Villa;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:15;Supersport;G.P. Aragón (Motorland);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);RTVE Play;
 16:15;La Liga EA Sports;Athletic Club;Sevilla FC;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
