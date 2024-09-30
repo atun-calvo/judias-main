@@ -12,7 +12,7 @@
 13:00;Torneo de Pekín 1/4 de Final;J. Sinner;J. Lehecka;ATP Tennis TV;M+ Deportes 2 (64);
 13:00;WTA Pekín 2ª Ronda;N. Podoroska;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:30;FIFA Copa Mundial Futsal 1/4 de Final;Francia;Paraguay;FIFA+;
-14:30;Torneo de Pekín 1/4 de Final;TBD;Y. Bu;ATP Tennis TV;M+ Deportes 2 (64);
+14:30;Torneo de Pekín 1/4 de Final;A. Rublev;Y. Bu;ATP Tennis TV;M+ Deportes 2 (64);
 17:00;FIFA Copa Mundial Futsal 1/4 de Final;Kazajistán;Argentina;FIFA+;
 20:30;LaLiga Hypermotion;Racing Santander;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;La Liga EA Sports;Villarreal;UD Las Palmas;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
