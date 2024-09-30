@@ -1,6 +1,6 @@
-05:00;WTA Pekín 2ª Ronda;M. Keys;B. Haddad Maia;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-10:00;WTA Pekín 2ª Ronda;M. Andreeva;D. Vekic;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:10;WTA Pekín 2ª Ronda;M. Keys;B. Haddad Maia;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+10:30;WTA Pekín 2ª Ronda;M. Andreeva;D. Vekic;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:30;París Major;1ª Ronda;Premier Padel YouTube;
-13:00;WTA Pekín 2ª Ronda;N. Podoroska;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:10;WTA Pekín 2ª Ronda;N. Podoroska;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:30;FIFA Copa Mundial Futsal 1/4 de Final;Francia;Paraguay;FIFA+;
 17:00;FIFA Copa Mundial Futsal 1/4 de Final;Kazajistán;Argentina;FIFA+;
