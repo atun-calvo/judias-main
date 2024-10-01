@@ -1,6 +1,6 @@
-10:00;WTA Pekín 1/8 de final;Y. Starodubtseva;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+10:10;WTA Pekín 1/8 de final;Y. Starodubtseva;A. Kalinskaya;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 13:00;París Major;1ª Ronda;Premier Padel YouTube;
-14:30;WTA Pekín 1/8 de final;N. Osaka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+15:40;WTA Pekín 1/8 de final;N. Osaka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:00;Basketball Champions League Liga Regular;AEK BC;Maccabi Ironi Ramat Gan;DAZN (Regístrate);
 18:00;Basketball Champions League Liga Regular;VEF Riga;Telekom Baskets Bonn;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;S. Oliver Baskets;Hapoel Holon;DAZN (Regístrate);
