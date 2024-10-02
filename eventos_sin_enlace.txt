@@ -1,10 +1,6 @@
 02:00;Dana White Contender Series;Semana 8;UFC Apex Centre (Las Vegas);MAX;
-06:30;Masters Shanghai 1ª Ronda;Y. Wu;S. Nagal;ATP Tennis TV;
-08:00;Masters Shanghai 1ª Ronda;G. Monfils;D. Dzumhur;ATP Tennis TV;
 10:00;WTA Pekín 1/8 de final;M. Linette;M. Andreeva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-12:30;Masters Shanghai 1ª Ronda;J. Shang;C. Wong;ATP Tennis TV;
 13:00;París Major;2ª Ronda;Premier Padel YouTube;
-14:00;Masters Shanghai 1ª Ronda;K. Nishikori;M. Navone;ATP Tennis TV;
 14:00;WTA Pekín 1/8 de final;A. Anisimova;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 17:00;FIFA Copa Mundial Futsal Semifinales;Ucrania;Brasil;FIFA+;
 18:00;Basketball Champions League Liga Regular;Promitheas Patras BC;CEZl Nymburk;DAZN (Regístrate);
