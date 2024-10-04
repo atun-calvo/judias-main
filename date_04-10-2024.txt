@@ -7,15 +7,15 @@
 08:00;MotoGP;G.P. Japón (Motegi);Libres;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 08:20;Masters Shanghai 2ª Ronda;S. Tsitsipas;K. Nishikori;ATP Tennis TV;M+ Deportes 2 (64);
 08:25;Masters Shanghai 1ª Ronda;A. Michelsen;Y. Bu;ATP Tennis TV;M+ Deportes 6 (193);
-08:30;WTA Pekín 1/4 de Final;A. Sabalenka;K. Muchova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Teledeporte;RTVE Play;
+09:20;WTA Pekín 1/4 de Final;A. Sabalenka;K. Muchova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Teledeporte;RTVE Play;
 10:00;Masters Shanghai 2ª Ronda;A. Cazaux;U. Humbert;ATP Tennis TV;M+ Deportes 6 (193);
-10:00;WTA Pekín 1/4 de Final;M. Andreeva;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 10:35;Masters Shanghai 2ª Ronda;A. Fils;R. Carballés;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 5 (192);
 11:40;Masters Shanghai 2ª Ronda;T. Machac;A. Davidovich;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes 2 (64);M+ Deportes 6 (193);
+12:30;WTA Pekín 1/4 de Final;M. Andreeva;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 12:40;Masters Shanghai 2ª Ronda;T. Seyboth-Wild;D. Medvedev;ATP Tennis TV;M+ Deportes 2 (64);
 13:00;Masters Shanghai 2ª Ronda;Y. Wu;N. Jarry;ATP Tennis TV;M+ Deportes 5 (192);
 13:00;París Major;1/4 de final femenino;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);M+ Deportes 7 (194);
-14:30;Masters Shanghai 2ª Ronda;A. Vukic;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
+14:55;Masters Shanghai 2ª Ronda;A. Vukic;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;París Major;1/4 de final masculino;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);
 15:00;Tour de Croacia;Etapa 4;Krk › Labin (160,5 km);MAX;DAZN (Regístrate);Eurosport 1;
 16:00;Torneo de Villena 1/4 de Final ATP Challenger Tour;D. Ajdukovic;K. Majchrzak;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
@@ -28,7 +28,7 @@
 20:00;Título Mundial Peso Gallo;M. Waseem;S. Cebekhulu;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Velada Peso Gallo;M. McHale;A. Twaha;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;Velada Peso Welter;A. Hachimi;K. Salazar;GolStadium (acceder);
-20:30;LaLiga Hypermotion Estadio El Alcoraz, Huesca;Huesca;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;GolStadium Premium (acceder);LaLiga TV M2;
+20:30;LaLiga Hypermotion;Huesca;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);M+ Vamos (8 y 53);Movistar+ Lite;GolStadium Premium (acceder);LaLiga TV M2;
 21:00;Euroliga Liga Regular;Paris Basketball;Crvena Zvezda MTS Belgrade;M+ Deportes (63);
 21:00;Euroliga Liga Regular;Virtus Bologna;Anadolu Efes Istanbul;M+ Deportes 6 (193);
 21:00;La Liga EA Sports;Leganés;Valencia CF;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
