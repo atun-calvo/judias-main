@@ -1,8 +1,10 @@
-03:00;Velada Peso Superwelter;Q. Randall;J. Bocachica;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-16:00;Premier League;Brentford;Wolverhampton;DAZN (Regístrate);
-16:00;Premier League;Leicester City;Bournemouth;DAZN (Regístrate);
-17:00;Primera FEB Liga Regular;Monbus Obradoiro;CB Morón;LaLiga+ Plus;
-18:30;Primera FEB Liga Regular;Baloncesto Fuenlabrada;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
-18:30;Primera FEB Liga Regular;Oviedo Baloncesto;Club Ourense Baloncesto;LaLiga+ Plus;
-19:30;Primera FEB Liga Regular;CB Zamora;UEMC RV Baloncesto;LaLiga+ Plus;
-20:00;Lega Serie A Liga Regular;Dolomiti Energia Trento;Umana Reyer Venice;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+04:00;UFC UFC 307;A. Pereira;K. Rountree Jr.;MAX;
+11:00;ITF Torneo de Baza;Final;ITF W35;Marca YouTube;
+12:00;Segunda FEB Liga Regular;Melilla Sport Capital;Clínica Ponferrada SDP;TV Melilla;
+14:30;FIFA Copa Mundial Futsal 3er Puesto;Francia;Ucrania;FIFA+;
+15:00;Coppa Agostoni;UCI Europe Tour;Lissone › Lissone (166,7 km);MAX;
+17:00;Primera FEB Liga Regular;FC Cartagena CB;HLA Alicante;LaLiga+ Plus;
+17:30;Segunda Federación Futsal;O Parrulo Ferrol;Levante UD FS;RFEF.es;
+18:15;Lega Serie A Liga Regular;AX Olimpia Milano;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+19:00;Primera FEB Liga Regular;GA Cantabria;Basquet Menorca;LaLiga+ Plus;LALIGA+ YouTube;LaLiga+ TV (Orange 122);
+20:00;NASCAR Cup Series;Talladega Superspeedway;Playoffs - Round of 12;DAZN (Regístrate);
