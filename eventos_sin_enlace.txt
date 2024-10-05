@@ -1,6 +1,8 @@
-04:20;Tour de Langkawi;Etapa 6;Batu Pahat › Kulai (123,4 km);MAX;
-20:00;Primera FEB Liga Regular;Real Betis Baloncesto;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
-20:00;Título Mundial Peso Gallo;M. Waseem;S. Cebekhulu;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-20:00;Velada Peso Gallo;M. McHale;A. Twaha;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-20:00;Velada Peso Welter;A. Hachimi;K. Salazar;GolStadium (acceder);
-21:00;Primera FEB Liga Regular;Zunder Palencia;Gipuzkoa Basket;LaLiga+ Plus;
+03:00;Velada Peso Superwelter;Q. Randall;J. Bocachica;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+16:00;Premier League;Brentford;Wolverhampton;DAZN (Regístrate);
+16:00;Premier League;Leicester City;Bournemouth;DAZN (Regístrate);
+17:00;Primera FEB Liga Regular;Monbus Obradoiro;CB Morón;LaLiga+ Plus;
+18:30;Primera FEB Liga Regular;Baloncesto Fuenlabrada;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
+18:30;Primera FEB Liga Regular;Oviedo Baloncesto;Club Ourense Baloncesto;LaLiga+ Plus;
+19:30;Primera FEB Liga Regular;CB Zamora;UEMC RV Baloncesto;LaLiga+ Plus;
+20:00;Lega Serie A Liga Regular;Dolomiti Energia Trento;Umana Reyer Venice;DAZN (Regístrate);DAZN App Gratis (Regístrate);
