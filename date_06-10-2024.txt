@@ -20,7 +20,7 @@
 15:00;París-Tours;UCI ProSeries;Chartres › Tours (213,8 km);MAX;DAZN (Regístrate);Teledeporte;RTVE Play;ETB1 (País Vasco);Eurosport 1;
 15:00;Premier League;Aston Villa;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Premier League;Chelsea;Nottingham Forest;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-15:05;Masters Shanghai 3ª Ronda;T. Paul;A. Tabilo;ATP Tennis TV;M+ Deportes 2 (64);
+15:45;Masters Shanghai 3ª Ronda;T. Paul;A. Tabilo;ATP Tennis TV;M+ Deportes 2 (64);
 16:00;NBA Pretemporada;Boston Celtics;Denver Nuggets;M+ Deportes 5 (192);
 16:00;París Major;Final Masculina;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 16:15;La Liga EA Sports;Alavés;FC Barcelona;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
