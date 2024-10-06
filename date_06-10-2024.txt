@@ -11,7 +11,7 @@
 08:55;Tour de Langkawi;Etapa 8;Bintulu › Bintulu (147,5 km);MAX;DAZN (Regístrate);Eurosport 1;
 09:00;Masters Shanghai 3ª Ronda;G. Monfils;U. Humbert;ATP Tennis TV;M+ Deportes 6 (193);
 09:30;Masters Shanghai 3ª Ronda;R. Carballés;B. Shelton;ATP Tennis TV;M+ Deportes 5 (192);
-11:00;ITF Torneo de Baza;Final;ITF W35;Marca YouTube;
+11:00;ITF Torneo de Baza Final ITF W35;A. Geerlings;S. Bandecchi;Marca YouTube;
 11:00;Torneo de Villena Final ATP Challenger Tour;K. Majchrzak;N. Moreno De Alboran;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
 12:00;Segunda FEB Liga Regular;Melilla Sport Capital;Clínica Ponferrada SDP;TV Melilla;
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Casademont Zaragoza;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
