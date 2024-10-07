@@ -1,4 +1,4 @@
-05:00;WTA Wuhan 1ª Ronda;B. Haddad Maia;M. Keys;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-06:30;WTA Wuhan 1ª Ronda;L. Fernández;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-08:00;WTA Wuhan 1ª Ronda;Y. Yuan;C. Burel;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-09:30;WTA Wuhan 1ª Ronda;X. Wang;C. Dolehide;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:10;WTA Wuhan 1ª Ronda;B. Haddad Maia;M. Keys;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+07:40;WTA Wuhan 1ª Ronda;L. Fernández;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+10:40;WTA Wuhan 1ª Ronda;Y. Yuan;C. Burel;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:25;WTA Wuhan 1ª Ronda;X. Wang;C. Dolehide;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
