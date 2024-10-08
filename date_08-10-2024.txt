@@ -9,8 +9,8 @@
 11:05;Masters Shanghai 3ª Ronda;J. Lehecka;H. Rune;ATP Tennis TV;M+ Deportes 3 (65);
 12:40;Masters Shanghai 3ª Ronda;F. Cobolli;N. Djokovic;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 13:10;WTA Wuhan 1ª Ronda;M. Andreeva;Xi. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-14:00;Masters Shanghai 3ª Ronda;T. Griekspoor;A. Zverev;ATP Tennis TV;M+ Deportes 2 (64);
 14:00;Simac Ladies Tour;Etapa 1;Gennep › Gennep (10,1 km);MAX;
+14:10;Masters Shanghai 3ª Ronda;T. Griekspoor;A. Zverev;ATP Tennis TV;M+ Deportes 2 (64);
 14:40;WTA Wuhan 1ª Ronda;E. Avanesyan;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 15:30;Tre Valli Varesine;UCI Europe Tour;Busto Arsizio › Varese (200,3 km);MAX;DAZN (Regístrate);Eurosport 2;
 18:30;Basketball Champions League Liga Regular;Peristeri BC;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
