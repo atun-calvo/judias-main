@@ -1,6 +1,6 @@
 02:00;Dana White Contender Series;Semana 9;UFC Apex Centre (Las Vegas);MAX;
-05:00;WTA Wuhan 2ª Ronda;B. Krejcikova;H. Baptiste;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-13:00;WTA Wuhan 2ª Ronda;Q. Zheng;J. Cristian;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:05;WTA Wuhan 2ª Ronda;B. Krejcikova;H. Baptiste;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:10;WTA Wuhan 2ª Ronda;Q. Zheng;J. Cristian;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:30;WTA Wuhan 2ª Ronda;Y. Yuan;J. Paolini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:00;Basketball Champions League Liga Regular;Petkimspor Kulübü;Filou Oostende;DAZN (Regístrate);
 18:30;Copa del Rey Eliminatoria Previa;CD Sonseca;Parla Escuela;RFFM Play YouTube;
