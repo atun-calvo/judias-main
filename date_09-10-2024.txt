@@ -9,8 +9,8 @@
 11:40;Masters Shanghai 1/8 de final;J. Mensik;G. Dimitrov;ATP Tennis TV;M+ Deportes 3 (65);
 12:40;Masters Shanghai 1/8 de final;R. Safiullin;N. Djokovic;ATP Tennis TV;M+ Deportes 2 (64);
 13:10;WTA Wuhan 2ª Ronda;Q. Zheng;J. Cristian;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-14:00;Masters Shanghai 1/8 de final;D. Goffin;A. Zverev;ATP Tennis TV;M+ Deportes 2 (64);
-14:00;Masters Shanghai 1/8 de final;T. Fritz;H. Rune;ATP Tennis TV;M+ Deportes 3 (65);
+14:05;Masters Shanghai 1/8 de final;T. Fritz;H. Rune;ATP Tennis TV;M+ Deportes 3 (65);
+14:15;Masters Shanghai 1/8 de final;D. Goffin;A. Zverev;ATP Tennis TV;M+ Deportes 2 (64);
 14:30;WTA Wuhan 2ª Ronda;Y. Yuan;J. Paolini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 15:00;Simac Ladies Tour;Etapa 2;Coevorden › Assen (154,8 km);MAX;DAZN (Regístrate);Eurosport 2;
 18:00;Basketball Champions League Liga Regular;Petkimspor Kulübü;Filou Oostende;DAZN (Regístrate);
