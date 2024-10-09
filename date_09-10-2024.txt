@@ -27,6 +27,7 @@
 20:00;FIBA Europe Cup Liga Regular;Bilbao Basket;BC Balkan Botevgrad;FIBA YouTube;
 20:00;FIBA Europe Cup Liga Regular;Casademont Zaragoza;Frutti Extra Bursaspor;FIBA YouTube;Aragón Deporte;Aragón TV;
 20:30;Basketball Champions League Liga Regular;Unicaja Málaga;King Szczecin;101 TV (Málaga);DAZN (Regístrate);
+20:30;Copa del Rey Eliminatoria Previa;UE Vic;Sporting Mahón;Esports IB3 YouTube;
 20:30;Eurocup Women Liga Regular;CB Jairis;Panathinaikos BC;FIBA YouTube;
 20:30;Eurocup Women Liga Regular;Tarbes GB;Movistar Estudiantes;FIBA YouTube;
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Bahçeşehir Koleji;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
