@@ -5,6 +5,7 @@
 18:00;Basketball Champions League Liga Regular;Petkimspor Kulübü;Filou Oostende;DAZN (Regístrate);
 18:30;Copa del Rey Eliminatoria Previa;CD Sonseca;Parla Escuela;RFFM Play YouTube;
 19:00;Copa del Rey Eliminatoria Previa;CD Baztan;Ontiñena CF;Aragón Deporte;
+19:00;Copa del Rey Eliminatoria Previa;UD San Pedro;Ceuta 6 de Junio;RFAF TV;
 19:00;Eurocup Liga Regular;Trefl Sopot;Joventut Badalona;Esport3 (Cataluña);
 20:00;Basketball Champions League Liga Regular;FMP Meridian;Manisa BBSK;DAZN (Regístrate);
 20:00;Basketball Champions League Liga Regular;Rasta Vechta;Promitheas Patras BC;DAZN (Regístrate);
@@ -16,3 +17,4 @@
 20:30;Copa del Rey Eliminatoria Previa;UE Vic;Sporting Mahón;Esports IB3 YouTube;
 20:30;Eurocup Women Liga Regular;CB Jairis;Panathinaikos BC;FIBA YouTube;
 20:30;Eurocup Women Liga Regular;Tarbes GB;Movistar Estudiantes;FIBA YouTube;
+21:00;Copa del Rey Eliminatoria Previa;Chiclana CF;Melilla CD;RFAF TV;
