@@ -3,7 +3,7 @@
 09:00;Masters Shanghai 1/4 de Final;J. Sinner;D. Medvedev;ATP Tennis TV;M+ Deportes 2 (64);
 09:10;WTA Wuhan 3ª Ronda;Q. Zheng;L. Fernández;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 12:30;Masters Shanghai 1/4 de Final;C. Alcaraz;T. Machac;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
-13:00;Copa del Rey;Sorteo 1ª Eliminatoria;RFEF.es;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
+13:00;Copa del Rey;Sorteo 1ª Eliminatoria;RFEF.es;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;
 13:10;WTA Wuhan 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:00;Simac Ladies Tour;Etapa 3;Zeewolde › Zeewolde (148,4 km);MAX;DAZN (Regístrate);Eurosport 2;
 14:50;Giro del Piemonte;UCI ProSeries;Valdengo › Borgomanero (182 km);MAX;
