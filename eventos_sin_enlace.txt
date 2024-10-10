@@ -1,5 +1,5 @@
-05:00;WTA Wuhan 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-05:00;WTA Wuhan 3ª Ronda;B. Haddad Maia;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-05:00;WTA Wuhan 3ª Ronda;C. Gauff;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+05:10;WTA Wuhan 3ª Ronda;C. Gauff;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+13:10;WTA Wuhan 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+14:40;WTA Wuhan 3ª Ronda;B. Haddad Maia;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:50;Giro del Piemonte;UCI ProSeries;Valdengo › Borgomanero (182 km);MAX;
 18:00;Eurocup Women Liga Regular;BC Yerevan Foxes;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
