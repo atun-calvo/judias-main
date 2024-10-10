@@ -6,8 +6,8 @@
 13:00;Copa del Rey;Sorteo 1ª Eliminatoria;RFEF.es;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
 13:10;WTA Wuhan 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:00;Simac Ladies Tour;Etapa 3;Zeewolde › Zeewolde (148,4 km);MAX;DAZN (Regístrate);Eurosport 2;
-14:40;WTA Wuhan 3ª Ronda;B. Haddad Maia;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 14:50;Giro del Piemonte;UCI ProSeries;Valdengo › Borgomanero (182 km);MAX;
+15:30;WTA Wuhan 3ª Ronda;B. Haddad Maia;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 18:00;Eurocup Women Liga Regular;BC Yerevan Foxes;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
 19:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Fenerbahce Istanbul;M+ Deportes (63);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Virtus Bologna;M+ Deportes 3 (65);
