@@ -1,9 +1,9 @@
 05:10;WTA Wuhan 1/4 de Final;C. Gauff;M. Linette;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 06:50;WTA Wuhan 1/4 de Final;E. Alexandrova;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-09:00;Masters Shanghai 1/4 de Final;T. Fritz;D. Goffin;ATP Tennis TV;M+ Deportes 2 (64);
 09:00;Sevilla Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
+09:10;Masters Shanghai 1/4 de Final;T. Fritz;D. Goffin;ATP Tennis TV;M+ Deportes 2 (64);
 10:00;WTA Wuhan 1/4 de Final;A. Sabalenka;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Teledeporte;RTVE Play;
-12:30;Masters Shanghai 1/4 de Final;J. Mensik;N. Djokovic;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+12:40;Masters Shanghai 1/4 de Final;J. Mensik;N. Djokovic;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 13:10;WTA Wuhan 1/4 de Final;Q. Zheng;J. Paolini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);Teledeporte;RTVE Play;
 13:15;Torneo de Valencia 1/4 de Final;D. Galán;J. Choinski;M+ Deportes 4 (191);
 15:00;Simac Ladies Tour;Etapa 4;Ede › Ede (118,2 km);MAX;DAZN (Regístrate);Eurosport 2;
