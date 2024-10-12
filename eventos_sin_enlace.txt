@@ -1,5 +1,13 @@
-19:00;Primera Federación Futsal;Burela FS;Jaén FS;FEF TV;
-19:30;Primera Federación Futsal;Osasuna Magna;Córdoba FS;FEF TV;
-20:00;Primera Federación Futsal;AD Sala 10 Zaragoza;Movistar Inter;FEF TV;
-20:30;Primera Federación Futsal;Manzanares FS;Servigroup Peñiscola FS;FEF TV;
-20:45;Primera FEB Liga Regular;TAU Castelló;CB Zamora;LaLiga+ Plus;LALIGA+ YouTube;LaLiga+ TV (Orange 122);
+01:00;Velada Peso Pluma;JP. Rivera;A. Beltran;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+16:00;Simac Ladies Tour;Etapa 5;Doetinchem › Doetinchem (140 km);MAX;
+17:30;Segunda Federación Futsal;CD El Ejido Futsal;Club Sala 5 Martorell;RFEF.es;
+18:00;Primera FEB Liga Regular;CB Morón;Oviedo Baloncesto;LaLiga+ Plus;
+18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Ribera Navarra FS;FEF TV;
+18:00;Título Mundial Peso Semipesado;A. Beterbiev;D. Bivol;DAZN (Regístrate);
+18:00;Velada Peso Superligero;A. Moya;K. Yetongnon;GolStadium Premium (acceder);GolStadium (acceder);
+18:30;Primera FEB Liga Regular;FC Cartagena CB;Monbus Obradoiro;LaLiga+ Plus;
+19:00;Primera FEB Liga Regular;Club Ourense Baloncesto;GA Cantabria;LaLiga+ Plus;TVG2 (Galicia);
+19:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Baloncesto Fuenlabrada;LaLiga+ Plus;
+20:00;Lega Serie A Liga Regular;Umana Reyer Venice;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+20:00;Primera FEB Liga Regular;San Pablo Burgos;Zunder Palencia;LaLiga+ Plus;La 8 Burgos;
+20:00;Primera Federación Futsal;Industrias Santa Coloma;Palma Futsal;FEF TV;
