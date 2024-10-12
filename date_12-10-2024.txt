@@ -1,12 +1,12 @@
 01:00;Velada Peso Pluma;JP. Rivera;A. Beltran;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 10:30;Giro de Lombardía;UCI World Tour;Bergamo › Como (252 km);MAX;DAZN (Regístrate);Eurosport 2;
-10:30;Masters Shanghai Semifinal 1 ATP Masters 1000;J. Sinner;T. Machac;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
-10:30;WTA Wuhan Semifinal 1 WTA 1000;A. Sabalenka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
+10:40;Masters Shanghai Semifinal 1 ATP Masters 1000;J. Sinner;T. Machac;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+10:40;WTA Wuhan Semifinal 1 WTA 1000;A. Sabalenka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
 12:00;Sevilla Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
 12:00;Superbike;Pirelli Estoril Round (Portugal);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
-13:00;WTA Wuhan Semifinal 2 WTA 1000;Q. Zheng;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
+13:10;Masters Shanghai Semifinal 2 ATP Masters 1000;N. Djokovic;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
+13:30;WTA Wuhan Semifinal 2 WTA 1000;Q. Zheng;X. Wang;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 4 (M197);
 13:45;WorldWCR;Pirelli Estoril Round (Portugal);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);M+ Ellas Vamos (66);Movistar+ Lite;MAX;
-14:00;Masters Shanghai Semifinal 2 ATP Masters 1000;N. Djokovic;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
 15:00;Superbike;Pirelli Estoril Round (Portugal);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);RTVE Play;
 16:00;Simac Ladies Tour;Etapa 5;Doetinchem › Doetinchem (140 km);MAX;
 16:00;Torneo de Valencia Semifinal 1 ATP Challenger Tour;P. Martínez;D. Galán;MAX;DAZN (Regístrate);M+ Deportes 4 (191);Eurosport 2;
