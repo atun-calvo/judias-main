@@ -8,8 +8,8 @@
 13:35;Torneo de Astaná 1ª Ronda;D. Dzumhur;M. Marterer;ATP Tennis TV;
 15:40;Torneo de Amberes 1ª Ronda;T. Monteiro;M. Navone;ATP Tennis TV;
 15:50;Torneo de Estocolmo 1ª Ronda;MA. Huesler;L. Sonego;ATP Tennis TV;
-16:00;Torneo de Astaná 1ª Ronda;F. Marozsan;B. Coric;ATP Tennis TV;
-17:15;Torneo de Amberes 1ª Ronda;R. Gasquet;TM. Etcheverry;ATP Tennis TV;
-17:30;Torneo de Estocolmo 1ª Ronda;T. Griekspoor;P. Kotov;ATP Tennis TV;
-18:45;Torneo de Amberes 1ª Ronda;R. Collignon;M. Fucsovics;ATP Tennis TV;
-19:00;Torneo de Estocolmo 1ª Ronda;L. Darderi;M. Berrettini;ATP Tennis TV;
+16:10;Torneo de Astaná 1ª Ronda;F. Marozsan;B. Coric;ATP Tennis TV;
+18:00;Torneo de Estocolmo 1ª Ronda;T. Griekspoor;P. Kotov;ATP Tennis TV;
+18:45;Torneo de Amberes 1ª Ronda;R. Gasquet;TM. Etcheverry;ATP Tennis TV;
+19:30;Torneo de Estocolmo 1ª Ronda;L. Darderi;M. Berrettini;ATP Tennis TV;
+20:45;Torneo de Amberes 1ª Ronda;R. Collignon;M. Fucsovics;ATP Tennis TV;
