@@ -1,8 +1,8 @@
-03:00;WTA Torneo de Osaka 1ª Ronda;C. Tauson;K. Volynets;WTA TV;
-05:00;WTA Torneo de Osaka 1ª Ronda;M. Kessler;E. Shibahara;WTA TV;
-06:30;WTA Torneo de Osaka 1ª Ronda;S. Kenin;A. Ito;WTA TV;
-08:00;WTA Torneo de Ningbo 1ª Ronda;D. Kasatkina;A. Bondar;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-09:30;WTA Torneo de Ningbo 1ª Ronda;Xi. Wang;K. Rakhimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+03:35;WTA Torneo de Osaka 1ª Ronda;C. Tauson;K. Volynets;WTA TV;
+05:20;WTA Torneo de Osaka 1ª Ronda;M. Kessler;E. Shibahara;WTA TV;
+07:05;WTA Torneo de Osaka 1ª Ronda;S. Kenin;A. Ito;WTA TV;
+08:11;WTA Torneo de Ningbo 1ª Ronda;T. Korpatsch;A. Bondar;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+09:35;WTA Torneo de Ningbo 1ª Ronda;Xi. Wang;K. Rakhimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 11:30;Torneo de Astaná 1ª Ronda;J. Engel;C. Wong;ATP Tennis TV;
 13:00;Torneo de Astaná 1ª Ronda;D. Dzumhur;M. Marterer;ATP Tennis TV;
 13:00;Torneo de Estocolmo 1ª Ronda;A. Kovacevic;D. Stricker;ATP Tennis TV;
