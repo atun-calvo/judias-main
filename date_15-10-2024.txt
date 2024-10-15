@@ -1,14 +1,14 @@
-03:30;WTA Torneo de Osaka 1ª Ronda;B. Andreescu;G. Minnen;WTA TV;
+03:40;WTA Torneo de Osaka 1ª Ronda;B. Andreescu;G. Minnen;WTA TV;
 05:00;WTA Torneo de Osaka 1ª Ronda;M. Uchijima;M. Bouzkova;WTA TV;
-06:30;WTA Torneo de Osaka 1ª Ronda;A. Krueger;E. Avanesyan;WTA TV;
 07:05;Tour of Chongming Island;Etapa 1;Chongming New City Park › Chongming New City Park (108,9 km);MAX;
 07:05;Tour of Guangxi;Etapa 1;Fangchenggang › Fangchenggang (149,4 km);MAX;
 08:00;Torneo de Astaná 1ª Ronda;R. Safiullin;A. Mannarino;ATP Tennis TV;
 08:00;WTA Torneo de Ningbo 1ª Ronda;Y. Wang;E. Seidel;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-08:00;WTA Torneo de Osaka 1ª Ronda;E. Mertens;M. Hontama;WTA TV;
+08:00;WTA Torneo de Osaka 1ª Ronda;A. Krueger;E. Avanesyan;WTA TV;
 09:00;Sevilla Open;3ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 09:30;Torneo de Astaná 1ª Ronda;B. Hassan;B. Zhukayev;ATP Tennis TV;
 09:30;WTA Torneo de Ningbo 1ª Ronda;A. Kalinskaya;A. Potapova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+09:30;WTA Torneo de Osaka 1ª Ronda;E. Mertens;M. Hontama;WTA TV;
 11:00;WTA Torneo de Ningbo 1ª Ronda;K. Muchova;O. Gadecki;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:00;Torneo de Amberes 1ª Ronda;J. Lehecka;J. Munar;ATP Tennis TV;
 12:30;WTA Torneo de Ningbo 1ª Ronda;Y. Yuan;A. Tomljanovic;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
