@@ -28,7 +28,7 @@
 19:15;Eurocup Women Liga Regular;Iraklis BC;Movistar Estudiantes;FIBA YouTube;
 19:30;Euroliga Liga Regular;ALBA Berlin;Fenerbahce Istanbul;M+ Deportes 4 (191);
 19:30;Torneo de Estocolmo 2ª Ronda;Q. Halys;G. Dimitrov;ATP Tennis TV;
-20:00;Six Kings Slam Semifinales;R. Nadal;C. Alcaraz;DAZN (Regístrate);DAZN App Gratis (Regístrate);Movistar Plus+ (M7);Tennis Channel (Orange 123);M+ Deportes 2 (64);
+20:00;Six Kings Slam Semifinales;C. Alcaraz;R. Nadal;DAZN (Regístrate);DAZN App Gratis (Regístrate);Movistar Plus+ (M7);Tennis Channel (Orange 123);M+ Deportes 2 (64);
 20:00;Torneo de Amberes 2ª Ronda;Z. Bergs;S. Báez;ATP Tennis TV;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;BC Partizan Beograd;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Zalgiris Kaunas;M+ Deportes 5 (192);
