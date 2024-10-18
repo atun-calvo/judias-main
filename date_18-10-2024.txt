@@ -36,7 +36,6 @@
 20:00;Torneo de Estocolmo 1/4 de Final;D. Stricker;G. Dimitrov;ATP Tennis TV;
 20:00;Ultimate Tennis Showdown Fase de grupos;U. Humbert;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 20:30;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Baskonia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:30;FIBA Europe Cup;Sporting CP CB;BC Dnipro;FIBA YouTube;
 20:30;LaLiga Hypermotion;Córdoba;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:30;Primera FEB Liga Regular;Gipuzkoa Basket;CB Morón;LaLiga+ Plus;
 20:30;Primera Federación Futsal;Barça FS;Manzanares FS;FEF TV;Esport3 (Cataluña);
