@@ -1,13 +1,12 @@
 03:00;Velada Peso Ligero;J. Pagan;H. Rhodes;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 07:45;Tour of Guangxi;Etapa 5;Yizhou › Nongla (165,8 km);MAX;
 07:58;WRC Rally;Rally de Europa Central;SS9 › SS14;DAZN (Regístrate);
-10:30;WTA Torneo de Ningbo Semifinal 1 WTA 500;P. Badosa;D. Kasatkina;WTA TV;DAZN (Regístrate);
 12:00;Torneo de Astaná Semifinal 1 ATP 250;F. Cerúndolo;G. Diallo;ATP Tennis TV;
-12:00;WTA Torneo de Ningbo Semifinal 2 WTA 500;M. Andreeva;K. Muchova;WTA TV;DAZN (Regístrate);
 12:30;Ultimate Tennis Showdown Fase de grupos;T. Kokkinakis;U. Humbert;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 12:45;Supersport 300;G.P. España (Jerez);Carrera 1;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 13:30;DTM;Hockenheimring Baden-Württemberg;Carrera 1;DAZN (Regístrate);
 13:30;Ultimate Tennis Showdown Fase de grupos;B. Shelton;L. Musetti;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+14:00;WTA Torneo de Ningbo Semifinal 2 WTA 500;M. Andreeva;K. Muchova;WTA TV;DAZN (Regístrate);
 14:30;Ultimate Tennis Showdown Fase de grupos;D. Thiem;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 15:00;Torneo de Astaná Semifinal 2 ATP 250;A. Vukic;K. Khachanov;ATP Tennis TV;
 15:30;Ultimate Tennis Showdown Fase de grupos;G. Monfils;JL. Struff;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
