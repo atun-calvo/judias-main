@@ -68,4 +68,4 @@
 21:00;La Liga EA Sports;Celta;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Mirandés;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 21:00;Ultimate Tennis Showdown Fase de grupos;U. Humbert;D. Thiem;GolStadium Premium (acceder);GolStadium (acceder);
-22:00;Velada;F. Ngannou;R. Ferreira;DAZN (Regístrate);
+22:00;Velada Professional Fighters League;F. Ngannou;R. Ferreira;DAZN (Regístrate);
