@@ -28,7 +28,7 @@
 14:00;Superbike;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;Teledeporte;RTVE Play;
 15:00;Premier League;Wolverhampton;Manchester City;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);DAZN 1 (M70);
 15:00;Torneo de Estocolmo Final ATP 250;T. Paul;G. Dimitrov;ATP Tennis TV;M+ Deportes 2 (64);
-15:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+15:00;Ultimate Tennis Showdown Final;B. Shelton;U. Humbert;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 15:15;Supersport;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 16:15;La Liga EA Sports;At. Madrid;Leganés;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Racing Ferrol;Huesca;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;

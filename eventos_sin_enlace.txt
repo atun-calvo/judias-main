@@ -8,7 +8,7 @@
 12:45;Supersport 300;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 13:00;Primera Federación Futsal;Jaén FS;Noia Portus Apostoli FS;FEF TV;
 13:30;Ultimate Tennis Showdown Semifinales;L. Musetti;U. Humbert;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
-15:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+15:00;Ultimate Tennis Showdown Final;B. Shelton;U. Humbert;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 15:15;Supersport;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);MAX;RTVE Play;
 17:00;Primera Federación Futsal;Palma Futsal;Viña Albali Valdepeñas;FEF TV;
 18:15;Lega Serie A Liga Regular;Virtus Bologna;Derthona Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
