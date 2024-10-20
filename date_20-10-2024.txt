@@ -41,7 +41,7 @@
 18:30;La Liga EA Sports;Villarreal;Getafe;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Elche;Sporting Gijón;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 18:30;LaLiga Hypermotion;Real Zaragoza;UD Almería;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
-18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ #Vamos Bar (304);M+ Deportes (63);
+18:30;Liga Endesa Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;NASCAR Cup Series;Las Vegas Speedway;Playoffs - Round of 8;DAZN (Regístrate);
 21:00;Fórmula 1;G.P. Estados Unidos (Austin);Carrera;DAZN (Regístrate);DAZN F1 (M69);
 21:00;La Liga EA Sports;FC Barcelona;Sevilla FC;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
