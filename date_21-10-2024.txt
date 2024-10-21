@@ -6,10 +6,10 @@
 10:30;WTA Torneo de Tokio 1ª Ronda;A. Sasnovich;L. Fernández;WTA TV;
 12:40;WTA Torneo de Guangzhou 1ª Ronda;V. Golubic;J. Cristian;WTA TV;
 13:45;WTA Torneo de Tokio 1ª Ronda;B. Andreescu;M. Yamaguchi;WTA TV;
-14:00;Torneo de Basilea 1ª Ronda;U. Humbert;J. Kym;ATP Tennis TV;M+ Deportes 3 (65);
-14:00;Torneo de Viena 1ª Ronda;F. Cobolli;A. Davidovich;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
-15:30;Torneo de Basilea 1ª Ronda;D. Altmaier;A. Fils;ATP Tennis TV;M+ Deportes 3 (65);
-15:30;Torneo de Viena 1ª Ronda;M. Fucsovics;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
+14:10;Torneo de Basilea 1ª Ronda;U. Humbert;J. Kym;ATP Tennis TV;M+ Deportes 3 (65);
+14:10;Torneo de Viena 1ª Ronda;F. Cobolli;A. Davidovich;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
+16:10;Torneo de Viena 1ª Ronda;M. Fucsovics;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
+17:05;Torneo de Basilea 1ª Ronda;D. Altmaier;A. Fils;ATP Tennis TV;M+ Deportes 3 (65);
 18:00;Torneo de Viena 1ª Ronda;A. Zverev;J. Schwaerzler;ATP Tennis TV;M+ Deportes 2 (64);
 19:30;Torneo de Viena 1ª Ronda;A. Popyrin;J. Mensik;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;Torneo de Basilea 1ª Ronda;A. Rublev;N. Borges;ATP Tennis TV;M+ Deportes 3 (65);
