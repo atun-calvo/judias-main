@@ -1,13 +1,13 @@
 04:05;WTA Torneo de Tokio 1ª Ronda;V. Tomova;V. Kudermetova;WTA TV;
 06:20;WTA Torneo de Tokio 1ª Ronda;V. Gracheva;M. Hontama;WTA TV;
 08:15;WTA Torneo de Tokio 1ª Ronda;Z. Sonmez;M. Frech;WTA TV;
-08:30;WTA Torneo de Guangzhou 1ª Ronda;R. Sramkova;S. Wei;WTA TV;
+08:40;WTA Torneo de Guangzhou 1ª Ronda;R. Sramkova;S. Wei;WTA TV;
 09:00;Cataluña Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);PD;New Giza Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 10:30;WTA Torneo de Tokio 1ª Ronda;A. Sasnovich;L. Fernández;WTA TV;
-12:00;WTA Torneo de Tokio 1ª Ronda;B. Andreescu;M. Yamaguchi;WTA TV;
-12:30;WTA Torneo de Guangzhou 1ª Ronda;V. Golubic;J. Cristian;WTA TV;
+12:40;WTA Torneo de Guangzhou 1ª Ronda;V. Golubic;J. Cristian;WTA TV;
+13:45;WTA Torneo de Tokio 1ª Ronda;B. Andreescu;M. Yamaguchi;WTA TV;
 14:00;Torneo de Basilea 1ª Ronda;U. Humbert;J. Kym;ATP Tennis TV;M+ Deportes 3 (65);
-14:00;Torneo de Viena 1ª Ronda;F. Cobolli;A. Davidovich;ATP Tennis TV;M+ Deportes 2 (64);
+14:00;Torneo de Viena 1ª Ronda;F. Cobolli;A. Davidovich;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 15:30;Torneo de Basilea 1ª Ronda;D. Altmaier;A. Fils;ATP Tennis TV;M+ Deportes 3 (65);
 15:30;Torneo de Viena 1ª Ronda;M. Fucsovics;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
 18:00;Torneo de Viena 1ª Ronda;A. Zverev;J. Schwaerzler;ATP Tennis TV;M+ Deportes 2 (64);

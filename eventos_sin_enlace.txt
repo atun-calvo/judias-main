@@ -1,7 +1,7 @@
 04:05;WTA Torneo de Tokio 1ª Ronda;V. Tomova;V. Kudermetova;WTA TV;
 06:20;WTA Torneo de Tokio 1ª Ronda;V. Gracheva;M. Hontama;WTA TV;
 08:15;WTA Torneo de Tokio 1ª Ronda;Z. Sonmez;M. Frech;WTA TV;
-08:30;WTA Torneo de Guangzhou 1ª Ronda;R. Sramkova;S. Wei;WTA TV;
+08:40;WTA Torneo de Guangzhou 1ª Ronda;R. Sramkova;S. Wei;WTA TV;
 10:30;WTA Torneo de Tokio 1ª Ronda;A. Sasnovich;L. Fernández;WTA TV;
-12:00;WTA Torneo de Tokio 1ª Ronda;B. Andreescu;M. Yamaguchi;WTA TV;
-12:30;WTA Torneo de Guangzhou 1ª Ronda;V. Golubic;J. Cristian;WTA TV;
+12:40;WTA Torneo de Guangzhou 1ª Ronda;V. Golubic;J. Cristian;WTA TV;
+13:45;WTA Torneo de Tokio 1ª Ronda;B. Andreescu;M. Yamaguchi;WTA TV;
