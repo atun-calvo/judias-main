@@ -10,12 +10,15 @@
 12:30;WTA Torneo de Guangzhou 1ª Ronda;S. Zhang;K. Rakhimova;WTA TV;
 18:00;Basketball Champions League Liga Regular;Manisa BBSK;Peristeri BC;DAZN (Regístrate);
 18:00;Copa de España Fase de grupos;Club Ourense Baloncesto;CB Santfeliuenc;FEB TV;
+18:15;FIBA Europe Cup;BC Rilski Sportist;ESSM Le Portel Côte;FIBA YouTube;
 18:30;Basketball Champions League Liga Regular;CEZl Nymburk;Rasta Vechta;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;King Szczecin;Filou Oostende;DAZN (Regístrate);
+18:30;FIBA Europe Cup;BC Kalev Cramo;Alba Fehervar;FIBA YouTube;
 18:35;Basketball Champions League Liga Regular;Hapoel Holon;KK Igokea;DAZN (Regístrate);
 19:00;Copa de España Fase de grupos;CB Prat;UE Mataró;FEB TV;
 19:00;Eurocup Liga Regular;Besiktas JK Istanbul;Joventut Badalona;Esport3 (Cataluña);
 19:00;FIBA Europe Cup Liga Regular;BC Prievidza;Bilbao Basket;FIBA YouTube;ETBK (País Vasco);
+19:05;Eurocup Women;Elitzur Ramla;Asseco Arka Gdynia;FIBA YouTube;
 19:30;Copa de España Fase de grupos;CB Salou;CB Peñas Huesca;FEB TV;
 19:30;Copa de España Fase de grupos;Gipuzkoa Basket;Zornotza;FEB TV;
 19:30;Copa de España Fase de grupos;Sant Antoni Ibiza;FC Cartagena CB;FEB TV;
@@ -26,6 +29,7 @@
 20:30;Copa de España Fase de grupos;CB Morón;Melilla Sport Capital;FEB TV;
 20:30;Copa de España Fase de grupos;Damex UDEA Algeciras;Ciudad de Huelva;FEB TV;
 20:30;Copa de España Fase de grupos;Movistar Estudiantes;Albacete Basket;FEB TV;
+20:30;FIBA Europe Cup;Dinamo Sassari;BC Dnipro;FIBA YouTube;
 20:45;Copa de España Fase de grupos;CB L´Horta Godella;HLA Alicante;FEB TV;
 20:45;Copa de España Fase de grupos;Cáceres Basket;La Salud Archena;FEB TV;
-20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;FEB TV;
+20:45;Copa de España Fase de grupos;UEMC RV Baloncesto;CB Zamora;Twitch baloncestoesp;
