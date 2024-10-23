@@ -8,10 +8,10 @@
 10:40;WTA Torneo de Tokio 2ª Ronda;B. Andreescu;B. Haddad Maia;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
 12:00;Cataluña Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 12:40;WTA Torneo de Guangzhou 2ª Ronda;S. Wei;Xi. Wang;WTA TV;
-14:00;Torneo de Basilea 1ª Ronda;F. Auger-Aliassime;S. Báez;ATP Tennis TV;M+ Deportes 3 (65);
-14:00;Torneo de Viena 2ª Ronda;G. Dimitrov;Zh. Zhang;ATP Tennis TV;M+ Deportes 2 (64);
-15:30;Torneo de Basilea 2ª Ronda;R. Bautista-Agut;C. Ruud;ATP Tennis TV;M+ Deportes 3 (65);
-15:30;Torneo de Viena 2ª Ronda;B. Nakashima;T. Paul;ATP Tennis TV;M+ Deportes 2 (64);
+14:10;Torneo de Basilea 1ª Ronda;F. Auger-Aliassime;S. Báez;ATP Tennis TV;M+ Deportes 3 (65);
+14:10;Torneo de Viena 2ª Ronda;G. Dimitrov;Zh. Zhang;ATP Tennis TV;M+ Deportes 2 (64);
+15:50;Torneo de Basilea 2ª Ronda;R. Bautista-Agut;C. Ruud;ATP Tennis TV;M+ Deportes 3 (65);
+16:05;Torneo de Viena 2ª Ronda;B. Nakashima;T. Paul;ATP Tennis TV;M+ Deportes 2 (64);
 16:30;Europa League Fase Liga;Galatasaray;Elfsborg;M+ Liga de Campeones 3 (M62 O118);
 16:30;Europa League Fase Liga;SC Braga;Bodø/Glimt;M+ Liga de Campeones 4 (M180 O276);
 17:00;Eurocup Women;KP Brno;Galatasaray Istanbul;FIBA YouTube;
@@ -25,8 +25,8 @@
 18:00;FIBA Europe Cup;BC Balkan Botevgrad;BC Kutaisi 2010;FIBA YouTube;
 18:00;FIBA Europe Cup;BC Parnu Sadam;PGE Spojnia Stargard;FIBA YouTube;
 18:00;FIBA Europe Cup;CSM Oradea;FC Arges Basketball;FIBA YouTube;
-18:00;Torneo de Basilea 2ª Ronda;A. Mannarino;S. Wawrinka;ATP Tennis TV;M+ Deportes 3 (65);
-18:00;Torneo de Viena 2ª Ronda;A. Zverev;M. Giron;ATP Tennis TV;M+ Deportes 2 (64);
+18:10;Torneo de Basilea 2ª Ronda;A. Mannarino;S. Wawrinka;ATP Tennis TV;M+ Deportes 3 (65);
+18:10;Torneo de Viena 2ª Ronda;A. Zverev;M. Giron;ATP Tennis TV;M+ Deportes 2 (64);
 18:30;Basketball Champions League Liga Regular;Promitheas Patras BC;Galatasaray Istanbul;DAZN (Regístrate);
 18:30;Eurocup Liga Regular;Türk Telekom Ankara;Valencia Basket;Movistar Plus+ 2 (M176);M+ Deportes (63);
 18:30;FIBA Europe Cup;BC Trepca;Caledonia Gladiators;FIBA YouTube;
@@ -40,8 +40,8 @@
 19:15;FIBA Europe Cup;PAOK Salónica;Szolnoki Olaj;FIBA YouTube;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;JDA Dijon;FIBA YouTube;
 19:30;Futsal Champions League Ronda Principal;Futsal Dinamo;Palma Futsal;IB3 Online (Baleares);Esports IB3 YouTube;
-19:30;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);
-19:30;Torneo de Viena 2ª Ronda;F. Tiafoe;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+19:30;Torneo de Viena 2ª Ronda;F. Tiafoe;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
+19:45;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:00;Basketball Champions League Liga Regular;Nanterre 92;S. Oliver Baskets;DAZN (Regístrate);
 20:00;Eurocup Women Liga Regular;BAXI Ferrol;Uniao Sportiva Azoris;FIBA YouTube;TVG2 (Galicia);
 20:00;Eurocup Women Liga Regular;Movistar Estudiantes;KSC Szekszard;FIBA YouTube;
