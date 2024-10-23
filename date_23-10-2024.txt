@@ -47,13 +47,13 @@
 20:00;Eurocup Women;Castors Braine;BC Constanta;FIBA YouTube;
 20:00;FIBA Europe Cup Liga Regular;Casademont Zaragoza;Anorthosis Famagusta BC;FIBA YouTube;Aragón Deporte;
 20:00;FIBA Europe Cup;Telenet Giants Antwerp;Fribourg Olympic;FIBA YouTube;
-20:15;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:30;Basketball Champions League Liga Regular;Unicaja Málaga;Petkimspor Kulübü;101 TV (Málaga);DAZN (Regístrate);
 20:30;Copa de España Fase de grupos;Gran Canaria B;Clínica Ponferrada SDP;FEB TV;
 20:30;Eurocup Women;Dinamo Sassari;Zaglebie Sosnowiec;FIBA YouTube;
 20:30;Euroliga Liga Regular;BC Partizan Beograd;Virtus Bologna;M+ Deportes 4 (191);
 20:30;FIBA Europe Cup;Cholet Basket;BC Constanta;FIBA YouTube;
 20:30;FIBA Europe Cup;Spirou Charleroi;Maroussi BC;FIBA YouTube;
+20:35;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 21:00;Champions League Fase Liga;At. Madrid;Lille;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);LaLiga TV M2;
 21:00;Champions League Fase Liga;Benfica;Feyenoord;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 7 (M184 O279);
 21:00;Champions League Fase Liga;FC Barcelona;FC Bayern;Movistar Plus+ (M7);M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
