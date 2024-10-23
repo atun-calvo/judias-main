@@ -26,7 +26,7 @@
 18:00;FIBA Europe Cup;BC Parnu Sadam;PGE Spojnia Stargard;FIBA YouTube;
 18:00;FIBA Europe Cup;CSM Oradea;FC Arges Basketball;FIBA YouTube;
 18:10;Torneo de Basilea 2ª Ronda;A. Mannarino;S. Wawrinka;ATP Tennis TV;M+ Deportes 3 (65);
-18:10;Torneo de Viena 2ª Ronda;A. Zverev;M. Giron;ATP Tennis TV;M+ Deportes 2 (64);
+18:20;Torneo de Viena 2ª Ronda;A. Zverev;M. Giron;ATP Tennis TV;M+ Deportes 2 (64);
 18:30;Basketball Champions League Liga Regular;Promitheas Patras BC;Galatasaray Istanbul;DAZN (Regístrate);
 18:30;Eurocup Liga Regular;Türk Telekom Ankara;Valencia Basket;Movistar Plus+ 2 (M176);M+ Deportes (63);
 18:30;FIBA Europe Cup;BC Trepca;Caledonia Gladiators;FIBA YouTube;
@@ -40,14 +40,14 @@
 19:15;FIBA Europe Cup;PAOK Salónica;Szolnoki Olaj;FIBA YouTube;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;JDA Dijon;FIBA YouTube;
 19:30;Futsal Champions League Ronda Principal;Futsal Dinamo;Palma Futsal;IB3 Online (Baleares);Esports IB3 YouTube;
-19:30;Torneo de Viena 2ª Ronda;F. Tiafoe;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
-19:45;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+19:50;Torneo de Viena 2ª Ronda;F. Tiafoe;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;Basketball Champions League Liga Regular;Nanterre 92;S. Oliver Baskets;DAZN (Regístrate);
 20:00;Eurocup Women Liga Regular;BAXI Ferrol;Uniao Sportiva Azoris;FIBA YouTube;TVG2 (Galicia);
 20:00;Eurocup Women Liga Regular;Movistar Estudiantes;KSC Szekszard;FIBA YouTube;
 20:00;Eurocup Women;Castors Braine;BC Constanta;FIBA YouTube;
 20:00;FIBA Europe Cup Liga Regular;Casademont Zaragoza;Anorthosis Famagusta BC;FIBA YouTube;Aragón Deporte;
 20:00;FIBA Europe Cup;Telenet Giants Antwerp;Fribourg Olympic;FIBA YouTube;
+20:15;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:30;Basketball Champions League Liga Regular;Unicaja Málaga;Petkimspor Kulübü;101 TV (Málaga);DAZN (Regístrate);
 20:30;Copa de España Fase de grupos;Gran Canaria B;Clínica Ponferrada SDP;FEB TV;
 20:30;Eurocup Women;Dinamo Sassari;Zaglebie Sosnowiec;FIBA YouTube;
