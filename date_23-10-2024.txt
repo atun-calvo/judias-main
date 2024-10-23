@@ -16,7 +16,7 @@
 16:30;Europa League Fase Liga;SC Braga;Bodø/Glimt;M+ Liga de Campeones 4 (M180 O276);
 17:00;Eurocup Women;KP Brno;Galatasaray Istanbul;FIBA YouTube;
 17:00;FIBA Europe Cup;BC Sabah;Norrköping Dolphins;FIBA YouTube;
-17:00;Futsal Champions League Ronda Principal;Jimbee Cartagena FS;Bielsko-Biala;Canal por confirmar;
+17:00;Futsal Champions League Ronda Principal;Jimbee Cartagena FS;Bielsko-Biala;Telecartagena;
 17:30;Eurocup Women;Peli-Karhut Basketball;Rutronik Stars Keltern;FIBA YouTube;
 18:00;Eurocup Women Liga Regular;Peac Pecs;Spar Girona;FIBA YouTube;Esport3 (Cataluña);
 18:00;Eurocup Women;Pieštanské Cajky;Sopron Basket;FIBA YouTube;
@@ -39,7 +39,7 @@
 19:00;LaLiga Hypermotion;Eldense;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M4;
 19:15;FIBA Europe Cup;PAOK Salónica;Szolnoki Olaj;FIBA YouTube;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;JDA Dijon;FIBA YouTube;
-19:30;Futsal Champions League Ronda Principal;Futsal Dinamo;Palma Futsal;Canal por confirmar;
+19:30;Futsal Champions League Ronda Principal;Futsal Dinamo;Palma Futsal;IB3 Online (Baleares);Esports IB3 YouTube;
 19:30;Torneo de Basilea 2ª Ronda;A. Rublev;A. Tabilo;ATP Tennis TV;M+ Deportes 3 (65);
 19:30;Torneo de Viena 2ª Ronda;F. Tiafoe;M. Berrettini;ATP Tennis TV;M+ Deportes 2 (64);PD;New Giza Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:00;Basketball Champions League Liga Regular;Nanterre 92;S. Oliver Baskets;DAZN (Regístrate);
