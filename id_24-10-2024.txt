@@ -79,7 +79,7 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 LaLiga Smartbank 2 720 
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924 
 LaLiga Smartbank 3 
-acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e 
+acestream://20196007a6697a1f11589fd4c8bab6713c265e64 
 LaLiga Smartbank 4 
 acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2 
 LaLiga Smartbank 5 

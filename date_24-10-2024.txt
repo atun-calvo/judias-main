@@ -52,9 +52,9 @@
 19:30;Eurocup Women;ALBA Berlin;Kibirkstis Vilnius;FIBA YouTube;
 19:30;Eurocup Women;BCF Elfic Fribourg;Basket Montpellier;FIBA YouTube;
 19:30;Futsal Champions League Ronda Principal;Palma Futsal;United Galati;IB3 Online (Baleares);Esports IB3 YouTube;
-19:30;Torneo de Basilea 2ª Ronda;F. Auger-Aliassime;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes 3 (65);
-19:30;Torneo de Viena 2ª Ronda;K. Khachanov;B. Nakashima;ATP Tennis TV;M+ Deportes 2 (64);
+19:55;Torneo de Viena 2ª Ronda;K. Khachanov;B. Nakashima;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;Eurocup Women Liga Regular;UFAB 49;CB Jairis;FIBA YouTube;
+20:00;Torneo de Basilea 2ª Ronda;F. Auger-Aliassime;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes 3 (65);
 20:30;Eurocup Women;Basket Namur Capitale;Besiktas JK Istanbul;FIBA YouTube;
 20:30;Eurocup Women;GEAS Basket;Benfica CB;FIBA YouTube;
 20:30;Eurocup Women;Kangoeroes Mechelen;TTT Riga;FIBA YouTube;
