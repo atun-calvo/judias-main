@@ -9,8 +9,7 @@
 04:00;NBA Liga Regular;Los Angeles Lakers;Phoenix Suns;NBA League Pass;
 04:00;NBA Liga Regular;Portland Trail Blazers;New Orleans Pelicans;NBA League Pass;
 07:15;Supercars Championship;Surfers Paradise Street Circuit;Carrera 1;DAZN (Regístrate);
-10:00;Torneo de Les Franqueses del Vallés Semifinal 1;A. Zakharova;A. Schmiedlova;Marca YouTube;
-12:00;Torneo de Les Franqueses del Vallés Semifinal 2;K. Mladenovic;A. Charaeva;Marca YouTube;
+15:00;Torneo de Les Franqueses del Vallés Semifinal 1;A. Zakharova;A. Schmiedlova;Marca YouTube;
 16:00;Primera Federación Futsal;Burela FS;Ribera Navarra FS;FEF TV;
 17:00;La Nucía Criterium;Edición 2024;À Punt (C. Valenciana);
 18:00;Primera Federación Futsal;Manzanares FS;Osasuna Magna;FEF TV;
