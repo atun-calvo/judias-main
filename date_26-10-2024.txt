@@ -10,15 +10,15 @@
 03:30;NBA Liga Regular;Utah Jazz;Golden State Warriors;NBA League Pass;
 04:00;NBA Liga Regular;Los Angeles Lakers;Phoenix Suns;NBA League Pass;
 04:00;NBA Liga Regular;Portland Trail Blazers;New Orleans Pelicans;NBA League Pass;
-05:00;WTA Torneo de Tokio Semifinal 1 WTA 500;S. Kenin;K. Boulter;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);MAX;
+05:10;WTA Torneo de Tokio Semifinal 1 WTA 500;S. Kenin;K. Boulter;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);MAX;
 05:50;MotoGP;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
-07:00;WTA Torneo de Tokio Semifinal 2 WTA 500;Q. Zheng;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);MAX;
+07:10;WTA Torneo de Tokio Semifinal 2 WTA 500;Q. Zheng;D. Shnaider;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);DAZN 2 (M71);MAX;
 07:15;Supercars Championship;Surfers Paradise Street Circuit;Carrera 1;DAZN (Regístrate);
 07:50;Moto3;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 08:45;Moto2;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 10:00;MotoGP;G.P. Tailandia (Chang);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 10:00;Torneo de Les Franqueses del Vallés Semifinal 1;A. Zakharova;A. Schmiedlova;Marca YouTube;
-10:30;WTA Torneo de Guangzhou Semifinal 1 WTA 250;K. Siniakova;O. Danilovic;WTA TV;DAZN (Regístrate);DAZN 2 (M71);MAX;
+10:35;WTA Torneo de Guangzhou Semifinal 1 WTA 250;K. Siniakova;O. Danilovic;WTA TV;DAZN (Regístrate);DAZN 2 (M71);MAX;
 11:00;Cataluña Open;Semifinales;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);MAX;
 12:00;Torneo de Les Franqueses del Vallés Semifinal 2;K. Mladenovic;A. Charaeva;Marca YouTube;
 12:30;WTA Torneo de Guangzhou Semifinal 2 WTA 250;L. Bronzetti;C. Dolehide;WTA TV;DAZN (Regístrate);DAZN 2 (M71);MAX;
