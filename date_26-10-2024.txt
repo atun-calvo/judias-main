@@ -36,7 +36,7 @@
 16:30;Torneo de Viena Semifinal 2 ATP 500;K. Khachanov;A. De Miñaur;ATP Tennis TV;M+ Deportes 2 (64);
 17:00;La Nucía Criterium;Edición 2024;À Punt (C. Valenciana);
 17:00;Torneo de Basilea Semifinal 2 ATP 500;H. Rune;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes 5 (192);
-17:30;New Giza Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
+17:30;New Giza Open;Final Masculina;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
 18:00;Liga Endesa Liga Regular;Baskonia;Joventut Badalona;M+ Deportes (63);
 18:00;Liga Endesa Liga Regular;Basquet Girona;UCAM Murcia CB;M+ Deportes 3 (65);
 18:00;Primera Federación Futsal;Manzanares FS;Osasuna Magna;FEF TV;
