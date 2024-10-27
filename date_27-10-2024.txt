@@ -15,7 +15,6 @@
 10:00;Torneo de Les Franqueses del Vallés Semifinal 2;K. Mladenovic;A. Charaeva;Marca YouTube;
 10:00;WTA Torneo de Guangzhou Final WTA 250;O. Danilovic;C. Dolehide;WTA TV;DAZN (Regístrate);DAZN 2 (M71);MAX;
 11:00;Cataluña Open;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 3 (M196);MAX;
-11:30;Torneo de Les Franqueses del Vallés;Final;M+ Ellas Vamos (66);Movistar+ Lite;Marca YouTube;
 12:00;Primera FEB Liga Regular;CB Morón;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;BAXI Manresa;M+ Deportes (63);
 12:30;Primera FEB Liga Regular;HLA Alicante;Baloncesto Fuenlabrada;LaLiga+ Plus;
@@ -26,6 +25,7 @@
 15:00;Premier League;Chelsea;Newcastle;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
 15:00;Premier League;Crystal Palace;Tottenham;DAZN (Regístrate);DAZN 3 (M196);MAX;
 15:00;Premier League;West Ham;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
+15:00;Torneo de Les Franqueses del Vallés Final;A. Charaeva;A. Zakharova;Marca YouTube;
 15:30;Torneo de Basilea Final ATP 500;B. Shelton;G. Mpetshi Perricard;ATP Tennis TV;M+ Deportes (63);
 16:15;La Liga EA Sports;Getafe;Valencia CF;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Deportivo;Racing Santander;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
@@ -38,7 +38,7 @@
 18:30;La Liga EA Sports;Real Betis;At. Madrid;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Albacete;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
 18:30;LaLiga Hypermotion;Huesca;UD Almería;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
-18:30;Liga Endesa Liga Regular;Unicaja Málaga;Barça Basket;Movistar Plus+ (M7);M+ #Vamos Bar (304);
+18:30;Liga Endesa Liga Regular;Unicaja Málaga;Barça Basket;M+ #Vamos Bar (304);M+ Vamos (8 y 53);Movistar+ Lite;M+ Deportes (63);
 18:30;Primera FEB Liga Regular;Movistar Estudiantes;CB Zamora;LaLiga+ Plus;M+ Deportes 5 (192);
 20:30;NASCAR Cup Series;Homestead-Miami Speedway;Playoffs - Round of 8;DAZN (Regístrate);
 20:30;NBA Liga Regular;Indiana Pacers;Philadelphia 76ers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
