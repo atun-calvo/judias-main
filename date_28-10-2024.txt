@@ -17,7 +17,8 @@
 15:30;Masters París 1ª Ronda;F. Fognini;A. Bublik;ATP Tennis TV;M+ Deportes 2 (64);
 17:00;Masters París 1ª Ronda;N. Jarry;L. Sonego;ATP Tennis TV;M+ Deportes 2 (64);
 19:00;Masters París 1ª Ronda;S. Tsitsipas;R. Carballés;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:00;WTA Torneo de Mérida;1ª Ronda;WTA 250;WTA TV;
 20:30;LaLiga Hypermotion;Racing Ferrol;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:30;Masters París 1ª Ronda;A. Mannarino;T. Paul;ATP Tennis TV;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;Mallorca;Athletic Club;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
+21:00;WTA Torneo de Mérida 1ª Ronda;N. Parrizas Díaz;A. Li;WTA TV;
+22:30;WTA Torneo de Mérida 1ª Ronda;T. Maria;N. Stojanovic;WTA TV;

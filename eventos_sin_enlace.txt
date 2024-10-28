@@ -7,4 +7,5 @@
 10:30;WTA Torneo de Jiujiang 1ª Ronda;M. Bouzkova;A. Eala;WTA TV;
 13:00;Campeonato del Mundo;Fase de grupos;Canal por confirmar;
 13:30;WTA Torneo de Hong Kong 1ª Ronda;J. Ponchet;X. Wang;WTA TV;
-20:00;WTA Torneo de Mérida;1ª Ronda;WTA 250;WTA TV;
+21:00;WTA Torneo de Mérida 1ª Ronda;N. Parrizas Díaz;A. Li;WTA TV;
+22:30;WTA Torneo de Mérida 1ª Ronda;T. Maria;N. Stojanovic;WTA TV;
