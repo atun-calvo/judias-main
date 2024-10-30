@@ -1,6 +1,6 @@
 from playwright.async_api import async_playwright
 import asyncio
-
+import subprocess
 
 async def extract_links_from_iframe(url):
     async with async_playwright() as p:
@@ -67,3 +67,4 @@ async def main():
 
 # Run the async function
 asyncio.run(main())
+subprocess.run(["/bin/bash", "./eventos.sh"])
