@@ -1,35 +1,4 @@
 #!/bin/bash
-# Chequea qué tipo de instalador de paquetes utiliza e instala los paquetes si no los tiene ya
-
-paquetes='curl tor pandoc'
-
-apt --version &> /dev/null
-if [[ $(echo $?) == 0 ]]
-        then
-		apt update &> /dev/null
-                apt install -y $paquetes &> /dev/null
-fi
-
-dnf --version &> /dev/null
-if [[ $(echo $?) == 0 ]]
-        then
-		dnf install -y epel-release &> /dev/null
-                dnf install -y $paquetes &> /dev/null
-
-fi
-
-pacman -V &> /dev/null
-if [[ $(echo $?) == 0 ]]
-        then
-		sudo pacman -Sy &> /dev/null
-                sudo pacman -S --noconfirm $paquetes &> /dev/nulli
-fi
-
-# Ejecutamos tor en segundo plano para que se inicie
-#pkill tor &> /dev/null
-tor & > /dev/null 2>&1
-sleep 5
-
 ##Variables##
 rm -f /tmp/tmp.* 2> /dev/null
 file1="$(mktemp)"
