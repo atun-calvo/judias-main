@@ -69,57 +69,50 @@ ls *.txt &> /dev/null
 if [ $? = 0 ]; then
 	rm -f *.txt
 else
-	touch "id_$date.txt"
+	touch "ace_ids.txt"
 	touch "date_$date.txt"
 fi
 
 
 ## Descarga del fichero de enlaces y formateado de texto ##
-curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
+#curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
 
-awk '/• <a href="acestream/ {print $0}' $file1 | awk '{split($0,a,"\"")
-                                                split(a[5],b,">")
-                                                split(b[2],c,"<")
-                                                print a[2],"\""c[1]"\""}' > $file2
+#Obtiene los ids y genera un archivo llamado ace_ids.txt
+python3.9 ./getElcanoWeb.py
 
-while read line
-do
-        echo $line | awk '{split($0,a,"\"");print a[2],"\n"a[1]}' >> id_$date.txt
-
-done < $file2
 
 # Organizador de enlaces
-canales_mliga="$(mktemp)"; grep -A1 -i -e "M\. *LaLiga *1080" -e "M\. *LaLiga *720" -e "M\..*Laliga *HD" id_$date.txt > $canales_mliga
-canales_mliga2="$(mktemp)"; grep -A1 -i -e 'M\. *LaLiga *2' id_$date.txt > $canales_mliga2
-canales_daznliga="$(mktemp)"; grep -A1 -i -e "dazn *laliga *1080" -e "dazn *laliga *720" id_$date.txt > $canales_daznliga
-canales_daznliga2="$(mktemp)"; grep -A1 -i -e 'dazn *laliga *2' id_$date.txt > $canales_daznliga2
-canales_liga_segunda="$(mktemp)"; grep -A1 -i -e 'smartbank 1080' -e 'smartbank 720' id_$date.txt > $canales_liga_segunda
-canales_liga_segunda2="$(mktemp)"; grep -A1 -i 'smartbank 2' id_$date.txt > $canales_liga_segunda2
-canales_liga_segunda3="$(mktemp)"; grep -A1 -i 'smartbank 3' id_$date.txt > $canales_liga_segunda3
-canales_dazn="$(mktemp)"; grep -A1 -i -e 'dazn *1' id_$date.txt > $canales_dazn
-canales_dazn2="$(mktemp)"; grep -A1 -i -e 'DAZN *2' id_$date.txt > $canales_dazn2
-canales_dazn3="$(mktemp)"; grep -A1 -i -e 'DAZN *3' id_$date.txt > $canales_dazn3
-canales_dazn4="$(mktemp)"; grep -A1 -i -e 'DAZN *4' id_$date.txt > $canales_dazn4
-canales_daznF1="$(mktemp)" ; grep -A1 -i -e 'DAZN *F1' id_$date.txt > $canales_daznF1
-canales_tvbar="$(mktemp)"; grep -A1 -i -e 'laliga *tv' id_$date.txt > $canales_tvbar
-canales_deportes="$(mktemp)" ; grep -A1 -i -e "m\. *deportes *1080" -e "m\. *deportes *720" id_$date.txt > $canales_deportes
-canales_deportes2="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *2' id_$date.txt > $canales_deportes2
-canales_deportes3="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *3' id_$date.txt > $canales_deportes3
-canales_deportes4="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *4' id_$date.txt > $canales_deportes4
-canales_deportes5="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *5' id_$date.txt > $canales_deportes5
-canales_deportes6="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *6' id_$date.txt > $canales_deportes6
-canales_deportes7="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *7' id_$date.txt > $canales_deportes7
-canales_campeones="$(mktemp)" ; grep -A1 -i -e "campeones *1080" -e "campeones *720" id_$date.txt > $canales_campeones
-canales_campeones2="$(mktemp)" ; grep -A1 -i -e "campeones *2" id_$date.txt > $canales_campeones2
-canales_campeones3="$(mktemp)" ; grep -A1 -i -e "campeones *3" id_$date.txt > $canales_campeones3
-canales_campeones4="$(mktemp)" ; grep -A1 -i -e "campeones *4" id_$date.txt > $canales_campeones4
-canales_campeones5="$(mktemp)" ; grep -A1 -i -e "campeones *5" id_$date.txt > $canales_campeones5
-canales_campeones6="$(mktemp)" ; grep -A1 -i -e "campeones *6" id_$date.txt > $canales_campeones6
-canales_campeones7="$(mktemp)" ; grep -A1 -i -e "campeones *7" id_$date.txt > $canales_campeones7
-canales_supercopa="$(mktemp)" ; grep -A1 -e 'SuperCopa' id_$date.txt > $canales_supercopa
-canales_vamos="$(mktemp)" ; grep -A1 -e 'Vamos' id_$date.txt > $canales_vamos
-canales_eurosport1="$(mktemp)" ; grep -A1 -i -e 'eurosport *1' id_$date.txt > $canales_eurosport1
-canales_eurosport2="$(mktemp)" ; grep -A1 -i -e 'eurosport *2' id_$date.txt > $canales_eurosport2
+canales_mliga="$(mktemp)"; grep -A1 -i -e "M\. *LaLiga *1080" -e "M\. *LaLiga *720" -e "M\..*Laliga *HD" ace_ids.txt > $canales_mliga
+canales_mliga2="$(mktemp)"; grep -A1 -i -e 'M\. *LaLiga *2' ace_ids.txt > $canales_mliga2
+canales_daznliga="$(mktemp)"; grep -A1 -i -e "dazn *laliga *1080" -e "dazn *laliga *720" ace_ids.txt > $canales_daznliga
+canales_daznliga2="$(mktemp)"; grep -A1 -i -e 'dazn *laliga *2' ace_ids.txt > $canales_daznliga2
+canales_liga_segunda="$(mktemp)"; grep -A1 -i -e 'smartbank 1080' -e 'smartbank 720' ace_ids.txt > $canales_liga_segunda
+canales_liga_segunda2="$(mktemp)"; grep -A1 -i 'smartbank 2' ace_ids.txt > $canales_liga_segunda2
+canales_liga_segunda3="$(mktemp)"; grep -A1 -i 'smartbank 3' ace_ids.txt > $canales_liga_segunda3
+canales_dazn="$(mktemp)"; grep -A1 -i -e 'dazn *1' ace_ids.txt > $canales_dazn
+canales_dazn2="$(mktemp)"; grep -A1 -i -e 'DAZN *2' ace_ids.txt > $canales_dazn2
+canales_dazn3="$(mktemp)"; grep -A1 -i -e 'DAZN *3' ace_ids.txt > $canales_dazn3
+canales_dazn4="$(mktemp)"; grep -A1 -i -e 'DAZN *4' ace_ids.txt > $canales_dazn4
+canales_daznF1="$(mktemp)" ; grep -A1 -i -e 'DAZN *F1' ace_ids.txt > $canales_daznF1
+canales_tvbar="$(mktemp)"; grep -A1 -i -e 'laliga *tv' ace_ids.txt > $canales_tvbar
+canales_deportes="$(mktemp)" ; grep -A1 -i -e "m\. *deportes *1080" -e "m\. *deportes *720" ace_ids.txt > $canales_deportes
+canales_deportes2="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *2' ace_ids.txt > $canales_deportes2
+canales_deportes3="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *3' ace_ids.txt > $canales_deportes3
+canales_deportes4="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *4' ace_ids.txt > $canales_deportes4
+canales_deportes5="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *5' ace_ids.txt > $canales_deportes5
+canales_deportes6="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *6' ace_ids.txt > $canales_deportes6
+canales_deportes7="$(mktemp)" ; grep -A1 -i -e 'm\. *deportes *7' ace_ids.txt > $canales_deportes7
+canales_campeones="$(mktemp)" ; grep -A1 -i -e "campeones *1080" -e "campeones *720" ace_ids.txt > $canales_campeones
+canales_campeones2="$(mktemp)" ; grep -A1 -i -e "campeones *2" ace_ids.txt > $canales_campeones2
+canales_campeones3="$(mktemp)" ; grep -A1 -i -e "campeones *3" ace_ids.txt > $canales_campeones3
+canales_campeones4="$(mktemp)" ; grep -A1 -i -e "campeones *4" ace_ids.txt > $canales_campeones4
+canales_campeones5="$(mktemp)" ; grep -A1 -i -e "campeones *5" ace_ids.txt > $canales_campeones5
+canales_campeones6="$(mktemp)" ; grep -A1 -i -e "campeones *6" ace_ids.txt > $canales_campeones6
+canales_campeones7="$(mktemp)" ; grep -A1 -i -e "campeones *7" ace_ids.txt > $canales_campeones7
+canales_supercopa="$(mktemp)" ; grep -A1 -e 'SuperCopa' ace_ids.txt > $canales_supercopa
+canales_vamos="$(mktemp)" ; grep -A1 -e 'Vamos' ace_ids.txt > $canales_vamos
+canales_eurosport1="$(mktemp)" ; grep -A1 -i -e 'eurosport *1' ace_ids.txt > $canales_eurosport1
+canales_eurosport2="$(mktemp)" ; grep -A1 -i -e 'eurosport *2' ace_ids.txt > $canales_eurosport2
 
 
 ##Descarga del fichero de horarios y formateado##
@@ -218,7 +211,7 @@ sort $file8 > date_$date.txt # Ordena automaticamente de menor a mayor por la ho
 
 
 # Variables para FOR
-en=id_$date.txt
+en=ace_ids.txt
 can=date_$date.txt
 sed -i '/^ *$/d' $can # Eliminamos de nuevo lineas en blanco porque a veces por alguna razón todavía existe o se genera alguna magicamente
 
