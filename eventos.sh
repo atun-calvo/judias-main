@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 ##Variables##
 file1="$(mktemp)"
 file2="$(mktemp)"
