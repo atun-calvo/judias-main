@@ -55,7 +55,7 @@ async def extract_links_from_iframe(url):
         #print("Clickable content has been saved to 'cached_list.txt'.")
 
         # Keep the browser open for an hour before closing
-        #await asyncio.sleep(1) #prueba para que no se quede pillado y no termine nunca
+        await asyncio.sleep(1)
         await browser.close()
 
 
