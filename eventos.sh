@@ -47,7 +47,7 @@ fi
 #curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
 
 #Obtiene los ids y genera un archivo llamado ace_ids.txt
-python ./getElcanoWeb.py
+#python ./getElcanoWeb.py #se ejecuta en el main.yml porque aqui da problemas
 
 
 # Organizador de enlaces
