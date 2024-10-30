@@ -86,7 +86,7 @@ curl -s https://www.futbolenlatv.es/competicion/copa-del-rey | pandoc -f html > 
 sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
-curl -s https://www.futbolenlatv.es/competicion/supercopa-espana | pandoc -f html > $futbol
+curl -s --max-time 5 https://www.futbolenlatv.es/competicion/supercopa-espana | pandoc -f html > $futbol
 sed -n '/Partidos de hoy/,/[0-9][0-9]\/[0-9][0-9]\/[0-9][0-9][0-9][0-9]/p' $futbol > $canales_futbol; cat $canales_futbol | head -n -1 | tail -n +2 | sed 's/<[^>]*>//g' > $futbol
 cat $futbol >> $filecanales
 
