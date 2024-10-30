@@ -33,14 +33,16 @@ jobs:
           pip install playwright
           playwright install chromium
           
+      - name: Set up permissions
+        run: |
+          chmod +x eventos.sh
+          chmod +x generador_html.sh
+        
       - name: execute py script # run main.py
         run: python getElcanoWeb.py
-
-      - name: Set up permissions
-        run: chmod +x *.sh
       
-      - name: Run script
-        run: /usr/bin/bash eventos.sh
+      #- name: Run script
+        #run: /usr/bin/bash eventos.sh
           
       - name: pull changes
         run: git pull origin main
