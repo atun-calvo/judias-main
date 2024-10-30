@@ -33,16 +33,6 @@ hora=[0-9]*:[0-9]*
 
 cd $(dirname $0)
 
-##Creación de ficheros##
-ls *.txt &> /dev/null
-if [ $? = 0 ]; then
-	rm -f *.txt
-else
-	touch "ace_ids.txt"
-	touch "date_$date.txt"
-fi
-
-
 ## Descarga del fichero de enlaces y formateado de texto ##
 #curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
 
