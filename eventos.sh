@@ -1,6 +1,5 @@
 #!/bin/bash
 ##Variables##
-rm -f /tmp/tmp.* 2> /dev/null
 file1="$(mktemp)"
 file2="$(mktemp)"
 futbol="$(mktemp)"
@@ -38,7 +37,6 @@ cd $(dirname $0)
 
 #Obtiene los ids y genera un archivo llamado ace_ids.txt
 #python ./getElcanoWeb.py #se ejecuta en el main.yml porque aqui da problemas
-
 
 # Organizador de enlaces
 canales_mliga="$(mktemp)"; grep -A1 -i -e "M\. *LaLiga *1080" -e "M\. *LaLiga *720" -e "M\..*Laliga *HD" ace_ids.txt > $canales_mliga
