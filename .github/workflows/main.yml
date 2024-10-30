@@ -28,6 +28,7 @@ jobs:
 
       - name: install python packages and playwright
         run: |
+          sudo apt-get install pandoc -y
           python -m pip install --upgrade pip
           pip install playwright
           playwright install chromium
