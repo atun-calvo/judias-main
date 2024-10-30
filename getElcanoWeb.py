@@ -51,8 +51,8 @@ async def extract_links_from_iframe(url):
                 # Write text and href without extra newlines
                 file.write(f"{text.strip()}\n{href}\n")
                 print(f"{text.strip()}\n{href}")
-
-        #print("Clickable content has been saved to 'cached_list.txt'.")
+                
+        print("Archivo 'ace_ids.txt' creado con éxito en el directorio actual.")
 
         # Keep the browser open for an hour before closing
         await asyncio.sleep(1)
