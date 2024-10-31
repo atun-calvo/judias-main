@@ -49,6 +49,6 @@
 21:00;Copa del Rey 1ª Ronda;CD Gévora;Real Betis;Movistar Plus+ (M7);M+ Copa del Rey (M52 O107);Movistar Plus+ 2 (M176);LaLiga TV Bar;
 21:00;Copa del Rey 1ª Ronda;Ontiñena CF;UD Las Palmas;M+ LaLiga TV 2 (M57 O112);LaLiga TV M3;
 21:00;Copa del Rey 1ª Ronda;UD Llanera;Cultural Leonesa;ace_ids.txt canal_html.txt date_30-10-2024.txt date_31-10-2024.txt estilo.css eventos.sh eventos_sin_enlace.txt generador_html.sh getElcanoWeb.py index.html SIN TV EN DIRECTO *;
-21:00;Masters París 3ª Ronda;G. Dimitrov;A. Rinderknech;ATP Tennis TV;M+ Deportes 2 (64);
-21:00;WTA Torneo de Mérida 2ª Ronda;N. Stojanovic;M. Stakusic;WTA TV;DAZN (Regístrate);
-22:30;WTA Torneo de Mérida 2ª Ronda;E. Jacquemot;Z. Sonmez;WTA TV;DAZN (Regístrate);
+21:15;WTA Torneo de Mérida 2ª Ronda;N. Stojanovic;M. Stakusic;WTA TV;DAZN (Regístrate);
+22:05;Masters París 3ª Ronda;G. Dimitrov;A. Rinderknech;ATP Tennis TV;M+ Deportes 2 (64);
+22:45;WTA Torneo de Mérida 2ª Ronda;E. Jacquemot;Z. Sonmez;WTA TV;DAZN (Regístrate);
