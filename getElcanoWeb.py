@@ -65,13 +65,13 @@ async def extract_links_from_iframe(url):
 
         # Write to file only if there are AceStream links
         if acestream_links:
-            with open("toys/cachedList.txt", "w") as file:
+            with open("ace_ids.txt", "w") as file:
                 for text, href in acestream_links:
                     file.write(f"{text}\n{href}\n")
                     print(f"{text}\n{href}")
             print(f"{len(acestream_links)} AceStream links saved.")
         else:
-            print("No AceStream links found. cachedList.txt has not been modified.")
+            print("No AceStream links found. ace_ids.txt has not been modified.")
 
         # Close the browser
         await browser.close()
