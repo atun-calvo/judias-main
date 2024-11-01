@@ -13,11 +13,14 @@
 08:50;WTA Torneo de Jiujiang 1/4 de Final;M. Trevisan;R. Sramkova;WTA TV;DAZN (Regístrate);
 10:55;WTA Torneo de Jiujiang 1/4 de Final;M. Bouzkova;K. Rakhimova;WTA TV;DAZN (Regístrate);
 11:40;WTA Torneo de Hong Kong 1/4 de Final;D. Shnaider;S. Lamens;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
+12:00;Mundial Femenino Semifinales;Argentina;Italia;International Padel Federation YouTube;Red Bull TV;
+12:00;Mundial Femenino Semifinales;España;Portugal;International Padel Federation YouTube;Red Bull TV;
 12:35;WTA Torneo de Jiujiang 1/4 de Final;M. Sawangkaew;L. Siegemund;WTA TV;DAZN (Regístrate);
-13:00;Campeonato del Mundo;Semifinales;International Padel Federation YouTube;Red Bull TV;
 13:50;WTA Torneo de Hong Kong 1/4 de Final;L. Fernández;B. Pera;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);
-14:00;Masters París 1/4 de Final;A. Zverev;S. Tsitsipas;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);M+ Deportes 2 (64);
+14:00;Masters París 1/4 de Final;A. Zverev;S. Tsitsipas;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 15:30;Fórmula 1;G.P. Brasil (Interlagos);Libres 1;DAZN (Regístrate);MAX;DAZN F1 (M69);
+16:00;Campeonato del Mundo Semifinales;Argentina;Portugal;International Padel Federation YouTube;Red Bull TV;
+16:00;Campeonato del Mundo Semifinales;España;Italia;International Padel Federation YouTube;Red Bull TV;
 16:00;Masters París 1/4 de Final;H. Rune;A. De Miñaur;ATP Tennis TV;M+ Deportes 2 (64);
 17:00;Lanzarote Open;Semifinales;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
 18:45;Euroliga Liga Regular;Fenerbahce Istanbul;BC Partizan Beograd;M+ Deportes 4 (191);
