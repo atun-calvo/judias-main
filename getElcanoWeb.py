@@ -61,7 +61,7 @@ async def extract_links_from_iframe(url):
                     stream_id = href.split("id=")[-1]
                     # Check if stream_id is valid (40 alphanumeric characters)
                     if re.fullmatch(r'[A-Za-z0-9]{40}', stream_id):
-                        acestream_links.append((name_text.strip(), stream_id))
+                        acestream_links.append((name_text.strip(), 'acestream://' + stream_id))
 
         # Write to file only if there are AceStream links
         if acestream_links:
