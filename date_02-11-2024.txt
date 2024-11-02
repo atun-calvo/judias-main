@@ -17,9 +17,9 @@
 06:45;Saitama Criterium;By Le Tour de France;MAX;DAZN (Regístrate);Eurosport 1;
 07:00;WTA Torneo de Hong Kong Semifinal 1 WTA 250;Y. Yuan;K. Boulter;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;Tennis Channel (Orange 123);
 08:00;MotoGP;G.P. Malasia (Sepang);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
-08:00;WTA Torneo de Jiujiang Semifinal 1 WTA 250;M. Bouzkova;V. Golubic;WTA TV;DAZN (Regístrate);DAZN 4 (M197);MAX;
-08:30;WTA Torneo de Hong Kong Semifinal 2 WTA 250;D. Shnaider;L. Fernández;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;Tennis Channel (Orange 123);
+08:05;WTA Torneo de Jiujiang Semifinal 1 WTA 250;M. Bouzkova;V. Golubic;WTA TV;DAZN (Regístrate);DAZN 4 (M197);MAX;
 09:30;WTA Torneo de Jiujiang Semifinal 2 WTA 250;L. Siegemund;R. Sramkova;WTA TV;DAZN (Regístrate);DAZN 4 (M197);MAX;
+10:00;WTA Torneo de Hong Kong Semifinal 2 WTA 250;D. Shnaider;L. Fernández;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;Tennis Channel (Orange 123);
 12:00;8 Horas de Bahrein;Campeonato Mundial de Resistencia FIA;Carrera;MAX;DAZN (Regístrate);Eurosport 1;
 12:00;Mundial Femenino;Final;International Padel Federation YouTube;Red Bull TV;
 13:30;Premier League;Newcastle;Arsenal;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;M+ #Vamos Bar (304);M+ Liga de Campeones (M60 O115);
