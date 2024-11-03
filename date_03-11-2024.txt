@@ -35,16 +35,16 @@
 17:00;Liga Endesa Liga Regular;Força Lleida;MoraBanc Andorra;M+ Deportes 4 (191);
 17:05;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
 17:30;Premier League;Manchester Utd.;Chelsea;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
-18:00;WTA Torneo de Mérida Semifinal 2 WTA 250;Z. Sonmez;A. Korneeva;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;
 18:10;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
+18:10;WTA Torneo de Mérida Semifinal 2 WTA 250;Z. Sonmez;A. Korneeva;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;
 18:15;Lega Serie A Liga Regular;Dolomiti Energia Trento;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Sevilla FC;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;CD Castellón;Racing Ferrol;APLAZADO;
 18:30;LaLiga Hypermotion;CD Tenerife;Mirandés;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
 18:30;Liga Endesa Liga Regular;UCAM Murcia CB;Real Madrid Baloncesto;Movistar Plus+ (M7);M+ Deportes (63);
 19:30;Lega Serie A Liga Regular;Virtus Bologna;Treviso Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-19:30;WTA Torneo de Mérida Semifinal 1 WTA 250;A. Li;P. Kudermetova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;
 20:00;NASCAR Cup Series;Martinsville Speedway;Playoffs - Round of 8;DAZN (Regístrate);
+20:10;WTA Torneo de Mérida Semifinal 1 WTA 250;A. Li;P. Kudermetova;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;
 21:00;La Liga EA Sports;Athletic Club;Real Betis;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Eldense;Huesca;APLAZADO;
 21:30;NBA Liga Regular;Brooklyn Nets;Detroit Pistons;NBA League Pass;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
