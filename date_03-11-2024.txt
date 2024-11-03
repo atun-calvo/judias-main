@@ -33,10 +33,10 @@
 16:30;Fórmula 1;G.P. Brasil (Interlagos);Carrera;DAZN (Regístrate);MAX;DAZN F1 (M69);
 17:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;Baskonia;M+ Deportes 3 (65);
 17:00;Liga Endesa Liga Regular;Força Lleida;MoraBanc Andorra;M+ Deportes 4 (191);
-17:00;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
+17:05;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
 17:30;Premier League;Manchester Utd.;Chelsea;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
-17:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 18:00;WTA Torneo de Mérida Semifinal 2 WTA 250;Z. Sonmez;A. Korneeva;WTA TV;DAZN (Regístrate);DAZN 3 (M196);MAX;
+18:10;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 18:15;Lega Serie A Liga Regular;Dolomiti Energia Trento;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Sevilla FC;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;CD Castellón;Racing Ferrol;APLAZADO;
