@@ -30,7 +30,7 @@
 16:00;Torneo de Metz 1ª Ronda;A. Michelsen;H. Mayot;ATP Tennis TV;
 16:00;WTA Finals Round Robin;C. Gauff;J. Pegula;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 16:15;La Liga EA Sports;FC Barcelona;Espanyol;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-16:15;LaLiga Hypermotion;UD Almería;Córdoba;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+16:15;LaLiga Hypermotion;UD Almería;Córdoba;APLAZADO;
 16:30;Fórmula 1;G.P. Brasil (Interlagos);Carrera;DAZN (Regístrate);MAX;DAZN F1 (M69);
 16:30;Torneo de Belgrado 1ª Ronda;H. Medjedovic;B. Nakashima;ATP Tennis TV;
 17:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;Baskonia;M+ Deportes 3 (65);
