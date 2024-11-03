@@ -23,7 +23,7 @@
 13:30;WTA Finals Round Robin;I. Swiatek;B. Krejcikova;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
 14:00;La Liga EA Sports;At. Madrid;UD Las Palmas;M+ LaLiga TV (M54-O110);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Real Oviedo;Burgos CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);Movistar Plus+ (M7);GolStadium Premium (acceder);LaLiga TV M2;
-14:00;Masters París Final ATP Masters 1000;A. Zverev;U. Humbert;ATP Tennis TV;Movistar+;
+14:00;Masters París Final ATP Masters 1000;A. Zverev;U. Humbert;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Movistar+;
 14:30;Torneo de Metz 1ª Ronda;S. Nagal;C. Moutet;ATP Tennis TV;
 15:00;Premier League;Tottenham;Aston Villa;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 15:00;Torneo de Belgrado 1ª Ronda;J. Shang;F. Marozsan;ATP Tennis TV;
