@@ -1,0 +1,16 @@
+01:00;NBA Liga Regular;New Orleans Pelicans;Atlanta Hawks;NBA League Pass;
+01:00;WTA Torneo de Mérida Final WTA 250;Z. Sonmez;A. Li;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
+01:30;NBA Liga Regular;Dallas Mavericks;Orlando Magic;NBA League Pass;
+11:00;Torneo de Belgrado 1ª Ronda;M. Cilic;A. Muller;ATP Tennis TV;
+12:30;Torneo de Belgrado 1ª Ronda;B. Djuric;A. Kovacevic;ATP Tennis TV;
+13:30;WTA Finals Round Robin;E. Rybakina;Q. Zheng;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+14:00;Torneo de Metz 1ª Ronda;P. Martínez;PH. Herbert;ATP Tennis TV;
+15:00;Torneo de Belgrado 1ª Ronda;D. Lajovic;M. Navone;ATP Tennis TV;
+15:30;Torneo de Metz 1ª Ronda;Q. Halys;A. Rinderknech;ATP Tennis TV;
+16:00;WTA Finals Round Robin;A. Sabalenka;J. Paolini;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+16:30;Torneo de Belgrado 1ª Ronda;M. Kecmanovic;C. O'Connell;ATP Tennis TV;
+18:00;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
+19:30;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
+20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;LaLiga TV M2;
+21:00;La Liga EA Sports;Celta;Getafe;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;GolStadium Premium (acceder);GOL PLAY (Síguelo en directo);GolStadium (acceder);TVG (Galicia);Telemadrid;LaLiga TV Bar;
+21:00;Premier League;Fulham;Brentford;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);

@@ -1262,3 +1262,15 @@
 19:30;Lega Serie A Liga Regular;Virtus Bologna;Treviso Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:00;NASCAR Cup Series;Martinsville Speedway;Playoffs - Round of 8;DAZN (Regístrate);
 21:00;LaLiga Hypermotion;Eldense;Huesca;APLAZADO;
+01:00;NBA Liga Regular;New Orleans Pelicans;Atlanta Hawks;NBA League Pass;
+01:30;NBA Liga Regular;Dallas Mavericks;Orlando Magic;NBA League Pass;
+11:00;Torneo de Belgrado 1ª Ronda;M. Cilic;A. Muller;ATP Tennis TV;
+12:30;Torneo de Belgrado 1ª Ronda;B. Djuric;A. Kovacevic;ATP Tennis TV;
+14:00;Torneo de Metz 1ª Ronda;P. Martínez;PH. Herbert;ATP Tennis TV;
+15:00;Torneo de Belgrado 1ª Ronda;D. Lajovic;M. Navone;ATP Tennis TV;
+15:30;Torneo de Metz 1ª Ronda;Q. Halys;A. Rinderknech;ATP Tennis TV;
+16:30;Torneo de Belgrado 1ª Ronda;M. Kecmanovic;C. O'Connell;ATP Tennis TV;
+18:00;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
+19:30;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
+20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;LaLiga TV M2;
+21:00;Premier League;Fulham;Brentford;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
