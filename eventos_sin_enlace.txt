@@ -1333,3 +1333,14 @@
 18:30;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
 20:00;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
 20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;
+01:00;NBA Liga Regular;New Orleans Pelicans;Atlanta Hawks;NBA League Pass;
+01:30;NBA Liga Regular;Dallas Mavericks;Orlando Magic;NBA League Pass;
+11:10;Torneo de Belgrado 1ª Ronda;M. Cilic;A. Muller;ATP Tennis TV;
+13:05;Torneo de Belgrado 1ª Ronda;B. Djuric;A. Kovacevic;ATP Tennis TV;
+14:10;Torneo de Metz 1ª Ronda;P. Martínez;PH. Herbert;ATP Tennis TV;
+15:10;Torneo de Belgrado 1ª Ronda;D. Lajovic;M. Navone;ATP Tennis TV;
+16:50;Torneo de Belgrado 1ª Ronda;M. Kecmanovic;C. O'Connell;ATP Tennis TV;
+17:00;Torneo de Metz 1ª Ronda;Q. Halys;T. Papamalamis;ATP Tennis TV;
+18:25;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
+20:30;LaLiga Hypermotion;Levante;Málaga;APLAZADO;
+20:45;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
