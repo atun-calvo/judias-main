@@ -3,11 +3,11 @@
 01:30;NBA Liga Regular;Dallas Mavericks;Orlando Magic;NBA League Pass;
 11:10;Torneo de Belgrado 1ª Ronda;M. Cilic;A. Muller;ATP Tennis TV;
 13:05;Torneo de Belgrado 1ª Ronda;B. Djuric;A. Kovacevic;ATP Tennis TV;
-13:30;WTA Finals Round Robin;E. Rybakina;Q. Zheng;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+13:30;WTA Finals Round Robin;E. Rybakina;Q. Zheng;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Teledeporte;RTVE Play;
 14:00;Torneo de Metz 1ª Ronda;P. Martínez;PH. Herbert;ATP Tennis TV;
 15:00;Torneo de Belgrado 1ª Ronda;D. Lajovic;M. Navone;ATP Tennis TV;
 15:30;Torneo de Metz 1ª Ronda;Q. Halys;A. Rinderknech;ATP Tennis TV;
-16:00;WTA Finals Round Robin;A. Sabalenka;J. Paolini;WTA TV;DAZN (Regístrate);Teledeporte;RTVE Play;
+16:00;WTA Finals Round Robin;A. Sabalenka;J. Paolini;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Teledeporte;RTVE Play;
 16:30;Torneo de Belgrado 1ª Ronda;M. Kecmanovic;C. O'Connell;ATP Tennis TV;
 18:00;Torneo de Metz 1ª Ronda;R. Gasquet;T. Monteiro;ATP Tennis TV;
 19:30;Torneo de Metz 1ª Ronda;C. Norrie;R. Carballés;ATP Tennis TV;
