@@ -13,9 +13,9 @@
 04:00;NBA Liga Regular;Denver Nuggets;Toronto Raptors;NBA League Pass;
 04:15;NBA Liga Regular;Phoenix Suns;Philadelphia 76ers;NBA League Pass;
 07:00;Dubai Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;Torneo de Belgrado 1ª Ronda;R. Safiullin;F. Fognini;ATP Tennis TV;
-12:30;Torneo de Belgrado 2ª Ronda;A. Kovacevic;H. Medjedovic;ATP Tennis TV;
-13:30;WTA Finals Round Robin;J. Pegula;B. Krejcikova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
+11:10;Torneo de Belgrado 1ª Ronda;R. Safiullin;F. Fognini;ATP Tennis TV;
+12:40;Torneo de Belgrado 2ª Ronda;A. Kovacevic;H. Medjedovic;ATP Tennis TV;
+13:45;WTA Finals Round Robin;J. Pegula;B. Krejcikova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 14:00;Torneo de Metz 2ª Ronda;A. Rublev;L. Sonego;ATP Tennis TV;
 15:00;Torneo de Belgrado 1ª Ronda;L. Djere;S. Wawrinka;ATP Tennis TV;
 15:30;Torneo de Metz 1ª Ronda;A. Mannarino;Y. Bu;ATP Tennis TV;
