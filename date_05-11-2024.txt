@@ -26,7 +26,7 @@
 18:00;Torneo de Metz 2ª Ronda;A. Michelsen;R. Gasquet;ATP Tennis TV;
 18:45;Champions League Fase Liga;PSV Eindhoven;Girona;M+ Liga de Campeones (M60 O115);LaLiga TV Bar;
 18:45;Champions League Fase Liga;Slovan Bratislava;GNK Dinamo Zagreb;M+ Liga de Campeones 3 (M62 O118);
-19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ Copa del Rey (M52 O107);
+19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;BC Trepca;FIBA YouTube;
 19:30;Torneo de Metz 2ª Ronda;C. Moutet;JL. Struff;ATP Tennis TV;
 20:00;Basketball Champions League Liga Regular;Rasta Vechta;CEZl Nymburk;DAZN (Regístrate);
