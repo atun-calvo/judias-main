@@ -28,11 +28,11 @@
 18:45;Champions League Fase Liga;Slovan Bratislava;GNK Dinamo Zagreb;M+ Liga de Campeones 3 (M62 O118);
 19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ Copa del Rey (M52 O107);LaLiga TV M2;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;BC Trepca;FIBA YouTube;
-19:40;Torneo de Metz 2ª Ronda;C. Moutet;JL. Struff;ATP Tennis TV;
 20:00;Basketball Champions League Liga Regular;Rasta Vechta;CEZl Nymburk;DAZN (Regístrate);
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Joventut Badalona;Esport3 (Cataluña);
 20:30;Basketball Champions League Liga Regular;Filou Oostende;King Szczecin;DAZN (Regístrate);
 20:30;FIBA Europe Cup;Hubo Limburg United;Szolnoki Olaj;FIBA YouTube;
+20:50;Torneo de Metz 2ª Ronda;C. Moutet;JL. Struff;ATP Tennis TV;
 21:00;Champions League Fase Liga;Bologna;AS Monaco;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 8 (M184 O280);
 21:00;Champions League Fase Liga;Borussia Dortmund;Sturm Graz;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 7 (M184 O279);
 21:00;Champions League Fase Liga;Celtic FC;RB Leipzig;M+ Liga de Campeones 4 (M180 O276);M+ Liga de Campeones 6 (M183 O278);
