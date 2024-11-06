@@ -1,9 +1,10 @@
 07:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 11:00;Torneo de Belgrado 2ª Ronda;F. Cerúndolo;R. Safiullin;ATP Tennis TV;
 12:30;Torneo de Belgrado 2ª Ronda;D. Shapovalov;N. Borges;ATP Tennis TV;
-13:00;Torneo de Metz;2ª Ronda;ATP 250;ATP Tennis TV;
 13:30;WTA Finals Round Robin;J. Paolini;Q. Zheng;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
+14:00;Torneo de Metz 2ª Ronda;PH. Herbert;Q. Halys;ATP Tennis TV;
 15:00;Torneo de Belgrado 2ª Ronda;F. Marozsan;D. Lajovic;ATP Tennis TV;
+15:30;Torneo de Metz 2ª Ronda;L. Van Assche;C. Norrie;ATP Tennis TV;
 16:00;WTA Finals Round Robin;A. Sabalenka;E. Rybakina;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 16:30;Europa League Fase Liga;Besiktas;Malmö FF;M+ Liga de Campeones 2 (M61 O116);
 16:30;Torneo de Belgrado 2ª Ronda;D. Ajdukovic;L. Djere;ATP Tennis TV;
@@ -14,6 +15,7 @@
 18:00;FIBA Europe Cup;CSM Oradea;BC Parnu Sadam;FIBA YouTube;
 18:00;FIBA Europe Cup;FC Arges Basketball;PGE Spojnia Stargard;FIBA YouTube;
 18:00;FIBA Europe Cup;Tofas Bursa;AEK Larnaca BC;FIBA YouTube;
+18:00;Torneo de Metz 2ª Ronda;B. Bonzi;C. Ruud;ATP Tennis TV;
 18:30;Basketball Champions League Liga Regular;KK Igokea;Hapoel Holon;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;Peristeri BC;Manisa BBSK;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;S. Oliver Baskets;Nanterre 92;DAZN (Regístrate);
@@ -24,6 +26,7 @@
 19:00;FIBA Europe Cup;Anorthosis Famagusta BC;Frutti Extra Bursaspor;FIBA YouTube;
 19:30;FIBA Europe Cup;BC Constanta;Fribourg Olympic;FIBA YouTube;
 19:30;FIBA Europe Cup;Maroussi BC;BC Sabah;FIBA YouTube;
+19:30;Torneo de Metz 2ª Ronda;Y. Bu;J. De Jong;ATP Tennis TV;
 20:00;Amistoso;Portugal;España;RTVE Play;
 20:00;Basketball Champions League Liga Regular;FMP Meridian;UCAM Murcia CB;DAZN (Regístrate);Popular TV Murcia;
 20:00;Copa de España Fase de grupos;Palmer Mallorca Palma;Fibwi Palma;FEB TV;
