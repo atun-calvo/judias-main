@@ -11,13 +11,6 @@
 04:00;NBA Liga Regular;Los Angeles Clippers;Philadelphia 76ers;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Toronto Raptors;NBA League Pass;
 09:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-11:00;Torneo de Belgrado 1/4 de Final;L. Klein;J. Lehecka;ATP Tennis TV;
-12:30;Torneo de Belgrado 1/4 de Final;C. O'Connell;D. Shapovalov;ATP Tennis TV;
-13:30;WTA Finals Round Robin;I. Swiatek;D. Kasatkina;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
-14:00;Torneo de Metz 1/4 de Final;C. Norrie;Z. Bergs;ATP Tennis TV;
-15:00;Torneo de Belgrado 1/4 de Final;L. Djere;F. Marozsan;ATP Tennis TV;
-16:00;WTA Finals Round Robin;C. Gauff;B. Krejcikova;WTA TV;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;Tennis Channel (Orange 123);Teledeporte;RTVE Play;
-16:30;Torneo de Belgrado 1/4 de Final;F. Cerúndolo;H. Medjedovic;ATP Tennis TV;
 17:00;Eurobasket Femenino Fase de Clasificación;Turquía;Rumanía;FIBA YouTube;
 17:30;Eurobasket Femenino Fase de Clasificación;Finlandia;Eslovenia;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Bosnia;Suiza;FIBA YouTube;
@@ -25,7 +18,6 @@
 18:00;Eurobasket Femenino Fase de Clasificación;Hungría;Bulgaria;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Macedonia Norte;Ucrania;FIBA YouTube;
 18:00;Eurobasket Femenino Fase de Clasificación;Serbia;Portugal;FIBA YouTube;
-18:00;Torneo de Metz 1/4 de Final;Q. Halys;B. Bonzi;ATP Tennis TV;
 18:15;Eurobasket Femenino Fase de Clasificación;Italia;República Checa;FIBA YouTube;
 18:40;Eurobasket Femenino Fase de Clasificación;Letonia;República Irlanda;FIBA YouTube;
 18:45;Europa League Fase Liga;Bodø/Glimt;Qarabag FK;M+ Liga de Campeones 3 (M62 O118);M+ Liga de Campeones 10 (M186 O282);
@@ -40,7 +32,6 @@
 19:00;Eurobasket Femenino Fase de Clasificación;Luxemburgo;Montenegro;FIBA YouTube;
 19:00;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;ALBA Berlin;M+ Deportes 3 (65);
 19:30;Eurobasket Femenino Fase de Clasificación;Alemania;Grecia;FIBA YouTube;
-19:30;Torneo de Metz 1/4 de Final;A. Michelsen;Y. Bu;ATP Tennis TV;
 20:20;Eurobasket Femenino Fase de Clasificación;Austria;Croacia;FIBA YouTube;
 20:30;Eurobasket Femenino Fase de Clasificación;Gran Bretaña;Dinamarca;FIBA YouTube;
 20:30;Eurobasket Femenino Fase de Clasificación;Islandia;Eslovaquia;FIBA YouTube;
