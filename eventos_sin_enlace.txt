@@ -2103,3 +2103,11 @@
 20:30;Eurobasket Femenino Fase de Clasificación;Polonia;Azerbaiyán;FIBA YouTube;
 20:45;Eurobasket Femenino Fase de Clasificación;Bélgica;Lituania;FIBA YouTube;
 21:10;Eurobasket Femenino Fase de Clasificación;Francia;Israel;FIBA YouTube;
+09:00;Dubai Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:10;Torneo de Belgrado 1/4 de Final;L. Klein;J. Lehecka;ATP Tennis TV;
+13:30;Torneo de Belgrado 1/4 de Final;C. O'Connell;D. Shapovalov;ATP Tennis TV;
+14:10;Torneo de Metz 1/4 de Final;C. Norrie;Z. Bergs;ATP Tennis TV;
+15:10;Torneo de Belgrado 1/4 de Final;L. Djere;F. Marozsan;ATP Tennis TV;
+16:35;Torneo de Belgrado 1/4 de Final;F. Cerúndolo;H. Medjedovic;ATP Tennis TV;
+18:10;Torneo de Metz 1/4 de Final;Q. Halys;B. Bonzi;ATP Tennis TV;
+19:45;Torneo de Metz 1/4 de Final;A. Michelsen;Y. Bu;ATP Tennis TV;
