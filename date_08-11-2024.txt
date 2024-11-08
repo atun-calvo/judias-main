@@ -4,14 +4,14 @@
 12:00;Dubai Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);M+ Deportes 7 (194);
 14:00;Dubai Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);M+ Deportes 7 (194);
 15:10;Torneo de Belgrado Semifinal 1 ATP 250;J. Lehecka;D. Shapovalov;ATP Tennis TV;
-15:30;Torneo de Metz Semifinal 1 ATP 250;C. Moutet;C. Norrie;ATP Tennis TV;
+15:40;Torneo de Metz Semifinal 1 ATP 250;C. Moutet;C. Norrie;ATP Tennis TV;
 16:00;Dubai Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 7 (194);
 16:15;WTA Finals Semifinal 1;Q. Zheng;B. Krejcikova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 16:25;Torneo de Belgrado Semifinal 2 ATP 250;L. Djere;H. Medjedovic;ATP Tennis TV;
-17:45;WTA Finals Semifinal 2;A. Sabalenka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 18:00;Dubai Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 7 (194);
 18:00;Euroliga Liga Regular;Anadolu Efes Istanbul;AS Monaco Basket;M+ Deportes 2 (64);
-18:00;Torneo de Metz Semifinal 2 ATP 250;A. Michelsen;B. Bonzi;ATP Tennis TV;
+18:05;Torneo de Metz Semifinal 2 ATP 250;A. Michelsen;B. Bonzi;ATP Tennis TV;
+18:20;WTA Finals Semifinal 2;A. Sabalenka;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 20:00;BBL Liga Regular;Rasta Vechta;Bamberg Baskets;LaLiga+ Plus;
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Fenerbahce Istanbul;M+ Deportes 5 (192);
 20:15;Euroliga Liga Regular;Panathinaikos BC;Olympiacos Piraeus;M+ Deportes 3 (65);
