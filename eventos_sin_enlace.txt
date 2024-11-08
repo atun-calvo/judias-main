@@ -2120,3 +2120,13 @@
 20:30;Primera FEB Liga Regular;FC Cartagena CB;Zunder Palencia;LaLiga+ Plus;
 20:45;Primera FEB Liga Regular;TAU Castelló;Club Ourense Baloncesto;LaLiga+ Plus;
 21:00;Primera FEB Liga Regular;HLA Alicante;GA Cantabria;LaLiga+ Plus;
+02:00;NBA Liga Regular;Chicago Bulls;Minnesota Timberwolves;NBA League Pass;
+02:00;NBA Liga Regular;San Antonio Spurs;Portland Trail Blazers;NBA League Pass;
+15:00;Torneo de Belgrado Semifinal 1 ATP 250;J. Lehecka;D. Shapovalov;ATP Tennis TV;
+15:30;Torneo de Metz Semifinal 1 ATP 250;C. Moutet;C. Norrie;ATP Tennis TV;
+16:30;Torneo de Belgrado Semifinal 2 ATP 250;L. Djere;H. Medjedovic;ATP Tennis TV;
+18:00;Torneo de Metz Semifinal 2 ATP 250;A. Michelsen;B. Bonzi;ATP Tennis TV;
+20:00;BBL;Rasta Vechta;Bamberg Baskets;LaLiga+ Plus;
+20:30;Primera FEB Liga Regular;FC Cartagena CB;Zunder Palencia;LaLiga+ Plus;
+20:45;Primera FEB Liga Regular;TAU Castelló;Club Ourense Baloncesto;LaLiga+ Plus;
+21:00;Primera FEB Liga Regular;HLA Alicante;GA Cantabria;LaLiga+ Plus;

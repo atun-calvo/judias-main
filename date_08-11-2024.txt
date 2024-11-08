@@ -12,6 +12,7 @@
 18:00;Dubai Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);M+ Deportes 7 (194);
 18:00;Euroliga Liga Regular;Anadolu Efes Istanbul;AS Monaco Basket;M+ Deportes 2 (64);
 18:00;Torneo de Metz Semifinal 2 ATP 250;A. Michelsen;B. Bonzi;ATP Tennis TV;
+20:00;BBL;Rasta Vechta;Bamberg Baskets;LaLiga+ Plus;
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Fenerbahce Istanbul;M+ Deportes 5 (192);
 20:15;Euroliga Liga Regular;Panathinaikos BC;Olympiacos Piraeus;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;Barça Basket;Baskonia;Movistar Plus+ (M7);M+ Deportes (63);
