@@ -11,9 +11,7 @@
 04:00;NBA Liga Regular;Los Angeles Lakers;Philadelphia 76ers;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Los Angeles Clippers;NBA League Pass;
 12:00;Primera Federación Futsal;Burela FS;Palma Futsal;FEF TV;
-15:00;Torneo de Belgrado Final ATP 250;H. Medjedovic;D. Shapovalov;ATP Tennis TV;
 16:00;Premier League;Wolverhampton;Southampton;DAZN (Regístrate);
-16:30;Torneo de Metz Final ATP 250;C. Norrie;B. Bonzi;ATP Tennis TV;
 18:00;Primera Federación Futsal;Noia Portus Apostoli FS;Barça FS;FEF TV;Esport3 (Cataluña);
 18:00;Primera Federación Futsal;Ribera Navarra FS;Córdoba FS;FEF TV;
 18:00;Segunda Federación Futsal;CFS Pinatar;Melistar FS;RFEF.es;TV Melilla;

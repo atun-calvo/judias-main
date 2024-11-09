@@ -14,15 +14,12 @@
 12:00;Primera Federación Futsal;Burela FS;Palma Futsal;FEF TV;
 14:00;Dubai Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
 14:00;La Liga EA Sports;Real Madrid;Osasuna;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-15:00;Torneo de Belgrado Final ATP 250;H. Medjedovic;D. Shapovalov;ATP Tennis TV;
 16:00;Premier League;Brentford;Bournemouth;DAZN (Regístrate);DAZN 3 (M196);MAX;
 16:00;Premier League;Crystal Palace;Fulham;DAZN (Regístrate);DAZN 4 (M197);MAX;
 16:00;Premier League;West Ham;Everton;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
 16:00;Premier League;Wolverhampton;Southampton;DAZN (Regístrate);
 16:15;La Liga EA Sports;Villarreal;Alavés;GolStadium Premium (acceder);M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);ETB1 (País Vasco);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Mirandés;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
-16:30;Torneo de Metz Final ATP 250;C. Norrie;B. Bonzi;ATP Tennis TV;
-17:00;WTA Finals Final;C. Gauff;Q. Zheng;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 123);Teledeporte;RTVE Play;
 18:00;Dubai Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 3 (65);
 18:00;Liga Endesa Liga Regular;BAXI Manresa;Coviran Granada;M+ Deportes 2 (64);
 18:00;Liga Endesa Liga Regular;MoraBanc Andorra;UCAM Murcia CB;M+ Deportes (63);
