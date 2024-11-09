@@ -26,13 +26,14 @@ jobs:
         with:
           python-version: '3.9' # install the python version needed
 
-      - name: install python packages and playwright
+      - name: install python and requirements
         run: |
           sudo apt-get install pandoc -y
           sudo apt-get install curl -y
           python -m pip install --upgrade pip
-          pip install playwright
-          playwright install chromium
+          pip install requests
+          #pip install playwright
+          #playwright install chromium
           
       - name: Set up permissions
         run: |
@@ -40,7 +41,7 @@ jobs:
           chmod +x generador_html.sh
         
       - name: execute py script # run main.py
-        run: python getElcanoWeb.py
+        run: python ipfs_scraper.py
       
       - name: Run script
         run: /bin/bash ./eventos.sh
