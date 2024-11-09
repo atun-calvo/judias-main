@@ -40,7 +40,7 @@
 19:00;Primera Federación Futsal;Movistar Inter;Jaén FS;FEF TV;
 20:00;Primera Federación Futsal;Viña Albali Valdepeñas;ElPozo Murcia;FEF TV;
 20:15;Primera FEB Liga Regular;San Pablo Burgos;Gipuzkoa Basket;LaLiga+ Plus;La 8 Burgos;
-20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);
+20:30;Lega Serie A Liga Regular;Dolomiti Energia Trento;Trieste Pallacanestro;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:45;Liga Endesa Liga Regular;Joventut Badalona;Unicaja Málaga;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;La Liga EA Sports;Leganés;Sevilla FC;DAZN (Regístrate);MAX;DAZN LaLiga (M55 O113);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Málaga;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
