@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+#set -x
 ##Variables##
 file1="$(mktemp)"
 file2="$(mktemp)"
@@ -32,6 +32,10 @@ hora=[0-9]*:[0-9]*
 #############################################################Cuerpo del script##################################################################################
 
 cd $(dirname $0)
+
+#Borramos anteriores archivos generados
+rm -f date*.txt
+rm -f eventos_sin_enlace.txt
 
 ## Descarga del fichero de enlaces y formateado de texto ##
 #curl -m 20 -s --socks5-hostname localhost:9050 --retry 5 --retry-delay 5 https://elcano.top > $file1
@@ -430,7 +434,4 @@ echo "</div>" >> index.html
 echo "</body>" >> index.html
 echo "</html>" >> index.html
 #cp -f index.html /var/www/html # Pon la ruta que quieras si quieres copiar o mover el archivo html y elimina el primer # de la linea
-
-rm -f date*.txt
-rm -f eventos_sin_enlace.txt
 
