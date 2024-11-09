@@ -432,5 +432,5 @@ echo "</html>" >> index.html
 #cp -f index.html /var/www/html # Pon la ruta que quieras si quieres copiar o mover el archivo html y elimina el primer # de la linea
 
 rm -f date*.txt
-
+rm -f eventos_sin_enlace.txt
 
