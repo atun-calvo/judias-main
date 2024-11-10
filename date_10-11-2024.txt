@@ -7,6 +7,8 @@
 12:00;Primera FEB Liga Regular;CB Morón;Basquet Menorca;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;IB3 (Baleares);
 12:30;Liga Endesa Liga Regular;Basquet Girona;Bilbao Basket;M+ Deportes 3 (65);
 12:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Dreamland Gran Canaria;M+ Deportes (63);
+12:30;Primera Federación Futsal;AD Sala 10 Zaragoza;Servigroup Peñiscola FS;FEF TV;
+12:30;Primera Federación Futsal;Industrias Santa Coloma;Osasuna Magna;FEF TV;
 13:15;Eurobasket Femenino Fase de Clasificación;República Irlanda;Israel;FIBA YouTube;
 13:45;Eurobasket Femenino Fase de Clasificación;Grecia;Italia;FIBA YouTube;
 14:00;ATP Finals Round Robin;D. Medvedev;T. Fritz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);

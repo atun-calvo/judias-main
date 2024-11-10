@@ -2,6 +2,8 @@
 01:30;NBA Liga Regular;Cleveland Cavaliers;Brooklyn Nets;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Clippers;Toronto Raptors;NBA League Pass;
 12:00;Primera FEB Liga Regular;CB Morón;Basquet Menorca;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;IB3 (Baleares);
+12:30;Primera Federación Futsal;AD Sala 10 Zaragoza;Servigroup Peñiscola FS;FEF TV;
+12:30;Primera Federación Futsal;Industrias Santa Coloma;Osasuna Magna;FEF TV;
 13:15;Eurobasket Femenino Fase de Clasificación;República Irlanda;Israel;FIBA YouTube;
 13:45;Eurobasket Femenino Fase de Clasificación;Grecia;Italia;FIBA YouTube;
 14:00;Eurobasket Femenino Fase de Clasificación;Suecia;Gran Bretaña;FIBA YouTube;
