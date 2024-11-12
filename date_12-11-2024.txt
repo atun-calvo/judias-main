@@ -3,6 +3,7 @@
 02:00;NBA Liga Regular;New Orleans Pelicans;Brooklyn Nets;NBA League Pass;
 02:00;NBA Liga Regular;Oklahoma C. Thunder;Los Angeles Clippers;M+ Deportes (63);
 02:00;NBA Liga Regular;San Antonio Spurs;Sacramento Kings;NBA League Pass;
+10:00;Kuwait Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 12:00;Copa de España Fase de grupos;CB Clavijo;CB Salou;FEB TV;
 13:00;Salta Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);MAX;
 14:00;ATP Finals Round Robin;D. Medvedev;A. De Miñaur;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
@@ -26,7 +27,7 @@
 20:00;Euroliga Liga Regular;Olympiacos Piraeus;ASVEL Lyon-Villeurbanne;M+ Deportes 6 (193);
 20:00;FIBA Europe Cup;ESSM Le Portel Côte;BC Rilski Sportist;FIBA YouTube;
 20:15;Euroliga Liga Regular;Panathinaikos BC;Maccabi Tel Aviv BC;M+ Deportes 4 (191);
-20:30;ATP Finals Round Robin;J. Sinner;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);PD;Kuwait Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+20:30;ATP Finals Round Robin;J. Sinner;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
 20:30;Copa de España Fase de grupos;Baloncesto Fuenlabrada;Cáceres Basket;FEB TV;
 20:30;Copa de España Fase de grupos;Basquet Menorca;Palmer Mallorca Palma;FEB TV;
 20:30;Eurocup Liga Regular;Valencia Basket;Olimpija Ljubljana;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;

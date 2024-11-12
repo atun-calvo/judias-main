@@ -2,6 +2,7 @@
 02:00;NBA Liga Regular;Houston Rockets;Washington Wizards;NBA League Pass;
 02:00;NBA Liga Regular;New Orleans Pelicans;Brooklyn Nets;NBA League Pass;
 02:00;NBA Liga Regular;San Antonio Spurs;Sacramento Kings;NBA League Pass;
+10:00;Kuwait Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 12:00;Copa de España Fase de grupos;CB Clavijo;CB Salou;FEB TV;
 18:30;Basketball Champions League Liga Regular;Karsiyaka Basket;Kolossos BC;DAZN (Regístrate);
 18:30;Copa de España Fase de grupos;Monbus Obradoiro;CB Prat;Twitch baloncestoesp;
