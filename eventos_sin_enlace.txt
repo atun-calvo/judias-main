@@ -17,8 +17,10 @@
 20:00;Copa de España Fase de grupos;Sant Antoni Ibiza;CEB Llíria;FEB TV;
 20:00;Copa de España Fase de grupos;UE Mataró;CB Santfeliuenc;FEB TV;
 20:00;Euroliga Liga Regular;ALBA Berlin;AX Olimpia Milano;M+ Deportes 8 (M195);
+20:00;FIBA Europe Cup;ESSM Le Portel Côte;BC Rilski Sportist;FIBA YouTube;
 20:30;Copa de España Fase de grupos;Baloncesto Fuenlabrada;Cáceres Basket;FEB TV;
 20:30;Copa de España Fase de grupos;Basquet Menorca;Palmer Mallorca Palma;FEB TV;
+20:30;FIBA Europe Cup;Hubo Limburg United;FC Porto CB;FIBA YouTube;
 20:45;Copa de España Fase de grupos;CB Tizona Burgos;CB Peñas Huesca;FEB TV;
 20:45;Copa de España Fase de grupos;TAU Castelló;Maderas Sorlí Benicarló;FEB TV;
 21:00;Copa de España Fase de grupos;Zunder Palencia;Clínica Ponferrada SDP;FEB TV;
