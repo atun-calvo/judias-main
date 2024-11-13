@@ -8,7 +8,7 @@
 04:00;NBA Liga Regular;Portland Trail Blazers;Minnesota Timberwolves;NBA League Pass;
 10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 13:00;Salta Open;1/8 de final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);MAX;
-14:00;ATP Finals Round Robin;C. Alcaraz;A. Rublev;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+14:10;ATP Finals Round Robin;C. Alcaraz;A. Rublev;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 17:00;FIBA Europe Cup;BC Kutaisi 2010;BC Balkan Botevgrad;FIBA YouTube;
 18:00;Basketball Champions League Liga Regular;Falco Szombathely;Rytas Vilnius;DAZN (Regístrate);
 18:00;Eurocup Liga Regular;Besiktas JK Istanbul;Dreamland Gran Canaria;M+ Deportes (63);
