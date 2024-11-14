@@ -1,2 +1,12 @@
+01:00;NBA Liga Regular;Orlando Magic;Indiana Pacers;NBA League Pass;
+01:30;NBA Liga Regular;Brooklyn Nets;Boston Celtics;NBA League Pass;
+01:30;NBA Liga Regular;New York Knicks;Chicago Bulls;NBA League Pass;
+01:30;NBA Liga Regular;Oklahoma C. Thunder;New Orleans Pelicans;NBA League Pass;
+02:00;NBA Liga Regular;Houston Rockets;Los Angeles Clippers;NBA League Pass;
+02:00;NBA Liga Regular;Milwaukee Bucks;Detroit Pistons;NBA League Pass;
+02:00;NBA Liga Regular;San Antonio Spurs;Washington Wizards;NBA League Pass;
+04:00;NBA Liga Regular;Los Angeles Lakers;Memphis Grizzlies;NBA League Pass;
+04:00;NBA Liga Regular;Portland Trail Blazers;Minnesota Timberwolves;NBA League Pass;
+04:00;NBA Liga Regular;Sacramento Kings;Phoenix Suns;NBA League Pass;
 10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 18:00;Copa del Rey 1ª Ronda;Ejea;Hércules;Aragón Deporte;Aragón TV;
