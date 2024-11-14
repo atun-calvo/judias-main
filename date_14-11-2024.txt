@@ -12,7 +12,6 @@
 10:00;Billie Jean King Cup 1ª Ronda Partido 1;Japón;Rumanía;M+ Ellas Vamos (66);Movistar+ Lite;
 10:00;Kuwait Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 12:00;Billie Jean King Cup 1ª Ronda Partido 2;Japón;Rumanía;M+ Ellas Vamos (66);Movistar+ Lite;
-13:00;Salta Open;1/8 de final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;
 14:00;ATP Finals Round Robin;T. Fritz;A. De Miñaur;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 14:00;Billie Jean King Cup 1ª Ronda Partido 3 (Dobles);Japón;Rumanía;M+ Ellas Vamos (66);Movistar+ Lite;
 17:00;Billie Jean King Cup 1ª Ronda Partido 1;Eslovaquia;Estados Unidos;M+ Ellas Vamos (66);Movistar+ Lite;
