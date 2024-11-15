@@ -1,4 +1,3 @@
-03:00;NBA Liga Regular;Utah Jazz;Dallas Mavericks;M+ Deportes (63);
 10:00;Billie Jean King Cup 1ª Ronda Partido 1;España;Polonia;M+ Ellas Vamos (66);Movistar+ Lite;
 10:00;Kuwait Open;1/4 de final femenino;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 4 (191);M+ Deportes 6 (193);
 10:45;MotoGP;G.P. de la Solidaridad (Circuito de Barcelona);Libres 1;DAZN (Regístrate);MotoGP Videopass;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
@@ -12,17 +11,9 @@
 17:00;Billie Jean King Cup 1ª Ronda Partido 1;Alemania;Gran Bretaña;M+ Ellas Vamos (66);Movistar+ Lite;
 17:00;Velada Peso Semipesado;A. Elbali;G. Andino;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:00;Billie Jean King Cup 1ª Ronda Partido 2;Alemania;Gran Bretaña;M+ Ellas Vamos (66);Movistar+ Lite;
-19:00;Euroliga Liga Regular;Zalgiris Kaunas;Fenerbahce Istanbul;M+ Deportes 5 (192);
 19:30;Primera Federación Futsal;Palma Futsal;AD Sala 10 Zaragoza;FEF TV;
-20:00;BBL;USC Heidelberg;Hamburg Towers;LaLiga+ Plus;
 20:30;ATP Finals Round Robin;C. Ruud;A. Rublev;ATP Tennis TV;M+ Deportes 2 (64);
-20:30;Euroliga Liga Regular;BC Partizan Beograd;AX Olimpia Milano;M+ Deportes 3 (65);
-20:30;Euroliga Liga Regular;Barça Basket;Paris Basketball;Movistar Plus+ (M7);M+ Deportes (63);
-20:30;Euroliga Liga Regular;Virtus Bologna;Panathinaikos BC;M+ Deportes 4 (191);
-20:30;Primera FEB Liga Regular;GA Cantabria;CB Morón;LaLiga+ Plus;
 20:30;Título Commonwealth Peso Superpluma;A. Khan;J. Edwardson;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-20:45;Liga Endesa Liga Regular;Valencia Basket;Casademont Zaragoza;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;Billie Jean King Cup 1ª Ronda Partido 3 (Dobles);Alemania;Gran Bretaña;M+ Ellas Vamos (66);Movistar+ Lite;
-21:00;Primera FEB Liga Regular;Zunder Palencia;TAU Castelló;LaLiga+ Plus;
 21:00;Primera Federación Futsal;ElPozo Murcia;Industrias Santa Coloma;FEF TV;
 21:00;Primera Federación Futsal;Osasuna Magna;Jimbee Cartagena FS;FEF TV;

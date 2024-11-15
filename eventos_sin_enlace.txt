@@ -1,8 +1,5 @@
 17:00;Velada Peso Semipesado;A. Elbali;G. Andino;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:30;Primera Federación Futsal;Palma Futsal;AD Sala 10 Zaragoza;FEF TV;
-20:00;BBL;USC Heidelberg;Hamburg Towers;LaLiga+ Plus;
-20:30;Primera FEB Liga Regular;GA Cantabria;CB Morón;LaLiga+ Plus;
 20:30;Título Commonwealth Peso Superpluma;A. Khan;J. Edwardson;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-21:00;Primera FEB Liga Regular;Zunder Palencia;TAU Castelló;LaLiga+ Plus;
 21:00;Primera Federación Futsal;ElPozo Murcia;Industrias Santa Coloma;FEF TV;
 21:00;Primera Federación Futsal;Osasuna Magna;Jimbee Cartagena FS;FEF TV;
