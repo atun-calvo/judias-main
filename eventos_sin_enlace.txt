@@ -1,5 +1,11 @@
-17:00;Velada Peso Semipesado;A. Elbali;G. Andino;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-19:30;Primera Federación Futsal;Palma Futsal;AD Sala 10 Zaragoza;FEF TV;
-20:30;Título Commonwealth Peso Superpluma;A. Khan;J. Edwardson;DAZN (Regístrate);DAZN App Gratis (Regístrate);
-21:00;Primera Federación Futsal;ElPozo Murcia;Industrias Santa Coloma;FEF TV;
-21:00;Primera Federación Futsal;Osasuna Magna;Jimbee Cartagena FS;FEF TV;
+02:00;Velada;M. Tyson;J. Paul;Netflix;
+05:50;Supercars Championship;Adelaide Street Circuit;Carrera 1;DAZN (Regístrate);
+16:30;Segunda Federación Futsal;Melistar FS;Real Betis FS;RFEF.es;TV Melilla;
+18:00;Primera Federación Futsal;Jaén FS;Viña Albali Valdepeñas;FEF TV;
+18:00;Primera Federación Futsal;Servigroup Peñiscola FS;Noia Portus Apostoli FS;FEF TV;
+18:00;Título Mundial Peso Crucero;G. Ramírez;C. Billam-Smith;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+19:00;Primera Federación Futsal;Barça FS;Burela FS;FEF TV;Esport3 (Cataluña);
+19:00;Segunda Federación Futsal;Full Energía Zaragoza;Barça B FS;Aragón Deporte;
+20:00;Primera Federación Futsal;Manzanares FS;Ribera Navarra FS;FEF TV;
+20:45;Título Mundial Peso Mínimo;B. Moreno;P. Aponte;GolStadium Premium (acceder);GolStadium (acceder);
+23:00;Campeonato de España Peso Ligero;J. García;B. Peláez;ETB1 (País Vasco);
