@@ -21,7 +21,7 @@
 13:45;Moto2;G.P. de la Solidaridad (Circuito de Barcelona);Clasificación;DAZN (Regístrate);MotoGP Videopass;M+ Vamos (8 y 53);Movistar+ Lite;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;La Sexta;AtresPlayer;
 14:00;Billie Jean King Cup 1/4 de Final Partido 3 (Dobles);Japón;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 14:00;LaLiga Hypermotion;Eibar;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV Bar;
-14:30;ATP Finals Semifinal 1;A. Zverev;T. Fritz;ATP Tennis TV;M+ Deportes 2 (64);
+14:30;ATP Finals Semifinal 1;A. Zverev;T. Fritz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
 15:00;MotoGP;G.P. de la Solidaridad (Circuito de Barcelona);Sprint;DAZN (Regístrate);MotoGP Videopass;M+ Vamos (8 y 53);Movistar+ Lite;DAZN App Gratis (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;La Sexta;AtresPlayer;
 16:00;Kuwait Open;Semifinal Masculina;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
 16:15;LaLiga Hypermotion;CD Castellón;Mirandés;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
@@ -45,7 +45,7 @@
 19:30;Primera FEB Liga Regular;Club Ourense Baloncesto;HLA Alicante;LaLiga+ Plus;TVG2 (Galicia);
 20:00;Primera FEB Liga Regular;CB Tizona Burgos;Oviedo Baloncesto;LaLiga+ Plus;La 8 Burgos;LaLiga+ TV (Orange 122);LALIGA+ YouTube;Marca.com;Marca YouTube;
 20:00;Primera Federación Futsal;Manzanares FS;Ribera Navarra FS;FEF TV;
-20:30;ATP Finals Semifinal 2;J. Sinner;C. Ruud;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes 2 (64);
+20:30;ATP Finals Semifinal 2;J. Sinner;C. Ruud;ATP Tennis TV;M+ Deportes 2 (64);
 20:30;Lega Serie A Liga Regular;Scafati Basket;Pallacanestro Varese;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 20:45;Liga Endesa Liga Regular;La Laguna Tenerife;BAXI Manresa;M+ Deportes 3 (65);
 20:45;Título Mundial Peso Mínimo;B. Moreno;P. Aponte;GolStadium Premium (acceder);GolStadium (acceder);
