@@ -1,14 +1,5 @@
-00:00;NBA Liga Regular;Cleveland Cavaliers;Charlotte Hornets;NBA League Pass;
-00:00;NBA Liga Regular;Memphis Grizzlies;Denver Nuggets;NBA League Pass;
-00:00;NBA Liga Regular;Portland Trail Blazers;Atlanta Hawks;NBA League Pass;
-00:00;NBA Liga Regular;Washington Wizards;Detroit Pistons;NBA League Pass;
-01:00;NBA Liga Regular;Chicago Bulls;Houston Rockets;NBA League Pass;
-01:00;NBA Liga Regular;New York Knicks;Brooklyn Nets;NBA League Pass;
-01:00;NBA Liga Regular;Oklahoma C. Thunder;Dallas Mavericks;NBA League Pass;
-03:00;NBA Liga Regular;Los Angeles Clippers;Utah Jazz;NBA League Pass;
 13:00;Salta Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);DAZN 2 (M71);MAX;LaLiga+;LaLiga+ Plus;
 13:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
 17:00;Billie Jean King Cup Semifinal 1 Partido 1;Polonia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 19:00;Billie Jean King Cup Semifinal 1 Partido 2;Polonia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
-20:00;Lega Serie A Liga Regular;Guerino Vanoli Basket;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 21:00;Billie Jean King Cup Semifinal 1 Partido 3 (Dobles);Polonia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
