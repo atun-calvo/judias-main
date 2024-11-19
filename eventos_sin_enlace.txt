@@ -6,7 +6,7 @@
 04:00;NBA Liga Regular;Sacramento Kings;Atlanta Hawks;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Clippers;Golden State Warriors;NBA League Pass;
 10:00;MotoGP;Test de pretemporada;Sesión mañana;DAZN (Regístrate);
-13:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
+15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
 20:00;Copa del Rey 1ª Ronda;Pontevedra;Levante;TVG2 (Galicia);
 20:30;Primera Federación Futsal;AD Sala 10 Zaragoza;Córdoba FS;FEF TV;
 20:30;Primera Federación Futsal;ElPozo Murcia;Manzanares FS;FEF TV;
