@@ -8,10 +8,11 @@
 14:00;Davis Cup Finals 1/4 de Final Partido 2;Alemania;Canadá;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 15:30;New York Open;Round Robin;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;GolStadium (acceder);
 16:00;Davis Cup Finals 1/4 de Final Partido 3 (Dobles);Alemania;Canadá;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+17:00;Billie Jean King Cup Final Partido 1;Eslovaquia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 17:30;Eurocup Women;Peli-Karhut Basketball;Castors Braine;FIBA YouTube;
-18:00;Billie Jean King Cup Final;Eslovaquia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 18:00;Eurocup Women;Kibirkstis Vilnius;Asseco Arka Gdynia;FIBA YouTube;
 18:00;Salta Open;1/8 de final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
+19:00;Billie Jean King Cup Final Partido 2;Eslovaquia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 19:00;Eurocup Women;Levhartice Chomutov;ASVEL Lyon-Villeurbanne;FIBA YouTube;
 19:30;Eurocup Women;Elitzur Ramla;ALBA Berlin;FIBA YouTube;
 20:00;Eurocup Women Liga Regular;BAXI Ferrol;KP Brno;FIBA YouTube;TVG2 (Galicia);
@@ -27,5 +28,6 @@
 20:30;Eurocup Women;Tarbes GB;KSC Szekszard;FIBA YouTube;
 20:30;Euroliga Liga Regular;Virtus Bologna;Fenerbahce Istanbul;M+ Deportes (63);
 20:30;Primera Federación Futsal;Noia Portus Apostoli FS;Jimbee Cartagena FS;FEF TV;
+21:00;Billie Jean King Cup Final Partido 3 (Dobles);Eslovaquia;Italia;M+ Ellas Vamos (66);Movistar+ Lite;
 21:30;Primera Federación Futsal;Industrias Santa Coloma;Jaén FS;FEF TV;
 21:30;Primera Federación Futsal;Movistar Inter;Servigroup Peñiscola FS;FEF TV;
