@@ -35,7 +35,7 @@
 20:30;LaLiga Hypermotion;Racing Ferrol;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:30;Primera Federación Futsal;Palma Futsal;ElPozo Murcia;FEF TV;
 21:00;Davis Cup Finals Semifinal 1 Partido 3 (Dobles);Holanda;Alemania;Movistar Plus+ (M7);M+ Deportes 2 (64);
-21:00;La Liga EA Sports Coliseo Alfonso Perez, Getafe;Getafe;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
+21:00;La Liga EA Sports;Getafe;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Osasuna Magna;AD Sala 10 Zaragoza;FEF TV;
 22:00;FIBA AfroBasket Fase de Clasificación;Camerún;Gabón;DAZN (Regístrate);
 22:00;New York Open;Semifinales;Pro Padel League;DAZN (Regístrate);GolStadium Premium (acceder);Eurovision Sports TV;Tennis Channel (Orange 123);GolStadium (acceder);
