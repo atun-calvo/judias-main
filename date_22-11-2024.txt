@@ -15,7 +15,7 @@
 14:30;FIBA AsiaCup Fase de Clasificación;Irán;Kazajistán;DAZN (Regístrate);
 16:00;FIBA AfroBasket Fase de Clasificación;R.D. Congo;Mali;DAZN (Regístrate);
 16:30;FIBA AsiaCup Fase de Clasificación;EAU;Líbano;DAZN (Regístrate);
-17:00;Davis Cup Finals Semifinal 1 Partido 1;Holanda;Alemania;Movistar Plus+ (M7);M+ Deportes 2 (64);
+17:00;Davis Cup Finals Semifinal 1 Partido 1;Holanda;Alemania;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 17:00;FIBA AsiaCup Fase de Clasificación;Baréin;Siria;DAZN (Regístrate);
 17:00;FIBA AsiaCup Fase de Clasificación;Jordania;Irak;DAZN (Regístrate);
 17:45;FIBA AsiaCup Fase de Clasificación;Palestina;Arabia Saudí;DAZN (Regístrate);
@@ -28,13 +28,13 @@
 18:00;Eurobasket Fase de Clasificación;Turquía;Hungría;DAZN (Regístrate);
 18:00;Eurocup Women Liga Regular;Elitzur Ramla;Kibirkstis Vilnius;FIBA YouTube;
 18:00;Salta Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-19:00;Davis Cup Finals Semifinal 1 Partido 2;Holanda;Alemania;Movistar Plus+ (M7);M+ Deportes 2 (64);
+19:00;Davis Cup Finals Semifinal 1 Partido 2;Holanda;Alemania;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Panathinaikos BC;M+ Deportes 3 (65);
 19:00;FIBA AfroBasket Fase de Clasificación;Senegal;Ruanda;DAZN (Regístrate);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 20:30;LaLiga Hypermotion;Racing Ferrol;Levante;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:30;Primera Federación Futsal;Palma Futsal;ElPozo Murcia;FEF TV;
-21:00;Davis Cup Finals Semifinal 1 Partido 3 (Dobles);Holanda;Alemania;Movistar Plus+ (M7);M+ Deportes 2 (64);
+21:00;Davis Cup Finals Semifinal 1 Partido 3 (Dobles);Holanda;Alemania;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;Getafe;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Osasuna Magna;AD Sala 10 Zaragoza;FEF TV;
 22:00;FIBA AfroBasket Fase de Clasificación;Camerún;Gabón;DAZN (Regístrate);
