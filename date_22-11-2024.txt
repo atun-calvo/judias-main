@@ -8,9 +8,9 @@
 03:30;Fórmula 1;G.P. Las Vegas (Las Vegas);Libres 1;DAZN (Regístrate);MAX;DAZN F1 (M69);
 04:30;NBA Liga Regular;Los Angeles Lakers;Orlando Magic;NBA League Pass;
 07:00;Fórmula 1;G.P. Las Vegas (Las Vegas);Libres 2;DAZN (Regístrate);MAX;DAZN F1 (M69);
-11:00;Torneo de Alicante 1/4 de Final ATP Challenger Tour;F. Fognini;D. Yevseyev;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
+11:15;Torneo de Alicante 1/4 de Final ATP Challenger Tour;F. Fognini;D. Yevseyev;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
+12:50;Torneo de Alicante 1/4 de Final ATP Challenger Tour;P. Martin Tiffon;A. Shelbayh;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
 13:00;FIBA AfroBasket Fase de Clasificación;Sudán del Sur;Marruecos;DAZN (Regístrate);
-13:00;Torneo de Alicante 1/4 de Final ATP Challenger Tour;P. Martin Tiffon;A. Shelbayh;MAX;DAZN (Regístrate);Marca YouTube;Eurosport 2;
 13:30;FIBA AsiaCup Fase de Clasificación;India;Catar;DAZN (Regístrate);
 14:30;FIBA AsiaCup Fase de Clasificación;Irán;Kazajistán;DAZN (Regístrate);
 16:00;FIBA AfroBasket Fase de Clasificación;R.D. Congo;Mali;DAZN (Regístrate);
