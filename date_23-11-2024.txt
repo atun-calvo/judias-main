@@ -16,8 +16,7 @@
 04:30;NBA Liga Regular;Los Angeles Clippers;Sacramento Kings;NBA League Pass;
 07:00;Fórmula 1;G.P. Las Vegas (Las Vegas);Clasificación;DAZN (Regístrate);MAX;DAZN F1 (M69);
 10:00;UFC UFC Fight Night;P. Yan;D. Figueiredo;MAX;
-11:00;Torneo de Alicante Semifinal 1 ATP Challenger Tour;F. Fognini;I. Montes-De La Torre;MAX;Marca YouTube;
-12:30;Torneo de Alicante Semifinal 2 ATP Challenger Tour;P. Martin Tiffon;L. Neumayer;MAX;Marca YouTube;
+12:15;Torneo de Alicante Semifinal 1 ATP Challenger Tour;F. Fognini;I. Montes-De La Torre;MAX;Marca YouTube;
 13:00;Davis Cup Finals Semifinal 2 Partido 1;Italia;Australia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
 13:00;FIBA AfroBasket Fase de Clasificación;Mali;Sudán del Sur;DAZN (Regístrate);
 13:00;Primera Federación Futsal;Córdoba FS;Burela FS;FEF TV;
@@ -25,6 +24,7 @@
 14:00;La Liga EA Sports;Valencia CF;Real Betis;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;FC Cartagena;UD Almería;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 15:00;Davis Cup Finals Semifinal 2 Partido 2;Italia;Australia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 2 (64);
+15:30;Torneo de Alicante Semifinal 2 ATP Challenger Tour;P. Martin Tiffon;L. Neumayer;MAX;Marca YouTube;
 16:00;FIBA AfroBasket Fase de Clasificación;Marruecos;R.D. Congo;DAZN (Regístrate);
 16:00;Premier League;Arsenal;Nottingham Forest;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 16:00;Premier League;Aston Villa;Crystal Palace;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);

@@ -13,10 +13,10 @@
 04:00;NBA Liga Regular;Denver Nuggets;Dallas Mavericks;NBA League Pass;
 04:30;NBA Liga Regular;Los Angeles Clippers;Sacramento Kings;NBA League Pass;
 10:00;UFC UFC Fight Night;P. Yan;D. Figueiredo;MAX;
-11:00;Torneo de Alicante Semifinal 1 ATP Challenger Tour;F. Fognini;I. Montes-De La Torre;MAX;Marca YouTube;
-12:30;Torneo de Alicante Semifinal 2 ATP Challenger Tour;P. Martin Tiffon;L. Neumayer;MAX;Marca YouTube;
+12:15;Torneo de Alicante Semifinal 1 ATP Challenger Tour;F. Fognini;I. Montes-De La Torre;MAX;Marca YouTube;
 13:00;FIBA AfroBasket Fase de Clasificación;Mali;Sudán del Sur;DAZN (Regístrate);
 13:00;Primera Federación Futsal;Córdoba FS;Burela FS;FEF TV;
+15:30;Torneo de Alicante Semifinal 2 ATP Challenger Tour;P. Martin Tiffon;L. Neumayer;MAX;Marca YouTube;
 16:00;FIBA AfroBasket Fase de Clasificación;Marruecos;R.D. Congo;DAZN (Regístrate);
 16:00;Premier League;Everton;Brentford;DAZN (Regístrate);
 16:00;Primera Federación Futsal;Jimbee Cartagena FS;Industrias Santa Coloma;FEF TV;
