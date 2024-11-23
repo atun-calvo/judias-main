@@ -5,10 +5,10 @@
 01:00;NBA Liga Regular;Philadelphia 76ers;Brooklyn Nets;NBA League Pass;
 01:00;NBA Liga Regular;Washington Wizards;Boston Celtics;NBA League Pass;
 01:10;FIBA AmeriCup Fase de Clasificación;Estados Unidos;Puerto Rico;DAZN (Regístrate);
-01:30;NBA Liga Regular;Milwaukee Bucks;Indiana Pacers;NBA League Pass;
+01:30;NBA Liga Regular;New Orleans Pelicans;Golden State Warriors;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 02:00;NBA Liga Regular;Chicago Bulls;Atlanta Hawks;NBA League Pass;
 02:00;NBA Liga Regular;Houston Rockets;Portland Trail Blazers;NBA League Pass;
-02:00;NBA Liga Regular;New Orleans Pelicans;Golden State Warriors;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+02:00;NBA Liga Regular;Milwaukee Bucks;Indiana Pacers;NBA League Pass;
 02:00;Título Continental Peso Superwelter;B. Adams;A. Katzourakis;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 02:15;FIBA AmeriCup Fase de Clasificación;Argentina;Venezuela;DAZN (Regístrate);
 03:30;Fórmula 1;G.P. Las Vegas (Las Vegas);Libres 3;DAZN (Regístrate);MAX;DAZN F1 (M69);
