@@ -19,7 +19,6 @@
 18:00;FIBA Copa Mundial Fase de Clasificación;República Irlanda;Kosovo;FIBA YouTube;
 19:00;FIBA AfroBasket Fase de Clasificación;Senegal;Camerún;DAZN (Regístrate);
 21:10;FIBA AmeriCup Fase de Clasificación;Canadá;México;DAZN (Regístrate);
-21:30;NBA Liga Regular;Boston Celtics;Minnesota Timberwolves;Movistar Plus+ 2 (M176);
 22:00;FIBA AfroBasket Fase de Clasificación;Gabón;Ruanda;DAZN (Regístrate);
 23:00;NBA Liga Regular;Indiana Pacers;Washington Wizards;NBA League Pass;
 23:40;FIBA AmeriCup Fase de Clasificación;Paraguay;Uruguay;DAZN (Regístrate);

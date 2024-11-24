@@ -36,7 +36,7 @@
 21:00;La Liga EA Sports;Athletic Club;Real Sociedad;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Elche;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 21:10;FIBA AmeriCup Fase de Clasificación;Canadá;México;DAZN (Regístrate);
-21:30;NBA Liga Regular;Boston Celtics;Minnesota Timberwolves;Movistar Plus+ 2 (M176);
+21:30;NBA Liga Regular;Boston Celtics;Minnesota Timberwolves;Movistar Plus+ 2 (M176);M+ #Vamos Bar (304);
 22:00;FIBA AfroBasket Fase de Clasificación;Gabón;Ruanda;DAZN (Regístrate);
 22:30;Salta Open;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 23:00;NBA Liga Regular;Indiana Pacers;Washington Wizards;NBA League Pass;
