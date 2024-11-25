@@ -1,12 +1,4 @@
-DAZN 2 1080
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-DAZN 2 720
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-DAZN LaLiga 1080 MultiAudio
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-DAZN LaLiga 1080 MultiAudio
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-DAZN LaLiga 1080 MultiAudio
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-DAZN LaLiga 720
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+DAZN 1 1080
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+DAZN 1 720
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
