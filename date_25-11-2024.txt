@@ -13,4 +13,4 @@
 18:00;FIBA AsiaCup Fase de Clasificación;Catar;Irán;DAZN (Regístrate);
 18:00;FIBA AsiaCup Fase de Clasificación;EAU;Baréin;DAZN (Regístrate);
 21:00;México Major;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
-21:00;Premier League;Newcastle;West Ham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+21:00;Premier League St. James Park, Newcastle;Newcastle;West Ham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
