@@ -1,3 +1,15 @@
+00:00;FIBA AmeriCup Fase de Clasificación;Chile;Venezuela;DAZN (Regístrate);
+00:00;FIBA AmeriCup Fase de Clasificación;Cuba;Puerto Rico;DAZN (Regístrate);
+01:00;NBA Liga Regular;Charlotte Hornets;Orlando Magic;NBA League Pass;
+01:00;NBA Liga Regular;Detroit Pistons;Toronto Raptors;NBA League Pass;
+01:10;FIBA AmeriCup Fase de Clasificación;Estados Unidos;Bahamas;DAZN (Regístrate);
+01:30;NBA Liga Regular;Atlanta Hawks;Dallas Mavericks;NBA League Pass;
+01:30;NBA Liga Regular;Boston Celtics;Los Angeles Clippers;NBA League Pass;
+02:00;NBA Liga Regular;Memphis Grizzlies;Portland Trail Blazers;NBA League Pass;
+02:15;FIBA AmeriCup Fase de Clasificación;Argentina;Colombia;DAZN (Regístrate);
+03:00;NBA Liga Regular;Denver Nuggets;New York Knicks;NBA League Pass;
+04:00;NBA Liga Regular;Golden State Warriors;Brooklyn Nets;NBA League Pass;
+04:00;NBA Liga Regular;Sacramento Kings;Oklahoma C. Thunder;NBA League Pass;
 19:00;Copa del Rey 1ª Ronda;Parla Escuela;Valencia CF;M+ Copa del Rey (M52 O107);LaLiga TV M3;
 20:00;Copa del Rey 4ª Ronda;CD Leganés FS;Barça FS;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:00;Copa del Rey 4ª Ronda;Lauburu KE Ibarra;Manzanares FS;Lauburu K.E. Komunikazioa YouTube;

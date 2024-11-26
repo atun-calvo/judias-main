@@ -1,3 +1,16 @@
+00:00;FIBA AmeriCup Fase de Clasificación;Chile;Venezuela;DAZN (Regístrate);
+00:00;FIBA AmeriCup Fase de Clasificación;Cuba;Puerto Rico;DAZN (Regístrate);
+01:00;NBA Liga Regular;Charlotte Hornets;Orlando Magic;NBA League Pass;
+01:00;NBA Liga Regular;Detroit Pistons;Toronto Raptors;NBA League Pass;
+01:00;NBA Liga Regular;Indiana Pacers;New Orleans Pelicans;M+ Deportes (63);
+01:10;FIBA AmeriCup Fase de Clasificación;Estados Unidos;Bahamas;DAZN (Regístrate);
+01:30;NBA Liga Regular;Atlanta Hawks;Dallas Mavericks;NBA League Pass;
+01:30;NBA Liga Regular;Boston Celtics;Los Angeles Clippers;NBA League Pass;
+02:00;NBA Liga Regular;Memphis Grizzlies;Portland Trail Blazers;NBA League Pass;
+02:15;FIBA AmeriCup Fase de Clasificación;Argentina;Colombia;DAZN (Regístrate);
+03:00;NBA Liga Regular;Denver Nuggets;New York Knicks;NBA League Pass;
+04:00;NBA Liga Regular;Golden State Warriors;Brooklyn Nets;NBA League Pass;
+04:00;NBA Liga Regular;Sacramento Kings;Oklahoma C. Thunder;NBA League Pass;
 18:45;Champions League Fase Liga;Slovan Bratislava;AC Milan;M+ Liga de Campeones 3 (M62 O118);
 18:45;Champions League Fase Liga;Sparta Praha;At. Madrid;M+ Liga de Campeones (M60 O115);LaLiga TV Bar;
 19:00;Copa del Rey 1ª Ronda;Manises CF;Getafe;M+ LaLiga TV (M54-O110);LaLiga TV M2;
