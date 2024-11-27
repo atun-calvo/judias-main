@@ -16,9 +16,11 @@
 19:00;LaLiga Hypermotion;CD Castellón;Racing Ferrol;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
 19:00;LaLiga Hypermotion;Levante;Málaga;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
 19:30;Futsal Champions League Ronda Élite;Futsal Club Semey;Palma Futsal;Esports IB3 YouTube;
+20:00;Copa del Rey 4ª Ronda;CD Otxartabe;Industrias Santa Coloma;C.D.OTXARTABE YouTube;
 20:00;Eurocup Women Liga Regular;ASVEL Lyon-Villeurbanne;Gorzów Basketball;FIBA YouTube;
 20:00;Eurocup Women Liga Regular;Charnay Basket;Bodrum Basketbol;FIBA YouTube;
 20:00;Eurocup Women Liga Regular;IDK Euskotren;Proteas Voulas;FIBA YouTube;ETB4 (País Vasco);
+20:30;Copa del Rey 4ª Ronda;Real Betis FS;ElPozo Murcia;RFEF.es;RFEF TV YouTube;
 20:30;Eurocup Women Liga Regular;CB Jairis;UFAB 49;FIBA YouTube;
 20:30;Eurocup Women Liga Regular;Caledonia Gladiators;BC Neptunas;FIBA YouTube;
 20:30;Eurocup Women Liga Regular;Magnolia Campobasso;BC Yerevan Foxes;FIBA YouTube;
