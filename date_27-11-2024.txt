@@ -3,7 +3,7 @@
 02:00;NBA Liga Regular;Minnesota Timberwolves;Houston Rockets;NBA League Pass;
 03:00;NBA Liga Regular;Utah Jazz;San Antonio Spurs;NBA League Pass;
 04:00;NBA Liga Regular;Phoenix Suns;Los Angeles Lakers;NBA League Pass;
-13:00;Copa del Rey;Sorteo 2ª Eliminatoria;RFEF.es;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Copa del Rey (M52 O107);Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
+13:00;Copa del Rey;Sorteo 2ª Eliminatoria;RFEF.es;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Copa del Rey (M52 O107);Teledeporte;RTVE Play;RFEF TV YouTube;
 17:30;Futsal Champions League Ronda Élite;United Galati;Riga FS;La 7 YouTube;
 18:00;Eurocup Women Liga Regular;Galatasaray Istanbul;KP Brno;FIBA YouTube;
 18:00;Eurocup Women Liga Regular;KSC Szekszard;Movistar Estudiantes;FIBA YouTube;
