@@ -1,4 +1,8 @@
-M.L. Campeones 3 1080
-acestream://3618edda333dad5374ac2c801f5f14483934b97d
-M.L. Campeones 3 720
-acestream://0b348cc1ae499e810729661878764a0fab88ab69
+M. Deportes 1080
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+M. Deportes 720
+acestream://3a74d9869b13e763476800740c6625e715a39879
+M. Deportes 3 1080
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+M. Deportes 4 1080
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
