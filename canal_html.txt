@@ -1,8 +1,8 @@
-M. Deportes 1080
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-M. Deportes 720
-acestream://3a74d9869b13e763476800740c6625e715a39879
-M. Deportes 3 1080
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-M. Deportes 4 1080
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+DAZN F1 1080 (Fórmula 1)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+DAZN F1 1080 (Fórmula 1)
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+DAZN F1 1080 (Fórmula 1)
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+DAZN F1 720 (Fórmula 1)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
