@@ -27,7 +27,7 @@
 17:30;Segunda Federación Futsal;FS La Nucía;CD Leganés FS;RFEF.es;
 18:00;Liga Endesa Liga Regular;Río Breogán;Coviran Granada;M+ Deportes (63);
 18:00;Liga Endesa Liga Regular;Unicaja Málaga;La Laguna Tenerife;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-18:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Gipuzkoa Basket;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
+18:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Gipuzkoa Basket;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;Marca.com;Marca YouTube;
 18:00;Primera Federación Futsal;Burela FS;Manzanares FS;FEF TV;
 18:00;Primera Federación Futsal;Ribera Navarra FS;Barça FS;FEF TV;Esport3 (Cataluña);
 18:30;BBL;USC Heidelberg;Rostock Seawolves;LaLiga+ Plus;

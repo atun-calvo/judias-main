@@ -10,7 +10,7 @@
 16:00;Primera Federación Futsal;Noia Portus Apostoli FS;Córdoba FS;FEF TV;
 17:00;Futsal Champions League Ronda Élite;Riga FS;Catania C5;La 7 YouTube;
 17:30;Segunda Federación Futsal;FS La Nucía;CD Leganés FS;RFEF.es;
-18:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Gipuzkoa Basket;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
+18:00;Primera FEB Liga Regular;UEMC RV Baloncesto;Gipuzkoa Basket;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;Marca.com;Marca YouTube;
 18:00;Primera Federación Futsal;Burela FS;Manzanares FS;FEF TV;
 18:00;Primera Federación Futsal;Ribera Navarra FS;Barça FS;FEF TV;Esport3 (Cataluña);
 18:30;BBL;USC Heidelberg;Rostock Seawolves;LaLiga+ Plus;
