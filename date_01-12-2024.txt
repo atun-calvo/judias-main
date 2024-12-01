@@ -26,6 +26,7 @@
 17:00;Liga Endesa Liga Regular;Força Lleida;Básquet Coruña;M+ Deportes 3 (65);
 17:00;Premier League;Liverpool;Manchester City;DAZN (Regístrate);M+ Vamos (8 y 53);M+ #Vamos Bar 2 (305);Movistar+ Lite;M+ #Vamos Bar (304);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
 17:00;Primera FEB Liga Regular;HLA Alicante;CB Zamora;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
+17:00;Primera Federación Futsal;Viña Albali Valdepeñas;AD Sala 10 Zaragoza;FEF TV;
 18:00;Primera FEB Liga Regular;Monbus Obradoiro;GA Cantabria;LaLiga+ Plus;
 18:15;Lega Serie A Liga Regular;Pallacanestro Brescia;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Rayo Vallecano;Athletic Club;DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);DAZN LaLiga (M55 O113);LaLiga TV Bar;
