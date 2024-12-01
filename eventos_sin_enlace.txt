@@ -8,7 +8,6 @@
 13:00;Primera FEB Liga Regular;CB Morón;Zunder Palencia;LaLiga+ Plus;
 16:30;Lega Serie A Liga Regular;AX Olimpia Milano;Derthona Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 17:00;Primera FEB Liga Regular;HLA Alicante;CB Zamora;LaLiga+ Plus;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
-17:00;Primera Federación Futsal;Viña Albali Valdepeñas;AD Sala 10 Zaragoza;FEF TV;
 18:00;Primera FEB Liga Regular;Monbus Obradoiro;GA Cantabria;LaLiga+ Plus;
 18:15;Lega Serie A Liga Regular;Pallacanestro Brescia;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 19:30;Primera FEB Liga Regular;Baloncesto Fuenlabrada;FC Cartagena CB;LaLiga+ Plus;
