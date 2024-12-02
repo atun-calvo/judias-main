@@ -10,5 +10,5 @@
 10:00;Milan Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 13:00;San Juan Open;1ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 15:30;Copa Davis;Sorteo 1ª Ronda;Temporada 2025;ITF Tennis YouTube;
-20:30;LaLiga Hypermotion;Eibar;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
-21:00;La Liga EA Sports;Sevilla FC;Osasuna;GolStadium Premium (acceder);Canal Sur;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);ETB1 (País Vasco);LaLiga TV Bar;
+20:30;LaLiga Hypermotion Estadio Municipal de Ipurúa, Eibar;Eibar;FC Cartagena;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+21:00;La Liga EA Sports Estadio Ramón Sánchez Pizjuán, Sevilha;Sevilla FC;Osasuna;GolStadium Premium (acceder);Canal Sur;M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);ETB1 (País Vasco);LaLiga TV Bar;
