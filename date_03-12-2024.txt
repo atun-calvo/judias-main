@@ -12,7 +12,7 @@
 19:00;Amistoso Femenino;España;Italia;Teledeporte;RTVE Play;
 19:00;Copa del Rey 2ª Ronda;Real Ávila;Real Valladolid;M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
 19:00;La Liga EA Sports;Mallorca;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
-20:00;Copa del Rey 2ª Ronda;Yeclano;Elche;Canal por confirmar;
+20:00;Copa del Rey 2ª Ronda;Yeclano;Elche;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:00;Eurocup Liga Regular;Dolomiti Energia Trento;Dreamland Gran Canaria;M+ Deportes 3 (65);
 20:00;Euroliga Liga Regular;ASVEL Lyon-Villeurbanne;Real Madrid Baloncesto;M+ Deportes 2 (64);
 20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;FC Porto CB;FIBA YouTube;Aragón Deporte;
@@ -23,7 +23,7 @@
 20:30;Euroliga Liga Regular;Baskonia;Fenerbahce Istanbul;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;FIBA Europe Cup Segunda Ronda;Cholet Basket;ESSM Le Portel Côte;FIBA YouTube;
 20:30;Premier League;Ipswich Town;Crystal Palace;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-21:00;Copa del Rey 2ª Ronda;Real Zaragoza;Granada CF;Aragón TV;
+21:00;Copa del Rey 2ª Ronda;Real Zaragoza;Granada CF;Canal Sur;Aragón TV;
 21:00;Copa del Rey 2ª Ronda;Salamanca UDS;Celta;M+ Copa del Rey (M52 O107);LaLiga TV M3;
 21:00;Copa del Rey 2ª Ronda;UD Barbastro;Espanyol;M+ LaLiga TV 3 (M167 O270);LaLiga TV M4;
 21:15;Copa del Rey 2ª Ronda;CE Europa;UD Las Palmas;M+ LaLiga TV (M54-O110);LaLiga TV M2;
