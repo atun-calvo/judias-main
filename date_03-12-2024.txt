@@ -8,7 +8,7 @@
 17:30;Basketball Champions League Liga Regular;Hapoel Holon;S. Oliver Baskets;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;CEZl Nymburk;Galatasaray Istanbul;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;Peristeri BC;FMP Meridian;DAZN (Regístrate);
-18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;FC Bayern Basketball;Canal por confirmar;
+18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;FC Bayern Basketball;M+ Deportes 6 (193);
 19:00;Amistoso Femenino;España;Italia;Teledeporte;RTVE Play;
 19:00;Copa del Rey 2ª Ronda;Real Ávila;Real Valladolid;M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
 19:00;La Liga EA Sports;Mallorca;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
