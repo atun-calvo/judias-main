@@ -24,8 +24,8 @@
 19:00;Euroliga Liga Regular;AS Monaco Basket;Olympiacos Piraeus;M+ Deportes 2 (64);
 19:30;FIBA Europe Cup Segunda Ronda;MHP RIESEN Ludwigsburg;Anwil Wloclawek;FIBA YouTube;
 20:00;Basketball Champions League Liga Regular;Nanterre 92;KK Igokea;DAZN (Regístrate);
-20:00;Copa del Rey 2ª Ronda;Cultural Leonesa;UD Almería;Canal por confirmar;
-20:00;Copa del Rey 2ª Ronda;Cádiz CF;Eldense;Canal por confirmar;
+20:00;Copa del Rey 2ª Ronda;Cultural Leonesa;UD Almería;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Cádiz CF;Eldense;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:00;Copa del Rey 2ª Ronda;Ourense CF;Deportivo;TVG (Galicia);
 20:30;Copa del Rey 2ª Ronda;Racing Santander;Sporting Gijón;TPA 1 (Asturias);
 20:30;Euroliga Liga Regular;AX Olimpia Milano;Crvena Zvezda MTS Belgrade;M+ Deportes 3 (65);
