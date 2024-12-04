@@ -18,8 +18,8 @@
 18:30;Basketball Champions League Liga Regular;Rytas Vilnius;Reggio Emilia;DAZN (Regístrate);
 18:30;FIBA Europe Cup Segunda Ronda;BC Kalev Cramo;PAOK Salónica;FIBA YouTube;
 18:45;Eurocup Liga Regular;Hapoel Tel Aviv BC;Joventut Badalona;Esport3 (Cataluña);
-19:00;Copa del Rey 2ª Ronda Camp Municipal Narcís Sala, Barcelona;Sant Andreu;Real Betis;Movistar Plus+ (M7);M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
 19:00;Copa del Rey 2ª Ronda;Nástic Tarragona;Huesca;Aragón TV;
+19:00;Copa del Rey 2ª Ronda;Sant Andreu;Real Betis;Movistar Plus+ (M7);M+ LaLiga TV 4 (M168 O271);LaLiga TV M5;
 19:00;Copa del Rey 2ª Ronda;Unionistas;Rayo Vallecano;M+ LaLiga TV 2 (M57 O112);LaLiga TV M4;
 19:00;Euroliga Liga Regular;AS Monaco Basket;Olympiacos Piraeus;M+ Deportes 2 (64);
 19:30;FIBA Europe Cup Segunda Ronda;MHP RIESEN Ludwigsburg;Anwil Wloclawek;FIBA YouTube;
@@ -37,11 +37,11 @@
 20:30;Premier League;Southampton;Chelsea;DAZN (Regístrate);DAZN 4 (M197);
 20:45;Eurocup Liga Regular;Valencia Basket;Hapoel Jerusalem;Movistar Plus+ 2 (M176);M+ Deportes (63);
 20:45;Euroliga Liga Regular;Virtus Bologna;ALBA Berlin;M+ Deportes 4 (191);
-21:00;Copa del Rey 2ª Ronda Estadio Nuevo Municipal Las Gaunas, Logroño;UD Logroñés;Girona;M+ LaLiga TV (M54-O110);LaLiga TV M3;
 21:00;Copa del Rey 2ª Ronda;CD Estepona;Leganés;M+ LaLiga TV 3 (M167 O270);LaLiga TV M6;
 21:00;Copa del Rey 2ª Ronda;Ejea;Valencia CF;Teledeporte;RTVE Play;
 21:00;Copa del Rey 2ª Ronda;Pontevedra;Villarreal;M+ Copa del Rey (M52 O107);LaLiga TV M2;
+21:00;Copa del Rey 2ª Ronda;UD Logroñés;Girona;M+ LaLiga TV (M54-O110);LaLiga TV M3;
 21:00;Copa del Rey 2ª Ronda;Zamora;CD Tenerife;TV Canaria;
-21:00;La Liga EA Sports;Athletic Club;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
+21:00;La Liga EA Sports;Athletic Club;Real Madrid;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);DAZN 2 (M71);LaLiga TV Bar;
 21:15;Premier League;Arsenal;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 21:15;Premier League;Aston Villa;Brentford;DAZN (Regístrate);
