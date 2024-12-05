@@ -19,10 +19,8 @@
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Euroliga Liga Regular;BC Partizan Beograd;Panathinaikos BC;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;Baskonia;M+ Deportes 2 (64);
-20:30;Premier League;Fulham;Brighton;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 20:30;Primera FEB Liga Regular;Zunder Palencia;Monbus Obradoiro;LaLiga+ Plus;
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;Fenerbahce Istanbul;Movistar Plus+ (M7);M+ Deportes (63);
 21:00;Copa del Rey 2ª Ronda;CD Minera;Alavés;M+ LaLiga TV 4 (M168 O271);LaLiga TV M4;LaLiga TV M5;
 21:00;Copa del Rey 2ª Ronda;Conquense;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV M2;
 21:00;Copa del Rey 2ª Ronda;UE Olot;Sevilla FC;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
-21:15;Premier League;Bournemouth;Tottenham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
