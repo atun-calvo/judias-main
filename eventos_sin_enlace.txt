@@ -7,7 +7,7 @@
 04:30;NBA Liga Regular;Los Angeles Clippers;Minnesota Timberwolves;NBA League Pass;
 10:00;Milan Open;2ª Ronda;Premier Padel Tour;Premier Padel YouTube;
 20:00;Copa del Rey 2ª Ronda;Barakaldo;Racing Ferrol;TVG2 (Galicia);
-20:00;Copa del Rey 2ª Ronda;FC Andorra;FC Cartagena;Canal por confirmar;
-20:00;Copa del Rey 2ª Ronda;Marbella;Burgos CF;Canal por confirmar;
-20:00;Copa del Rey 2ª Ronda;Ponferradina;CD Castellón;Canal por confirmar;
+20:00;Copa del Rey 2ª Ronda;FC Andorra;FC Cartagena;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Marbella;Burgos CF;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Ponferradina;CD Castellón;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:30;Primera FEB Liga Regular;Zunder Palencia;Monbus Obradoiro;LaLiga+ Plus;

@@ -13,9 +13,9 @@
 19:00;Copa del Rey 2ª Ronda;Orihuela;Getafe;M+ LaLiga TV 3 (M167 O270);LaLiga TV M4;
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Anadolu Efes Istanbul;M+ Deportes 4 (191);
 20:00;Copa del Rey 2ª Ronda;Barakaldo;Racing Ferrol;TVG2 (Galicia);
-20:00;Copa del Rey 2ª Ronda;FC Andorra;FC Cartagena;Canal por confirmar;
-20:00;Copa del Rey 2ª Ronda;Marbella;Burgos CF;Canal por confirmar;
-20:00;Copa del Rey 2ª Ronda;Ponferradina;CD Castellón;Canal por confirmar;
+20:00;Copa del Rey 2ª Ronda;FC Andorra;FC Cartagena;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Marbella;Burgos CF;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
+20:00;Copa del Rey 2ª Ronda;Ponferradina;CD Castellón;ace_ids.txt canal_html.txt estilo.css eventos.sh generador_html.sh getElcanoWeb.py index.html ipfs_scraper.py SIN TV EN DIRECTO *;
 20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Barça Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Euroliga Liga Regular;BC Partizan Beograd;Panathinaikos BC;M+ Deportes 3 (65);
 20:30;Euroliga Liga Regular;FC Bayern Basketball;Baskonia;M+ Deportes 2 (64);
