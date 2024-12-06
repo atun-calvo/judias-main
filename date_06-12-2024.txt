@@ -29,6 +29,7 @@
 19:00;Ultimate Tennis Showdown Fase de grupos;A. Bublik;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 19:30;Primera Federación Futsal;Manzanares FS;Industrias Santa Coloma;FEF TV;Esport3 (Cataluña);
 19:30;Primera Federación Futsal;Osasuna Magna;Jaén FS;FEF TV;
+20:00;BBL;EWE Baskets Oldenburg;Telekom Baskets Bonn;LaLiga+ Plus;
 20:00;Milan Open;1/4 de final masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 4 (191);
 20:00;Minicopa Endesa Primera Fase;Valencia Basket;Básquet Coruña;ACB YouTube;
 20:00;Primera FEB Liga Regular;Real Betis Baloncesto;Oviedo Baloncesto;LaLiga+ Plus;
