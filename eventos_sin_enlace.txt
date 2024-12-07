@@ -15,6 +15,7 @@
 11:45;Minicopa Endesa Primera Fase;Baskonia;Joventut Badalona;ACB YouTube;
 13:00;Minicopa Endesa Primera Fase;BAXI Manresa;Básquet Coruña;ACB YouTube;
 13:00;Minicopa Endesa Primera Fase;Bilbao Basket;Valencia Basket;ACB YouTube;
+13:30;Premier League;Everton;Liverpool;APLAZADO;
 14:00;Ultimate Tennis Showdown Fase de grupos;A. De Miñaur;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 15:00;Ultimate Tennis Showdown Fase de grupos;G. Monfils;T. Kokkinakis;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 16:00;Minicopa Endesa Primera Fase;MoraBanc Andorra;Real Madrid Baloncesto;ACB YouTube;

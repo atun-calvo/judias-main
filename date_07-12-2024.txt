@@ -19,7 +19,7 @@
 13:00;Minicopa Endesa Primera Fase;BAXI Manresa;Básquet Coruña;ACB YouTube;
 13:00;Minicopa Endesa Primera Fase;Bilbao Basket;Valencia Basket;ACB YouTube;
 13:15;FIA Fórmula 2;G.P. Abu Dhabi (Yas Marina);Carrera 1;DAZN (Regístrate);MAX;DAZN F1 (M69);
-13:30;Premier League;Everton;Liverpool;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
+13:30;Premier League;Everton;Liverpool;APLAZADO;
 14:00;La Liga EA Sports;UD Las Palmas;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Elche;Cádiz CF;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 14:00;Ultimate Tennis Showdown Fase de grupos;A. De Miñaur;D. Shapovalov;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
