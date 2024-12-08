@@ -1,4 +1,15 @@
+01:00;NBA Liga Regular;New Orleans Pelicans;Oklahoma C. Thunder;NBA League Pass;
+01:00;NBA Liga Regular;Washington Wizards;Denver Nuggets;NBA League Pass;
+01:30;NBA Liga Regular;New York Knicks;Detroit Pistons;NBA League Pass;
+02:00;NBA Liga Regular;Boston Celtics;Memphis Grizzlies;NBA League Pass;
+02:00;NBA Liga Regular;Miami Heat;Phoenix Suns;NBA League Pass;
+10:15;Minicopa Endesa;Primera Fase;ACB YouTube;
+12:15;Minicopa Endesa;Primera Fase;ACB YouTube;
 12:30;Primera Federación Futsal;AD Sala 10 Zaragoza;Burela FS;FEF TV;
 15:30;Ultimate Tennis Showdown Semifinales;A. De Miñaur;G. Monfils;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 16:30;Ultimate Tennis Showdown Semifinales;U. Humbert;H. Rune;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+16:40;Lega Serie A Liga Regular;Umana Reyer Venice;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+18:15;Lega Serie A Liga Regular;AX Olimpia Milano;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+19:00;NBA Liga Regular;Chicago Bulls;Philadelphia 76ers;NBA League Pass;
+23:00;NBA Liga Regular;Indiana Pacers;Charlotte Hornets;NBA League Pass;
