@@ -29,7 +29,7 @@
 17:00;Liga Endesa Liga Regular;Barça Basket;UCAM Murcia CB;M+ Deportes 2 (64);
 17:00;Milan Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 17:30;Premier League;Tottenham;Chelsea;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-18:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+18:00;Ultimate Tennis Showdown Final;A. De Miñaur;H. Rune;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 18:15;Lega Serie A Liga Regular;AX Olimpia Milano;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:30;La Liga EA Sports;Osasuna;Alavés;GolStadium Premium (acceder);M+ LaLiga TV (M54-O110);GOL PLAY (Síguelo en directo);GolStadium (acceder);ETB2 (País Vasco);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Albacete;CD Castellón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
