@@ -6,8 +6,8 @@
 10:15;Minicopa Endesa;Primera Fase;ACB YouTube;
 12:15;Minicopa Endesa;Primera Fase;ACB YouTube;
 12:30;Primera Federación Futsal;AD Sala 10 Zaragoza;Burela FS;FEF TV;
-15:30;Ultimate Tennis Showdown;Semifinales;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
-16:30;Ultimate Tennis Showdown;Semifinales;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+15:30;Ultimate Tennis Showdown Semifinales;A. De Miñaur;G. Monfils;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+16:30;Ultimate Tennis Showdown Semifinales;U. Humbert;H. Rune;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 16:40;Lega Serie A Liga Regular;Umana Reyer Venice;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:00;Ultimate Tennis Showdown;Final;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 18:15;Lega Serie A Liga Regular;AX Olimpia Milano;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);

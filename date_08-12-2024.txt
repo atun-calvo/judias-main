@@ -17,14 +17,14 @@
 13:00;Liga Endesa Liga Regular;Dreamland Gran Canaria;Río Breogán;M+ Deportes (63);
 14:00;Fórmula 1;G.P. Abu Dhabi (Yas Marina);Carrera;DAZN (Regístrate);MAX;DAZN F1 (M69);
 14:00;La Liga EA Sports;Leganés;Real Sociedad;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
-14:00;LaLiga Hypermotion Estadio Municipal de A Malata, Ferrol;Racing Ferrol;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
+14:00;LaLiga Hypermotion;Racing Ferrol;Real Oviedo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV M2;
 15:00;Premier League;Fulham;Arsenal;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 15:00;Premier League;Ipswich Town;Bournemouth;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
 15:00;Premier League;Leicester City;Brighton;DAZN (Regístrate);DAZN 3 (M196);
-15:30;Ultimate Tennis Showdown;Semifinales;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+15:30;Ultimate Tennis Showdown Semifinales;A. De Miñaur;G. Monfils;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 16:15;La Liga EA Sports;Athletic Club;Villarreal;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 16:15;LaLiga Hypermotion;Málaga;UD Almería;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
-16:30;Ultimate Tennis Showdown;Semifinales;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
+16:30;Ultimate Tennis Showdown Semifinales;U. Humbert;H. Rune;GolStadium Premium (acceder);Tennis Channel (Orange 123);GolStadium (acceder);
 16:40;Lega Serie A Liga Regular;Umana Reyer Venice;Dinamo Sassari;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 17:00;Liga Endesa Liga Regular;Barça Basket;UCAM Murcia CB;M+ Deportes 2 (64);
 17:00;Milan Open;Final Masculina;Premier Padel Tour;Red Bull TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
