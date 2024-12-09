@@ -8,6 +8,6 @@
 03:00;NBA Liga Regular;Sacramento Kings;Utah Jazz;NBA League Pass;
 03:30;NBA Liga Regular;Los Angeles Lakers;Portland Trail Blazers;NBA League Pass;
 13:00;Copa del Rey;Sorteo Dieciseisavos de Final;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;RFEF.es;Teledeporte;RTVE Play;RFEF TV YouTube;DATOS ESTADÍSTICOS DE COPA DEL REY EN TELEVISIÓN EN ESPAÑA;
-20:30;LaLiga Hypermotion;FC Cartagena;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+20:30;LaLiga Hypermotion Estadio Municipal Cartagonova, Cartagena;FC Cartagena;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 21:00;La Liga EA Sports;Getafe;Espanyol;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Premier League;West Ham;Wolverhampton;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
