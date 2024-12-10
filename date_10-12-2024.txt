@@ -7,6 +7,7 @@
 20:00;Basketball Champions League Liga Regular;Telekom Baskets Bonn;VEF Riga;DAZN (Regístrate);
 20:00;FIBA Europe Cup Segunda Ronda;Bilbao Basket;Cholet Basket;FIBA YouTube;
 20:00;FIBA Europe Cup;ESSM Le Portel Côte;Dinamo Sassari;FIBA YouTube;
+20:30;Copa del Rey 4ª Ronda;UD Ibiza FS;Burela FS;UD IBIZA GASIFRED YouTube;
 20:30;Primera FEB Liga Regular;Monbus Obradoiro;Real Betis Baloncesto;LaLiga+ Plus;
 20:45;Primera FEB Liga Regular;Oviedo Baloncesto;GA Cantabria;LaLiga+ Plus;Marca.com;Marca YouTube;
 21:00;Basketball Champions League Liga Regular;La Laguna Tenerife;Karsiyaka Basket;DAZN (Regístrate);
