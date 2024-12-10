@@ -8,7 +8,7 @@
 20:00;FIBA Europe Cup Segunda Ronda;Bilbao Basket;Cholet Basket;FIBA YouTube;
 20:00;FIBA Europe Cup;ESSM Le Portel Côte;Dinamo Sassari;FIBA YouTube;
 20:30;Primera FEB Liga Regular;Monbus Obradoiro;Real Betis Baloncesto;LaLiga+ Plus;
-20:45;Primera FEB Liga Regular;Oviedo Baloncesto;GA Cantabria;LaLiga+ Plus;
+20:45;Primera FEB Liga Regular;Oviedo Baloncesto;GA Cantabria;LaLiga+ Plus;Marca.com;Marca YouTube;
 21:00;Basketball Champions League Liga Regular;La Laguna Tenerife;Karsiyaka Basket;DAZN (Regístrate);
 21:00;Champions League Fase Liga;Atalanta;Real Madrid;M+ Liga de Campeones (M60 O115);M+ Liga de Campeones 4 (M180 O276);LaLiga TV Bar;
 21:00;Champions League Fase Liga;Bayer Leverkusen;Inter Milan;M+ Liga de Campeones 2 (M61 O116);M+ Liga de Campeones 4 (M180 O276);
