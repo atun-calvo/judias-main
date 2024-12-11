@@ -8,7 +8,7 @@
 18:30;Basketball Champions League Liga Regular;Kolossos BC;Saint-Quentin Basketball;DAZN (Regístrate);
 18:45;Champions League Fase Liga;At. Madrid;Slovan Bratislava;M+ Liga de Campeones (M60 O115);LaLiga TV Bar;
 18:45;Champions League Fase Liga;Lille;Sturm Graz;M+ Liga de Campeones 3 (M62 O118);
-19:15;FIBA Europe Cup Segunda Ronda;Maroussi BC;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;
+19:15;FIBA Europe Cup Segunda Ronda;Maroussi BC;Casademont Zaragoza;FIBA YouTube;Aragón Deporte;Aragón TV;
 19:30;FIBA Europe Cup;MHP RIESEN Ludwigsburg;Fribourg Olympic;FIBA YouTube;
 20:00;Eurocup Women Play-Off;Charnay Basket;IDK Euskotren;FIBA YouTube;ETB4 (País Vasco);
 20:00;Eurocup Women Play-Off;Movistar Estudiantes;Asseco Arka Gdynia;FIBA YouTube;
