@@ -1,5 +1,5 @@
 01:00;NBA Cup 1/4 de Final;New York Knicks;Atlanta Hawks;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
-03:30;NBA Cup 1/4 de Final;Houston Rockets;Golden State Warriors;M+ #Vamos Bar (304);M+ Deportes (63);
+03:30;NBA Cup 1/4 de Final;Houston Rockets;Golden State Warriors;M+ Deportes (63);
 18:00;Eurocup Women Play-Off;BC Constanta;Villeneuve d'Ascq LM;FIBA YouTube;
 18:00;Eurocup Women Play-Off;BC Neptunas;Basket Montpellier;FIBA YouTube;
 18:00;Eurocup Women Play-Off;Crvena Zvezda MTS Belgrade;Galatasaray Istanbul;FIBA YouTube;
