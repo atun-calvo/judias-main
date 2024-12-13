@@ -1,11 +1,4 @@
-18:00;Eurocup Women Play-Off;BC Constanta;Villeneuve d'Ascq LM;FIBA YouTube;
-18:00;Eurocup Women Play-Off;BC Neptunas;Basket Montpellier;FIBA YouTube;
-18:00;Eurocup Women Play-Off;Crvena Zvezda MTS Belgrade;Galatasaray Istanbul;FIBA YouTube;
-18:00;Eurocup Women Play-Off;GEAS Basket;Sopron Basket;FIBA YouTube;
-18:00;Eurocup Women Play-Off;Gorzów Basketball;Besiktas JK Istanbul;FIBA YouTube;
-18:00;Eurocup Women Play-Off;KSC Szekszard;UNI Györ;FIBA YouTube;
-18:00;Eurocup Women Play-Off;Kibirkstis Vilnius;ASVEL Lyon-Villeurbanne;FIBA YouTube;
-18:00;Eurocup Women Play-Off;Rutronik Stars Keltern;Tarbes GB;FIBA YouTube;
-19:00;Título Mundial Femenino Peso Supermosca;A. González;M. Romero;DAZN (Regístrate);
-19:15;FIBA Europe Cup;PAOK Salónica;CSM Oradea;FIBA YouTube;
-20:00;Eurocup Women Play-Off;BAXI Ferrol;Castors Braine;FIBA YouTube;TVG2 (Galicia);
+00:00;Velada Peso Superwelter;A. Holmes Jr.;E. Humaine Jr.;DAZN (Regístrate);
+01:30;NBA Liga Regular;Miami Heat;Toronto Raptors;NBA League Pass;
+02:00;NBA Liga Regular;New Orleans Pelicans;Sacramento Kings;NBA League Pass;
+20:00;BBL;Fraport Skyliners;BC Braunschweig;LaLiga+ Plus;
