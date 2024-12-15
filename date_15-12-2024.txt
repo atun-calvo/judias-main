@@ -32,6 +32,6 @@
 20:00;Premier League;Southampton;Tottenham;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;
 20:30;Velada Peso Pesado;D. Whyte;E. Tetteh;DAZN (Regístrate);DAZN 4 (M197);
 21:00;La Liga EA Sports;FC Barcelona;Leganés;DAZN LaLiga (M55 O113);DAZN (Regístrate);MAX;DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
-21:00;LaLiga Hypermotion;CD Tenerife;Deportivo;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
+21:00;LaLiga Hypermotion;CD Tenerife;Deportivo;APLAZADO;
 22:00;Master Final;Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 4 (M197);
 23:00;NBA Liga Regular;Indiana Pacers;New Orleans Pelicans;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
