@@ -1,3 +1,11 @@
 00:00;Velada Peso Supermedio;K. Lele Sadjo;S. Papeschi;DAZN (Regístrate);
 01:00;UFC UFC Fight Night;J. Álvarez;D. Klose;MAX;
 04:00;UFC UFC Fight Night;C. Covington;J. Buckley;MAX;
+12:00;Primera FEB Liga Regular;FC Cartagena CB;CB Morón;LaLiga+ Plus;
+12:30;Primera FEB Liga Regular;CB Zamora;Gipuzkoa Basket;LaLiga+ Plus;
+12:30;Primera FEB Liga Regular;GA Cantabria;CB Tizona Burgos;LaLiga+ Plus;La 8 Burgos;
+12:30;Primera FEB Liga Regular;Real Betis Baloncesto;UEMC RV Baloncesto;LaLiga+ Plus;
+17:00;Lega Serie A Liga Regular;Pallacanestro Varese;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+17:00;Primera FEB Liga Regular;Basquet Menorca;Oviedo Baloncesto;LaLiga+ Plus;Marca.com;Marca YouTube;
+19:00;Lega Serie A Liga Regular;Virtus Bologna;Trieste Pallacanestro;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+19:00;Primera FEB Liga Regular;San Pablo Burgos;TAU Castelló;LaLiga+ Plus;La 8 Burgos;
