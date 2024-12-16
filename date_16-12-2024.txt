@@ -4,3 +4,4 @@
 02:00;NBA Liga Regular;Phoenix Suns;Portland Trail Blazers;NBA League Pass;
 02:30;NBA Liga Regular;Golden State Warriors;Dallas Mavericks;NBA League Pass;
 03:30;NBA Liga Regular;Los Angeles Lakers;Memphis Grizzlies;NBA League Pass;
+21:00;Premier League;Bournemouth;West Ham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
