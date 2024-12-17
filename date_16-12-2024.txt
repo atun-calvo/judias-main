@@ -1,7 +1,0 @@
-00:00;NBA Liga Regular;Orlando Magic;New York Knicks;NBA League Pass;
-00:00;NBA Liga Regular;Washington Wizards;Boston Celtics;NBA League Pass;
-01:00;NBA Liga Regular;San Antonio Spurs;Minnesota Timberwolves;NBA League Pass;
-02:00;NBA Liga Regular;Phoenix Suns;Portland Trail Blazers;NBA League Pass;
-02:30;NBA Liga Regular;Golden State Warriors;Dallas Mavericks;NBA League Pass;
-03:30;NBA Liga Regular;Los Angeles Lakers;Memphis Grizzlies;NBA League Pass;
-21:00;Premier League;Bournemouth;West Ham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);MAX;
