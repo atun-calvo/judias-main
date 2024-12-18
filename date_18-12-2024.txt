@@ -1,16 +1,12 @@
 01:30;Velada Peso Superligero;K. Scoby;A. Rodgers;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 02:30;NBA Cup Final;Milwaukee Bucks;Oklahoma C. Thunder;Movistar Plus+ (M7);M+ Deportes (63);
-12:00;Next Gen ATP Finals Round Robin;J. Shang;L. Van Assche;ATP Tennis TV;M+ Deportes 4 (191);
-13:30;Next Gen ATP Finals Round Robin;A. Michelsen;N. Basavareddy;ATP Tennis TV;M+ Deportes 4 (191);
 17:00;Eurocopa Fase de Clasificación;Alemania;Chipre;FIFA+;
 17:00;Eurocup Women Play-Off;BC Neptunas;Basket Montpellier;FIBA YouTube;
-17:00;Next Gen ATP Finals Round Robin;J. Mensik;L. Tien;ATP Tennis TV;M+ Deportes 4 (191);
 18:00;Eurocup Women Play-Off;Galatasaray Istanbul;Crvena Zvezda MTS Belgrade;FIBA YouTube;
 18:30;Basketball Champions League Liga Regular;Manisa BBSK;FMP Meridian;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;UCAM Murcia CB;Peristeri BC;DAZN (Regístrate);Popular TV Murcia;
 18:30;Eurocup Women Play-Off;Tarbes GB;Rutronik Stars Keltern;FIBA YouTube;
 18:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Crvena Zvezda MTS Belgrade;M+ Deportes 3 (65);
-18:30;Next Gen ATP Finals Round Robin;A. Fils;J. Fonseca;ATP Tennis TV;M+ Deportes 4 (191);
 19:00;LaLiga Hypermotion;Racing Ferrol;UD Almería;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);Movistar Plus+ (M7);LaLiga TV Bar;
 19:15;Eurocup Women Play-Off;Asseco Arka Gdynia;Movistar Estudiantes;FIBA YouTube;
 20:00;Basketball Champions League Liga Regular;KK Igokea;S. Oliver Baskets;DAZN (Regístrate);
