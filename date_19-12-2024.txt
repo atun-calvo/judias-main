@@ -17,7 +17,7 @@
 20:00;Eurocup Women Play-Off;Castors Braine;BAXI Ferrol;FIBA YouTube;TVG2 (Galicia);
 20:00;Master Final;1/4 Final Masculino;Premier Padel Tour;Red Bull TV;M+ Deportes 2 (64);
 20:30;Eurocup Women Play-Off;Spar Girona;Magnolia Campobasso;FIBA YouTube;Esport3 (Cataluña);
-20:30;Euroliga Liga Regular;Paris Basketball;Fenerbahce Istanbul;M+ Deportes 3 (65);
+20:30;Euroliga Liga Regular;Paris Basketball;Fenerbahce Istanbul;APLAZADO;
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;AS Monaco Basket;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:15;LaLiga Hypermotion;Deportivo;CD Castellón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
 21:15;LaLiga Hypermotion;Huesca;CD Tenerife;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
