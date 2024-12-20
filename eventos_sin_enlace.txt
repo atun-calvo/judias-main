@@ -10,6 +10,8 @@
 03:30;NBA Liga Regular;Minnesota Timberwolves;New York Knicks;NBA League Pass;
 04:00;NBA Liga Regular;Portland Trail Blazers;Denver Nuggets;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Los Angeles Lakers;NBA League Pass;
+10:00;World Tennis League;Eagles;Hawks;Tennis Channel (Orange 123);
+14:00;World Tennis League;Falcons;Kites;Tennis Channel (Orange 123);
 20:30;Primera FEB Liga Regular;CB Morón;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 20:30;Primera FEB Liga Regular;Gipuzkoa Basket;FC Cartagena CB;LaLiga+ Plus;
 20:45;Primera FEB Liga Regular;TAU Castelló;Monbus Obradoiro;LaLiga+ Plus;
