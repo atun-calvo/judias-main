@@ -26,7 +26,7 @@
 20:15;Euroliga Liga Regular;Olympiacos Piraeus;ALBA Berlin;M+ Deportes 6 (193);
 20:30;Eurocup Liga Regular;Valencia Basket;Lietkabelis Panevezys;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 20:30;Euroliga Liga Regular;Crvena Zvezda MTS Belgrade;Maccabi Tel Aviv BC;M+ Deportes 3 (65);
-20:30;LaLiga Hypermotion;FC Cartagena;Albacete;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
+20:30;LaLiga Hypermotion Estadio Municipal Cartagonova, Cartagena;FC Cartagena;Albacete;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
 20:30;Next Gen ATP Finals Round Robin;J. Mensik;J. Fonseca;ATP Tennis TV;M+ Deportes 4 (191);
 20:30;Primera FEB Liga Regular;CB Morón;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 20:30;Primera FEB Liga Regular;Gipuzkoa Basket;FC Cartagena CB;LaLiga+ Plus;
