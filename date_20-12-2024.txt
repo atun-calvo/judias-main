@@ -32,5 +32,6 @@
 20:30;Primera FEB Liga Regular;Gipuzkoa Basket;FC Cartagena CB;LaLiga+ Plus;
 20:45;Primera FEB Liga Regular;TAU Castelló;Monbus Obradoiro;LaLiga+ Plus;
 21:00;Euroliga Liga Regular;AX Olimpia Milano;FC Bayern Basketball;M+ Deportes 5 (192);
+21:00;La Liga EA Sports;Girona;Real Valladolid;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;Primera FEB Liga Regular;Club Ourense Baloncesto;Real Betis Baloncesto;LaLiga+ Plus;
 21:00;Primera FEB Liga Regular;Oviedo Baloncesto;Zunder Palencia;LaLiga+ Plus;Marca.com;Marca YouTube;
