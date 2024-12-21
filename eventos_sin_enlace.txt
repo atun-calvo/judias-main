@@ -1,10 +1,10 @@
 01:30;NBA Liga Regular;Cleveland Cavaliers;Milwaukee Bucks;NBA League Pass;
 02:00;NBA Liga Regular;Miami Heat;Oklahoma C. Thunder;NBA League Pass;
-10:00;World Tennis League;Falcons;Eagles;Tennis Channel (Orange 123);
+10:10;World Tennis League;Falcons;Eagles;Tennis Channel (Orange 123);
 12:00;Primera Federación Futsal;ElPozo Murcia;Servigroup Peñiscola FS;FEF TV;
 12:30;Primera Federación Futsal;Palma Futsal;Córdoba FS;FEF TV;
 13:00;Primera Federación Futsal;Industrias Santa Coloma;Noia Portus Apostoli FS;FEF TV;
-14:00;World Tennis League;Hawks;Kites;Tennis Channel (Orange 123);
+14:10;World Tennis League;Hawks;Kites;Tennis Channel (Orange 123);
 16:00;Primera Federación Futsal;Movistar Inter;Manzanares FS;FEF TV;
 18:00;Primera Federación Futsal;Jaén FS;Barça FS;FEF TV;Esport3 (Cataluña);
 20:00;BBL;NINERS Chemnitz;Telekom Baskets Bonn;LaLiga+ Plus;
