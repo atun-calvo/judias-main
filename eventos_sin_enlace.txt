@@ -1,2 +1,16 @@
+01:00;NBA Liga Regular;Orlando Magic;Miami Heat;NBA League Pass;
+01:30;NBA Liga Regular;Atlanta Hawks;Memphis Grizzlies;NBA League Pass;
+01:30;NBA Liga Regular;Brooklyn Nets;Utah Jazz;NBA League Pass;
+02:00;NBA Liga Regular;Chicago Bulls;Boston Celtics;NBA League Pass;
+02:00;NBA Liga Regular;Cleveland Cavaliers;Philadelphia 76ers;NBA League Pass;
+02:00;NBA Liga Regular;Milwaukee Bucks;Washington Wizards;NBA League Pass;
+02:00;NBA Liga Regular;Minnesota Timberwolves;Golden State Warriors;NBA League Pass;
+02:00;NBA Liga Regular;New Orleans Pelicans;New York Knicks;NBA League Pass;
+02:30;NBA Liga Regular;Dallas Mavericks;Los Angeles Clippers;NBA League Pass;
+02:30;NBA Liga Regular;San Antonio Spurs;Portland Trail Blazers;NBA League Pass;
+03:00;NBA Liga Regular;Phoenix Suns;Detroit Pistons;NBA League Pass;
+12:00;Primera FEB Liga Regular;Baloncesto Fuenlabrada;Basquet Menorca;LaLiga+ Plus;
 12:00;Segunda Federación Futsal;Málaga FS;Full Energía Zaragoza;RFEF.es;RFEF TV YouTube;
+14:00;World Tennis League Final;Falcons;Hawks;Tennis Channel (Orange 123);
 17:00;Primera Federación Futsal;Ribera Navarra FS;AD Sala 10 Zaragoza;FEF TV;
+20:00;Lega Serie A Liga Regular;Dolomiti Energia Trento;Virtus Bologna;DAZN (Regístrate);DAZN App Gratis (Regístrate);
