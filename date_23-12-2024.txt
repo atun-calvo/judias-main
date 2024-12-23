@@ -1,4 +1,0 @@
-00:00;NBA Liga Regular;Sacramento Kings;Indiana Pacers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-00:00;NBA Liga Regular;Toronto Raptors;Houston Rockets;NBA League Pass;
-01:00;NBA Liga Regular;New Orleans Pelicans;Denver Nuggets;NBA League Pass;PD;Copa de España 1/4 de Final;Real Betis Baloncesto;Oviedo Baloncesto;FEB TV;PD;Copa de España 1/4 de Final;Monbus Obradoiro;UEMC RV Baloncesto;FEB TV;PD;Copa de España 1/4 de Final;Movistar Estudiantes;San Pablo Burgos;FEB TV;PD;Copa de España 1/4 de Final;FC Cartagena CB;TAU Castelló;FEB TV;
-19:00;Lega Serie A Liga Regular;AX Olimpia Milano;Trapani Shark;DAZN (Regístrate);DAZN App Gratis (Regístrate);
