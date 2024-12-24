@@ -1,6 +1,7 @@
 01:00;NBA Liga Regular;Charlotte Hornets;Houston Rockets;NBA League Pass;
 01:00;NBA Liga Regular;Cleveland Cavaliers;Utah Jazz;NBA League Pass;
 01:00;NBA Liga Regular;Orlando Magic;Boston Celtics;NBA League Pass;
+01:00;NBA Liga Regular;Philadelphia 76ers;San Antonio Spurs;M+ Deportes (63);
 01:30;NBA Liga Regular;Atlanta Hawks;Minnesota Timberwolves;NBA League Pass;
 01:30;NBA Liga Regular;Miami Heat;Brooklyn Nets;NBA League Pass;
 01:30;NBA Liga Regular;New York Knicks;Toronto Raptors;NBA League Pass;
