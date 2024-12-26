@@ -1,1 +1,4 @@
-18:00;NBA Liga Regular;New York Knicks;San Antonio Spurs;NBA League Pass;
+02:00;NBA Liga Regular;Golden State Warriors;Los Angeles Lakers;NBA League Pass;
+04:30;NBA Liga Regular;Phoenix Suns;Denver Nuggets;NBA League Pass;
+16:00;Premier League;Bournemouth;Crystal Palace;DAZN (Regístrate);
+16:30;BBL;Telekom Baskets Bonn;S. Oliver Baskets;LaLiga+ Plus;

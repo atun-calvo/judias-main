@@ -1,0 +1,15 @@
+02:00;NBA Liga Regular;Golden State Warriors;Los Angeles Lakers;NBA League Pass;
+04:30;NBA Liga Regular;Phoenix Suns;Denver Nuggets;NBA League Pass;
+13:30;Premier League;Manchester City;Everton;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
+16:00;Premier League;Bournemouth;Crystal Palace;DAZN (Regístrate);
+16:00;Premier League;Chelsea;Fulham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+16:00;Premier League;Newcastle;Aston Villa;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+16:00;Premier League;Nottingham Forest;Tottenham;DAZN (Regístrate);DAZN 3 (M196);
+16:00;Premier League;Southampton;West Ham;DAZN (Regístrate);DAZN 4 (M197);
+16:30;BBL;Telekom Baskets Bonn;S. Oliver Baskets;LaLiga+ Plus;
+18:30;Premier League;Wolverhampton;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
+19:00;Euroliga Liga Regular;ALBA Berlin;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+19:00;Euroliga Liga Regular;AS Monaco Basket;Anadolu Efes Istanbul;M+ Deportes 2 (64);
+20:05;Euroliga Liga Regular;Maccabi Tel Aviv BC;Zalgiris Kaunas;M+ Deportes 3 (65);
+20:30;Euroliga Liga Regular;AX Olimpia Milano;Olympiacos Piraeus;M+ Deportes (63);
+21:00;Premier League;Liverpool;Leicester City;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
