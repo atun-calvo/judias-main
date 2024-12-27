@@ -1,8 +1,0 @@
-13:30;Premier League;Manchester City;Everton;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
-16:00;Premier League;Bournemouth;Crystal Palace;DAZN (Regístrate);
-16:00;Premier League;Chelsea;Fulham;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-16:00;Premier League;Newcastle;Aston Villa;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
-16:00;Premier League;Nottingham Forest;Tottenham;DAZN (Regístrate);DAZN 3 (M196);
-16:00;Premier League;Southampton;West Ham;DAZN (Regístrate);DAZN 4 (M197);
-18:30;Premier League;Wolverhampton;Manchester Utd.;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-21:00;Premier League;Liverpool;Leicester City;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
