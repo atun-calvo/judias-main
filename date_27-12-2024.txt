@@ -5,14 +5,14 @@
 02:00;NBA Liga Regular;Memphis Grizzlies;Toronto Raptors;NBA League Pass;
 02:00;NBA Liga Regular;Milwaukee Bucks;Brooklyn Nets;NBA League Pass;
 02:00;NBA Liga Regular;New Orleans Pelicans;Houston Rockets;M+ Deportes (63);
-03:00;United Cup Fase de grupos Partido 1;A. Shevchenko;P. Carreño;ATP Tennis TV;Tennis Channel (Orange 123);RTVE Play;
+03:10;United Cup Fase de grupos Partido 1;A. Shevchenko;P. Carreño;ATP Tennis TV;Tennis Channel (Orange 123);RTVE Play;
 04:00;NBA Liga Regular;Portland Trail Blazers;Utah Jazz;NBA League Pass;
 04:00;NBA Liga Regular;Sacramento Kings;Detroit Pistons;NBA League Pass;
 04:30;United Cup Fase de grupos Partido 2;E. Rybakina;J. Bouzas;ATP Tennis TV;Tennis Channel (Orange 123);RTVE Play;
 06:30;United Cup Fase de grupos Partido 3 (Dobles);Kazajistán;España;ATP Tennis TV;Tennis Channel (Orange 123);RTVE Play;
 10:00;United Cup Fase de grupos Partido 1;X. Gao;B. Haddad Maia;ATP Tennis TV;Tennis Channel (Orange 123);
-11:30;United Cup Fase de grupos Partido 2;Z. Zhang;T. Monteiro;ATP Tennis TV;Tennis Channel (Orange 123);
 13:30;United Cup Fase de grupos Partido 3 (Dobles);China;Brasil;ATP Tennis TV;Tennis Channel (Orange 123);
+14:00;United Cup Fase de grupos Partido 2;Zh. Zhang;T. Monteiro;ATP Tennis TV;Tennis Channel (Orange 123);
 18:30;BBL Liga Regular;BC Braunschweig;EWE Baskets Oldenburg;LaLiga+ Plus;
 19:00;Liga Endesa Liga Regular;Joventut Badalona;Força Lleida;M+ Deportes 2 (64);
 19:30;Primera Federación Futsal;Industrias Santa Coloma;Burela FS;FEF TV;
