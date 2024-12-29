@@ -3,6 +3,7 @@
 01:00;NBA Liga Regular;Washington Wizards;New York Knicks;NBA League Pass;
 02:00;NBA Liga Regular;Chicago Bulls;Milwaukee Bucks;NBA League Pass;
 02:00;United Cup Fase de grupos Partido 2;T. Machac;C. Ruud;ATP Tennis TV;Tennis Channel (Orange 123);
+02:30;NBA Liga Regular;Golden State Warriors;Phoenix Suns;M+ Deportes (63);
 03:00;NBA Liga Regular;Denver Nuggets;Detroit Pistons;NBA League Pass;
 03:00;United Cup Fase de grupos Partido 1;L. Siegemund;B. Haddad Maia;ATP Tennis TV;Tennis Channel (Orange 123);
 03:30;NBA Liga Regular;Utah Jazz;Philadelphia 76ers;NBA League Pass;
@@ -20,12 +21,19 @@
 11:00;United Cup Fase de grupos Partido 3 (Dobles);Italia;Suiza;ATP Tennis TV;Tennis Channel (Orange 123);
 11:30;United Cup Fase de grupos Partido 2;T. Fritz;F. Auger-Aliassime;ATP Tennis TV;Tennis Channel (Orange 123);
 12:00;Primera FEB Liga Regular;FC Cartagena CB;TAU Castelló;LaLiga+ Plus;
+12:30;Liga Endesa Liga Regular;Casademont Zaragoza;Basquet Girona;M+ Deportes (63);
 12:30;Primera FEB Liga Regular;CB Zamora;Oviedo Baloncesto;LaLiga+ Plus;Marca.com;Marca YouTube;
+12:30;Primera FEB Liga Regular;Movistar Estudiantes;Baloncesto Fuenlabrada;LaLiga+ Plus;M+ Deportes 3 (65);
 12:30;Primera FEB Liga Regular;Real Betis Baloncesto;CB Morón;LaLiga+ Plus;
 13:30;United Cup Fase de grupos Partido 3 (Dobles);Estados Unidos;Canadá;ATP Tennis TV;Tennis Channel (Orange 123);
 15:00;BBL Liga Regular;Rasta Vechta;EWE Baskets Oldenburg;LaLiga+ Plus;
+15:30;Premier League;Leicester City;Manchester City;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
 16:00;Premier League;Crystal Palace;Southampton;DAZN (Regístrate);
+16:00;Premier League;Everton;Nottingham Forest;DAZN (Regístrate);DAZN 3 (M196);
+16:00;Premier League;Fulham;Bournemouth;DAZN (Regístrate);DAZN 4 (M197);
+16:00;Premier League;Tottenham;Wolverhampton;DAZN (Regístrate);DAZN 2 Bar (Movistar-149);
 16:30;Copa Cataluña Semifinales;Barça FS;AECS L'Hospitalet;Esport3 (Cataluña);
+17:00;Liga Endesa Liga Regular;BAXI Manresa;Baskonia;M+ Deportes (63);
 17:30;Lega Serie A Liga Regular;Treviso Basket;AX Olimpia Milano;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 17:30;Lega Serie A Liga Regular;Virtus Bologna;Scafati Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 18:00;Primera FEB Liga Regular;Basquet Menorca;HLA Alicante;LaLiga+ Plus;
@@ -34,3 +42,5 @@
 18:45;Copa Cataluña Semifinales;Industrias Santa Coloma;Aliança Mataró;Esport3 Web;
 19:00;Primera FEB Liga Regular;CB Tizona Burgos;San Pablo Burgos;LaLiga+ Plus;La 8 Burgos;
 19:00;Primera FEB Liga Regular;Monbus Obradoiro;Club Ourense Baloncesto;LaLiga+ Plus;TVG2 (Galicia);
+20:30;Liga Endesa Liga Regular;Real Madrid Baloncesto;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
+21:30;NBA Liga Regular;Orlando Magic;Brooklyn Nets;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
