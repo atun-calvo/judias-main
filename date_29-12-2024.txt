@@ -15,9 +15,8 @@
 06:30;United Cup Fase de grupos Partido 3 (Dobles);Alemania;Brasil;ATP Tennis TV;Tennis Channel (Orange 123);
 07:40;United Cup Fase de grupos Partido 1;F. Cobolli;D. Stricker;ATP Tennis TV;Tennis Channel (Orange 123);
 09:25;United Cup Fase de grupos Partido 2;J. Paolini;B. Bencic;ATP Tennis TV;Tennis Channel (Orange 123);
-09:30;WTA Torneo de Brisbane 1ª Ronda;M. Bouzkova;T. Gibson;WTA TV;
+09:40;WTA Torneo de Brisbane 1ª Ronda;M. Bouzkova;T. Gibson;WTA TV;
 10:00;United Cup Fase de grupos Partido 1;C. Gauff;L. Fernández;ATP Tennis TV;Tennis Channel (Orange 123);
-11:00;Torneo de Brisbane 1ª Ronda;D. Goffin;A. Vukic;ATP Tennis TV;
 11:00;United Cup Fase de grupos Partido 3 (Dobles);Italia;Suiza;ATP Tennis TV;Tennis Channel (Orange 123);
 11:30;United Cup Fase de grupos Partido 2;T. Fritz;F. Auger-Aliassime;ATP Tennis TV;Tennis Channel (Orange 123);
 12:00;Primera FEB Liga Regular;FC Cartagena CB;TAU Castelló;LaLiga+ Plus;
@@ -25,6 +24,7 @@
 12:30;Primera FEB Liga Regular;CB Zamora;Oviedo Baloncesto;LaLiga+ Plus;Marca.com;Marca YouTube;
 12:30;Primera FEB Liga Regular;Movistar Estudiantes;Baloncesto Fuenlabrada;LaLiga+ Plus;M+ Deportes 3 (65);
 12:30;Primera FEB Liga Regular;Real Betis Baloncesto;CB Morón;LaLiga+ Plus;
+12:55;Torneo de Brisbane 1ª Ronda;D. Goffin;A. Vukic;ATP Tennis TV;
 13:30;United Cup Fase de grupos Partido 3 (Dobles);Estados Unidos;Canadá;ATP Tennis TV;Tennis Channel (Orange 123);
 15:00;BBL Liga Regular;Rasta Vechta;EWE Baskets Oldenburg;LaLiga+ Plus;
 15:30;Premier League;Leicester City;Manchester City;DAZN (Regístrate);Movistar Plus+ (M7);M+ #Vamos Bar 2 (305);DAZN 1 Bar (Movistar-148);M+ Liga de Campeones (M60 O115);
