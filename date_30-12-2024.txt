@@ -19,5 +19,10 @@
 11:00;United Cup Fase de grupos Partido 3 (Dobles);Polonia;Noruega;ATP Tennis TV;Tennis Channel (Orange 123);
 11:30;United Cup Fase de grupos Partido 2;Q. Zheng;L. Siegemund;ATP Tennis TV;Tennis Channel (Orange 123);
 13:30;United Cup Fase de grupos Partido 3 (Dobles);China;Alemania;ATP Tennis TV;Tennis Channel (Orange 123);
+18:00;Liga Endesa Liga Regular;Valencia Basket;Força Lleida;M+ Deportes (63);
 20:00;BBL Liga Regular;MHP RIESEN Ludwigsburg;USC Heidelberg;LaLiga+ Plus;
 20:30;Copa Cataluña;Final;Esport3 (Cataluña);
+20:45;Liga Endesa Liga Regular;Joventut Badalona;Dreamland Gran Canaria;M+ Deportes (63);
+20:45;Premier League;Aston Villa;Brighton;DAZN (Regístrate);DAZN 3 (M196);
+20:45;Premier League;Ipswich Town;Chelsea;DAZN (Regístrate);DAZN 2 (M71);DAZN 2 Bar (Movistar-149);
+21:00;Premier League;Manchester Utd.;Newcastle;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
