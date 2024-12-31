@@ -1,5 +1,6 @@
 00:30;United Cup Fase de grupos Partido 1;F. Cobolli;U. Humbert;ATP Tennis TV;Tennis Channel (Orange 123);
 01:00;NBA Liga Regular;Charlotte Hornets;Chicago Bulls;NBA League Pass;
+01:00;NBA Liga Regular;Washington Wizards;New York Knicks;M+ Deportes (63);
 01:00;WTA Torneo de Auckland 1ª Ronda;M. Keys;L. Bronzetti;WTA TV;
 02:00;NBA Liga Regular;New Orleans Pelicans;Los Angeles Clippers;NBA League Pass;
 02:00;Torneo de Brisbane 1ª Ronda;M. Arnaldi;A. Popyrin;ATP Tennis TV;
