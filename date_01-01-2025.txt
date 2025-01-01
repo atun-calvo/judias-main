@@ -23,10 +23,10 @@
 09:40;WTA Torneo de Brisbane 2ª Ronda;V. Azarenka;M. Joint;WTA TV;
 10:00;United Cup 1/4 de Final Partido 1;C. Gauff;S. Zhang;ATP Tennis TV;Tennis Channel (Orange 123);
 10:15;WTA Torneo de Brisbane 2ª Ronda;L. Noskova;A. Todoni;WTA TV;
-10:45;Torneo de Hong Kong 2ª Ronda;Z. Bergs;A. Fils;ATP Tennis TV;
+10:50;Torneo de Hong Kong 2ª Ronda;Z. Bergs;A. Fils;ATP Tennis TV;
 11:00;United Cup Fase de grupos Partido 3 (Dobles);Gran Bretaña;Australia;ATP Tennis TV;
 11:30;United Cup 1/4 de Final Partido 2;T. Fritz;Z. Zhang;ATP Tennis TV;Tennis Channel (Orange 123);
-12:15;Torneo de Hong Kong 2ª Ronda;K. Khachanov;K. Nishikori;ATP Tennis TV;
-12:30;Torneo de Brisbane 2ª Ronda;J. Thompson;A. Michelsen;ATP Tennis TV;
+12:35;Torneo de Brisbane 2ª Ronda;J. Thompson;A. Michelsen;ATP Tennis TV;
+12:55;Torneo de Hong Kong 2ª Ronda;K. Khachanov;K. Nishikori;ATP Tennis TV;
 13:30;United Cup 1/4 de Final Partido 3 (Dobles);Estados Unidos;China;ATP Tennis TV;Tennis Channel (Orange 123);
 18:30;Premier League;Brentford;Arsenal;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
