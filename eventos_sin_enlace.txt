@@ -1,15 +1,8 @@
-01:00;NBA Liga Regular;Detroit Pistons;Orlando Magic;NBA League Pass;
-01:00;NBA Liga Regular;Washington Wizards;Chicago Bulls;NBA League Pass;
-01:30;NBA Liga Regular;Miami Heat;New Orleans Pelicans;NBA League Pass;
-01:30;NBA Liga Regular;New York Knicks;Utah Jazz;NBA League Pass;
-01:30;NBA Liga Regular;Toronto Raptors;Brooklyn Nets;NBA League Pass;
 01:30;WTA Torneo de Auckland 2ª Ronda;M. Keys;J. Cristian;WTA TV;
 02:10;Torneo de Brisbane 2ª Ronda;J. Mensik;D. Lajovic;ATP Tennis TV;
 02:10;WTA Torneo de Brisbane 3ª Ronda;A. Potapova;K. Birrell;WTA TV;
-03:00;NBA Liga Regular;Denver Nuggets;Atlanta Hawks;NBA League Pass;
 03:35;Torneo de Brisbane 2ª Ronda;R. Opelka;M. Arnaldi;ATP Tennis TV;
 03:50;WTA Torneo de Auckland 2ª Ronda;N. Hibino;R. Montgomery;WTA TV;
-04:00;NBA Liga Regular;Sacramento Kings;Philadelphia 76ers;NBA League Pass;
 04:15;WTA Torneo de Brisbane 3ª Ronda;P. Kudermetova;D. Kasatkina;WTA TV;
 06:10;Torneo de Hong Kong 2ª Ronda;G. Diallo;L. Musetti;ATP Tennis TV;
 06:10;WTA Torneo de Brisbane 3ª Ronda;L. Noskova;M. Andreeva;WTA TV;
@@ -20,8 +13,7 @@
 07:55;Torneo de Hong Kong 2ª Ronda;J. Shang;P. Martínez;ATP Tennis TV;
 08:20;WTA Torneo de Auckland 2ª Ronda;H. Baptiste;J. Burrage;WTA TV;
 09:00;United Cup 1/4 de Final Partido 2;I. Swiatek;K. Boulter;ATP Tennis TV;Tennis Channel (Orange 123);
-09:30;Torneo de Brisbane 2ª Ronda;N. Djokovic;G. Monfils;ATP Tennis TV;
+09:40;Torneo de Brisbane 2ª Ronda;N. Djokovic;G. Monfils;ATP Tennis TV;
 11:00;United Cup 1/4 de Final Partido 3 (Dobles);Polonia;Gran Bretaña;ATP Tennis TV;Tennis Channel (Orange 123);
-11:00;WTA Torneo de Brisbane 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;
-11:30;Torneo de Hong Kong 2ª Ronda;A. Rublev;F. Marozsan;ATP Tennis TV;
-20:00;BBL Liga Regular;Bamberg Baskets;Ratiopharm Ulm;LaLiga+ Plus;
+11:15;WTA Torneo de Brisbane 3ª Ronda;A. Sabalenka;Y. Putintseva;WTA TV;
+11:40;Torneo de Hong Kong 2ª Ronda;A. Rublev;F. Marozsan;ATP Tennis TV;
