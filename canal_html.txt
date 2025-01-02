@@ -1,4 +1,2 @@
-DAZN 1 1080
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-DAZN 1 720
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+M. Deportes 3 1080
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
