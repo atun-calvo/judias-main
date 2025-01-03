@@ -1,2 +1,7 @@
-M. Deportes 3 1080
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+EuroSport 1 1080
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+--
+EuroSport 1 1080
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+Teledeporte RTVE
+https://tdtchannels.com/television/Teledeporte
