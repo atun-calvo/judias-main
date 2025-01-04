@@ -46,6 +46,7 @@ rm -f eventos_sin_enlace.txt
 # Organizador de enlaces
 canales_mliga="$(mktemp)"; grep -A1 -i -e "M\. *LaLiga *1080" -e "M\. *LaLiga *720" -e "M\..*Laliga *HD" ace_ids.txt > $canales_mliga
 canales_mliga2="$(mktemp)"; grep -A1 -i -e 'M\. *LaLiga *2' ace_ids.txt > $canales_mliga2
+canales_movistar="$(mktemp)"; grep -A1 -i 'm\.plus' ace_ids.txt > $canales_movistar
 canales_daznliga="$(mktemp)"; grep -A1 -i -e "dazn *laliga *1080" -e "dazn *laliga *720" ace_ids.txt > $canales_daznliga
 canales_daznliga2="$(mktemp)"; grep -A1 -i -e 'dazn *laliga *2' ace_ids.txt > $canales_daznliga2
 canales_liga_segunda="$(mktemp)"; grep -A1 -i -e 'smartbank 1080' -e 'smartbank 720' ace_ids.txt > $canales_liga_segunda
@@ -221,6 +222,12 @@ do
                cat $canales_mliga2 >> $canales
 	       canal_sin_enlace=false
 	fi
+
+ 	if [[ $(grep -i "movistar plus+" $file1) ]]
+        then
+               cat $canales_movistar >> $canales
+               canal_sin_enlace=false
+        fi
 
 	if [[ $(grep -i 'tv hypermotion [[:punct:]]' $file1) ]]
         then
