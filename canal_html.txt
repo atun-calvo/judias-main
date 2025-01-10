@@ -1,7 +1,10 @@
-EuroSport 1 1080
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
---
-EuroSport 1 1080
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-Teledeporte RTVE
-https://tdtchannels.com/television/Teledeporte
+DAZN LaLiga 1080 MultiAudio
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+DAZN LaLiga 1080 MultiAudio
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+DAZN LaLiga 1080 MultiAudio
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+DAZN LaLiga 720
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+Gol Play
+https://www.goltelevision.com/en-directo
