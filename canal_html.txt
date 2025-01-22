@@ -6,8 +6,5 @@ M.L. Campeones 720
 acestream://8edb264520569b2280c5e86b2dc734e120032903
 M.L. Campeones 4 1080
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
-M.L. Campeones 720
-acestream://8edb264520569b2280c5e86b2dc734e120032903
---
-M.L. Campeones 7 1080
-acestream://b7f47db93dced60f54e8f89e2366ed061b534049
+M.L. Campeones 6 1080
+acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
