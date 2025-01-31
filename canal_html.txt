@@ -1,14 +1,10 @@
-M.L. Campeones 1080 MultiAudio
-acestream://0a26e20f39845e928411e09a124374fccb6e1478
-M.L. Campeones 1080 MultiAudio
-acestream://775abd8697715c48a357906d40734ccd2a10513c
-M.L. Campeones  1080 Multiaudio Especial 29/01/2025 
-acestream://52cf67f7fccf4d9d4e1c9c31620f1b139be3f5b7
-M.L. Campeones 720
-acestream://8edb264520569b2280c5e86b2dc734e120032903
-M.L. Campeones 3 1080
-acestream://3618edda333dad5374ac2c801f5f14483934b97d
-M.L. Campeones 3 720
-acestream://0b348cc1ae499e810729661878764a0fab88ab69
-M.L. Campeones 6 1080
-acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+M. LaLiga 1080P
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+M. LaLiga 1080 MultiAudio
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+M. LaLiga 1080 MultiAudio
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+M. LaLiga 720
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+Gol Play
+https://www.goltelevision.com/en-directo
