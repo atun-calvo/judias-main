@@ -90,3 +90,5 @@ Campeones 3 720
 acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 Telecinco 1080
 acestream://3d376333ee90d6db3d413fc5764ef635882076f5
+Cuatro 1080
+acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
