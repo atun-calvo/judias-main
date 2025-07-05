@@ -1,2 +1,4 @@
-Dazn 2
-acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
+Vamos 1080
+acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+Vamos 720
+acestream://0e5d8c9724fa9163f49096b70484e315251eb785
