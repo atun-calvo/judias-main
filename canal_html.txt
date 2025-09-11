@@ -1,2 +1,14 @@
-Eurosport 1080
-acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
+M. LaLiga 1080P
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+M. LaLiga 1080 MultiAudio
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+M. LaLiga 1080 MultiAudio
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+M. LaLiga 720
+acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+DAZN LaLiga 1080 MultiAudio
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+DAZN LaLiga 1080 MultiAudio
+acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
+DAZN LaLiga 720
+acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
