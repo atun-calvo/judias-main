@@ -1,4 +1,2 @@
 Eurosport 1080
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
-Teledeporte RTVE
-https://tdtchannels.com/television/Teledeporte
