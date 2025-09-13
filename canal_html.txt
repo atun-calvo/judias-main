@@ -1,0 +1,4 @@
+LaLiga Smartbank 1080
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+LaLiga Smartbank 720
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
