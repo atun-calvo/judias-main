@@ -1,4 +1,8 @@
-LaLiga Smartbank 1080
-acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-LaLiga Smartbank 720
-acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
+M. LaLiga 1080P
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+M. LaLiga 1080 MultiAudio
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+M. LaLiga 1080 MultiAudio
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+M. LaLiga 720
+acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
