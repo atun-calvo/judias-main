@@ -4,3 +4,7 @@ DAZN LaLiga 1080 MultiAudio
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 DAZN LaLiga 720
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+DAZN LaLiga 2 1080 MultiAudio
+acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+DAZN LaLiga 2 720 MultiAudio
+acestream://c976c7b37964322752db562b4ad65515509c8d36
