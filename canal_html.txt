@@ -1,10 +1,6 @@
-Campeones 1080
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-Campeones 1080 2
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-Campeones 1080 2
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-Campeones 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
+Campeones 3 1080
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+Campeones 3 720
+acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 Campeones 4 1080
 acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
