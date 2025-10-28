@@ -1,12 +1,4 @@
-M. LaLiga 1080P
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-M. LaLiga 1080 MultiAudio
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-M. LaLiga 1080 MultiAudio
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-M. LaLiga 720
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-M. LaLiga 2 1080
-acestream://51b363b1c4d42724e05240ad068ad219df8042ec
-M. LaLiga 2 720
-acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+Vamos 1080
+acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+Vamos 720
+acestream://0e5d8c9724fa9163f49096b70484e315251eb785
