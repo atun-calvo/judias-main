@@ -8,5 +8,3 @@ Campeones 720
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
 Campeones 4 1080
 acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
-Campeones 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
