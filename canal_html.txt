@@ -1,4 +1,0 @@
-Campeones 3 1080
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-Campeones 3 720
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
