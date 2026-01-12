@@ -1,20 +1,4 @@
-M. LaLiga 1080P
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-M. LaLiga 1080 MultiAudio
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-M. LaLiga 1080 MultiAudio
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-M. LaLiga 720
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-Campeones 1080
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-Campeones 1080 2
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-Campeones 1080 2
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-Campeones 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
-Vamos 1080
-acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-Vamos 720
-acestream://0e5d8c9724fa9163f49096b70484e315251eb785
+Eurosport 1080
+acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
+Teledeporte RTVE
+https://tdtchannels.com/television/Teledeporte
